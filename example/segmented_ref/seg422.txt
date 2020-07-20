@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2005; 3(3): 86-93.
+KBUD: The Korea Brain UniGene Database.
+Yeo Jin Jeon, Jung Hwa Oh, Jin Ok Yang, Nam Soon Kim
+1Laboratory of Human Genomics, Genome Research Center, Korea.
+nskim37 @ kribb.re.kr 2National Genome Information Center(NGIC), Korea Research Institute of Bioscience and Biotechnology(KRIBB), Daejeon 305-333, Korea.
+Abstract
+Human brain EST data provide important clues for our understanding of the molecular biology associated with the function of the normal brain and the molecular pathophysiology with brain disorders.
+To systematically and efficiently study the function and disorders of the human brain, 45,773 human brain ESTs were collected from 27 human brain cDNA libraries, which were constructed from normal brains and brain disorders such as brain tumors, Parkinson 's disease(PD) and epilepsy.
+An analysis of 45,773 human brain ESTs using our EST analysis pipeline resulted in 38,396 high-quality ESTs and 35,906 ESTs, which were coalesced into 8,246 unique gene clusters, showing a significant similarity to known genes in the human RefSeq, human mRNAs and UniGene database.
+In addition, among 8,246 gene clusters, 4,287 genes(52%) were found to contain full-length cDNA clones.
+To facilitate the extraction of useful information in collected these human brain ESTs, we developed a user-friendly interface system, the Korea Brain Unigene Database(KBUD).
+The KBUD web interface allows access to our human brain data through three major search modes, the BioCarta pathway, keywords and BLAST searches.
+Each result when viewed in KBUD offers comprehensive information concerning the analyzed human brain ESTs provided by our data as well as data linked to various other public databases.
+The user-friendly developed KBUD, the first world-wide web interface for human brain EST data with ESTs of human brain disorders as well as normal brains, will be a helpful system for developing a better understanding of the underlying mechanisms of the normal brain well as brain disorders.
+The KBUD system is freely accessible at http://kugi.kribb.re.kr/KU/cgi-bin/brain.pl.
+Keywords:
+KBUD; human brain ESTs; full-length cDNA; brain database

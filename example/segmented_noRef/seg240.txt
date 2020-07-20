@@ -1,0 +1,22 @@
+Original Article
+Genomics & Informatics 2011; 9(1): 19-27.
+DOI: https://doi.org/10.5808/gi.2011.9.1.019
+Standard-based Integration of Heterogeneous Large-scale DNA Microarray Data for Improving Reusability.
+Yong Jung, Hwa Jeong Seo, Yu Rang Park, Jihun Kim, Sang Jay Bien, Ju Han Kim
+1Seoul National University Biomedical Informatics, Seoul National University College of Medicine, Seoul 110-799, Korea.
+juhan @ snu.ac.kr 2Systems Biomedical Informatics Research Center, Seoul National University College of Medicine, Seoul 110-799, Korea.
+3Institute of Endemic Diseases, Seoul National University College of Medicine, Seoul 110-799, Korea.
+4Medical Informatics, Graduate School of Public Health, Gachon University of Medicine and Science, Incheon 405-760, Korea.
+Abstract
+Gene Expression Omnibus(GEO) has kept the largest amount of gene-expression microarray data that have grown exponentially.
+Microarray data in GEO have been generated in many different formats and often lack standardized annotation and documentation.
+It is hard to know if preprocessing has been applied to a dataset or not and in what way.
+Standard-based integration of heterogeneous data formats and metadata is necessary for comprehensive data query, analysis and mining.
+We attempted to integrate the heterogeneous microarray data in GEO based on Minimum Information About a Microarray Experiment(MIAME) standard.
+We unified the data fields of GEO Data table and mapped the attributes of GEO metadata into MIAME elements.
+We also discriminated non-preprocessed raw datasets from others and processed ones by using a two-step classification method.
+Most of the procedures were developed as semi-automated algorithms with some degree of text mining techniques.
+We localized 2,967 Platforms, 4,867 Series and 103,590 Samples with covering 279 organisms, integrated them into a standard-based relational schema and developed a comprehensive query interface to extract.
+Our tool, GEOQuest is available at http://www.snubi.org/software/GEOQuest/
+Keywords:
+gene expression data; data integration; classification

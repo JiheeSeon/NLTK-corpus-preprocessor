@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(3): 63-67. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Detection of Mycoplasma Infection in Cultured Cells on the Basis of Molecular Profiling of Host Responses.
+
+
+
+ Tae Su Chung,  Ju Han Kim,  Young Ju Lee,  Woong Yang Park 
+
+
+
+1Seoul National University Biomedical Informatics, Korea. 2Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul 110-799, Korea. wypark@snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Adaptive responses to diverse microbial pathogens might be limited in relatively few types. Host cell responses to pathogens are believed to be patterned or stereotyped along with species or class. We tried to compose the host response to Mycoplasma in terms of cellular gene expression. Although gene expression profile of two host HeLa and 293 cells were quite different each other, 30 genes were differentially expressed by mycoplasma infection in both of HeLa and 293 cells. Six of them (PR48, MADH4, MKPX, CRK, RBM7, NEK3) were related to cell cycle or proliferation. Another category of genes like IL1HY1, KLRF1, TNFSF14, GBP1 were host defense to elicit immune responses. With this set of genes, we establish the prediction model for mycoplasma contamination.		
+
+
+Keywords:
+Mycoplasma; oligonucleotide microarray; prediction model; biomarker 
+
+
+
+
+

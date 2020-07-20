@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2011; 9(3): 121-126.
+DOI: https://doi.org/10.5808/gi.2011.9.3.121
+Genome-wide Association Study Identified TIMP2 Genetic Variant with Susceptibility to Osteoarthritis.
+Bhumsuk Keam, Joo Yeon Hwang, Min Jin Go, Jee Yeon Heo, Mi Sun Park, Ji Young Lee, Nam Hee Kim, Miey Park, Ji Hee Oh, Dong Hyun Kim, Jin Young Jeong, Jong Young Lee, Bok Ghee Han, Juyoung Lee
+1Center for Genome Science, National Institute of Health, Osong Health Technology Administration Complex, Chungcheongbuk-do 363-951, Korea.
+jylee @ cdc.go.kr 2Department of Internal Medicine, Seoul National University Hospital, 101 Daehak-ro, Seoul 110-744, Korea.
+3Department of Social and Preventive Medicine, College of Medicine, Hallym University, 1, Ok-cheon, Chuncheon, Gangwon-do 200-702, Korea.
+4Institute of Aging, Hallym University, 1, Ok-cheon, Chuncheon, Gangwon-do 200-702, Korea.
+Abstract
+Osteoarthritis(OA) is the most common degenerative joint disorder in the elderly population.
+To identify OA-associated genetic variants and candidate genes, we conducted a genome-wide association study(GWAS).
+A total 3,793 samples(476 cases: wrist + knee and 3317 controls) from a community-based epidemiological study were genotyped using the Affymetrix SNP 5.0.
+An intronic SNP(rs4789934) in the TIMP2(tissue inhibitor of metalloproteinase-2) showed the most significance with OA(odd ratio[OR] = 2.06, 95% confidence interval[CI] = 1.52-2.81, p = 4.01 x 10(-6)).
+Furthermore, a polymorphism(rs1352677) in the NKAIN2(Na+/K+ transporting ATPase interacting 2) was suggestively associated with OA(OR = 1.43, CI = 1.22-1.66, p = 7.01 x 10(-6)).
+The present study provides new insights into the identification of genetic predisposing factors for OA.
+Keywords:
+genome-wide association study; osteoarthritis; polymorphism; TIMP2

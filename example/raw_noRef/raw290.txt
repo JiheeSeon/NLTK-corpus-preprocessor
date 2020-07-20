@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2009;7(3): 159-162. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.3.159
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Detection of hydin Gene Duplication in Personal Genome Sequence Data.
+
+
+
+ Jong Il Kim,  Young Seok Ju,  Sheehyun Kim,  Dongwan Hong,  Jeong Sun Seo 
+
+
+
+1Genomic Medicine Institute, Medical Research Center, Seoul National University, Seoul 110-799, Korea. jeongsun@snu.ac.kr 2Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul 110-799, Korea. 3Department of Biomedical Sciences, Seoul National University Graduate School, Seoul 110-799, Korea. 4Macrogen Inc., Seoul 153-023, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Human personal genome sequencing can be done with high efficiency by aligning a huge number of short reads derived from various next generation sequencing (NGS) technologies to the reference genome sequence. One of the major obstacles is the incompleteness of human reference genome. We tried to analyze the effect of hidden gene duplication on the NGS data using the known example of hydin gene. Hydin2 , a duplicated copy of hydin on chromosome 16q22, has been recently found to be localized to chromosome 1q21, and is not included in the current version of standard human genome reference. We found that all of eight personal genome data published so far do not contain hydin2, and there is large number of nsSNPs in hydin. The heterozygosity of those nsSNPs was significantly higher than expected. The sequence coverage depth in hydin gene was about two fold of average depth. We believe that these unique finding of hydin can be used as useful indicators to discover new hidden multiplication in human genome.		
+
+
+Keywords:
+gene duplication; hydin; next generation sequencing technology; personal genome 
+
+
+
+
+

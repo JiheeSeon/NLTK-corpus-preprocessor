@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2003; 1(2): 65-74.
+Data Mining for High DimensionalData in Drug Discovery and Development.
+Kwan R Lee, Daniel C Park, Xiwu Lin, Sergio Eslava
+GlaxoSmithKline, Research & Development, Data Exploration Sciences 1250 South Collegeville Road Collegeville, PA 19426, USA. kwan.lee @ gsk.com
+Abstract
+Data mining differs primarily from traditional data analysis on an important dimension, namely the scale of the data.
+That is the reason why not only statistical but also computer science principles are needed to extract information from large data sets.
+In this paper we briefly review data mining, its characteristics, typical data mining algorithms, and potential and ongoing applications of data mining at biopharmaceutical industries.
+The distinguishing characteristics of data mining lie in its understandability, scalability, its problem driven nature, and its analysis of retrospective or observational data in contrast to experimentally designed data.
+At a high level one can identify three types of problems for which data mining is useful: description, prediction and search.
+Brief review of data mining algorithms include decision trees and rules, nonlinear classification methods, memory-based methods, model-based clustering, and graphical dependency models.
+Application areas covered are discovery compound libraries, clinical trial and disease management data, genomics and proteomics, structural databases for candidate drug compounds, and other applications of pharmaceutical relevance.
+Keywords:
+data mining; high dimensionaldata, genomics; proteomics, pharmacogenomics

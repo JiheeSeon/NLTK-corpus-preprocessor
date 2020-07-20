@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2008;6(2): 91-94. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.091
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+The Korean HapMap Project Website.
+
+
+
+ Young Uk Kim,  Seung Ho Kim,  Hoon Jin,  Young Kyu Park,  Mihyun Ji,  Young Joo Kim 
+
+
+
+1Medical Genomics Research Center, Korea. yjkim8@kribb.re.kr 2Instrumental Analysis Laboratory, KRIBB, Daejeon 305-806, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Single nucleotide polymorphisms (SNPs) are the most abundant form of human genetic variation and are a resource for mapping complex genetic traits. A genome is covered by millions of these markers, and researchers are able to compare which SNPs predominate in people who have a certain disease. The International HapMap Project, launched in October, 2002, motivated us to start the Korean HapMap Project in order to support Korean HapMap infrastructure development and to accelerate the finding of genes that affect health, disease, and individual responses to medications and environmental factors. A Korean SNP and haplotype database system was developed through the Korean HapMap Project to provide Korean researchers with useful data- mining information about disease-associated biomarkers for studies on complex diseases, such as diabetes, cancer, and stroke. Also, we have developed a series of software programs for association studies as well as the comparison and analysis of Korean HapMap data with other populations, such as European, Chinese, Japanese, and African populations. The developed software includes HapMapSNPAnalyzer, SNPflank, HWE Test, FESD, D2GSNP, SNP@Domain, KMSD, KFOD, KFRG, and SNP@WEB. We developed a disease-related SNP retrieval system, in which OMIM, GeneCards, and MeSH information were integrated and analyzed for medical research scientists. The kHapMap Browser system that we developed and integrated provides haplotype retrieval and comparative study tools of human ethnicities for comprehensive disease association studies (http://www.khapmap.org). It is expected that researchers may be able to retrieve useful information from the kHapMap Browser to find useful biomarkers and genes in complex disease association studies and use these biomarkers and genes to study and develop new drugs for personalized medicine.		
+
+
+Keywords:
+HapMap; SNP; Korean; haplotype; association study 
+
+
+
+
+

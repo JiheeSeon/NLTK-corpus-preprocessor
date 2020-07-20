@@ -1,0 +1,189 @@
+
+
+
+
+
+
+
+
+
+
+Review Article 
+
+
+Genomics & Informatics 2018; 16(1): 2-9.
+
+
+Published online: March 30, 2018 
+DOI: https://doi.org/10.5808/GI.2018.16.1.2
+
+
+
+
+System-Wide Expression and Function of Olfactory Receptors in Mammals
+
+S. June Oh *
+
+Department of Pharmacology, Inje University College of Medicine, Busan 47392, Korea
+
+* Corresponding author: Tel: +82-51-893-3569, Fax: +82-51-797-8569, E-mail: o@biophilos.org
+ 
+
+ Received March 6, 2018    Revised March 13, 2018    Accepted March 13, 2018
+
+Copyright © 2018 by the Korea Genome Organization 
+It is identical to the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/).
+
+
+
+
+Abstract
+
+Olfactory receptors (ORs) in mammals are generally considered to function as chemosensors in the olfactory organs of animals. They are membrane proteins that traverse the cytoplasmic membrane seven times and work generally by coupling to heterotrimeric G protein. The OR is a G protein‒coupled receptor that binds the guanine nucleotide-binding Gαolf subunit and the Gβγ dimer to recognize a wide spectrum of organic compounds in accordance with its cognate ligand. Mammalian ORs were originally identified from the olfactory epithelium of rat. However, it has been recently reported that the expression of ORs is not limited to the olfactory organ. In recent decades, they have been found to be expressed in diverse organs or tissues and even tumors in mammals. In this review, the expression and expected function of olfactory receptors that exist throughout an organism’s system are discussed.
+Keywords: chemosensory receptor, ectopic expression, G protein-coupled receptor, olfactory receptor, system-wide expression 
+
+
+
+
+
+Introduction
+Animal olfactory receptors (ORs) make up a G proteincoupled chemosensory receptor (GPCR) family with 7 transmembrane alpha-helices located in the cytoplasmic membrane of cells. They are known to work by binding heterotrimeric guanine nucleotide-binding proteins (G proteins), composed of the olfactory Gα (Gαolf) subunit and the Gβγ dimer. GPCRs are classified by their sequence homology [1] or based on their phylogenetic origin [2], and there are more than 16 types of G protein α subunits [3, 4]. ORs are also known to recognize a wide spectrum of organic compounds in accordance with its cognate ligand. When it was originally identified from rat olfactory epithelium [5], the expression of the protein was thought to be confined to that tissue. After Gαolf [6] and rat ORs [5], OR expression in mammalian germ cells [7, 8] and heart [9] was reported in the early 1990s. In the late 20th century, OR expression in an insulin-secreting cell line and the spleen of rats [10] and human erythroid cells [11] was reported. ORs are largely distributed in olfactory sensory neurons of the nasal epithelium but are also expressed in other non-olfactory tissues [12].
+We discuss the physiological functions of ORs and suggest future perspectives for their research.
+
+
+Olfactory Receptors in the Brain and Heart-Related Systems
+Since the expression of ORs in mammalian germ cells was reported [7], OR expression in various organs and tissues in animals has been observed. The brain and the heart are the fundamental organs that form the basis of animal life. For example, controlling the fluctuation of blood pressure and pulse of an animal is accomplished by endocrine action through autonomic reflex and peptide hormone secretion. Brain and heart are closely connected to each other by various mechanisms, including the nervous system.
+For the first time, prostate-specific G protein-coupled receptors (PSGRs), also known as RA1c, were reported to be expressed in the brain of rat [13] and mouse [14] and the heart of rat and mouse [15]. It was not expected to be expressed in human tissues other than prostate.
+
+ Brain
+After it was demonstrated that RA1c homologs—Olr59 in rat [13] and Olfr78 in mouse [14]—were expressed in areas of the brain and olfactory epithelium, much effort has been made to confirm the expression of ORs in the brain. MOL2.3, called Olfr78, was reported to be expressed in the ganglia of the autonomic nervous system [16]. Some mouse ORs—M71 (olfr151), C6 (Olfr49), and OR3—are detected in the cerebral cortex and might play a role in developmental processes, such as axon guidance and target recognition during the postnatal period [17]. OR expression (OR1E1, OR2J3, OR2L13, OR11H1, and OR52L1) in the frontal cortex is downregulated in Parkinson disease (PD) patients [18].
+The expression of a mouse OR, Olfr110, was detected in the cerebral cortex of wild-type mice for 1 postnatal year, and its mRNA levels did not vary during that period [19]. It was observed that 8 ORs and 6 taste receptors (TASRs) are constitutively expressed in the frontal cortex, entorhinal cortex, and cerebellum in human control brains. These data imply that variable dysregulation of certain ORs and TASRs is common in several neurodegenerative diseases, including Alzheimer disease, Progressive Supranuclear Palsy, and Creutzfeldt-Jakob disease. The same research group also reported a decrease in olfactory and TASR expression in the dorsolateral prefrontal cortex in chronic schizophrenia [20]. There was a report that ORs are expressed in mouse mesencephalic dopaminergic (mDA) neurons. After screening ligands on Olfr287, carvone enantiomers were identified as agonists of Olfr287 and able to increase intracellular Ca2＋ in solitary mDA neurons. The ORs were found to be expressed in human Substantia Nigra and downregulated in PD postmortem brains [21].
+Gong et al. [22] found that some ORs are differentially expressed in the sciatic nerve and dorsal root ganglia after sciatic nerve injury in rats. The expression and expression profile of several ORs in the sciatic nerve were verified, and they also observed that the expression of some ORs in primary cultures of Schwann cells was upregulated under H2O2 stimulation [22]. Recently, there has been a report that Olfr544 is expressed in mouse brain and heart, as well as nose, adipose tissue, and spleen [23].
+
+
+ Heart-related system
+In 1995, Drutel et al. [9] reported the expression of OL1 (Olr1654) in the developing rat heart and suggested its involvement in cardiac morphogenesis, where the OR was hardly detectable at the adult stages. As mentioned above, murine PSGRs (Olfr78 and Olr59) are expressed in the hearts of mouse [16] and rat [15], in addition to prostate. In 2007, Zhang et al. [24] reported that ORs (including OR10G4) are expressed in human heart and various organs using reverse transcription-polymerase chain reaction (RTPCR) and microarray.
+Recently, OR10J5 was found to be expressed in human aorta, coronary artery, and human umbilical vein endothelial cells [25]. In addition, Matrigel plug assay showed that lyral enhances angiogenesis in vivo. These results let us surmise the physiological role of OR10J5 in angiogenesis.
+Chang et al. [26] showed that a short-chain fatty acid OR, Olfr78, is highly and selectively expressed in oxygensensitive glomus cells of the carotid body (CB). The CB is a chemosensory organ that monitors blood oxygen to control breath [27]. As lactate eventually activates Olfr78 in heterologous expression experiments, Chang et al. [26] proposed that Olfr78 may act as a hypoxia sensor in the breathing circuit, in addition to its role in olfaction. The next year, Zhou et al. [28] applied the single-cell RNA-Seq method to eliminate the contamination of genes derived from other cell types present in the CB to analyze the expression of ORs in CB glomus cells and identified Olfr78 as the most highly abundant OR in the CB in mice. More recently, Jovancevic et al. [29] reported that OR51E1 activation by the application of cognate agonists induces a negative chronotropic effect in human stem cell-derived cardiomyocytes and also provokes negative inotropic activity in cardiac trabeculae and slice preparations of human explated ventricles. These results imply that some ORs that are expressed in heart may be therapeutic targets for the metabolic regulation of cardiac function. A mouse OR—Olfr544, an ortholog of the OR52 family (OR52K1)—was reported to be expressed in the heart of mice [23]. The unexpected cardiac expression of ORs may regulate cell growth and morphogenesis.
+General studies on OR expression show that ORs are expressed throughout systems and have diverse functions throughout the body of animals (Table 1) [7-11, 13-26, 28-73].
+
+
+
+System-Wide Expression of Olfactory Receptors
+
+ Testis
+In 1992, ectopic expression of OR-like proteins in dog testis was reported after the OR multigene family was originally isolated from rat olfactory epithelium [7]. Subsequently, many experiments were performed to trace the presence of ORs in animal testicular tissues for the investigation of OR function in sperm-oocyte chemotaxis, where it was thought that ORs should have chemotactic roles during fertilization. Moreover, ORs are also thought to be involved in chemotaxis [74] and cytokinesis [75], and dozens of ORs were found to be expressed in the testis of mammals using deep sequencing [32]. Several tens of ORs were expressed in testicular tissues of mammals, and their roles in sperm-oocyte chemotaxis were investigated. Very recently, Milardi et al. [33] suggested that the presence of ORs, such as OR4S1, OR4C13, and OR1I1, on mature cells might be related to acrosome activity and sperm motility after a proteomic analysis. Itakura et al. [34] also identified Gαolf and several kinds of ORs from rat placenta using RT-PCR, western blotting, and immunochemical methods. They suggested that ORs may recognize some small molecules in the placenta as environmental signals and mediate the growth of the fetus.
+
+
+ Tongue and gastrointestinal tract
+Since three transcripts of OR were identified in rat taste organs and reproductive tissues using an RT-PCR strategy [36], ORs, as well as TASRs, were isolated in the tongue of human [37, 38] and mouse [39]. In mouse, northern analysis revealed that the homolog of PSGR (Olfr78), an OR, was predominantly expressed in colon [15]. In the case of human, the expression of four ORs, including OR73 (OR5D18), hOR17-7/11 (OR1A1), OR1G1, and hOR17-210 (OR1E3), in the enterochromaffin cells of human gut was confirmed [40]. Amperometric detection using Ca2＋ imaging and immunostaining studies revealed that the ligands of those ORs consequently caused serotonin release. Another human OR, OR51E1, was identified from enterochromaffin cells in the jejunum and ileum of neuroendocrine carcinomas [41]. In 2015, the porcine homolog of OR51E1 was also found to be expressed along the gastrointestinal (GI) tract of pigs and modulated by intestinal microbiota [42]. Recently, human ORs (OR1A1, OR1G1, and OR51E1) and the mouse homolog of OR1A1 (Olfr43) were found to participate in glucose homeostasis during meal ingestion by inducing the secretion of gut peptides [43].
+According to recent reports, ORs are expressed in non-olfactory tissues, including brain, heart, testis, tongue, GI tract, pancreas [46], spleen [15], liver [23], kidney [52], lung [53], skin [56], muscle [58], and diaphragm [30], and even cancerous tissues, such as prostate [64] and lung cancer cells [54] (Table 1).
+In human primary keratinocytes, OR2AT4 is expressed and induces wound-healing processes by increasing cell proliferation and migration and regeneration of keratinocyte monolayers [55]. In this mechanism, the activation of OR2AT4 induces the phosphorylation of extracellular signal-regulated kinases (Erk1/2) and p38 mitogen-activated protein kinase (MAPK) by a cAMP-dependent pathway. This type of investigation should be applied in various fields of OR research. Another human OR, OR51E2, was detected in human epidermal melanocytes at the transcript and protein level, and its stimulation with its cognate ligand, β-ionone, significantly slows melanocyte proliferation [56]. Additional results also demonstrated that OR51E2 activation elevates cytosolic Ca2＋ and cAMP using RNA silencing and receptor antagonists. These findings suggest that OR signaling can influence melanocyte homeostasis. We surmise that ORs play a pivotal role in maintaining organismal homeostasis according to results above.
+
+
+
+Olfactory Receptors in Cancer
+After an OR was found to be overexpressed in human cancerous prostate and identified as a PSGR (OR51E2) [61], PSGR (OR51E2) [62], and PSGR2 (OR51E1) [63] were proven to be differentially expressed between prostate cells in malignant and benign tissues. In 2009, Neuhaus et al. [60] identified androstenone derivatives as ligands for recombinant OR51E2. Activation of endogenous OR51E2 by β-ionone resulted in the inhibition of prostate cancer cell proliferation. The mechanism of p38, including its trigger (Pky2) and a tumor suppressor protein (N-myc downstream regulated gene 1), was suggested later [65, 66]. Also, the expression of OR51E1 in microdissected small intestine neuroendocrine carcinoma cells was found to be higher than in adjacent microenvironment cells [67].
+In the case of ORs other than PSGRs, mRNA overexpression of OR1D2 was confirmed in LNCap prostate carcinoma cells compared with non-prostate-derived cell lines using RT-PCR, confocal laser scanning microscopy, and fluorescence-activated cell sorting [64].
+Recently, a kind of terpene, the major constituent of essential oils, was observed as an effector in cellular proliferation in hepatocarcinoma cells [68]. A human OR, OR1A2, was detected at the mRNA and protein levels and demonstrated its potential involvement in (‒)-citronellalinduced calcium signaling in the Huh7hepatocellular carcinoma cell line. Massberg et al. [68] reported that the activation of OR1A2 results in the phosphorylation of p38 MAPK and reduces cell proliferation. More recently, Kalbe et al. [54] reported that a human OR, OR2J3, in non-small-cell lung cancer (NSCLC) cells induces apoptosis and inhibits cell proliferation and migration with its cognate ligand, helional. NSCLC is known to be resistant to common chemotherapy, and approaches via OR pathways could be helpful for the treatment of NSCLC with the precedence of further in-depth studies. Along with the cases mentioned above, diverse types of cancer appear to have various ORs, according to their occurring tissues (Table 1).
+
+
+Perspectives
+Regardless of their discovery history, it would be better to have an extended view of ORs to get objective analysis results. Besides OR expression, its transportation to the cytoplasmic membrane of a cell is indispensable for correct function. Recently, Sharma et al. [76] reported a study on the relation between OR protein trafficking and OR transcriptional regulation using an Rtp1 and Rtp2 double-knockout mouse system; thus, a more sophisticated study of OR trafficking should be complemented.
+In case of the cancer research, some identified ORs could serve as potential therapeutic targets for cancer diagnosis and its therapeutic applications. All biological phenomena, including cancers, are composite networks. Although much research has been done and is ongoing with regard to ORs, the relationship of the results is not clear. However, it has been proven that molecular functions and physiological changes in various parts could be caused by OR ligands in animal system. Therefore, the future task will be to identify at a holistic level the extent to which OR is involved in overall physiological phenomena in vivo. More in-depth and comprehensive studies on an OR production and delivery system from the viewpoint of chemosensory machinery are needed for the research of animal physiology and the application of OR-related mechanisms. Another additional point to consider is that the OR family is one of the most dynamic gene populations among individuals [77]. In order to discover new facts about the function of ORs, environmental issues, as well as internal factors, must be considered. The report that bats have a unique and diverse OR gene repertoire deserves consideration [78].
+To advance the study of the various functions and roles of ORs, the modularity mechanism that acts between the receptor and its wide-ranged ligands should be addressed.
+
+
+
+
+
+
+
+
+
+References
+
+1. Vassilatis DK, Hohmann JG, Zeng H, Li F, Ranchalis JE, Mortrud MT, et al. The G protein-coupled receptor repertoires of human and mouse. Proc Natl Acad Sci U S A 2003;100:4903-4908.    
+2. Fredriksson R, Lagerström MC, Lundin LG, Schiöth HB. The G-protein-coupled receptors in the human genome form five main families: phylogenetic analysis, paralogon groups, and fingerprints. Mol Pharmacol 2003;63:1256-1272.   
+3. Downes GB, Gautam N. The G protein subunit gene families. Genomics 1999;62:544-552.   
+4. Syrovatkina V, Alegre KO, Dey R, Huang XY. Regulation, signaling, and physiological functions of G-proteins. J Mol Biol 2016;428:3850-3868.    
+5. Buck L, Axel R. A novel multigene family may encode odorant receptors: a molecular basis for odor recognition. Cell 1991;65:175-187.   
+6. Jones DT, Reed RR. Golf: an olfactory neuron specific-G protein involved in odorant signal transduction. Science 1989;244:790-795.   
+7. Parmentier M, Libert F, Schurmans S, Schiffmann S, Lefort A, Eggerickx D, et al. Expression of members of the putative olfactory receptor gene family in mammalian germ cells. Nature 1992;355:453-455.    
+8. Vanderhaeghen P, Schurmans S, Vassart G, Parmentier M. Olfactory receptors are displayed on dog mature sperm cells. J Cell Biol 1993;123(6 Pt 1):1441-1452.  
+9. Drutel G, Arrang JM, Diaz J, Wisnewsky C, Schwartz K, Schwartz JC. Cloning of OL1, a putative olfactory receptor and its expression in the developing rat heart. Receptors Channels 1995;3:33-40.  
+10. Blache P, Gros L, Salazar G, Bataille D. Cloning and tissue distribution of a new rat olfactory receptor-like (OL2). Biochem Biophys Res Commun 1998;242:669-672.   
+11. Feingold EA, Penny LA, Nienhuis AW, Forget BG. An olfactory receptor gene is located in the extended human beta-globin gene cluster and is expressed in erythroid cells. Genomics 1999;61:15-23.   
+12. Feldmesser E, Olender T, Khen M, Yanai I, Ophir R, Lancet D. Widespread ectopic expression of olfactory receptor genes. BMC Genomics 2006;7:121.    
+13. Raming K, Konzelmann S, Breer H. Identification of a novel G-protein coupled receptor expressed in distinct brain regions and a defined olfactory zone. Receptors Channels 1998;6:141-151.  
+14. Conzelmann S, Levai O, Bode B, Eisel U, Raming K, Breer H, et al. A novel brain receptor is expressed in a distinct population of olfactory sensory neurons. Eur J Neurosci 2000;12:3926-3934.   
+15. Yuan TT, Toy P, McClary JA, Lin RJ, Miyamoto NG, Kretschmer PJ. Cloning and genetic characterization of an evolutionarily conserved human olfactory receptor that is differentially expressed across species. Gene 2001;278:41-51.   
+16. Weber M, Pehl U, Breer H, Strotmann J. Olfactory receptor expressed in ganglia of the autonomic nervous system. J Neurosci Res 2002;68:176-184.   
+17. Otaki JM, Yamamoto H, Firestein S. Odorant receptor expression in the mouse cerebral cortex. J Neurobiol 2004;58:315-327.   
+18. Garcia-Esparcia P, Schlüter A, Carmona M, Moreno J, Ansoleaga B, Torrejón-Escribano B, et al. Functional genomics reveals dysregulation of cortical olfactory receptors in Parkinson disease: novel putative chemoreceptors in the human brain. J Neuropathol Exp Neurol 2013;72:524-539.   
+19. Ansoleaga B, Garcia-Esparcia P, Llorens F, Moreno J, Aso E, Ferrer I. Dysregulation of brain olfactory and taste receptors in AD, PSP and CJD, and AD-related model. Neuroscience 2013;248:369-382.   
+20. Ansoleaga B, Garcia-Esparcia P, Pinacho R, Haro JM, Ramos B, Ferrer I. Decrease in olfactory and taste receptor expression in the dorsolateral prefrontal cortex in chronic schizophrenia. J Psychiatr Res 2015;60:109-116.   
+21. Grison A, Zucchelli S, Urzì A, Zamparo I, Lazarevic D, Pascarella G, et al. Mesencephalic dopaminergic neurons express a repertoire of olfactory receptors and respond to odorant-like molecules. BMC Genomics 2014;15:729.    
+22. Gong L, Chen Q, Gu X, Li S. Expression and identification of olfactory receptors in sciatic nerve and dorsal root ganglia of rats. Neurosci Lett 2015;600:171-175.   
+23. Wu C, Hwang SH, Jia Y, Choi J, Kim YJ, Choi D, et al. Olfactory receptor 544 reduces adiposity by steering fuel preference toward fats. J Clin Invest 2017;127:4118-4123.    
+24. Zhang X, De la Cruz O, Pinto JM, Nicolae D, Firestein S, Gilad Y. Characterizing the expression of the human olfactory receptor gene family using a novel DNA microarray. Genome Biol 2007;8:R86.    
+25. Kim SH, Yoon YC, Lee AS, Kang N, Koo J, Rhyu MR, et al. Expression of human olfactory receptor 10J5 in heart aorta, coronary artery, and endothelial cells and its functional role in angiogenesis. Biochem Biophys Res Commun 2015;460:404-408.   
+26. Chang AJ, Ortega FE, Riegler J, Madison DV, Krasnow MA. Oxygen regulation of breathing through an olfactory receptor activated by lactate. Nature 2015;527:240-244.     
+27. Kumar P, Prabhakar NR. Peripheral chemoreceptors: function and plasticity of the carotid body. Compr Physiol 2012;2:141-219.    
+28. Zhou T, Chien MS, Kaleem S, Matsunami H. Single cell transcriptome analysis of mouse carotid body glomus cells. J Physiol 2016;594:4225-4251.    
+29. Jovancevic N, Dendorfer A, Matzkies M, Kovarova M, Heckmann JC, Osterloh M, et al. Medium-chain fatty acids modulate myocardial function via a cardiac odorant receptor. Basic Res Cardiol 2017;112:13.     
+30. Pluznick JL, Protzko RJ, Gevorgyan H, Peterlin Z, Sipos A, Han J, et al. Olfactory receptor responding to gut microbiota-derived signals plays a role in renin secretion and blood pressure regulation. Proc Natl Acad Sci U S A 2013;110:4410-4415.    
+31. Walensky LD, Roskams AJ, Lefkowitz RJ, Snyder SH, Ronnett GV. Odorant receptors and desensitization proteins colocalize in mammalian sperm. Mol Med 1995;1:130-141.    
+32. Flegel C, Manteniotis S, Osthold S, Hatt H, Gisselmann G. Expression profile of ectopic olfactory receptors determined by deep sequencing. PLoS One 2013;8:e55368.    
+33. Milardi D, Colussi C, Grande G, Vincenzoni F, Pierconti F, Mancini F, et al. Olfactory receptors in semen and in the male tract: from proteome to proteins. Front Endocrinol (Lausanne) 2017;8:379.   
+34. Itakura S, Ohno K, Ueki T, Sato K, Kanayama N. Expression of Golf in the rat placenta: possible implication in olfactory receptor transduction. Placenta 2006;27:103-108.   
+35. Baker NL, Miller KA, Newgreen DF, Farlie PG. Olfr603, an orphan olfactory receptor, is expressed in multiple specific embryonic tissues. Gene Expr Patterns 2015;19:30-35.   
+36. Thomas MB, Haines SL, Akeson RA. Chemoreceptors expressed in taste, olfactory and male reproductive tissues. Gene 1996;178:1-5.   
+37. Gaudin JC, Breuils L, Haertlé T. New GPCRs from a human lingual cDNA library. Chem Senses 2001;26:1157-1166.    
+38. Durzyński L, Gaudin JC, Myga M, Szydłowski J, Goździcka-Józefiak A, Haertlé T. Olfactory-like receptor cDNAs are present in human lingual cDNA libraries. Biochem Biophys Res Commun 2005;333:264-272.   
+39. Gaudin JC, Breuils L, Haertlé T. Mouse orthologs of human olfactory-like receptors expressed in the tongue. Gene 2006;381:42-48.   
+40. Braun T, Voland P, Kunz L, Prinz C, Gratzl M. Enterochromaffin cells of the human gut: sensors for spices and odorants. Gastroenterology 2007;132:1890-1901.   
+41. Leja J, Essaghir A, Essand M, Wester K, Oberg K, Tötterman TH, et al. Novel markers for enterochromaffin cells and gastrointestinal neuroendocrine carcinomas. Mod Pathol 2009;22:261-272.    
+42. Priori D, Colombo M, Clavenzani P, Jansman AJ, Lallès JP, Trevisi P, et al. The olfactory receptor OR51E1 is present along the gastrointestinal tract of pigs, co-localizes with enteroendocrine cells and is modulated by intestinal microbiota. PLoS One 2015;10:e0129501.    
+43. Kim KS, Lee IS, Kim KH, Park J, Kim Y, Choi JH, et al. Activation of intestinal olfactory receptor stimulates glucagon-like peptide-1 secretion in enteroendocrine cells and attenuates hyperglycemia in type 2 diabetic mice. Sci Rep 2017;7:13978.     
+44. Choi SA, Suh HJ, Yun JW, Choi JW. Differential gene expression in pancreatic tissues of streptozocin-induced diabetic rats and genetically-diabetic mice in response to hypoglycemic dipeptide cyclo (His-Pro) treatment. Mol Biol Rep 2012;39:8821-8835.    
+45. Ng SF, Lin RC, Maloney CA, Youngson NA, Owens JA, Morris MJ. Paternal high-fat diet consumption induces common changes in the transcriptomes of retroperitoneal adipose and pancreatic islet tissues in female rat offspring. FASEB J 2014;28:1830-1841.   
+46. Kang N, Bahk YY, Lee N, Jae Y, Cho YH, Ku CR, et al. Olfactory receptor Olfr544 responding to azelaic acid regulates glucagon secretion in alpha-cells of mouse pancreatic islets. Biochem Biophys Res Commun 2015;460:616-621.   
+47. Walensky LD, Ruat M, Bakin RE, Blackshaw S, Ronnett GV, Snyder SH. Two novel odorant receptor families expressed in spermatids undergo 5'-splicing. J Biol Chem 1998;273:9378-9387.   
+48. Wu C, Jia Y, Lee JH, Kim Y, Sekharan S, Batista VS, et al. Activation of OR1A1 suppresses PPAR-gamma expression by inducing HES-1 in cultured hepatocytes. Int J Biochem Cell Biol 2015;64:75-80.   
+49. Tong T, Ryu SE, Min Y, de March CA, Bushdid C, Golebiowski J, et al. Olfactory receptor 10J5 responding to alpha-cedrene regulates hepatic steatosis via the cAMP-PKA pathway. Sci Rep 2017;7:9471.    
+50. Pluznick JL, Zou DJ, Zhang X, Yan Q, Rodriguez-Gil DJ, Eisner C, et al. Functional expression of the olfactory signaling system in the kidney. Proc Natl Acad Sci U S A 2009;106:2059-2064.    
+51. Kalbe B, Schlimm M, Wojcik S, Philippou S, Maßberg D, Jansen F, et al. Olfactory signaling components and olfactory receptors are expressed in tubule cells of the human kidney. Arch Biochem Biophys 2016;610:8-15.   
+52. Shepard BD, Cheval L, Peterlin Z, Firestein S, Koepsell H, Doucet A, et al. A renal olfactory receptor aids in kidney glucose handling. Sci Rep 2016;6:35215.     
+53. Giandomenico V, Cui T, Grimelius L, Öberg K, Pelosi G, Tsolakis AV. Olfactory receptor 51E1 as a novel target for diagnosis in somatostatin receptor-negative lung carcinoids. J Mol Endocrinol 2013;51:277-286.   
+54. Kalbe B, Schulz VM, Schlimm M, Philippou S, Jovancevic N, Jansen F, et al. Helional-induced activation of human olfactory receptor 2J3 promotes apoptosis and inhibits proliferation in a non-small-cell lung cancer cell line. Eur J Cell Biol 2017;96:34-46.   
+55. Busse D, Kudella P, Gruning NM, Gisselmann G, Ständer S, Luger T, et al. A synthetic sandalwood odorant induces wound-healing processes in human keratinocytes via the olfactory receptor OR2AT4. J Invest Dermatol 2014;134:2823-2832.   
+56. Gelis L, Jovancevic N, Veitinger S, Mandal B, Arndt HD, Neuhaus EM, et al. Functional Characterization of the Odorant Receptor 51E2 in Human Melanocytes. J Biol Chem 2016;291:17772-17786.    
+57. Griffin CA, Kafadar KA, Pavlath GK. MOR23 promotes muscle regeneration and regulates cell adhesion and migration. Dev Cell 2009;17:649-661.    
+58. Pichavant C, Burkholder TJ, Pavlath GK. Decrease of myofiber branching via muscle-specific expression of the olfactory receptor mOR23 in dystrophic muscle leads to protection against mechanical stress. Skelet Muscle 2016;6:2.    
+59. Aisenberg WH, Huang J, Zhu W, Rajkumar P, Cruz R, Santhanam L, et al. Defining an olfactory receptor function in airway smooth muscle cells. Sci Rep 2016;6:38231.     
+60. Neuhaus EM, Zhang W, Gelis L, Deng Y, Noldus J, Hatt H. Activation of an olfactory receptor inhibits proliferation of prostate cancer cells. J Biol Chem 2009;284:16218-16225.    
+61. Xu LL, Stackhouse BG, Florence K, Zhang W, Shanmugam N, Sesterhenn IA, et al. PSGR, a novel prostate-specific gene with homology to a G protein-coupled receptor, is overexpressed in prostate cancer. Cancer Res 2000;60:6568-6572.  
+62. Xu LL, Sun C, Petrovics G, Makarem M, Furusato B, Zhang W, et al. Quantitative expression profile of PSGR in prostate cancer. Prostate Cancer Prostatic Dis 2006;9:56-61.    
+63. Weng J, Wang J, Hu X, Wang F, Ittmann M, Liu M. PSGR2, a novel G-protein coupled receptor, is overexpressed in human prostate cancer. Int J Cancer 2006;118:1471-1480.   
+64. Sturzu A, Sheikh S, Echner H, Nägele T, Deeg M, Schwentner C, et al. Novel bourgeonal fragrance conjugates for the detection of prostate cancer. Invest New Drugs 2013;31:1151-1157.   
+65. Sanz G, Leray I, Dewaele A, Sobilo J, Lerondel S, Bouet S, et al. Promotion of cancer cell invasiveness and metastasis emergence caused by olfactory receptor stimulation. PLoS One 2014;9:e85110.    
+66. Wiese H, Gelis L, Wiese S, Reichenbach C, Jovancevic N, Osterloh M, et al. Quantitative phosphoproteomics reveals the protein tyrosine kinase Pyk2 as a central effector of olfactory receptor signaling in prostate cancer cells. Biochim Biophys Acta 2015;1854:632-640.   
+67. Cui T, Tsolakis AV, Li SC, Cunningham JL, Lind T, Öberg K, et al. Olfactory receptor 51E1 protein as a potential novel tissue biomarker for small intestine neuroendocrine carcinomas. Eur J Endocrinol 2013;168:253-261.   
+68. Massberg D, Simon A, Haussinger D, Keitel V, Gisselmann G, Conrad H, et al. Monoterpene (-)-citronellal affects hepatocarcinoma cell signaling via an olfactory receptor. Arch Biochem Biophys 2015;566:100-109.   
+69. Manteniotis S, Wojcik S, Göthert JR, Dürig J, Dührsen U, Gisselmann G, et al. Deorphanization and characterization of the ectopically expressed olfactory receptor OR51B5 in myelogenous leukemia cells. Cell Death Discov 2016;2:16010.     
+70. Morita R, Hirohashi Y, Torigoe T, Ito-Inoda S, Takahashi A, Mariya T, et al. Olfactory receptor family 7 subfamily C member 1 is a novel marker of colon cancer-initiating cells and is a potent target of immunotherapy. Clin Cancer Res 2016;22:3298-3309.   
+71. Guo X, Yang Z, Zhi Q, Wang D, Guo L, Li G, et al. Long noncoding RNA OR3A4 promotes metastasis and tumorigenicity in gastric cancer. Oncotarget 2016;7:30276-30294.    
+72. Manteniotis S, Wojcik S, Brauhoff P, Möllmann M2, Petersen L, Göthert JR, et al. Functional characterization of the ectopically expressed olfactory receptor 2AT4 in human myelogenous leukemia. Cell Death Discov 2016;2:15070.     
+73. Jung H, Chae YC, Kim JY, Jeong OS, Kook H, Seo SB. Regulatory role of G9a and LSD1 in the transcription of olfactory receptors during leukaemia cell differentiation. Sci Rep 2017;7:46182.    
+74. Spehr M, Gisselmann G, Poplawski A, Riffell JA, Wetzel CH, Zimmer RK, et al. Identification of a testicular odorant receptor mediating human sperm chemotaxis. Science 2003;299:2054-2058.   
+75. Zhang X, Bedigian AV, Wang W, Eggert US. G protein-coupled receptors participate in cytokinesis. Cytoskeleton (Hoboken) 2012;69:810-818.    
+76. Sharma R, Ishimaru Y, Davison I, Ikegami K, Chien MS, You H, et al. Olfactory receptor accessory proteins play crucial roles in receptor function and gene choice. Elife 2017;6:e21895.     
+77. Olender T, Waszak SM, Viavant M, Khen M, Ben-Asher E, Reyes A, et al. Personal receptor repertoires: olfaction as a model. BMC Genomics 2012;13:414.    
+78. Hayden S, Bekaert M, Goodbla A, Murphy WJ, Dávalos LM, Teeling EC. A cluster of olfactory receptor genes linked to frugivory in bats. Mol Biol Evol 2014;31:917-927.    
+
+
+
+
+
+

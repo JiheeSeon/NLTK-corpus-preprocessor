@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2006; 4(2): 71-76.
+Prediction of Exposure to 1763MHz Radiofrequency Radiation Using Support Vector Machine Algorithm in Jurkat Cell Model System.
+Tai Qin Huang, Min Su Lee, Young Joo Bae, Hyun Seok Park, Woong Yang Park, Seo Jeong Sun
+1Ilchun Molecular Medicine Institute and Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul, Korea.
+jeongsun @ snu.ac.kr 2Department of Computer Science and Engineering, Ewha Womans University, Korea.
+3Macrogen Inc., Seoul, Korea.
+Abstract
+We have investigated biological responses to radiofrequency(RF) radiation in in vitro and in vivo models.
+By measuring the levels of heat shock proteins as well as the activation of mitogen activated protein kinases(MAPKs), we could not detect any differences upon RF exposure.
+In this study, we used more sensitive method to find the molecular responses to RF radiation.
+Jurkat, human T-Iymphocyte cells were exposed to 1763 MHz RF radiation at an average specific absorption rate(SAR) of 10 W/kg for one hour and harvested immediately(R0) or after five hours(R5).
+From the profiles of 30,000 genes, we selected 68 differentially expressed genes among sham(S), R0 and R5 groups using a random-variance F-test.
+Especially 45 annotated genes were related to metabolism, apoptosis or transcription regulation.
+Based on support vector machine(SVM) algorithm, we designed prediction model using 68 genes to discriminate three groups.
+Our prediction model could predict the target class of 19 among 20 examples exactly(95% accuracy).
+From these data, we could select the 68 biomarkers to predict the RF radiation exposure with high accuracy, which might need to be validated in in vivo models.
+Keywords:
+radiofrequency radiation; mobile phone; gene expression microarray; support vector machine

@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2004; 2(2): 75-80.
+Identification of the Marker-Genes for Dioxin(2,3,7,8-tetradibenzo-p-dioxin) -Induced Immune Dysfunction by Using the High-Density Oligonucleotide Microarray.
+Jeong Ah Kim, Eun Ju Lee, Hyung Lae Kim
+1Department of Biochemistry, College of Medicine, Ewha Womans University, Seoul 158-710, Korea.
+hyung @ ewha.ac.kr 2Department of Medicine and Physiology, University of Maryland, Baltimore, MD 20108, USA.
+Abstract
+In a variety of animal species, the perinatal exposure of experimental animals to the 2,3,7,8-tetrachlorodibenzo-p-dioxin(TCDD) leads to the immune dysfunction, which is more severe and persistent than that caused by adult exposure.
+We report here the changes of gene expression and the identification of the marker-genes representing the dioxin exposure.
+The expressions of the transcripts were analyzed using the 11K oligonucleotide- microarray from the bone marrow cells of male C57BL/6J mice after an intraperitoneal injection of 1 microgram TCDD/kg body weight at various time intervals: gestational 6.5 day(G6.5), 13.5 day(G13.5), 18.5 day(G18.5), and postnatal 3(P3W) and 6 week(P6W).
+The type of self-organizing maps(SOM) representing the specific exposure dioxin could be identified as follows; G6.5D(C14), G13.5D(C0, C5, C10, C18), G18.5D(7), P3W(C2, C21), and P6W(C4, C15, C20).
+The candidate marker-genes were restricted to the transcripts, which could be consistently expressed greater than +/-2-fold in three experiments.
+The resulting candidates were 85 genes, the characteristics of that were involved in cell physiology and cell functions such as cell proliferation and immune function.
+We identified the biomarker-genes for dioxin exposure: smc -like 2 from SOM C14 for the dioxin exposure at G6.5D, focal adhesion kinase and 6 other genes from C0, and protein tyrosine phosphatase 4a2 and 3 other genes from C5 for G13.5D, platelet factor 4 from C7 for G18.5D, fos from C2 for P3W.
+Keywords:
+DNA microarray; bone marrow cells; gene

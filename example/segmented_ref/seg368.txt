@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2007; 5(3): 107-112.
+Statistical Analysis of Gene Expression in Innate Immune Responses: Dynamic Interactions between MicroRNA and Signaling Molecules.
+Vincent Piras, Kumar Selvarajoo, Naoki Fujikawa, Sangdun Choi, Masaru Tomita, Alessandro Giuliani, Masa Tsuchiya
+1Institute for Advanced Biosciences, Keio University, 14-1 Babacho, Tsuruoka, Yamagata 997-0035, Japan.
+tsuchiya @ ttck.keio.ac.jp 2Department of Molecular Science and Technology, Ajou University, Suwon 443-749, Korea.
+3Istituto Superiore di Sanita', Environment and Health Department, Viale Regina Elena 299, 00161, Rome, Italy.
+Abstract
+MicroRNAs(miRNAs) are known to negatively control protein-coding genes by binding to messenger RNA(mRNA) in the cytoplasm.
+In innate immunity, the role of miRNA gene silencing is largely unknown.
+In this study, we performed microarray-based experiments using lipopolysaccharide(LPS) -stimulated macrophages derived from wild-type, MyD88 knockout(KO), TRIF KO, and MyD88/TRIF double KO mice.
+We employed a statistical approach to determine the importance of the commonality and specificity of miRNA binding sites among groups of temporally co-regulated genes.
+We demonstrate that both commonality and specificity are irrelevant to define a priori groups of co-downregulated genes.
+In addition, analyzing the various experimental conditions, we suggest that miRNA regulation may not only be a late-phase process(after transcription) but can also occur even early(1h) after stimulation in knockout conditions.
+This further indicates the existence of dynamic interactions between miRNA and signaling molecules/ transcription factor regulation; this is another proof for the need of shifting from a 'hard-wired' paradigm of gene regulation to a dynamical one in which the gene co-regulation is established on a case-by-case basis.
+Keywords:
+TLR4 innate immunity; co-regulated genes; miroRNA; dynamic regulation

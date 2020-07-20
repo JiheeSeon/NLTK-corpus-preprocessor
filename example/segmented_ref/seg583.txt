@@ -1,0 +1,269 @@
+Review
+Genomics & Informatics 2019; 17(4): e38.
+Published online: November 28, 2019
+DOI: https://doi.org/10.5808/GI.2019.17.4.e38
+DNA methylation: a cause and consequence of type 2 diabetes
+Mirang Kim 1, 2 *
+1Personalized Genomic Medicine Research Center, Korea Research Institute of Bioscience and Biotechnology(KRIBB), Daejeon 34141, Korea
+2Department of Functional Genomics, University of Science and Technology(UST), Daejeon 34141, Korea
+* Corresponding author: E-mail: mirang @ kribb.re.kr
+Received September 9, 2019 Revised October 25, 2019 Accepted October 25, 2019
+(c) 2019, Korea Genome Organization
+(CC) This is an open-access article distributed under the terms of the Creative Commons Attribution license(https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Abstract
+DNA methylation is a relatively stable epigenetic modification that can regulate and stabilize gene expression patterns and hence establish cell identity.
+Because metabolic intermediates are key factors of DNA methylation and demethylation, perturbations in metabolic homeostasis can trigger alterations in cell-specific patterns of DNA methylation and contribute to disease development, including type 2 diabetes(T2D).
+During the past decade, genome-wide DNA methylation studies of T2D have expanded our knowledge of the molecular mechanisms underlying T2D.
+This review summarizes case-control studies of the DNA methylome of T2D and discusses DNA methylation as both a cause and consequence of T2D.
+Therefore, DNA methylation has potential as a promising T2D biomarker that can be applied to the development of therapeutic strategies for T2D.
+Keywords: diabetes, DNA methylation, epigenetics
+Introduction
+Type 2 diabetes(T2D) is the most common type of diabetes and is a consequence of both downregulated insulin secretion and increased insulin resistance.
+T2D prevalence is increasing rapidly worldwide, and approximately 5 million people die from T2D-associated cardiovascular disease, cancers, and other liver and kidney diseases every year[1].
+Both genetic and environmental factors contribute to T2D development.
+Large-scale, genome-wide association studies have identified genetic loci associated with T2D; however, genetic risk variants explain less than 20% of T2D heritability[2-4].
+Indeed, environmental factors such as diet, exercise, age, and the gut microbiome contribute to the etiology of T2D because these aspects can alter the epigenetic landscape that lead to changes in chromatin structure and gene expression[5].
+Epigenetic modifications are reversible yet heritable, and they do not result in an altered DNA sequence.
+The main epigenetic mechanisms are DNA methylation, histone modifications, and the action of noncoding RNAs and hence may mediate the effects of environmental factors on T2D.
+DNA methylation is the best-studied epigenetic mechanism, entailing the addition of a methyl group to cytosine—mostly in the context of CpG dinucleotides.[6].
+DNA methylation can suppress gene expression by interacting with histone deacetylases or interfering with transcription-factor binding[7].
+DNA methylation plays an important role in development and disease because of its potential to alter gene expression.
+Therefore, the analysis of the DNA methylome at single-base resolution is a promising means for determining human disease etiology[8].
+In this regard, both whole-genome bisulfite sequencing and Infinium methylation microarrays are efficient high-throughput methods for analyzing the methylation status of human DNA[9].
+Genome-wide DNA methylation analysis has provided information concerning T2D-associated changes in DNA methylation.
+However, it has been argued that methylation changes are simply a secondary event that occurs at the chromatin level during disease progression[10].
+This review posits that DNA methylation is both a possible cause and consequence of T2D.
+The first section introduces the role of metabolism in DNA methylation and the second section summarizes DNA methylation changes that drive T2D development.
+Metabolism Regulates DNA Methylation
+Metabolism plays a central role in DNA methylation[11].
+The methyl group required for DNA methylation is derived from S-adenosylmethionine[12], which is synthesized through the methionine cycle from several nutrients such as methionine, folate, choline, betaine and vitamins B2, B6, and B12[12].
+In rats, a diet deficient in S-adenosylmethionine leads to hypomethylation of liver DNA[13].
+This dietary limitation affects not only global methylation but also the methylation of specific genes[14].
+The rate of DNA demethylation is also affected by metabolic fluctuations.
+Demethylation is regulated by ten-eleven translocation(TET) family enzymes, which utilize the TCA cycle intermediate α-ketoglutarate to remove methyl groups[15].
+Each of fumarate and succinate acts as a competitor of α-ketoglutarate to inhibit TET activity[16].
+Therefore, the cellular metabolic environment regulates the activity of enzymes involved in the balance between DNA methylation and demethylation(Fig. 1).
+Metabolic perturbations can lead to epigenetic changes of immune cells, which may contribute to altered immune-cell function in metabolic diseases.
+Epigenomic alterations in immune cells are frequently observed in obesity and T2D[17].
+For example, methylation of the two genes UBASH3B and TRIM3, which help regulate T-cell and macrophage proliferation and function, leads to impaired immune function in obese subjects[18].
+Macrophages exposed to excess saturated fatty acids in vitro were found to express higher levels of DNA methyltransferase(Dnmt) 3B, resulting in enhanced M1 polarization and adipose-tissue inflammation[19].
+Alterations in DNA methylation accumulate during the course of immune-system remodeling that occurs with metabolic disease, and therefore monitoring DNA methylation changes in immune cells could be a useful means of detecting metabolic complications[20].
+DNA Methylation Changes That Drive T2D Development
+It has been suggested that accumulated errors in DNA methylation lead to altered gene expression, which can affect the response to external stimuli and contribute to T2D development[21].
+Emerging data show that epigenetics plays a key role in the pathogenesis of T2D[22-24].
+Genome-wide studies have identified altered DNA methylation patterns in pancreatic islets, adipose tissue, liver, and skeletal muscle from subjects with T2D compared with tissues of nondiabetic controls.
+In this section, I describe DNA methylation changes that may drive T2D development.
+The pancreatic islets of Langerhans play central roles in the development of T2D.
+Blood glucose level increases after a meal, which triggers the secretion of insulin from pancreatic islet β-cells into the circulation; this is a fundamental means of controlling glucose homeostasis.
+β-cell failure impairs glucose tolerance and results in T2D[25].
+Volkmar et al.[26] found that aberrantly methylated genes in T2D islets are associated with β-cell dysfunction and apoptosis.
+Genes for which DNA methylation(and therefore expression) is altered in human T2D islets(such as CDKN1A, PDE7B, and SEPT9) contribute to the perturbation of insulin and glucagon secretion[27].
+Genome-wide analysis of DNA-methylation quantitative trait loci revealed that DNA methylation at single nucleotide polymorphism-CpG pairs in human islets underlies the observed genetic associations that affect gene expression.
+Functional studies revealed that genes such as GPX7, GSTT1, and SNX19 directly affect β-cell proliferation and apoptosis, among other important biological processes[28].
+Adipose tissue plays a central role in regulating whole-body energy metabolism.
+Adipose tissue stores energy in the form of lipids and acts as an endocrine organ that produces adipokines that control energy intake and energy consumption by other tissues[29].
+In T2D, the dysregulation of normal adipose-tissue function leads to elevated levels of circulating lipids and increased lipid storage in alternative tissues such the liver, muscle, and pancreas[30].
+Genome-wide DNA methylation analysis of subcutaneous adipose tissue of monozygotic twins discordant for T2D revealed that CIDEC, CDKN2B, DUSP9, HNF4A, KCNQ1, TSPAN8, and VGLL1 were differentially methylated between the twins[31].
+You et al.[32] demonstrated that overexpression of Dnmt3a is both necessary and sufficient for insulin resistance in adipocytes derived from mice or humans.
+These researchers also found that adipose-specific Dnmt3a knockout in mice protected the animals from diet-induced insulin resistance and glucose tolerance.
+They found that Dnmt3a mediates insulin resistance by methylating the Fgf21 promoter; FGF21 hypermethylation was evident in human subjects with T2D and correlated negatively with FGF21 expression in human adipose tissue[32].
+The liver is central for maintaining glucose homeostasis during both the fed and fasted states.
+During the fed state, insulin receptors on hepatocytes bind insulin, which induces glycogen synthesis/storage.
+During fasting, glucagon binding to hepatocytes leads to gluconeogenesis and glucose release[33].
+This balance is lost in T2D, however, and insulin resistance in the liver contributes to hyperglycemia.
+Genes relevant to the development of T2D, such as GRB10, ABCC3, MOGAT1, and PRDM16, were found to be aberrantly methylated in the liver of T2D patients[33].
+Interestingly, most of the liver-specific CpG sites in T2D patients are methylated to a lesser degree than in healthy controls.
+The hypomethylation found in the T2D liver may be explained by reduced folate levels in erythrocytes[33].
+Kirchner et al.[34] reported decreased methylation of several genes controlling glucose metabolism within the ATF-motif regulatory site in the liver of severely obese nondiabetic and T2D patients, suggesting that obesity eventually leads to alterations of the liver epigenome, resulting in the upregulation of glycolysis and lipogenesis that may exacerbate insulin resistance.
+Metformin is the most common drug for treating T2D.
+Metformin decreases the DNA methylation of metformin transporter genes(SLC22A1, SLC22A3, and SLC47A1) in the human liver, thereby countering the increased methylation of these genes seen for T2D patients with hyperglycemia and obesity[35].
+Abderrahmani et al.[36] found that decreased methylation and increased expression of PDGFA are associated with increased risk of both T2D and steatohepatitis.
+Skeletal muscle is the primary site of insulin-induced glucose uptake and defects in skeletal-muscle metabolism contribute to insulin resistance[37].
+Barres et al.[38] found increased methylation of genes involved in mitochondrial function, such as PPARγ and PGC-1α, using whole-genome promoter methylation analysis of skeletal muscle from normal subjects(i.e., glucose tolerant) and T2D patients.
+They provided evidence suggesting that PGC-1α methylation controls PGC-1α expression, a finding that is consistent with the reduced number of mitochondria found in cells of T2D patients; this links DNMT3B to the acute, fatty acid-induced, non-CpG methylation of the PGC-1α promoter[39].
+Alibegovic et al.[40] observed increased methylation of PPARGC1A for T2D patients on bed rest, suggesting that physical inactivity promotes the establishment and maintenance of epigenetic marks that may increase T2D risk[40].
+In a study of skeletal muscle of people with a family history of T2D, Nitert et al.[41] found differentially methylated DNA in genes of certain pathways, including the mitogen-activated protein kinase(MAPK), insulin, and calcium signaling pathways(e.g., MAPK1, MYO18B, HOXC6, and PRKAB1).
+Results from a DNA methylation analysis of skeletal muscle from healthy men before and after insulin exposure revealed increased DAPK3 methylation, which is reduced in T2D patients[42].
+Insulin and glucose modulate skeletal-muscle DAPK3 methylation reciprocally, suggesting that a feedback mechanism controls DAPK3 expression.
+[42].
+Taken together, studies utilizing genome-wide methylation analysis of T2D patients as well as functional validation of target genes have identified many previously unknown DNA methylation changes that may promote T2D development.
+Aging can be described as a time-dependent decline in multiple biological functions, such as a decline in resting metabolism and a reduction in epigenome stability[43].
+In humans, age-related changes in DNA methylation patterns have been documented in blood, liver, brain, skeletal muscle, adipose tissue, and pancreatic islets[44].
+Moreover, aging is associated with impaired pancreatic islet function[45] and therefore is a primary risk factor for T2D[46].
+In general, the age of global epigenetic marks in certain genes correlates with upregulation of both the proinflammatory and interferon pathways and downregulation of the basal transcriptional machinery, DNA-damage response, and mitochondrial signatures[47].
+Given that the number of older individuals is increasing dramatically worldwide and that aging is the greatest risk factor for the majority of chronic diseases including T2D, it is critical to understand the molecular-genetic basis of how aging promotes the development of chronic diseases and to develop novel multi-disease preventative and therapeutic approaches[48].
+Conclusion
+Dissecting the molecular mechanisms of T2D development is required for developing appropriate therapeutic strategies.
+Epigenome studies of T2D have identified T2D-specific changes in DNA methylation patterns.
+To determine whether such changes are drivers or passengers of T2D development, functional validation is needed[22].
+In theory, driver DNA methylation changes should correlate with changes in the expression of T2D driver genes, and this correlation could inform the development of therapeutic drugs.
+Although changes in passenger DNA methylation are a consequence of T2D progression, such changes could be utilized as biomarkers for predicting T2D risk after clinical validation(Fig. 2).
+In addition to promoter regions, distal gene-regulatory elements such as enhancers and insulators should also be included when considering the potential impact of driver methylation changes on T2D.
+Analysis of long-range chromatin interactions using chromosome conformation capture-based techniques could elucidate the role, if any, that DNA methylation changes in distal regulatory elements play in T2D.
+The contribution of methylation at specific CpG sites to T2D development could be validated by targeted editing of DNA methylation sites using the CRISPR dCas9-Dnmt3a/Tet1 system[49,50].
+Owing to the cellular heterogeneity of pancreatic islets, liver, and adipose tissue, T2D-specific DNA methylation changes may vary widely among different cell types.
+Recent advances in technologies such as single-cell transcriptomics and epigenomics could potentially enhance our knowledge of T2D development and its complications.
+Notes
+Conflicts of Interest
+No potential conflicts of interest relevant to this article are reported.
+Acknowledgments
+This work was supported by the National Research Foundation of Korea through grants funded by the Korean government(NRF-2019R1A2C1087104) and the KRIBB research initiative grant.
+References
+1.
+Cho NH, Shaw JE, Karuranga S, Huang Y, da Rocha Fernandes JD, Ohlrogge AW, et al. IDF Diabetes Atlas: global estimates of diabetes prevalence for 2017 and projections for 2045.
+Diabetes Res Clin Pract 2018; 138:271-281.
+2.
+Voight BF, Scott LJ, Steinthorsdottir V, Morris AP, Dina C, Welch RP, et al. Twelve type 2 diabetes susceptibility loci identified through large-scale association analysis.
+Nat Genet 2010; 42:579-589.
+3.
+McCarthy MI.
+Genomics, type 2 diabetes, and obesity.
+N Engl J Med 2010; 363:2339-2350.
+4.
+Prasad RB, Groop L. Genetics of type 2 diabetes-pitfalls and possibilities.
+Genes(Basel) 2015; 6:87-123.
+5.
+Pirola L, Balcerczyk A, Okabe J, El-Osta A. Epigenetic phenomena linked to diabetic complications.
+Nat Rev Endocrinol 2010; 6:665-675.
+6.
+Suzuki MM, Bird A. DNA methylation landscapes: provocative insights from epigenomics.
+Nat Rev Genet 2008; 9:465-476.
+7.
+Du Q, Luu PL, Stirzaker C, Clark SJ.
+Methyl-CpG-binding domain proteins: readers of the epigenome.
+Epigenomics 2015; 7:1051-1073.
+8.
+Kim M, Costello J. DNA methylation: an epigenetic mark of cellular memory.
+Exp Mol Med 2017; 49: e322.
+9.
+Pidsley R, Zotenko E, Peters TJ, Lawrence MG, Risbridger GP, Molloy P, et al. Critical evaluation of the Illumina MethylationEPIC BeadChip microarray for whole-genome DNA methylation profiling.
+Genome Biol 2016; 17:208.
+10.
+Geach T. Obesity: methylation a consequence not a cause.
+Nat Rev Endocrinol 2017; 13:127.
+11.
+Ulrey CL, Liu L, Andrews LG, Tollefsbol TO.
+The impact of metabolism on DNA methylation.
+Hum Mol Genet 2005; 14 Spec No 1: R139-47.
+12.
+Zhang N. Epigenetic modulation of DNA methylation by nutrition and its mechanisms in animals.
+Anim Nutr 2015; 1:144-151.
+13.
+Wainfan E, Dizik M, Stender M, Christman JK.
+Rapid appearance of hypomethylated DNA in livers of rats fed cancer-promoting, methyl-deficient diets.
+Cancer Res 1989; 49:4094-4097.
+14.
+Bhave MR, Wilson MJ, Poirier LA. c-H-ras and c-K-ras gene hypomethylation in the livers and hepatomas of rats fed methyl-deficient, amino acid-defined diets.
+Carcinogenesis 1988; 9:343-348.
+15.
+Tahiliani M, Koh KP, Shen Y, Pastor WA, Bandukwala H, Brudno Y, et al. Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1.
+Science 2009; 324:930-935.
+16.
+Xiao M, Yang H, Xu W, Ma S, Lin H, Zhu H, et al. Inhibition of α-KG-dependent histone and DNA demethylases by fumarate and succinate that are accumulated in mutations of FH and SDH tumor suppressors.
+Genes Dev 2012; 26:1326-1338.
+17.
+Wellen KE, Hotamisligil GS.
+Inflammation, stress, and diabetes.
+J Clin Invest 2005; 115:1111-1119.
+18.
+Wang X, Zhu H, Snieder H, Su S, Munn D, Harshfield G, et al. Obesity related methylation changes in DNA of peripheral blood leukocytes.
+BMC Med 2010; 8:87.
+19.
+Yang X, Wang X, Liu D, Yu L, Xue B, Shi H. Epigenetic regulation of macrophage polarization by DNA methyltransferase 3b.
+Mol Endocrinol 2014; 28:565-574.
+20.
+Raghuraman S, Donkin I, Versteyhe S, Barres R, Simar D. The emerging role of epigenetics in inflammation and immunometabolism.
+Trends Endocrinol Metab 2016; 27:782-795.
+21.
+Gallou-Kabani C, Junien C. Nutritional epigenomics of metabolic syndrome: new perspective against the epidemic.
+Diabetes 2005; 54:1899-1906.
+22.
+Ling C, Ronn T. Epigenetics in human obesity and type 2 diabetes.
+Cell Metab 2019; 29:1028-1044.
+23.
+Davegardh C, Garcia-Calzon S, Bacos K, Ling C. DNA methylation in the pathogenesis of type 2 diabetes in humans.
+Mol Metab 2018; 14:12-25.
+24.
+Zhou Z, Sun B, Li X, Zhu C. DNA methylation landscapes in the pathogenesis of type 2 diabetes mellitus.
+Nutr Metab(Lond) 2018; 15:47.
+25.
+Kasuga M. Insulin resistance and pancreatic beta cell failure.
+J Clin Invest 2006; 116:1756-1760.
+26.
+Volkmar M, Dedeurwaerder S, Cunha DA, Ndlovu MN, Defrance M, Deplus R, et al. DNA methylation profiling identifies epigenetic dysregulation in pancreatic islets from type 2 diabetic patients.
+EMBO J 2012; 31:1405-1426.
+27.
+Dayeh T, Volkov P, Salo S, Hall E, Nilsson E, Olsson AH, et al. Genome-wide DNA methylation analysis of human pancreatic islets from type 2 diabetic and non-diabetic donors identifies candidate genes that influence insulin secretion.
+PLoS Genet 2014; 10: e1004160.
+28.
+Olsson AH, Volkov P, Bacos K, Dayeh T, Hall E, Nilsson EA, et al. Genome-wide associations between genetic and epigenetic variation influence mRNA expression and insulin secretion in human pancreatic islets.
+PLoS Genet 2014; 10: e1004735.
+29.
+Eriksson JW, Smith U, Waagstein F, Wysocki M, Jansson PA. Glucose turnover and adipose tissue lipolysis are insulin-resistant in healthy relatives of type 2 diabetes patients: is cellular insulin resistance a secondary phenomenon?
+Diabetes 1999; 48:1572-1578.
+30.
+Hardy OT, Czech MP, Corvera S. What causes the insulin resistance underlying obesity?
+Curr Opin Endocrinol Diabetes Obes 2012; 19:81-87.
+31.
+Ribel-Madsen R, Fraga MF, Jacobsen S, Bork-Jensen J, Lara E, Calvanese V, et al. Genome-wide analysis of DNA methylation differences in muscle and fat from monozygotic twins discordant for type 2 diabetes.
+PLoS One 2012; 7: e51302.
+32.
+You D, Nilsson E, Tenen DE, Lyubetskaya A, Lo JC, Jiang R, et al. Dnmt3a is an epigenetic mediator of adipose insulin resistance.
+Elife 2017; 6: e30766.
+33.
+Nilsson E, Matte A, Perfilyev A, de Mello VD, Kakela P, Pihlajamaki J, et al. Epigenetic alterations in human liver from subjects with type 2 diabetes in parallel with reduced folate levels.
+J Clin Endocrinol Metab 2015; 100: E1491-E1501.
+34.
+Kirchner H, Sinha I, Gao H, Ruby MA, Schonke M, Lindvall JM, et al. Altered DNA methylation of glycolytic and lipogenic genes in liver from obese and type 2 diabetic patients.
+Mol Metab 2016; 5:171-183.
+35.
+Garcia-Calzon S, Perfilyev A, Mannisto V, de Mello VD, Nilsson E, Pihlajamaki J, et al. Diabetes medication associates with DNA methylation of metformin transporter genes in the human liver.
+Clin Epigenetics 2017; 9:102.
+36.
+Abderrahmani A, Yengo L, Caiazzo R, Canouil M, Cauchi S, Raverdy V, et al. Increased hepatic PDGF-AA signaling mediates liver insulin resistance in obesity-associated type 2 diabetes.
+Diabetes 2018; 67:1310-1321.
+37.
+Eriksson J, Franssila-Kallunki A, Ekstrand A, Saloranta C, Widen E, Schalin C, et al. Early metabolic defects in persons at increased risk for non-insulin-dependent diabetes mellitus.
+N Engl J Med 1989; 321:337-343.
+38.
+Barres R, Kirchner H, Rasmussen M, Yan J, Kantor FR, Krook A, et al. Weight loss after gastric bypass surgery in human obesity remodels promoter methylation.
+Cell Rep 2013; 3:1020-1027.
+39.
+Barres R, Osler ME, Yan J, Rune A, Fritz T, Caidahl K, et al. Non-CpG methylation of the PGC-1alpha promoter through DNMT3B controls mitochondrial density.
+Cell Metab 2009; 10:189-198.
+40.
+Alibegovic AC, Sonne MP, Hojbjerre L, Bork-Jensen J, Jacobsen S, Nilsson E, et al. Insulin resistance induced by physical inactivity is associated with multiple transcriptional changes in skeletal muscle in young men.
+Am J Physiol Endocrinol Metab 2010; 299: E752-E763.
+41.
+Nitert MD, Dayeh T, Volkov P, Elgzyri T, Hall E, Nilsson E, et al. Impact of an exercise intervention on DNA methylation in skeletal muscle from first-degree relatives of patients with type 2 diabetes.
+Diabetes 2012; 61:3322-3332.
+42.
+Mudry JM, Lassiter DG, Nylen C, Garcia-Calzon S, Naslund E, Krook A, et al. Insulin and glucose alter Death-Associated Protein Kinase 3(DAPK3) DNA methylation in human skeletal muscle.
+Diabetes 2017; 66:651-662.
+43.
+Jung M, Pfeifer GP.
+Aging and DNA methylation.
+BMC Biol 2015; 13:7.
+44.
+Horvath S. DNA methylation age of human tissues and cell types.
+Genome Biol 2013; 14: R115.
+45.
+Bacos K, Gillberg L, Volkov P, Olsson AH, Hansen T, Pedersen O, et al. Blood-based biomarkers of age-associated epigenetic changes in human islets associate with insulin secretion and diabetes.
+Nat Commun 2016; 7:11089.
+46.
+Chang AM, Halter JB.
+Aging and insulin secretion.
+Am J Physiol Endocrinol Metab 2003; 284: E7-E12.
+47.
+Levine ME, Lu AT, Quach A, Chen BH, Assimes TL, Bandinelli S, et al. An epigenetic biomarker of aging for lifespan and healthspan.
+Aging(Albany NY) 2018; 10:573-591.
+48.
+Kennedy BK, Berger SL, Brunet A, Campisi J, Cuervo AM, Epel ES, et al. Geroscience: linking aging to chronic disease.
+Cell 2014; 159:709-713.
+49.
+Vojta A, Dobrinic P, Tadic V, Bockor L, Korac P, Julg B, et al. Repurposing the CRISPR-Cas9 system for targeted DNA methylation.
+Nucleic Acids Res 2016; 44:5615-5628.
+50.
+Choudhury SR, Cui Y, Lubecka K, Stefanska B, Irudayaraj J. CRISPR-dCas9 mediated TET1 targeting for selective DNA demethylation at BRCA1 promoter.
+Oncotarget 2016; 7:46545-46556.

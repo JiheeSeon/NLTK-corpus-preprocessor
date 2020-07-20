@@ -1,0 +1,13 @@
+Original Article
+Genomics & Informatics 2011; 9(2): 85-88.
+DOI: https://doi.org/10.5808/gi.2011.9.2.85
+An Information-based Model for an Interactive Web Service with Agricultural Biotechnology.
+Chang Kug Kim, Young Joo Seol, Dong Suk Park, Jang Ho Hahn
+Genomics Division, National Academy of Agricultural Science(NAAS), Suwon 441-707, Korea.
+jhhahn @ rda.go.kr
+Abstract
+The National Agricultural Biotechnology Information Center(NABIC) constructed an agricultural biology-based infrastructure and developed a biological information-based database.
+The major functions of the NABIC are focused on biotechnological developments for agricultural bioinformatics and providing a web-based service to construct bioinformatics workflows easily, such as protein function prediction and genome systems biology programs.
+The NABIC has concentrated on the functional genomics of major crops, building an integrated biotechnology database for agro-biotech information that focuses on the proteomics of major agricultural resources, such as rice, Chinese cabbage, rice Ds-tagging lines, and microorganisms.
+Keywords:
+biotechnology; database; genome; information model; web service

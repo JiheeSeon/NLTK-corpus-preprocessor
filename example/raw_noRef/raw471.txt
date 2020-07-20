@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(2): 113-118. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heterologous Regulation of BCG hsp65 Promoter by M. leprae 18 kDa Transcription Repression Responsive Element.
+
+
+
+ Hyun Bae Kim,  Ji Chang You 
+
+
+
+			Department of Pathology, School of Medicine, The Catholic University of Korea, Seoul 137-701, Korea. jiyou@cmc.cuk.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Among a number of antigens characterized in M. leprae, an etiological agent of Leprosy, the 18 kDa antigen, is unique to M. leprae. We have previously determined a sequence specific element in the 18 kDa gene of M. leprae, which confers transcriptional repression. In this report, we have examined if the element could be applied to genes other than the 18 kDa gene of M. leprae. To identify the roles of the regulatory sequence in heterologous promoter, we have constructed pB3 vector series, which contains BCG hsp65 promoter and the M. leprae 18 kDa transcription repression responsive element in tandem using LacZ gene as a reporter gene. Cloning of hsp65 promoters of M. bovis BCG or M.
+smegmatis in front of LacZ gene resulted in normal beta- galactosidase activity as expected. However, when the sequence element was placed between the promoter and the LacZ gene, beta-galactosidase activity was reduced 10-fold less. Also we have examined with pB3(-) vector, that harbors the transcription repression responsive element in a reversed orientation, the beta-galactosidase activity was found to be similar to pB3(+) vector. Thus, these results further confirm that M. leprae 18 kDa transcription repression responsive element could regulate BCG hsp65 heterologous promoter and that the element could act as an operator for the transcription of mycobacteria.		
+
+
+Keywords:
+heterologous promoter; Mycobacterium leprae; transcriptional repression regulatory element 
+
+
+
+
+

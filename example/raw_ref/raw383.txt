@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(1): 10-18. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FCAnalyzer: A Functional Clustering Analysis Tool for Predicted Transcription Regulatory Elements and Gene Ontology Terms.
+
+
+
+ Sang Bae Kim,  Gil Mi Ryu,  Young Jin Kim,  Jee Yeon Heo,  Chan Park,  Berm Seok Oh,  Hyung Lae Kim,  Ku Chan Kimm,  Kyu Won Kim,  Young Youl Kim 
+
+
+
+1Korean BioInformation Center, Korea Research Institute of Bioscience and Biotechnology, Daejon 305-806, Korea. 2Center for Genome Science, National Institute of Health, Seoul 122-701, Korea. youngyk@nih.go.kr 3College of Pharmacy, Seoul National University, Seoul 157-742, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Numerous studies have reported that genes with similar expression patterns are co-regulated. From gene expression data, we have assumed that genes having similar expression pattern would share similar transcription factor binding sites (TFBSs). These function as the binding regions for transcription factors (TFs) and thereby regulate gene expression. In this context, various analysis tools have been developed. However, they have shortcomings in the combined analysis of expression patterns and significant TFBSs and in the functional analysis of target genes of significantly overrepresented putative regulators. In this study, we present a web-based A Functional Clustering Analysis Tool for Predicted Transcription Regulatory Elements and Gene Ontology Terms (FCAnalyzer). This system integrates microarray clustering data with similar expression patterns, and TFBS data in each cluster.
+FCAnalyzer is designed to perform two independent clustering procedures. The first process clusters gene expression profiles using the K-means clustering method, and the second process clusters predicted TFBSs in the upstream region of previously clustered genes using the hierarchical biclustering method for simultaneous grouping of genes and samples. This system offers retrieved information for predicted TFBSs in each cluster using Match(TM) in the TRANSFAC database. We used gene ontology term analysis for functional annotation of genes in the same cluster. We also provide the user with a combinatorial TFBS analysis of TFBS pairs. The enrichment of TFBS analysis and GO term analysis is statistically by the calculation of P values based on Fisher's exact test, hypergeometric distribution and Bonferroni correction. FCAnalyzer is a web-based, user-friendly functional clustering analysis system that facilitates the transcriptional regulatory analysis of co-expressed genes. This system presents the analyses of clustered genes, significant TFBSs, significantly enriched TFBS combinations, their target genes and TFBS-TF pairs.		
+
+
+Keywords:
+Transcription regulatory element; clustering analysis 
+
+
+
+
+

@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2007;5(3): 133-136. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GSnet: An Integrated Tool for Gene Set Analysis and Visualization.
+
+
+
+ Yoon Jeong Choi,  Hyun Goo Woo,  Ungsik Yu 
+
+
+
+1Nano Materials Simulation and Fabrication Laboratory, Department of Materials Science and Engineering, KAIST, 373-1 Guseong-dong, Yuseong-gu, Daejeon 305-701, Korea. 2Laboratory of Experimental Carcinogenesis, National Cancer Institute, NIH, USA. 3Korean BioInformation Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-806, Korea. ungsik@kribb.re.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The Gene Set network viewer (GSnet) visualizes the functional enrichment of a given gene set with a protein interaction network and is implemented as a plug-in for the Cytoscape platform. The functional enrichment of a given gene set is calculated using a hypergeometric test based on the Gene Ontology annotation. The protein interaction network is estimated using public data. Set operations allow a complex protein interaction network to be decomposed into a functionally-enriched module of interest. GSnet provides a new framework for gene set analysis by integrating a priori knowledge of a biological network with functional enrichment analysis.		
+
+
+Keywords:
+microarray analysis; gene set analysis; proteinprotein interaction network; network visualization 
+
+
+
+
+

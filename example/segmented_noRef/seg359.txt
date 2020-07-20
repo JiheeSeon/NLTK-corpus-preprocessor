@@ -1,0 +1,22 @@
+Original Article
+Genomics & Informatics 2007; 5(4): 161-167.
+Genetic Polymorphisms of UGT1A and their Association with Clinical Factors in Healthy Koreans.
+Jeong Oh Kim,Jeong Young Shin, Myung Ah Lee, Hyun Suk Chae, Chul Ho Lee, Jae Sook Roh, Sun Kyung Jin, Tae Sun Kang, Jung Ran Choi, Jin Hyoung Kang
+1Laboratory of Medical Oncology, Catholic Research Institutes of Medical Science, The Catholic University of Korea, 505 Banpo-dong, Seocho-gu, Seoul 137-701, Korea.
+jinkang @ catholic.ac.kr 2Medical Oncology, Kangnam St. Mary 's Hospital, Korea.
+3Gastroenterology, Uijeongbu St. Mary 's Hospital, 65-1, Geumo-dong, Uijeongbu, Gyeonggi-do, Korea.
+4Department of Clinical Genetics, School of Medicine, Yonsei University, 250 Seongsanno, Sudaemun-gu, Seoul 120-752, Korea.
+5KFDA, NITR, Team of Clinical Pharmacology, 194 Tongil-no, Eunpyung-gu, Seoul 122-704, Korea.
+Abstract
+Glucuronidation by the uridine diphosphateglucuronosyltransferase 1A enzymes(UGT1As) is a major pathway for elimination of particular drugs and endogenous substances, such as bilirubin.
+We examined the relation of eight single nucleotide polymorphisms(SNPs) and haplotypes of the UGT1A gene with their clinical factors.
+For association analysis, we genotyped the variants by direct sequencing analysis and polymerase chain reaction(PCR) in 218 healthy Koreans.
+The frequency of UGT1A1 polymorphisms, -3279T> G, -3156G> A, -53(TA)(6> 7), 211G> A, and 686C> A, was 0.26, 0.12, 0.08, 0.15, and 0.01, respectively.
+The frequency of -118(T) 9> 10 of UGT1A9 was 0.62, which was significantly higher than that in Caucasians(0.39).
+Neither the -2152C> T nor the -275T> A polymorphism was observed in Koreans or other Asians in comparison with Caucasians.
+The -3156G> A and -53(TA) 6> 7 polymorphisms of UGT1A were significantly associated with platelet count and total bilirubin level(p=0.01, p=0.01, respectively).
+Additionally, total bilirubin level was positively correlated with occurrence of the UGT1A9-118(T)(9> 10) rare variant.
+Common haplotypes encompassing six UGT1A polymorphisms were significantly associated with total bilirubin level(p=0.01).
+Taken together, we suggest that determination of the UGT1A1 and UGT1A9 genotypes is clinically useful for predicting the efficacy and serious toxicities of particular drugs requiring glucuronidation.
+Keywords:
+Uridine diphosphate glucuronosyltransferases(UGT); single nucleotide polymorphism(SNP); haplotype; total bilirubin; glucuronidation

@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2005; 3(3): 94-97.
+Patome: Database of Patented Bio-sequences.
+Seon Kyu Kim, Byung Wook Lee
+1National Genome Information Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-333, Korea.
+bulee @ kribb.re.kr 2Department of BioSystems, Korea Advanced Institute of Science and Technology, Daejeon 305-701, Korea.
+Abstract
+We have built a database server called Patome which contains the annotation information for patented bio-sequences from the Korean Intellectual Property Office(KIPO).
+The aims of the Patome are to annotate Korean patent bio-sequences and to provide information on patent relationship of public database entries.
+The patent sequences were annotated with Reference Sequence(RefSeq) or NCBI 's nr database.
+The raw patent data and the annotated data were stored in the database.
+Annotation information can be used to determine whether a particular RefSeq ID or NCBI 's nr ID is related to Korean patent.
+Patome infrastructure consists of three components-the database itself, a sequence data loader, and an online database query interface.
+The database can be queried using submission number, organism, title, applicant name, or accession number.
+Patome can be accessed at http://www.patome.net.
+The information will be updated every two months.
+Keywords:
+Patome; Korean patent bio-sequences; annotation; web service

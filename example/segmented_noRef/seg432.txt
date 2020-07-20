@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2005; 3(2): 55-60.
+Classification of Peroxiredoxin Subfamilies Using Regular Expressions.
+Jae Kyung Chon, Jongkeun Choi, Sang Soo Kim, Whanchul Shin
+1Department of Chemistry, Seoul National University, Seoul 151-742, Korea.
+2Department of Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-742, Korea.
+3Department of Bioinformatics, Soongsil University, Seoul 156-743, Korea.
+sskimb @ ssu.ac.kr
+Abstract
+Peroxiredoxins(Prx 's) are a superfamily of peroxidases that are ubiquitous in all super-kingdoms.
+Previous biochemical and structural studies have suggested that Prx 's could be divided into five subfamilies(1-Cys, Typical 2-Cys, Atypical 2-Cys C-, L- and R- types).
+In this work, we have developed a set of regular expression patterns describing subfamily-specific spatial constraints of the key catalytic residues.
+Using these patterns, 1,016 Prx 's available in public databases were classified into the five subfamilies.
+Our method performed well for most of the types except for Atypical 2 Cys R type.
+Keywords:
+peroxiredoxin; regular expression; subfamily classification

@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2008; 6(1): 50-53.
+DOI: https://doi.org/10.5808/gi.2008.6.1.050
+Refactoring the Code for Visualizing Protein Database Information in a 3D Viewer for Software Reusability.
+Yoo Jin Chun, Seong Il Ham, San Duk Yang, Arang Rhie, Hyun Seok Park
+1Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea.
+neo @ ewha.ac.kr 2Department of Computer Science, Ewha Womans University, Seoul 120-750, Korea.
+3Department of Architectural Engineering, Yonsei University, Seoul, 120-749, Korea.
+Abstract
+We have released five Java Application Programming Interface(API) packages for viewing three-dimensional structures of proteins from the Protein Data Bank.
+To this end, the user interface of an earlier version has been refactored in an object-oriented fashion, in which refactoring is the process of changing a software system to improve its internal structure, without altering the external behavior.
+Various GUI design and features have been provided conveniently thanks to the Model-View-Control(MVC) model, which is an architectural pattern used in software engineering.
+Availability: The source code and API specification can be downloaded from https://sourceforge.net/projects/j3dpsv/.
+Keywords:
+API; Bioinformatics; Protein structure visualization; Refactoring

@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2010; 8(1): 50-57.
+DOI: https://doi.org/10.5808/gi.2010.8.1.050
+Effects of Mercuric Chloride on Gene Expression in NRK-52E Cells.
+Joon Ik Ahn, Si Yeon Baik, Moon Jeong Ko, Hee Jung Shin, Hye Joo Chung, Ho Sang Jeong
+Pharmacological Research Division, Toxicological Evaluation Research Department, National Institute of Food and Drug Safety Evaluation, Seoul 122-704, Korea.
+hosa33 @ korea.kr
+Abstract
+Mercuric chloride, a model nephrotoxicant was used to elucidate time- and dose-dependent global gene expression changes associated with proximal tubular toxicity.
+Rat kidney cell lines NRK-52E cells were exposed for 2, 6 and 12 hours and with 3 different doses of mercuric chloride.
+Cell viability assay showed that mercuric chloride had toxic effects on NRK-52E cells causing 20% cell death(IC20) at 40micrometer concentration.
+We set this IC20 as high dose concentration and 1/5 and 1/25 concentration of LC20 were used as mid and low concentration, respectively.
+Analyses of microarray data revealed that 738 genes were differentially expressed(more than two-fold change and p<0.05) by low concentration of mercuric chloride at least one time point in NRK-52E cells.
+317 and 2,499 genes were differentially expressed at mid and high concentration of mercuric chloride, respectively.
+These deregulated genes showed a primary involvement with protein trafficking(CAV2, CANX, CORO1B), detoxification(GSTs) and immunity and defense(HMOX1, NQO1).
+Several of these genes were previously reported to be up-regulated in proximal tubule cells treated with nephrotoxicants and might be aid in promoting the predictive biomarkers for nephrotoxicity.
+Keywords:
+gene expression; mercuric chloride; nephrotoxicity; NRK-52E cells

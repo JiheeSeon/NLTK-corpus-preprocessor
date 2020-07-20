@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2011;9(4): 173-180. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.4.173
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Gene Expression Signatures for Compound Response in Cancers.
+
+
+
+ Ningning He,  Sukjoon Yoon 
+
+
+
+			Department of Biological Sciences, Sookmyung Women's University, Seoul 140-742, Korea. yoonsj@sookmyung.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Recent trends in generating multiple, large-scale datasets provide new challenges to manipulating the relationship of different types of components, such as gene expression and drug response data. Integrative analysis of compound response and gene expression datasets generates an opportunity to capture the possible mechanism of compounds by using signature genes on diverse types of cancer cell lines. Here, we integrated datasets of compound response and gene expression profiles on NCI60 cell lines and constructed a network, revealing the relationship for 801 compounds and 341 gene probes. As examples, obtusol, which shows an exclusive sensitivity on a small number of colon cell lines, is related to a set of gene probes that have unique overexpression in colon cell lines. We also found that the SLC7A11 gene, a direct target of miR-26b, might be a key element in understanding the action of many diverse classes of anticancer compounds. We demonstrated that this network might be useful for studying the mechanisms of varied compound response on diverse cancer cell lines.		
+
+
+Keywords:
+NCI60; drug response; gene expression; integrating; network 
+
+
+
+
+

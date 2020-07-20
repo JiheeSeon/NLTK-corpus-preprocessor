@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2009; 7(1): 32-37.
+DOI: https://doi.org/10.5808/gi.2009.7.1.032
+Choosing Optimal STR Markers for Quality Assurance of Distributed Biomaterials in Biobanking.
+Tae Hoon Chung, Heejung Lee, Mihee Lee, Jae Pil Jeon, Kisang Kim, Bok Ghee Han
+Korea Biobank, Center for Genome Science, Korean National Institute of Health,Korea Center for Disease Control and Prevention, Seoul,Korea.
+Bokghee @ nih.go.kr
+Abstract
+The quality assurance(QA) is of utmost importance in biobanks when archived biomaterials are distributed to biomedical researchers.
+For sample authentication and cross-contamination detection, the two fundamental elements of QA, STR genotyping is usually utilized.
+However, the incorporated number of STR markers is highly redundant for biobanking purposes, resulting in time and cost inefficiency.
+An index to measure the cross-contamination detection capability of an STR marker, the mixture probability(MP), was developed.
+MP as well as other forensic parameters for STR markers was validated using STR genotyping data on 2328 normal Koreans with the commercial AmpFlSTR kit.
+For Koreans, 7 STR marker(D2S1338, FGA, D18S51, D8S1179, D13S317, D21S11, vWA) set was sufficient to provide discrimination power of ~10(-10) and cross-contamination detection probability of ~1.
+Interestingly, similar marker sets were obtained from African Americans, Caucasian Americans, and Hispanic Americans under the same level of discrimination power.
+Only a small subset of commonly used STR markers is sufficient for QA purposes in biobanks.
+A procedure for selecting optimal STR markers is outlined using STR genotyping results from normal Korean population.
+Keywords:
+Biobank; cross-contamination detection; quality assurance; sample authentication; short tandem repeat

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2008;6(1): 54-56. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.1.054
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+GTVseq: A Web-based Genotyping Tool for Viral Sequences.
+
+
+
+ Jae Min Shin,  Ho Eun Park,  Yong Ju Ahn,  Doo Ho Cho,  Ji Han Kim,  Mee Kyung Kee,  Sung Soon Kim,  Joo Shil Lee,  Sangsoo Kim 
+
+
+
+1SBscience Inc., Seongnam, Korea. sbscience@gmail.com 2Department of Bioinformatics, Soongsil University, Seoul 156-743, Korea. 3Department of Immunology and Pathology, National Institute of Health, Seoul 122-701, Korea. 4Korea Centers for Disease Control and Prevention, Seoul 122-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Genotyping Tool for Viral SEQuences (GTVseq) provides scientists with the genotype information on the viral genome sequences including HIV-1, HIV-2, HBV, HCV, HTLV-1, HTLV-2, poliovirus, enterovirus, flavivirus, Hantavirus, and rotavirus. GTVseq produces alternative and additive genotype information for the query viral sequences based on two different, but related, scoring methods. The genotype information produced is reported in a graphical manner for the reference genotype matches and each graphical output is linked to the detailed sequence alignments between the query and the matched reference sequences. GTVseq also reports the potential 'repeats' and/or 'recombination' sequence region in a separated window. GTVseq does not replace completely other well-known genotyping tools such as NCBI's virus sequence genotyping tool (http://www.ncbi.
+nlm.nih.gov/projects/genotyping/formpage.cgi), but provides additional information useful in the confirmation or for further investigation of the genotype(s) for the newly isolated viral sequences.		
+
+
+Keywords:
+Genotyping; Recombination; Subtyping; Viral Genome; Viral Sequence; Virus database; Visualization 
+
+
+
+
+

@@ -1,0 +1,16 @@
+Review
+Genomics & Informatics 2008; 6(4): 166-172.
+DOI: https://doi.org/10.5808/gi.2008.6.4.166
+In Silico Functional Assessment of Sequence Variations: Predicting Phenotypic Functions of Novel Variations.
+Hong Hee Won, Jong Won Kim
+1Samsung Biomedical Research Institute, Samsung Medical Center, Seoul 135-710, Korea.
+2Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology, Daejeon 305-701, Korea.
+3Department of Laboratory Medicine and Genetics, Sungkyunkwan University School of Medicine, Samsung Medical Center, Seoul 135-710, Korea.
+kimjw @ skku.edu
+Abstract
+A multitude of protein-coding sequence variations(CVs) in the human genome have been revealed as a result of major initiatives, including the Human Variome Project, the 1000 Genomes Project, and the International Cancer Genome Consortium.
+This naturally has led to debate over how to accurately assess the functional consequences of CVs, because predicting the functional effects of CVs and their relevance to disease phenotypes is becoming increasingly important.
+This article surveys and compares variation databases and in silico prediction programs that assess the effects of CVs on protein function.
+We also introduce a combinatorial approach that uses machine learning algorithms to improve prediction performance.
+Keywords:
+sequence variation; amino acid substitution; nonsynonymous single nucleotide polymorphism; missense mutation; prediction; protein function

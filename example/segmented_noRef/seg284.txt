@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2009; 7(4): 181-186.
+DOI: https://doi.org/10.5808/gi.2009.7.4.181
+RNA Mapping of Mutant Myotonic Dystrophy Protein Kinase 3'-Untranslated Region Transcripts.
+Min Sun Song, Seong Wook Lee
+Department of Molecular Biology, BK21 Graduate Program for RNA Biology, Institute of Nanosensor and Biotechnology, Dankook University, Yongin 448-701, Korea.
+SWL0208 @ dankook.ac.kr
+Abstract
+Myotonic dystrophy type 1(DM1), which is a dominantly inherited neurodegenerative disorder, results from a CTG trinucleotide repeat expansion in the 3'-untranslated region(3'-UTR) of the myotonic dystrophy protein kinase(DMPK) gene.
+Retention of mutant DMPK(mDMPK) transcripts in the nuclei of affected cells has been known to be the main cause of pathogenesis of the disease.
+Thus, reducing the RNA toxicity through elimination of the mutant RNA has been suggested as one therapeutic strategy against DM1.
+In this study, we suggested RNA replacement with a trans -splicing ribozyme as an alternate genetic therapeutic approach for amelioration of DM1.
+To this end, we identified the regions of mDMPK 3'-UTR RNA that were accessible to ribozymes by using an RNA mapping strategy based on a trans - splicing ribozyme library.
+We found that particularly accessible sites were present not only upstream but also downstream of the expanded repeat sequence.
+Repair or replacement of the mDMPK transcript with the specific ribozyme will be useful for DM1 treatment through reduction of toxic mutant transcripts and simultaneously restore wild-type DMPK or release nucleus-entrapped mDMPK transcripts to the cytoplasm.
+Keywords:
+group I intron; myotonic dystrophy protein kinase; RNA mapping; RNA replacement; trans-splicing ribozyme; trinucleotide repeat expansion

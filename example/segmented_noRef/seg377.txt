@@ -1,0 +1,21 @@
+Review
+Genomics & Informatics 2007; 5(2): 46-55.
+Molecular Imaging in the Age of Genomic Medicine.
+Jonghoe Byun
+Department of Molecular Biology, BK21 graduate program for RNA Biology, Institute of Nanosensor and Biotechnology, Dankook University, Seoul 140-714, Korea.
+jonghoe @ dankook.ac.kr
+Abstract
+The convergence of molecular and genetic disciplines with non-invasive imaging technologies has provided an opportunity for earlier detection of disease processes which begin with molecular and cellular abnormalities.
+This emerging field, known as molecular imaging, is a relatively new discipline that has been rapidly developed over the past decade.
+It endeavors to construct a visual representation, characterization, and quantification of biological processes at the molecular and cellular level within living organisms.
+One of the goals of molecular imaging is to translate our expanding knowledge of molecular biology and genomic sciences into good patient care.
+The practice of molecular imaging is still largely experimental, and only limited clinical success has been achieved.
+However, it is anticipated that molecular imaging will move increasingly out of the research laboratory and into the clinic over the next decade.
+Non-invasive in vivo molecular imaging makes use of nuclear, magnetic resonance, and in vivo optical imaging systems.
+Recently, an interest in Positron Emission Tomography(PET) has been revived, and along with optical imaging systems PET is assuming new, important roles in molecular genetic imaging studies.
+Current PET molecular imaging strategies mostly rely on the detection of probe accumulation directly related to the physiology or the level of reporter gene expression.
+PET imaging of both endogenous and exogenous gene expression can be achieved in animals using reporter constructs and radiolabeled probes.
+As increasing numbers of genetic markers become available for imaging targets, it is anticipated that a better understanding of genomics will contribute to the advancement of the molecular genetic imaging field.
+In this report, the principles of non-invasive molecular genetic imaging, its applications and future directions are discussed.
+Keywords:
+molecular genetic imaging; reporter gene imaging; probe; PET; genomics

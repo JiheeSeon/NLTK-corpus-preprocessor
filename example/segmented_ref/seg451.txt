@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2004; 2(3): 134-141.
+In silico Prediction of Angiogenesis-related Genes in Human Hepatocellular Carcinoma.
+Seung Hui Kang, Jeong Ae Park, Soon Sun Hong, Kyu Won Kim
+1College of Pharmacy and Research Institute of Pharmaceutical Sciences, Seoul National University, Seoul 151-742, Korea.
+qwonkim @ plaza.snu.ac.kr 2Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-742, Korea.
+Abstract
+Hepatocellular carcinoma(HCC) is one of the most common malignancies worldwide and a typical hypervascular tumor.
+Therefore, it is important to find factors related to angiogenesis in the process of HCC malignancy.
+In order to find angiogenesis-related factors in HCC, we used combined methods of in silico prediction and an experimental assay.
+We analyzed 1457 genes extracted from cDNA microarray of HCC patients by text-mining, sequence similarity search and domain analysis.
+As a result, we predicted that 16 genes were likely to be involved in angiogenesis and then the effects of these genes were confirmed by hypoxia response element(HRE) -luciferase assay.
+For instant, we classified osteopontin into a potent angiogenic factor and coagulation factor XII into a significant anti-angiogenic factor.
+Collectively, we suggest that using a combination of in silico prediction and experimental approaches, we can identify HCC-specific angiogenesis-related factors effectively and rapidly.
+Keywords:
+HCC; hepatocellular carcinoma; bioinformatics; angiogenesis; hmmer; blast

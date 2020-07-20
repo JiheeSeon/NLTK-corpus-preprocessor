@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2008;6(4): 161-165. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.4.161
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Personal Genomics, Bioinformatics, and Variomics.
+
+
+
+ Jong Bhak,  Ho Ghang,  Rohit Reja,  Sangsoo Kim 
+
+
+
+1KOBIC (Korean Bioinformation Center), KRIBB, Daejeon 305-806, Korea. 2Department of Bioinformatics, Soongsil University, Seoul 156-743, Korea. sskimb@ssu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In 2008 at least five complete genome sequences are available. It is known that there are over 15,000,000 genetic variants, called SNPs, in the dbSNP database. The cost of full genome sequencing in 2009 is claimed to be less than $5000 USD. The genomics era has arrived in 2008. This review introduces technologies, bioinformatics, genomics visions, and variomics projects. Variomics is the study of the total genetic variation in an individual and populations. Research on genetic variation is the most valuable among many genomics research branches. Genomics and variomics projects will change biology and the society so dramatically that biology will become an everyday technology like personal computers and the internet. 'BioRevolution' is the term that can adequately describe this change.		
+
+
+Keywords:
+personal genomics; bioinformatics; variomics 
+
+
+
+
+

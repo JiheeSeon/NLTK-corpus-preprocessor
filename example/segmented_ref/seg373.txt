@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2007; 5(2): 77-82.
+Serotonin(5-HT) Receptor Subtypes Mediate Regulation of Neuromodulin Secretion in Rat Hypothalamic Neurons.
+Chur Chin, Seong Il Kim
+Nano-Science Research Division, Korea Institute of Science & Technology, Seoul 136-791, Korea.
+s-ikim @ kist.re.kr
+Abstract
+Serotonin(5-HT), the endogenous nonselective 5-HT receptor agonist, activates the inositol -1,4,5- triphosphate/ calcium(InsP3/Ca2+) signaling pathway and exerts both stimulatory and inhibitory actions on cAMP production and neuromodulin secretion in rat hypothalamic neurons.
+Specific mRNA transcripts for 5-HT1A, 5-HT2C and 5-HT4 were identified in rat hypothalamic neurons.
+These experiments were supported by combined techniques such as cAMP and a Ca2+ assays in order to elucidate the associated receptors and signaling pathways.
+The cAMP production and neuromodulin release were profoundly inhibited during the activation of the Gi-coupled 5-HT1A receptor.
+Treatment with a selective agonist to activate the Gq-coupled 5-HT2C receptor stimulated InsP3 production and caused Ca2+ release from the sarcoplasmic reticulum.
+Selective activation of the Gs-coupled 5-HT4 receptor also stimulated cAMP production, and caused an increase in neuromodulin secretion.
+These findings demonstrate the ability of 5-HT receptor subtypes expressed in neurons to induce neuromodulin production.
+This leads to the activation of single or multiple G-proteins which regulate the InsP3/Ca2+/PLC-gamma and adenyl cyclase/ cAMP signaling pathways.
+Keywords:
+neuromodulin signaling; selective serotonin agonists; rat hypothalamus; cAMP; intracellular Ca2+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(4): 185-193. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.4.185
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Recovery of Genes Epigenetically Altered by the Histone Deacetylase Inhibitor Scriptaid and Demethylating Agent 5-Azacytidine in Human Leukemia Cells.
+
+
+
+ Eunkyung Park,  Eunhyung Jeon,  In Ho Kim,  Seonyang Park 
+
+
+
+1Diagnostic DNA Chip Center, Seoul National University College of Medicine, Seoul, Korea. seonpark@plaza.snu.ac.kr 2Department of Internal Medicine, Chung-Ang University College of Medicine, Seoul 156-755, Korea. 3Department of Internal Medicine, Seoul National University College of Medicine, Seoul 110-744, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Histone deacetylation and demethylation are epigenetic mechanisms implicated in cancer. Studies regarding the role of modulation of gene expression utilizing the histone deacetylase inhibitor scriptaid and the demethylating agent 5-azacytidine in HL-60 leukemia cells have been limited. We studied the possibility of recovering epigenetically silenced genes by scriptaid and 5-azacytidine in human leukemia cells by DNA microarray analysis. The first group was leukemia cells that were cultured with 5-azacytidine.
+The second group was cultured with scriptaid. The other group was cultured with both agents. Two hundred seventy newly developed genes were expressed after the combination of 5-azacytidine and scriptaid. Twenty-nine genes were unchanged after the combination treatment of 5-azacytidine and scriptaid. Among the 270 genes, 13 genes were differed significantly from the control. HPGD , CPA3, CEACAM6, LOC653907, ETS1, RAB37, PMP22, FST, FOXC1, and CCL2 were up-regulated, and IGLL3, IGLL1, and ASS1 were down-regulated. Eleven genes associated with oncogenesis were found among the differentially expressed genes: ETS1, ASCL2, BTG2, BTG1, SLAMF6, CDKN2D, RRAS, RET, GIPC1, MAGEB, and RGL4. We report the results of our leukemia cell microarray profiles after epigenetic combination therapy with the hope that they are the starting point of selectively targeted epigenetic therapy.		
+
+
+Keywords:
+deacetylation; demethylation; epigenetic; leukemia; microarray 
+
+
+
+
+

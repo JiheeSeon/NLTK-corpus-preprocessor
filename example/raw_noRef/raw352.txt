@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2007;5(4): 200-202. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The AB05 NIAB Tools Workbench for Building Automatic Biopathway Maps for Agricultural Organisms.
+
+
+
+ Mi Kyung Cho,  Kyung Oh Yoon,  Hyun Seok Park 
+
+
+
+1Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea. hspark@macrogen.com 2Department of Computer Science, Ewha Womans University, Seoul 120-75, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		For the past several years, we have built various tools for automatic construction of biopathways to help biological experts, especially in the field of agriculture. We integrated several systems for constructing web applications for analyzing biological pathway information for agricultural species, constructing optimized pathway maps.
+In addition to building web applications for agricultural pathway information, we developed several stand-alone software tools, which are publicly downloadable under proper license agreements.		
+
+
+Keywords:
+visualization; pathway map; interaction; bioinformatics 
+
+
+
+
+

@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(4): 167-169. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Approach to the Analysis of Palindromic Structure in Genome Sequences.
+
+
+
+ Seok Won Kim,  Yong Seok Lee,  Sang Haeng Choi,  Sung Hwa Chae,  Dae Won Kim,  Hong Seog Park 
+
+
+
+1Genome Research Center, KRIBB, Daejeon, Korea. hspark@kribb.re.kr 2Department of Parasitology and Malariology, PICR, College of Medicine and Frontier Inje Research for Science and Technology, Inje University, Busan, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		PABAP (Palindrome Analysis by BLAST Program) is an analysis system that identifies palindromic sequences from a large genome sequence up to several megabases long.
+It uses NCBI BLAST as a searching engine, and data processing such as alignment filtration and detection of inverted repeats which satisfy user- defined parameters is performed by manipulating data after populating into a MySQL database. PABAP outperforms publicly available palindrome search program in that it can detect large palindrome with internal spacer at a faster speed from bacterial genomes. It is a standalone application and is freely available for noncommercial users.
+AVAILABILITY: This application was implemented with free software (Perl, Apache, MySQL, and NCBI BLAST) and is freely available to noncommercial users upon request. Analysis of user data can be carried out directly at http://chimp.kribb.re.kr/~javamint/palindrome.		
+
+
+Keywords:
+palindrome; inverted repeat; BLAST 
+
+
+
+
+

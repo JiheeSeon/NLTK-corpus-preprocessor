@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2007;5(3): 137-139. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAN-aCGH: R GUI Tools for Analysis and Visualization of an Array-CGH Experiment.
+
+
+
+ Sangcheol Kim,  Byung Soo Kim 
+
+
+
+			Department of Applied Statistics, Yonsei University, Seoul 102-749, Korea. bskim@yonsei.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		RAN-aCGH is an R GUI tool for the analysis and visualization of array comparative genomic hybridization (array-CGH) experiments. The tool consists of data-loading, preprocessing for missing data, several methods for statistical identification of DNA copy number aberration, and visualization of the copy number change. RAN-aCGH requires a single input format, provides various visualizations, and allows the addition of a new statistical method, all in a user-friendly graphic user interface (GUI).		
+
+
+Keywords:
+array-CGH; R GUI; copy number aberration 
+
+
+
+
+

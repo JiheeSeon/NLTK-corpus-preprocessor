@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(3): 108-115. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.3.108
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Genome-Wide Association Analyses on Blood Pressure Using Three Different Phenotype Definitions.
+
+
+
+ Ji Wan Park,  Saanyong Uhmm,  Chol Shin,  Nam H Cho,  Yoon Shin Cho,  Jong Young Lee 
+
+
+
+1Department of Medical Genetics, College of Medicine, Hallym University, Chunchon 200-702, Korea. jwpark@hallym.ac.kr 2Department of Computer Engineering, College of Information and Electronic Engineering, Hallym University, Chunchon 200-702, Korea. 3Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Korea University Ansan Hospital, Ansan 425-707, Korea. 4Department of Preventive Medicine, Ajou University School of Medicine, Suwon 442-749, Korea. 5Center for Genome Science, National Institute for Health, Seoul 122-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Hypertension is the most prevalent disease worldwide and is itself a risk factor for cerebral, cardiac, and renal diseases. The inconsistency of candidate genes suggested by previous genomewide association studies (GWASs) may be due to not only differences in study design and genetic or environmental background but also the difference in the power of analysis between continuous traits and discrete traits. We analyzed 352,228 single nucleotide polymorphisms (SNPs) in 8842 unrelated Koreans obtained from Ansan and Ansung cohorts. We performed a series of GWA analyses using three different phenotype models; young hypertensive cases (278 subjects) versus elderly normotensive controls (680 subjects); the upper 25% (2211 hypertensive cases) versus the lower 25% of the SBP distribution (2211 hypotensive controls); and finally SBP and DBP as continuous traits (8842 subjects). The numbers of young hypertensive cases and elderly normotensive controls were not large enough to achieve genomewide significance. The model comparing the upper 25% subjects to the lower 25% of subjects showed a power that was approximate to that of QTL analysis. Two neighboring SNPs of the ATP2B1 gene, rs17249754 (SBP, p=2.53-10; DBP, p=1.28x10-8) and rs7136259 (SBP, p=1.30x10-9; DBP, p=6.41x10-8), were associated with both SBP and DBP. Interestingly, a SNP of the RPL6 gene, rs11066280, revealed a significant genomewide association with SBP in men only (p=3.85x10-8), and four SNPs located near the MAN2A1 gene showed a strong association with DBP only in elderly men aged 60-70 years (e.g., rs6421827, p=4.86x10-8). However, we did not observe any gene variant attaining genome-wide significance consistently in the three phenotype models except for the ATP2B1 gene variants. In general, the association signal with blood pressure was stronger in women than in men. Genes identified in GWASs are expected to open the way for prevention, early diagnosis, and personalized treatment of hypertension.		
+
+
+Keywords:
+genomewide association study; blood pressure; case-control study; continuous trait locus analysis; single nucleotide polymorphism 
+
+
+
+
+

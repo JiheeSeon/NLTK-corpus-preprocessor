@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2010; 8(3): 142-149.
+DOI: https://doi.org/10.5808/gi.2010.8.3.142
+Joint Identification of Multiple Genetic Variants of Obesity in a Korean Genome-wide Association Study.
+Sohee Oh, Seoae Cho, Taesung Park
+1Department of Statistics, Seoul National University, Seoul 151-747, Korea.
+tspark @ stats.snu.ac.kr 2Department of Statistics, University of California, Berkeley, USA.
+Abstract
+In recent years, genome-wide association(GWA) studies have successfully led to many discoveries of genetic variants affecting common complex traits, including height, blood pressure, and diabetes.
+Although GWA studies have made much progress in finding single nucleotide polymorphisms(SNPs) associated with many complex traits, such SNPs have been shown to explain only a very small proportion of the underlying genetic variance of complex traits.
+This is partly due to that fact that most current GWA studies have relied on single-marker approaches that identify single genetic factors individually and have limitations in considering the joint effects of multiple genetic factors on complex traits.
+Joint identification of multiple genetic factors would be more powerful and provide a better prediction of complex traits, since it utilizes combined information across variants.
+Recently, a new statistical method for joint identification of genetic variants for common complex traits via the elastic-net regularization method was proposed.
+In this study, we applied this joint identification approach to a large-scale GWA dataset(i.e., 8842 samples and 327,872 SNPs) in order to identify genetic variants of obesity for the Korean population.
+In addition, in order to test for the biological significance of the jointly identified SNPs, gene ontology and pathway enrichment analyses were further conducted.
+Keywords:
+genome-wide association study; elastic-net regularization method; obesity

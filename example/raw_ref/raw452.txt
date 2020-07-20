@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2004;2(3): 131-133. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MediScore: MEDLINE-based Interactive Scoring of Gene and Disease Associations.
+
+
+
+ Hye Young Cho,  Bermseok Oh,  Jong Keuk Lee,  Kuchan Kimm,  InSong Koh 
+
+
+
+			Division of Epidemiology and Bioinformatics, National Genome Research Institute, National Institute of Health, 5 Nokbun-Dong, Eunpyung-Gu, Seoul 122-701, Korea. insong@ngri.re.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		MediScore is an information retrieval system, which helps to search for the set of genes associated with a specific disease or the set of diseases associated with a specific gene. Despite recent improvement of natural language processing (NLP) and other text mining approaches to search for disease associated genes, many false positive results come out due to diversity of exceptional cases as well as ambiguities in gene names.
+In order to overcome the weak points of current text mining approaches, MediScore introduces statistical normalization based on binomial to normal distribution approximation which corrects inaccurate scores caused by common words not representing genes and interactive rescoring by the user to remove the false positive results. Interactive rescoring includes individual alias scoring for each gene to remove false gene synonyms, referring MEDLINE abstracts, and cross referencing between OMIM and other related information.		
+
+
+Keywords:
+interactive scoring; MEDLINE; text mining 
+
+
+
+
+

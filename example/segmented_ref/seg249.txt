@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2010; 8(4): 177-184.
+DOI: https://doi.org/10.5808/gi.2010.8.4.177
+Genomewide Profiling of Rapamycin Sensitivity in Saccharomyces cerevisiae on Synthetic Medium.
+Yeon Ji Chang, Chun Shik Shin, Donghun Han, Jiyun Kim, Kangin Kim, Yong Min Kwon, Won Ki Huh
+1School of Biological Sciences, and Research Center for Functional Cellulomics, Institute of Microbiology, Seoul National University, Seoul 151-747, Korea.
+wkh @ snu.ac.kr 2Korea Science Academy, Busan 614-822, Korea.
+Abstract
+The target of rapamycin(TOR) signaling pathway is a conserved pathway that regulates eukaryotic cell growth in response to environmental cues.
+Chemical genomic approaches that profile rapamycin sensitivity of yeast deletion strains have given insights into the function of TOR signaling pathway.
+In the present study, we analyzed the rapamycin sensitivity of yeast deletion library strains on synthetic medium.
+As a result, we identified 130 strains that are hypersensitive or resistant to rapamycin compared with wild-type cells.
+Among them, 36 genes are newly identified to be related to rapamycin sensitivity.
+Moreover, we found 16 strains that show alteration in rapamycin sensitivity between complex and synthetic media.
+We suggest that these genes may be involved in part of TOR signaling activities that is differentially regulated by media composition.
+Keywords:
+rapamycin; Saccharomyces cerevisiae; TOR signaling pathway; yeast deletion library

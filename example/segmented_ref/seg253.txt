@@ -1,0 +1,23 @@
+Original Article
+Genomics & Informatics 2010; 8(3): 150-158.
+DOI: https://doi.org/10.5808/gi.2010.8.3.150
+Application of Structural Equation Models to Genome-wide Association Analysis.
+Jiyoung Kim, Junghyun Namkung, Seungmook Lee, Taesung Park
+1Department of Statistics, Seoul National University, Seoul 151-747, Korea.
+tspark @ stats.snu.ac.kr 2Department of Epidemiology and Biostatistics, Case Western Reserve University, 2103 Cornell Road, Cleveland, OH 44106-7281, USA.
+Abstract
+Genome-wise association studies(GWASs) have become popular approaches to identify genetic variants associated with human biological traits.
+In this study, we applied Structural Equation Models(SEMs) in order to model complex relationships between genetic networks and traits as risk factors.
+SEMs allow us to achieve a better understanding of biological mechanisms through identifying greater numbers of genes and pathways that are associated with a set of traits and the relationship among them.
+For efficient SEM analysis for GWASs, we developed a procedure, comprised of four stages.
+In the first stage, we conducted single-SNP analysis using regression models, where age, sex, and recruited area were included as adjusting covariates.
+In the second stage, Fisher 's combination test was conducted for each gene to detect significant genes using p-values obtained from the single-SNP analysis.
+In the third stage, Fisher 's exact test was adopted to determine which biological pathways were enriched with significant SNPs.
+Finally, based on a pathway that was associated with the four traits in common, a SEM was fit to model a causal relationship among the genetic factors and traits.
+We applied our SEM model to GWAS data with four central obesity related traits: suprailiac and subscapular measures for upper body fat, BMI, and hypertension.
+Study subjects were collected from two Korean cohort regions.
+After quality control, 327,872 SNPs for 8842 individuals were included in the analysis.
+After comparing two SEMs, we concluded that suprailiac and subscapular measures may indirectly affect hypertension susceptibility by influencing BMI.
+In conclusion, our analysis demonstrates that SEMs provide a better understanding of biological mechanisms by identifying greater numbers of genes and pathways.
+Keywords:
+central obesity; suprailiac; subscapular; body mass index(BMI); hypertension; genome-wide association study(GWAS); structural equation model(SEM)

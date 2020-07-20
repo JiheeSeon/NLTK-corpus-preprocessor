@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(3): 103-109. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Association of the Human IL-28RA Gene Polymorphisms in a Korean Population with Asthma.
+
+
+
+ Soo Cheon Chae,  Young Ran Park,  Yong Chul Lee,  Yun Sik Yang,  Hun Taeg Chung 
+
+
+
+1Genome Research Center for Immune Disorders, Wonkwang University School of Medicine, Iksan, Chonbuk, Korea. htchung@wonkwang.ac.kr 2Department of Internal Medicine, Research Center for Allergic Immune Diseases, Chonbuk National University Medical School, Chonju, Chonbuk, Korea. 3Department of Ophthalmology, Wonkwang University School of Medicine, Iksan, Chonbuk, Korea. 4Department of Microbiology and Immunology, Wonkwang University School of Medicine, Iksan, Chonbuk, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		IL-28RA is one of the important candidate genes for complex trait of genetic diseases, but there are only a few published results for this gene. Previously, we identified eighteen SNPs and two variation sites in the entire coding regions of IL-28RA including promoter regions, and suggested that the g.32349G > A polymorphism of IL-28RA might be associated with susceptibility to allergic rhinitis. In this study, we chose seven SNPs (g.-1193A > C, g.-30C > T, g.17654C > T, g.27798A > G, g.31265C > T, g.31911C > T and g.32349G > A) of IL-28RA, and attempted to find out whether these polymorphisms were furtherassociated with genetic predisposition of asthma. We analyzed the genotype and allele frequencies of IL-28RA polymorph isms between the asthma patients and healthy controls. We also investigated the frequencies of haplotype constructed by these SNPs between asthma patients and controls. Our results suggest that the polymorphisms of IL-28RA gene were not associated with susceptibility to asthma, and not with IgE production and eosinophil recruitment. The haplotype frequencies by these SNPs also not significantly associated between the healthy controls and asthma patients. This result indicates that the IL-2BRA polymorphisms might be not associated withasthma susceptibility.		
+
+
+Keywords:
+IL-28RA; polymorphism; haplotype; asthma; cytokine 
+
+
+
+
+

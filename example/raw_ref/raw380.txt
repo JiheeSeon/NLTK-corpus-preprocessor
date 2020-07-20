@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2007;5(1): 30-31. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ChroView: A Trace Viewer for Browsing and Editing Chromatogram files.
+
+
+
+ Hong Seok Tae,  Eun Bae Kong,  Kie Jung Park 
+
+
+
+1Information Technology Institute, SmallSoft Co. Ltd., Daejeon 305-343, Korea. kjpark@smallsoft.co.kr 2Department of Computer Engineering, Chungnam National University, Daejeon 305-764, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Many visualization tools have been designed to aid information processing during whole genome projects. We have developed a trace viewer program, ChroView, which can read a chromatogram file and display the chromatogram traces of the four bases. The program can be used to examine sequencing quality and base-calling errors. It can also help researchers to edit and save base-calling results while browsing the traces. Additionally, this program has a basecalling feature which can produce supplementary data for validation of the results from other base-calling programs.		
+
+
+Keywords:
+ChroView; base-calling; chromatogram; trace view; contig assembly 
+
+
+
+
+

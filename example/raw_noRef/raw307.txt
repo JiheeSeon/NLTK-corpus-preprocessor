@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2009;7(1): 38-40. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.1.038
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+EST Knowledge Integrated Systems (EKIS): An Integrated Database of EST Information for Research Application.
+
+
+
+ Dae Won Kim,  Tae Sung Jung,  Young Sang Choi,  Seong Hyeuk Nam,  Hyuk Ryul Kwon,  Dong Wook Kim,  Han Suk Choi,  Sang Heang Choi,  Hong Seog Park 
+
+
+
+1Genome Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon, Korea. hspark@kribb.re.kr 2Department of Functional Genome, University of Science and Technology, Daejeon, Korea. 3Department of Multimedia Engineering, Mokpo National University, Jeonnam, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The EST Knowledge Integrated System, EKIS (http://ekis.kribb.re.kr), was established as a part of Korea's Ministry of Education, Science and Technology initiative for genome sequencing and application research of the biological model organisms (GEAR) project. The goals of the EKIS are to collect EST information from GEAR projects and make an integrated database to provide transcriptomic and metabolomic information for biological scientists. The EKIS constitutes five independent categories and several retrieval systems in each category for incorporating massive EST data from high-throughput sequencing of 65 different species. Through the EKIS database, scientists can freely access information including BLAST functional annotation as well as Genechip and pathway information for KEGG. By integrating complex data into a framework of existing EST knowledge information, the EKIS provides new insights into specialized metabolic pathway information for an applied industrial material.		
+
+
+Keywords:
+biological system; data mining; expressed sequence tag; functional annotation; metabolic pathways 
+
+
+
+
+

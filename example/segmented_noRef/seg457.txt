@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2004; 2(2): 99-106.
+PubMiner: Machine Learning-based Text Mining for Biomedical Information Analysis.
+Jae Hong Eom, Byoung Tak Zhang
+Department of Biointelligence Laboratory, School of Computer Science and Engineering, Seoul National University, Seoul 151-744, Korea.
+btzhang @ bi.snu.ac.kr
+Abstract
+In this paper we introduce PubMiner, an intelligent machine learning based text mining system for mining biological information from the literature.
+PubMiner employs natural language processing techniques and machine learning based data mining techniques for mining useful biological information such as protein-protein interaction from the massive literature.
+The system recognizes biological terms such as gene, protein, and enzymes and extracts their interactions described in the document through natural language processing.
+The extracted interactions are further analyzed with a set of features of each entity that were collected from the related public databases to infer more interactions from the original interactions.
+An inferred interaction from the interaction analysis and native interaction are provided to the user with the link of literature sources.
+The performance of entity and interaction extraction was tested with selected MEDLINE abstracts.
+The evaluation of inference proceeded using the protein interaction data of S. cerevisiae(bakers yeast) from MIPS and SGD.
+Keywords:
+Biomedical Text Mining; Data Mining; Machine Learning,; Software Application

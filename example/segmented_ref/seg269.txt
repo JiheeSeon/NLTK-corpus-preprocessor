@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2010; 8(2): 63-69.
+DOI: https://doi.org/10.5808/gi.2010.8.2.063
+A Comparative Analysis of Monofunctional Biosynthetic Peptidoglycan Transglycosylase(MBPT) from Pathogenic and Non-pathogenic Bacteria.
+Andrew T Baker, Natsumi Takahashi, Sathees B Chandra
+Department of Biological, Chemical and Physical Sciences, Roosevelt University, Chicago, USA. schandra @ roosevelt.edu
+Abstract
+Monofunctional biosynthetic peptidoglycan transglycosylase(MBPT) catalyzes the formation of the glycan chain in bacterial cell walls from peptidoglycan subunits: N-acetylglucosamine(NAG) and acetylmuramic acid(NAM).
+Bifunctional glycosyltransferases such as the penicillin binding protein(PBP) have peptidoglycan glycosyltransferase(PGT) on their C terminal end which links together the peptidoglycan subunits while transpeptidase(TP) on the N terminal end cross-links the peptide moieties on the NAM monosaccharide of the peptide subunits to create the bacterial cell wall.
+The singular function of MBPT resembles the C terminal end of PBP as it too contains and utilizes a similar PGT domain.
+In this article we analyzed the infectious and non infectious protein sequences of MBPT from 31 different strains of bacteria using a variety of bioinformatic tools.
+Motif analysis, dot-plot comparison, and phylogenetic analysis identified a number of significant differences between infectious and non-infectious protein sequences.
+In this paper we have made an attempt to explain, analyze and discuss these differences from an evolutionary perspective.
+The results of our sequence analysis may open the door for utilizing MBPT as a new target to fight a variety of infectious bacteria.
+Keywords:
+peptidoglycan; infectious; pathogenicity; bacterial cell wall; penicillin

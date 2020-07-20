@@ -1,0 +1,26 @@
+Original Article
+Genomics & Informatics 2008; 6(1): 18-28.
+DOI: https://doi.org/10.5808/gi.2008.6.1.018
+Chromosome 22 LD Map Comparison between Korean and Other Populations.
+Jong Eun Lee, Hye Yoon Jang, Sook Kim, Yeon Kyeong Yoo, Jung Joo Hwang, Hyojung Jun, Kyusang Lee, Okkyung Son, Jun Mo Yang, Kwang Sung Ahn, Eugene kim, Hye Won Lee, Kyuyoung Song, Hie Lim Kim, Seong Gene Lee, Yongsook Yoon, Kuchan Kimm, Bok Ghee Han, Bermseok Oh, Chang Bae Kim, Hoon Jin, Kyoung O Choi, Hyojin Kang, Young J Kim
+1Genotyping Centers: DNA Link, Inc., Korea.
+jonglee @ dnalink.com 2Samsung Advanced Institute of Technology, Korea.
+jungjoo.hwang @ samsung.com 3Sungkyunkwan University School of Medicine, Korea.
+jmyang @ smc.samsung.co.kr 4University of Ulsan College of Medicine, Korea.
+kysong @ amc.seoul.kr 5Community Engagement/Public Consultation and Sample Collection Group: the Genomic Research Center, Korean National Institute of Health, Korea.
+6Analysis Group: Medical Genomics Research Center, Korea.
+changbae @ kribb.re.kr; yjkim8 @ kribb.re.kr
+Abstract
+Single nucleotide polymorphisms(SNPs) are the most abundant forms of human genetic variations and resources for mapping complex genetic traits and disease association studies.
+We have constructed a linkage disequilibrium(LD) map of chromosome 22 in Korean samples and compared it with those of other populations, including Yorubans in Ibadan, Nigeria(YRI), Centred'Etude du Polymorphisme Humain(CEPH) reference families(CEU), Japanese in Tokyo(JPT) and Han Chinese in Beijing(CHB) in the HapMap database.
+We genotyped 4681 of 111,448 publicly available SNPs in 90 unrelated Koreans.
+Among genotyped SNPs, 4167 were polymorphic.
+Three hundred and five LD blocks were constructed to make up 18.6%(6.4 of 34.5 Mb) of chromosome 22 with 757 tagSNPs and 815 haplotypes(frequency> or = 5.0%).
+Of 3430 common SNPs genotyped in all five populations, 514 were monomorphic in Koreans.
+The CHB + JPT samples have more than a 72% overlap with the monomorphic SNPs in Koreans, while the CEU + YRI samples have less than a 38% overlap.
+The patterns of hot spots and LD blocks were dispersed throughout chromosome 22, with some common blocks among populations, highly concordant between the three Asian samples.
+Analysis of the distribution of chimpanzee-derived allele frequency(DAF), a measure of genetic differentiation, Fst levels, and allele frequency difference(AFD) among Koreans and the HapMap samples showed a strong correlation between the Asians, while the CEU and YRI samples showed a very weak correlation with Korean samples.
+Relative distance as a quantitative measurement based upon DAF, Fst, and AFD indicated that all three Asian samples are very proximate, while CEU and YRI are significantly remote from the Asian samples.
+Comparative genome-wide LD studies provide useful information on the association studies of complex diseases.
+Keywords:
+haplotype; HapMap; Korean; LD; populations; SNP

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(4): 227-230. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.4.227
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Computational Approach for Biosynthetic Engineering of Post-PKS Tailoring Enzymes.
+
+
+
+ Ki Bong Kim,  Kiejung Park 
+
+
+
+1Department of Bioinformatics Engineering, Sangmyung University, Cheonan 330-720, Korea. kbkim@smu.ac.kr 2SmallSoft Co., Deajeon 305-728, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Compounds of polyketide origin possess a wealth of pharmacological effects, including antibacterial, antifungal, antiparasitic, anticancer and immunosuppressive activities. Many of these compounds and their semisynthetic derivatives are used today in the clinic. Most of the gene clusters encoding commercially important drugs have also been cloned and sequenced and their biosynthetic mechanisms studied in great detail. The area of biosynthetic engineering of the enzymes involved in polyketide biosynthesis has recently advanced and been transferred into the industrial arena. In this work, we introduce a computational system to provide the user with a wealth of information that can be utilized for biosynthetic engineering of enzymes involved in post-PKS tailoring steps.
+Post-PKS tailoring steps are necessary to add functional groups essential for the biological activity and are therefore important in polyketide biosynthesis.		
+
+
+Keywords:
+pharmacological effects; gene clusters; biosynthetic engineering; post-PKS tailoring step 
+
+
+
+
+

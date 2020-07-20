@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(4): 142-148. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparative Genomics Study of Interferon-alpha Receptor-1 in Humans and Chimpanzees.
+
+
+
+ Il Chul Kim,  Seung Wook Chi,  Dae Won Kim,  Sang Haeng Choi,  Sung Hwa Chae,  Hong Seog Park 
+
+
+
+1Genome Structure Research Laboratory, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-333, Korea. 2Protein Analysis and Design Laboratory, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-333, Korea. 3University of Science and Technology (UST), Daejeon 305-333, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The immune response-related genes have been suggested to be the most favorable genes for positive selection during evolution. Comparing the entire DNA sequence of chimpanzee chromosome 22 (PTR22) with human chromosome 21 (HSA21), we have identified 15 orthologs having indel in their coding sequences. Among them, interferon-alpha receptor-1 gene (IFNAR1), an immuneresponse- related gene, is subjected to comparative genomic analysis. Chimpanzee IFNAR1 showed the same genomic structure as human IFNAR1 (11 exons and 10 introns) except the 3 bp insertion in exon 4. The sequence alignment of IFNAR1 coding sequence indicated that "ISPP" amino acid sequence motif is highly conserved in chimpanzee and other animals including mouse and chicken. However, the human IFNAR1 shows that one proline residue is missing in the sequence motif. The homology modeling of the IFNAR1 structures suggests that the proline deletion in human IFNAR1 leads to the formation of the following alpha-helix, whereas two sequential prolines in chimpanzee IFNAR1 inhibit it. As a result, human IFNAR1 may adopt a characteristic structure distinct from chimpanzee IFNAR1. This human specific trait could contribute to specific immune response in the most optimized manner for humans. Further molecular biological studies on the IFNAR1 will help us to gain insights into the molecular implication of species specific host-pathogen interaction in primate evolution.		
+
+
+
+
+

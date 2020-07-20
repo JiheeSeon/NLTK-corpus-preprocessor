@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2004; 2(2): 61-66.
+ChimerDB - Database of Chimeric Sequences in the GenBank.
+Namshin Kim, Seokmin Shin, Kwang Hwi Cho, Sanghyuk Lee
+1Division of Molecular Life Sciences, Ewha Womans University, Seoul 120-750, Korea.
+sanghyuk @ ewha.ac.kr 2School of Chemistry, Seoul National University, Seoul 151-747, Korea.
+3Department of Bioinformatics and CAMDRC, Soongsil University, Seoul 156-743, Korea.
+Abstract
+Fusion proteins resulting from chimeric sequences are excellent targets for therapeutic drug development.
+We developed a database of chimeric sequences by examining the genomic alignment of mRNA and EST sequences in the GenBank.
+We identified 688 chimeric mRNA and 20,998 chimeric EST sequences.
+Including EST sequences greatly expands the scope of chimeric sequences even though it inevitably accompanies many artifacts.
+Chimeric sequences are clustered according to the ECgene ID so that the user can easily find chimeric sequences related to a specific gene.
+Alignments of chimeric sequences are displayed as custom tracks in the UCSC genome browser.
+ChimerDB, available at http://genome.ewha.ac.kr/ECgene/ChimerDB/, should be a valuable resource for finding drug targets to treat cancers.
+Keywords:
+chimeric sequence; chromosomal translocation; trans-splicing; multi-locus transcription

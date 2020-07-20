@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2011;9(4): 181-188. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.4.181
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+How Many SNPs Should Be Used for the Human Phylogeny of Highly Related Ethnicities? A Case of Pan Asian 63 Ethnicities.
+
+
+
+ Hoyoung Ghang,  Youngjoo Han,  Sangjin Jeong,  Jong Bhak,  Sunghoon Lee,  Tae Hyung Kim,  Chulhong Kim,  Sangsoo Kim,  Fahd Al-Mulla,  Chan Hyun Youn,  Hyang Sook Yoo 
+
+
+
+1Department of Electrical Engineering, Korea Advanced Institute of Science and Technology, Daejeon 305-701, Korea. chyoun@kaist.ac.kr 2Electronics and Telecommunications Research Institute of Korea, Korea. 3Theragen Bio Institute, Theragen Etex Co. Ltd., Suwon 443-270, Korea. 4Department of Bioinformatics & Life Sciences, Soongsil University, Seoul 156-743, Korea. 5Department of Pathology, University of Kuwait, 13110, Kuwait. 6Korea Research Institute of Bioscience and Biotechnology (KRIBB), Deajeon 305-806, Korea. yoohyang@kribb.re.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In planning a model-based phylogenic study for highly related ethnic data, the SNP marker number is an important factor to determine for relationship inferences. Genotype frequency data, utilizing a sub sampling method, from 63 Pan Asian ethnic groups was used for determining the minimum SNP number required to establish such relationships. Bootstrap random sub-samplings were done from 5.6K PASNPi SNP data. DA distance was calculated and neighbour-joining trees were drawn with every re-sampling data set. Consensus trees were made with the same 100 sub-samples and bootstrap proportions were calculated. The tree consistency to the one obtained from the whole marker set, improved with increasing marker numbers. The bootstrap proportions became reliable when more than 7,000 SNPs were used at a time. Within highly related ethnic groups, the minimum SNPs number for a robust neighbor-joining tree inference was about 7,000 for a 95% bootstrap support.		
+
+
+Keywords:
+neighbour-joining; phylogeny; minimum SNP; ethnic group 
+
+
+
+
+

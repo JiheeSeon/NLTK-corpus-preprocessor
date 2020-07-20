@@ -1,0 +1,14 @@
+Note
+Genomics & Informatics 2010; 8(2): 97-99.
+DOI: https://doi.org/10.5808/gi.2010.8.2.097
+A Simple GUI-based Sequencing Format Conversion Tool for the Three NGS Platforms.
+Arang Rhie, Sanduk Yang, Kyung Eun Lee, Chin Ting Thong, Hyun Seok Park
+Department of Computer Science, Ewha Womans University, Seoul 120-750, Korea.
+neo @ ewha.ac.kr
+Abstract
+To allow for a quick conversion of the proprietary sequence data from various sequencing platforms, sequence format conversion toolkits are required that can be easily integrated into workflow systems.
+In this respect, a format conversion tool, as well as quality conversion tool would be the minimum requirements to integrate reads from different platforms.
+We have developed the Pyrus NGS Sequencing Format Converter, a simple software toolkit which allows to convert three kinds of Next Generation Sequencing reads, into commonly used fasta or fastq formats.
+The converter modules are all implemented, uniformly, in Java GUI modules that can be integrated in software applications for displaying the data content in the same format.
+Keywords:
+sequence format conversion; next generation sequencing

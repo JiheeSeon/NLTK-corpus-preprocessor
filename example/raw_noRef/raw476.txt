@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(2): 80-86. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classification of Human Papillomavirus (HPV) Risk Type via Text Mining.
+
+
+
+ Seong Bae Park,  Sohyun Hwang,  Byoung Tak Zhang 
+
+
+
+			Biointelligence Lab., School of Computer Science and Engineering, Seoul National University, Seoul 151-744, Korea. sbpark@bi.snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Human Papillomavirus (HPV) infection is known as the main factor for cervical cancer which is a leading cause of cancer deaths in women worldwide. Because there are more than 100 types in HPV, it is critical to discriminate the HPVs related with cervical cancer from those not related with it. In this paper, the risk type of HPVs using their textual explanation. The important issue in this problem is to distinguish false negatives from false positives. That is, we must find high-risk HPVs as many as possible though we may miss some low-risk HPVs. For this purpose, the AdaCost, a cost-sensitive learner is adopted to consider different costs between training examples. The experimental results on the HPV sequence database show that the consideration of costs gives higher performance. The improvement in F-score is higher than that of the accuracy, which implies that the number of high-risk HPVs found is increased.		
+
+
+Keywords:
+human papillomavirus; cost-sensitive learning; naive Bayes classifier; text classification 
+
+
+
+
+

@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(4): 166-171. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Cotwin Control Study of Smoking and Risk Factors of Metabolic Syndrome.
+
+
+
+ Joohon Sung,  Sung il Cho,  Ji Sook Choi,  Yun Mi Song,  Kayoung Lee,  Eun Young Choi,  Mina Ha,  Yeonju Kim,  Eun Kyung Shin 
+
+
+
+1Department of Preventive Medicine, Kangwon National University College of Medicine, Kangwon 200-701, Korea. 2Department of Epidemiology and Biostatistics, Seoul National University School of Public Health, Seoul 100-799, Korea. 3Department of Family Medicine, SungKyunKwan University School of Medicine, Gyeonggi-Do 440-746, Korea. 4Department of Family Medicine, Inje University College of Medicine, Busan 633-165, Korea. 5Department of Family Medicine, Dankook University College of Medicine, Cheonan 330-714, Korea. 6Department of Preventive Medicine, Dankook University College of Medicine, Cheonan 330-714, Korea. 7Department of Preventive Medicine, Seoul National University College of Medicine, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		BACKGROUND: Smoking effects are relatively well-documented, especially on cancers and cardiovascular diseases. However, the direction and magnitude of association between smoking and obesity remain unclear. Conflicting results so far are thought to stem from the multiple confounding structure of smoking and other obesogenic life style characteristics.
+METHODS: Cotwin control study is a genomic epidemiology design, in which the other twin (=cotwin) serves as a control of the twin. Cotwin control study, discordant for smoking habits can provide powerful evidence of association between smoking and obesity by completely matching genomic information, intrauterine environment, and almost all environmental factors. We selected 3,697 like-sex twin pairs (2,762 male and 935 female pairs) out of 63,666 pairs of adult twins in the existing Korea Twin and Family Register, whose smoking habits are discordant. We used the information of obesity as body mass index (BMI, kg/m2), blood pressure, and blood cholesterol level at the time or later than the smoking information. Paired t-test was done to compare the smoking effects. RESULTS

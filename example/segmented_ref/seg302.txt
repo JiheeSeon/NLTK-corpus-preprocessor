@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2009; 7(2): 57-64.
+DOI: https://doi.org/10.5808/gi.2009.7.2.057
+Association between Single Nucleotide Polymorphisms of the Fibrinogen Alpha Chain(FGA) Gene and Type 2 Diabetes Mellitus in the Korean Population.
+Joo Yeon Hwang, Min Hyung Ryu, Min Jin Go, Bermseok Oh, Yoon Shin Cho
+1Center for Genome Science, National Institute of Health Seoul 122-701, Korea.
+yooncho @ ngri.go.kr 2Department of Biomedical Engineering, School of Medicine, Kyung Hee University, Seoul 130-701, Korea.
+Abstract
+Fibrinogen alpha chain(FGA), a subunit of fibrinogen, might be a potential player for type 2 diabetes mellitus(T2DM), since the plasma levels of fibrinogen is known to be related to the incidence of T2DM.
+To elucidate the potential role of FGA in T2DM, we investigated whether FGA genetic variations are relevant in T2DM in the Korean population.
+Seven FGA single nucleotide polymorphisms(SNPs) were genotyped in Ansung and Ansan cohorts(474 T2DM subjects and 470 normal controls) in Korea.
+The association between SNPs and T2DM was determined by logistic regression analysis.
+Genetic relevance of SNPs to T2DM-related phenotypes was investigated by multiple linear regression analysis.
+Statistical analysis revealed that among seven FGA SNPs, significant associations with T2DM were observed in FGA rs2070011(p=0.013-0.034, OR=0.72~ 0.79), rs6050(p=0.026~0.048, OR=1.24~1.37), and rs2070022(p=0.016~0.039, OR=0.70~0.72).
+Two SNPs, rs2070011 and rs6050, also showed significant association with T2DM-related phenotypes such as triglyceride(p=0.005~0.011 for rs2070011 and p=0.003~0.008 for rs6050), total cholesterol(p=0.01 for rs2070011 and p=0.024 for rs6050) and fasting glucose(p=0.035~ 0.036 for rs2070011 and p=0.048 for rs6050) in 470 normal controls.
+Our association study implies that FGA might be an important genetic factor in T2DM pathogenesis in the Korean population by affecting plasma lipid and glucose levels.
+Keywords:
+association; FGA; single nucleotide polymorphism(SNP); T2DM

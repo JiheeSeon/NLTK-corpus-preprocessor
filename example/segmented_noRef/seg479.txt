@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2003; 1(1): 55-60.
+A Small Cryptic Plasmid pZMO1 of Zymomonas mobilis ATCC10988.
+Hyung Lyun Kang, Hyen Sam Kang
+1Department of Microbiology, Gyeongsang National University College of Medicine, Jinju, Korea.
+kangssi21 @ hotmail.com 2Laboratory of Genetics and Virology, Department of Microbiology, College of Natural Sciences, Seoul National University, Seoul 151-742, Korea.
+Abstract
+The nucleotide sequence of pZMO1, a small cryptic plasmid of Zymomonas mobilis ATCC10988 was determined.
+Analysis of 1,680 bp of sequence revealed 69% identity with Shigella sonnei plasmid, pKYM and 61% identity with Nostoc sp. ss DNA replicating plasmid.
+Analysis of a deduced amino acid sequence of an orf of pZMO1 revealed 75% identity and 90% similarity with the repA gene of Synechocystis sp. plasmid pCA2.4.
+The upstream region of the repA gene of pZMO1 possesses six directed repeat sequences and two inverted repeat sequences at downstream of the IR consensus sequence of nick region of rolling circle replication(RCR) plasmid.
+A typical terminator hairpin structure was found at the downstream region of repA gene.
+Degradation of single-stranded plasmid DNA by S1 nuclease was detected by Southern hybridization.
+It suggests that pZMO1 replicates by a rolling circle mechanism in Z. mobilis ATCC10988 cells.
+Keywords:
+Zymomonas mobilisv; pZMO1; cryptic plasmid; repA

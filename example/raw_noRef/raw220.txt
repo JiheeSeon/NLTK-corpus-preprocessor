@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2011;9(3): 138-141. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.3.138
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Program for Efficient Phasing of Three-Generation Trio SNP Genotype Data.
+
+
+
+ Sanghoon Song,  Sangsoo Kim 
+
+
+
+			Department of Bioinformatics, Soongsil University, Seoul 156-743, Korea. sskimb@ssu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Here, we report a computer program written in Python, which phases SNP genotypes and infers inherited deletions based on the pattern of Mendelian inheritance within a trio pedigree.
+When tiered trio genotypes that encompass three generations are available, it narrows a recombination event down to a region between two consecutive heterozygous markers. In addition, the phase information that is inferred from the upper trio that is formed by one of the parents and grandparents can be propagated to phase the genotypes of the lower trio that is formed by the parents and an offspring.		
+
+
+Keywords:
+SNP; phasing; trio; recombination; CNV; Mendelian inconsistency 
+
+
+
+
+

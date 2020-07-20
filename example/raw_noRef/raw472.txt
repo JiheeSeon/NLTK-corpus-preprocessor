@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(2): 108-112. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Combined Genome Mapping of RFLP-AFLP-SSR in Pepper.
+
+
+
+ Je Min Lee,  Byung Dong Kim 
+
+
+
+			Department of Plant Science, College of Agriculture and Life Sciences, and Center for Plant Molecular Genetics and Breeding Research, Seoul National University, Seoul, Korea. kimbd@snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		We have constructed a molecular linkage map of pepper (Capsicum spp.) in an interspecific F2 population of 107 plants with 320 RFLP, 136 AFLP, and 46 SSR markers. The resulting linkage map consists of 15 linkage groups covering 1,720 cM with an average map distance of 3.7 cM between framework markers. Most RFLP markers (80%) were pepper-derived clones and these markers were evenly distributed all over the genome. Genes for defense and biosynthesis of carotenoids and capsaicinoids were mapped on this linkage map. By using 30 primer combinations, AFLP markers were generated in the F2 population. For development of SSR markers in Capsicum, microsatellites were isolated from two small-insert genomic libraries and the GenBank database. This combined map provides a starting point for high-resolution QTL analysis, gene isolation, and molecular breeding.		
+
+
+Keywords:
+AFLP; Capsicum; mapping; RFLP; SSR 
+
+
+
+
+

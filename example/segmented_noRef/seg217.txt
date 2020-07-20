@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2011; 9(4): 161-172.
+DOI: https://doi.org/10.5808/gi.2011.9.4.161
+Gene Expression Analysis of Galpha13-/- Knockout Mouse Embryos Reveals Perturbations in Galpha13 Signaling Related to Angiogenesis and Hypoxia.
+Ji Hwan Park, Sangdun Choi
+Department of Molecular Science and Technology, Ajou University, Suwon 443-749, Korea.
+sangdunchoi @ ajou.ac.kr
+Abstract
+Angiogenesis is regulated by a large number of molecules and complex signaling mechanisms.
+The G protein Galpha13 is a part of this signaling mechanism as an endothelial cell movement regulator.
+Gene expression analysis of Galpha13 knockout mouse embryos was carried out to identify the role of Galpha13 in angiogenesis signaling during embryonic development.
+Hypoxia-inducible response factors including those acting as regulators of angiogenesis were over expressed, while genes related to the cell cycle, DNA replication, protein modification and cell-cell dissociation were under expressed.
+Functional annotation and network analysis indicate that Galpha13 -/- embryonic mice were exposed to hypoxic conditions.
+The present analysis of the time course highlighted the significantly high levels of disorder in the development of the cardiovascular system.
+The data suggested that hypoxia-inducible factors including those associated with angiogenesis and abnormalities related to endothelial cell division contributed to the developmental failure of Galpha13 knockout mouse embryos.
+Keywords:
+angiogenesis; gene expression; G protein Galpha13; G protein signaling; hypoxia

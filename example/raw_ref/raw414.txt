@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+					Case Report				
+
+				Genomics & Informatics 2005;3(4): 172-174. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specificity of Intracellular Trans-Splicing Reaction by hTERT-Targeting Group I Intron.
+
+
+
+ Heung Su Jung,  Byung Su Kwon,  Seong Wook Lee 
+
+
+
+			Department of Molecular Biology, Institute of Nanosensor and Biotechnology, Dankook University, Seoul 140-714, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Recent anti-cancer approaches have been based to target tumor-specifically associated and/or causative molecules such as RNAs or proteins. As this specifically targeted anti-cancer modulator, we have previously described a novel human cancer gene therapeutic agent that is Tetrahymena group I intron-based trans-splicing ribozyme which can reprogram and replace human telomerase reverse transcriptase (hTERT) RNA to selectively induce tumor-specific cytotoxicity in cancer cells expressing the target RNA.
+Moreover, the specific ribozyme has been shown to efficiently retard tumor tissues in xenograft mice which had been inoculated with hTERT-expressing human cancer cells. In this study, we assessed specificity of trans-splicing reaction in cells to evaluate the therapeutic feasibility of the specific ribozyme. In order to analyze the trans-spliced products by the specific ribozyme in hTERT-positive cells, RT, 5'-end RACE-PCR, and sequencing reactions of the spliced RNAs were employed. Then, whole analyzed products resulted from reactions only with the hTERT RNA. This study suggested that the developed ribozyme perform highly specific RNA replacement of the target RNA in cells, hence trans-splicing ribozyme will be one of specific agents for genetic approach to revert cancer.		
+
+
+
+
+

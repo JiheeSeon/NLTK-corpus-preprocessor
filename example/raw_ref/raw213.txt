@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2011;9(4): 194-196. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.4.194
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+PromoterWizard: An Integrated Promoter Prediction Program Using Hybrid Methods.
+
+
+
+ Kiejung Park,  Ki Bong Kim 
+
+
+
+1Division of Bio-Medical informatics, Centers for Genome Science, Korea National Institute of Health, Chungcheongbuk-do 363-951, Korea. 2Department of Biomedical Technology, Sangmyung University, Cheonan 330-720, Korea. kbkim@smu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Promoter prediction is a very important problem and is closely related to the main problems of bioinformatics such as the construction of gene regulatory networks and gene function annotation. In this context, we developed an integrated promoter prediction program using hybrid methods, PromoterWizard, which can be employed to detect the core promoter region and the transcription start site (TSS) in vertebrate genomic DNA sequences, an issue of obvious importance for genome annotation efforts. PromoterWizard consists of three main modules and two auxiliary modules.
+The three main modules include CDRM (Composite Dependency Reflecting Model) module, SVM (Support Vector Machine) module, and ICM (Interpolated Context Model) module. The two auxiliary modules are CpG Island Detector and GCPlot that may contribute to improving the predictive accuracy of the three main modules and facilitating human curator to decide on the final annotation.		
+
+
+Keywords:
+regulatory networks; TSS; CDRM; SVM; CpG Island detector; GCPlot 
+
+
+
+
+

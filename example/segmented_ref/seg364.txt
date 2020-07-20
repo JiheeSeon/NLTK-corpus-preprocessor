@@ -1,0 +1,16 @@
+Note
+Genomics & Informatics 2007; 5(3): 129-132.
+arrayImpute: Software for Exploratory Analysis and Imputation of Missing Values for Microarray Data.
+Eun Kyung Lee, Dankyu Yoon, Taesung Park
+1Department of Clinical Pharmacology and Therapeutics, University of Ulsan, Seoul 138-736, Korea.
+2Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-921, Korea.
+3Department of Statistics, Seoul National University, Seoul 151-921, Korea.
+tspark @ stats.snu.ac.kr
+Abstract
+arrayImpute is a software for exploratory analysis of missing data and imputation of missing values in microarray data.
+It also provides a comparative analysis of the imputed values obtained from various imputation methods.
+Thus, it allows the users to choose an appropriate imputation method for microarray data.
+It is built on R and provides a user-friendly graphical interface.
+Therefore, the users can easily use arrayImpute to explore, estimate missing data, and compare imputation methods for further analysis.
+Keywords:
+imputation; microarray data; missing data

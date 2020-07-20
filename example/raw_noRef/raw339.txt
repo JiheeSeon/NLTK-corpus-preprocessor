@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(2): 68-71. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.068
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+J2dpathway: A Global Metabolic Pathway Viewer with Node-Abstracting Features.
+
+
+
+ Eun Ha Song,  Seong Il Ham,  San Duk Yang,  Arang Rhie,  Hyun Seok Park,  Sang Ho Lee 
+
+
+
+1Department of Computer Science, Ewha Womans University, Seoul 120-75, Korea. neo@ewha.ac.kr 2Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea. 3Department of Architectural Engineering, Yonsei University, Seoul 120-752, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The static approach of representing metabolic pathway diagrams offers no flexibility. Thus, many systems adopt automatic graph layout techniques to visualize the topological architecture of pathways. There are weaknesses, however, because automatically drawn figures are generally difficult to understand. The problem becomes even more serious when we attempt to visualize all of the information in a single, big picture, which usually results in a confusing diagram. To provide a partial solution to this thorny issue, we propose J2dpathway, a metabolic pathway atlas viewer that has node-abstracting features.		
+
+
+Keywords:
+drawing algorithm; edge crossings; metabolic pathway; scale-free network 
+
+
+
+
+

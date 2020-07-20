@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(2): 136-140. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.2.136
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Scheme for Filtering SNPs Imputed in 8,842 Korean Individuals Based on the International HapMap Project Data.
+
+
+
+ Kichan Lee,  Sangsoo Kim 
+
+
+
+			Department of Bioinformatics & Life Science, Soongsil University, Seoul 156-743, Korea. sskimb@ssu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Genome-wide association (GWA) studies may benefit from the inclusion of imputed SNPs into their dataset. Due to its predictive nature, the imputation process is typically not perfect. Thus, it would be desirable to develop a scheme for filtering out the imputed SNPs by maximizing the concordance with the observed genotypes. We report such a scheme, which is based on the combination of several parameters that are calculated by PLINK, a popular GWA analysis software program. We imputed the genotypes of 8,842 Korean individuals, based on approximately 2 million SNP genotypes of the CHB+JPT panel in the International HapMap Project Phase II data, complementing the 352k SNPs in the original Affymetrix 5.0 dataset. A total of 333,418 SNPs were found in both datasets, with a median concordance rate of 98.7%.
+The concordance rates were calculated at different ranges of parameters, such as the number of proxy SNPs (NPRX), the fraction of successfully imputed individuals (IMPUTED), and the information content (INFO). The poor concordance that was observed at the lower values of the parameters allowed us to develop an optimal combination of the cutoffs (IMPUTED> or =0.9 and INFO> or =0.9). A total of 1,026,596 SNPs passed the cutoff, of which 94,364 were found in both datasets and had 99.4% median concordance. This study illustrates a conservative scheme for filtering imputed SNPs that would be useful in GWA studies		
+
+
+Keywords:
+genome-wide association; HapMap; PLINK; SNP imputation 
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(1): 29-31. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.1.029
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Functional Haplotype Frequencies of the Interleukin-1B Promoter in the Korean Population.
+
+
+
+ Kyung A Lee 
+
+
+
+			Department of Laboratory Medicine, Yonsei University College of Medicine, Seoul 120-749, Korea. KAL1119@yuhs.ac 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Single nucleotide polymorphisms (SNPs) in the promoter region of the IL-1B (interleukin-1) gene have been implicated in a variety of diseases that have an inflammatory component. However, there has been significant heterogeneity among study results, especially between Caucasian and Asian populations. Recently, it has been reported that SNPs in the IL-1B gene affect transcription, according to haplotype context, and genetic association studies may be more informative if functional SNP haplotypes of population are analyzed. Therefore, we estimated the distribution of IL-1B promoter haplotypes in 433 Koreans using the three major functional IL-1B promoter SNPs (IL-1B -1464, -511, and -31) and compared the results with those in Caucasians. The difference in IL-1B promoter haplotype frequency between Korean and Caucasian populations was statistically significant. The potentially more inflammatory haplotypes had higher frequencies in Koreans when compared with Caucasians. These Korean haplotype data will be useful for future association studies between IL-1B SNPs and disease risk.		
+
+
+Keywords:
+Interleukin-1B; polymorphism; haplotype; Korean 
+
+
+
+
+

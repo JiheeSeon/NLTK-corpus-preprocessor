@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2010; 8(4): 170-176.
+DOI: https://doi.org/10.5808/gi.2010.8.4.170
+Comparative Analysis of the Three Classes of Archaeal and Bacterial Ribonucleotide Reductase from Evolutionary Perspective.
+Meenal G Pangare, Sathees B Chandra
+Department of Biological, Chemical and Physical Sciences, Roosevelt University, Chicago, USA. schandra @ roosevelt.edu
+Abstract
+The Ribonucleotide reductases(RNR) are essential enzymes that catalyze the conversion of nucleotides to deoxynucleotides in DNA replication and repair in all living organisms.
+The RNRs operate by a free radical mechanism but differ in the composition of subunit, cofactor required and regulation by allostery.
+Based on these differences the RNRs are classified into three classes-class I, class II and class III which depend on oxygen, adenosylcobalamin and S-adenosylmethionine with an iron sulfur cluster respectively for radical generation.
+In this article thirty seven sequences belonging to each of the three classes of RNR were analyzed by using various tools of bioinformatics.
+Phylogenetic analysis, dot-plot comparisons and motif analysis was done to identify a number of differences in the three classes of RNRs.
+In this research article, we have attempted to decipher evolutionary relationship between the three classes of RNR by using bioinformatics approach.
+Keywords:
+classes; evolution; Ribonucleotide reductase

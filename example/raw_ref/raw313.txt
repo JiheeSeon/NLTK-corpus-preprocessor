@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(4): 231-234. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.4.231
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Comparison of Normalization Methods for Defining Copy Number Variation Using Whole-genome SNP Genotyping Data.
+
+
+
+ Ji Hong Kim,  Seon Hee Yim,  Yong Bok Jeong,  Seong Hyun Jung,  Hai Dong Xu,  Seung Hun Shin,  Yeun Jun Chung 
+
+
+
+1Integrated Research Center for Genome Polymorphism, The Catholic University of Korea, College of Medicine, Seoul 137-701, Korea. yejun@catholic.ac.kr 2Department of Microbiology, The Catholic University of Korea, College of Medicine, Seoul 137-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Precise and reliable identification of CNV is still important to fully understand the effect of CNV on genetic diversity and background of complex diseases. SNP marker has been used frequently to detect CNVs, but the analysis of SNP chip data for identifying CNV has not been well established.
+We compared various normalization methods for CNV analysis and suggest optimal normalization procedure for reliable CNV call. Four normal Koreans and NA10851 HapMap male samples were genotyped using Affymetrix Genome-Wide Human SNP array 5.0. We evaluated the effect of median and quantile normalization to find the optimal normalization for CNV detection based on SNP array data. We also explored the effect of Robust Multichip Average (RMA) background correction for each normalization process. In total, the following 4 combinations of normalization were tried: 1) Median normalization without RMA background correction, 2) Quantile normalization without RMA background correction, 3) Median normalization with RMA background correction, and 4) Quantile ormalization with RMA background correction. CNV was called using SW-ARRAY algorithm. We applied 4 different combinations of normalization and compared the effect using intensity ratio profile, box plot, and MA plot. When we applied median and quantile normalizations without RMA background correction, both methods showed similar normalization effect and the final CNV calls were also similar in terms of number and size. In both median and quantile normalizations, RMA background correction resulted in widening the range of intensity ratio distribution, which may suggest that RMA background correction may help to detect more CNVs compared to no correction.		
+
+
+Keywords:
+copy number variation; normalization; SNP; Robust Multiarray Average 
+
+
+
+
+

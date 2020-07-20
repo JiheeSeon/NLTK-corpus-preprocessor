@@ -1,0 +1,17 @@
+Note
+Genomics & Informatics 2009; 7(3): 175-177.
+DOI: https://doi.org/10.5808/gi.2009.7.3.175
+WinBioDBs: A Windows-based Integrated Program for Manipulating Major Biological Databases.
+Hyeweon Nam, Jin Ho Lee, Kiejung Park
+1Information Technology Institute, SmallSoft Co. Ltd., Daejeon 305-343, Korea.
+kjpark63 @ gmail.com 2Department of Food Science and Biotechnology, Kyungsung University, Busan 608-736, Korea.
+3PNU SuperComputing Center, Pusan National University, Busan 609-735, Korea.
+Abstract
+We have developed WinBioDBs with Windows interfaces, which include importing modules and searching interfaces for 10 major public databases such as GenBank, PIR, SwissProt, Pathway, EPD, ENZYME, REBASE, Prosite, Blocks, and Pfam.
+User databases can be constructed with searching results of queries and their entries can be edited.
+The program is a stand-alone database searching program on Windows PC.
+Database update features are supported by importing raw database files and indexing after downloading them.
+Users can adjust their own searching environments and report format and construct their own projects consisting of a combination of a local databases.
+WinBioDBs are implemented with VC++ and its database is based on MySQL.
+Keywords:
+bio-database; GenBank; local database; public database

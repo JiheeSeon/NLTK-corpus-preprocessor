@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2008; 6(3): 110-116.
+DOI: https://doi.org/10.5808/gi.2008.6.3.110
+Association between Prostaglandin-endoperoxide Synthase 2(PTGS2) Polymorphisms and Blood Pressure in Korean Population.
+Hyun Seok Jin, Kyung Won Hong, Ji Eun Lim, Hye Ree Han, Jong Young Lee, Hun Kuk Park, Bermseok Oh
+1Department of Biomedical Engineering, School of Medicine, Kyung Hee University, Seoul 130-701, Korea.
+ohbs @ khu.ac.kr 2Center for Genome Science, National Institute of Health, Seoul 122-701, Korea.
+Abstract
+Blood pressure refers to the force exerted by circulating blood on the walls of blood vessels, and chronical elevation of blood pressure is known as hypertension.
+Although hypertension is affected by genetic and environmental factors, the genetic background of hypertension is not fully understood.
+One of the candidate genetic factors, Prostaglandin-endoperoxide synthase 2(PTGS2), is a membrane-bound enzyme, catalyzing the conversion of arachidonic acid to prostaglandin, and recently SNPs of PTGS2 gene was associated with hypertension in Japanese population.
+Therefore the association of PTGS2 polymorphisms was investigated with blood pressure in healthy Korean subjects, 470 unrelated individuals randomly selected from Ansung and Ansan cohorts.
+The 25 SNPs of PTGS2 gene were identified by the sequencing analysis of 24 Korean samples.
+Among identified polymorphisms, three SNPs(rs689466, -1329A> G; rs5275, +6365T> C; rs4648308, +8806G> A) were selected for further association analysis, and rs689466 located in promoter region was associated with blood pressure as well as triglyceride level in the blood.
+By in silico analysis, rs689466 locates in v-Myb transcription factor binding site, and the v-Myb site disappears when the SNP is changed from A to G nucleotide.
+Individuals with A/G and G/G genotype in rs689466 have higher blood pressure than those with A/A genotype, and the regression p-value is 0.008 for systolic and 0.004 for diastolic blood pressure.
+In summary, the PTGS2 polymorphism(rs689466) is associated with blood pressure in Asian populations based on this and Japanese studies, shedding light on it as a genetic risk marker of hypertension.
+Keywords:
+PTGS2; blood pressure; hypertension; polymorphism; rs689466

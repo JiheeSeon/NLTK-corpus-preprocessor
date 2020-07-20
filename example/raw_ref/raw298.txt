@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(2): 107-110. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.2.107
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Investigation of Genetic Evidence for Sasang Constitution Types in South Korea.
+
+
+
+ Mi Kyeong Lee,  Eun Su Jang,  Ho Young Sohn,  Jeong Yeon Park,  Byung Hee Koh,  Joohon Sung,  Jong Il Kim,  Jong Yeol Kim,  Jeong Sun Seo 
+
+
+
+1Psoma Therapeutics, Seoul 110-460, Korea. ssmed@kiom.re.kr 2Department of Epidemiology, Graduate School of Public Health and Institute of Health and Environment, Seoul National University, Seoul 110-799, Korea. 3Division of Constitutional Medicine Research, Korea Institute of Oriental Medicine, Daejeon 305-811, Korea. 4Department of Biochemistry and Molecular Biology, College of Medicine, Seoul National University, Seoul 110-799, Korea. 5Department of Sasang Constitutional Medicine, College of Traditional Korean Medicine, Kyung Hee University, Seoul 130-701, Korea 6Genomic Medicine Institute, Medical Research Center, Seoul National University, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In Sasang constitutional medicine, both disease susceptibility and drug response are considered to be related to the characteristics of an individual's physiology and psychology: a theory which is central to traditional Korean medicine. Based on such observable characteristics, Sasang constitutional medicine classifies people into four constitutional types. Genetic studies of Sasang constitution would help reveal the inheritance patterns and models of the typological traits and, moreover, help with traditional medical diagnosis and treatment. To investigate the heritable aspect of Sasang constitution, we collected various pedigrees from South Korea. The study population has 101 pedigrees composed of 593 individuals. The determination of the Sasang constitution type of each individual was performed by doctors who diagnose the Sasang constitutional type of individuals as part of their professional practice.
+We calculated estimates of familial correlation and heritability. Parent-Offspring pairs showed the strongest familial correlation of Sasang constitutional type, with the correlation values of 0.21 and 0.28, followed by sibling pairs with the value ranging between 0.14 and 0.25. From the heritability analysis conducted with the Variance-Component method, the heritability of TE (Tae-Eum) type, SY (So-Yang) type, and SE (So-Eum) type were 55%, 41%, and 47%, respectively. This pattern of heritability was consistent with different set of analyses, which suggest the robustness of our result. Our result clearly shows that the Sasang constitution type is heritable, and further genetic analysis based on our result will shed light on the biological mechanism of Sasang constitution.		
+
+
+Keywords:
+constitutional medicine; familial correlation; heritability 
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(4): 203-207. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.4.203
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Rapamycin-Induced Abundance Changes in the Proteome of Budding Yeast.
+
+
+
+ Chun Shik Shin,  Yeon Ji Chang,  Hun Goo Lee,  Won Ki Huh 
+
+
+
+1School of Biological Sciences, and Research Center for Functional Cellulomics, Institute of Microbiology, Seoul National University, Seoul 151-747, Korea. wkh@snu.ac.kr 2Department of Molecular Biology and Biochemistry, Rutgers University, Piscataway, New Jersey 08854, USA. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The target of rapamycin (TOR) signaling pathway conserved from yeast to human plays critical roles in regulation of eukaryotic cell growth. It has been shown that TOR pathway is involved in several cellular processes, including ribosome biogenesis, nutrient response, autophagy and aging.
+However, due to the functional diversity of TOR pathway, we do not know yet some key effectors of the pathway. To find unknown effectors of TOR signaling pathway, we took advantage of a green fluorescent protein (GFP)-tagged collection of budding yeast Saccharomyces cerevisiae . We analyzed protein abundance changes by measuring the GFP fluorescence intensity of 4156 GFP-tagged yeast strains under inhibition of TOR pathway. Our proteomic analysis argues that 83 proteins are decreased whereas 32 proteins are increased by treatment of rapamycin, a specific inhibitor of TOR complex 1 (TORC1). We found that, among the 115 proteins that show significant changes in protein abundance under rapamycin treatment, 37 proteins also show expression changes in the mRNA levels by more than 2-fold under the same condition. We suggest that the 115 proteins indentified in this study may be directly or indirectly involved in TOR signaling and can serve as candidates for further investigation of the effectors of TOR pathway.		
+
+
+Keywords:
+green fluorescent protein; proteome; rapamycin; Saccharomyces cerevisiae; TOR signaling pathway 
+
+
+
+
+

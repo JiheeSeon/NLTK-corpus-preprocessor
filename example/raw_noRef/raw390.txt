@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(4): 161-166. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prediction Model for the Cellular Immortalization and Transformation Potentials of Cell Substrates.
+
+
+
+ Min Su Lee,  Clayton A Matthews,  Min Ju Chae,  Jung Yun Choi,  Yeo Won Sohn,  Min Jung Kim,  Su Jae Lee,  Woong Yang Park 
+
+
+
+1Department of Computer Science and Engineering, Ewha Womans University, Seoul, Korea. wypark@snu.ac.kr 2Human Genome Research Institute and Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul, Korea. 3Biologics Headquater, Korea Food and Drug Administration, Seoul, Korea. 4Laboratory of Radiation Experimental Therapeutics, Korea Institute of Radiological & Medical Sciences, Seoul, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The establishment of DNA microarray technology has enabled high-throughput analysis and molecular profiling of various types of cancers. By using the gene expression data from microarray analysis we are able to investigate diagnostic applications at the molecular level. The most important step in the application of microarray technology to cancer diagnostics is the selection of specific markers from gene expression profiles. In order to select markers of immortalization and transformation we used c-myc and H-ras(V12) oncogene-transfected NIH3T3 cells as our model system. We have identified 8751 differentially expressed genes in the immortalization/transformation model by multivariate permutation F-test (95% confidence, FDR <0.01).
+Using the support vector machine algorithm, we selected 13 discriminative genes which could be used to predict immortalization and transformation with perfect accuracy. We assayed H-ras(V12)-transfected "transformed" cells to validate our immortalization/transformation classification system. The selected molecular markers generated valuable additional information for tumor diagnosis, prognosis and therapy development.		
+
+
+Keywords:
+microarray; NIH3T3; immortalization; transformation; c-myc; H-ras(V12); prediction model 
+
+
+
+
+

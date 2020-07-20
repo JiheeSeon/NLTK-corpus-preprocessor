@@ -1,0 +1,6 @@
+Original Article
+Genomics & Informatics 2004; 2(2): 92-98.
+An Iterative Normalization Algorithm for cDNA Microarray Medical Data Analysis.
+Yoonhee Kim, Woong Yang Park, Ho Kim
+Abstract
+No Abstract available.

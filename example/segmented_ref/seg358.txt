@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2007; 5(4): 168-173.
+Application of Random Forests to Association Studies Using Mitochondrial Single Nucleotide Polymorphisms.
+Yoonhee Kim, Ho Kim
+1Department of Biostatistics and Epidemiology, School of Public Health, Seoul National University, Seoul, 151-742, Republic of Korea.
+hokim @ snu.ac.kr 2Inherited Disease Research Branch, NHGRI/NIH, Baltimore, MD 20892, USA.
+Abstract
+In previous nuclear genomic association studies, Random Forests(RF), one of several up-to-date machine learning methods, has been used successfully to generate evidence of association of genetic polymorphisms with diseases or other phenotypes.
+Compared with traditional statistical analytic methods, such as chi-square tests or logistic regression models, the RF method has advantages in handling large numbers of predictor variables and examining gene-gene interactions without a specific model.
+Here, we applied the RF method to find the association between mitochondrial single nucleotide polymorphisms(mtSNPs) and diabetes risk.
+The results from a chi-square test validated the usage of RF for association studies using mtDNA.
+Indexes of important variables such as the Gini index and mean decrease in accuracy index performed well compared with chi-square tests in favor of finding mtSNPs associated with a real disease example, type 2 diabetes.
+Keywords:
+association; mtSNPs; Random Forests

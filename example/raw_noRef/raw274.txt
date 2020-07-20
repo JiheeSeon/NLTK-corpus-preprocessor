@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(1): 28-33. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.1.028
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Genome-wide Response of Normal WI-38 Human Fibroblast Cells to 1,763 MHz Radiofrequency Radiation.
+
+
+
+ Chang Nim Im,  Eun Hye Kim,  Ae Kyung Park,  Woong Yang Park 
+
+
+
+			Genomics Core Laboratory and Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul 110-799, Korea. wypark@snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Increased exposure of human to RF fields has raised concerns for its potential adverse effects on our health. To address the biological effects of RF radiation, we used genome wide gene expression as the indicator. We exposed normal WI-38 human fibroblast cells to 1763 MHz mobile phone RF radiation at a specific absorption rate (SAR) of 60 W/kg with an operating cooling system for 24 h. There were no alterations in cell numbers or morphology after RF exposure. Through microarray analysis, we identified no differentially expressed genes (DEGs) at the 0.05 significance level after controlling for multiple testing errors with the Benjaminiochberg false discovery rate (BH FDR) method.
+Meanwhile, 82 genes were differentially expressed between RF-exposed cells and controls when the significance level was set at 0.01 without correction for multiple comparisons.
+We found that 24 genes (0.08% of the total genes examined) were changed by more than 1.5-fold on RF exposure. However, significant enrichment of any gene set or pathway was not observed from the functional annotation analysis. From these results, we did not find any evidence that non-thermal RF radiation at a 60-W/kg SAR significantly affects cell proliferation or gene expression in WI-38 cells.		
+
+
+Keywords:
+radiofrequency radiation; microarray 
+
+
+
+
+

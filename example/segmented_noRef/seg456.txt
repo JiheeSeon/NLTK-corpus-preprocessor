@@ -1,0 +1,12 @@
+Note
+Genomics & Informatics 2004; 2(2): 107-109.
+HapAnalyzer: Minimum Haplotype Analysis System for Association Studies.
+Ho Youl Jung, Jung Sun Park, Yun Ju Park, Young Jin Kim, Kuchan Kimm, In Song Koh
+Division of Epidemiology and Bioinformatics, National Genome Research Institute, National Institute of Health, 5 Nokbun-dong, Eunpyeng-gu, Seoul, 122-701, Korea.
+insong @ nih.go.kr
+Abstract
+SUMMARY: HapAnalyzer is an analysis system that provides minimum analysis methods for the SNP-based association studies.
+It consists of Hardy-Weinberg equilibrium(HWE) test, linkage disequilibrium(LD) computation, haplotype reconstruction, and SNP(or haplotype) -phenotype association assessment.
+It is well suited to a case-control association study for the unrelated population.
+Keywords:
+SNP; haplotype; haplotype block; disease association

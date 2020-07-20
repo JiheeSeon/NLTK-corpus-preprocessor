@@ -1,0 +1,18 @@
+Note
+Genomics & Informatics 2004; 2(4): 191-194.
+The BIOWAY System: A Data Warehouse for Generalized Representation & Visualization of Bio-Pathways.
+Min Kyung Kim, Young Joo Seol, Sang Ho Lee, Eun Ha Song, Ho Il Lee, Chang Shin Ahn, Eun Chung Choi, Hyun Seok Park
+1Department of Computer Science and Engineering, Ewha University, Seoul 120-750, Korea.
+2Department of Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea.
+3School of Computer Engineering, Sejong University, Seoul 143-747, Korea.
+Abstract
+Exponentially increasing biopathway data in recent years provide us with means to elucidate the large-scale modular organization of the cell.
+Given the existing information on metabolic and regulatory networks, inferring biopathway information through scientific reasoning or data mining of large scale array data or proteomics data get great attention.
+Naturally, there is a need for a user-friendly system allowing the user to combine large and diverse pathway data sets from different resources.
+We built a data warehouse - BIOWAY - for analyzing and visualizing biological pathways, by integrating and customizing resources.
+We have collected many different types of data in regards to pathway information, including metabolic pathway data from KEGG/LIGAND, signaling pathway data from BIND, and protein information data from SWISS-PROT.In addition to providing general data retrieval mechanism, a successful user interface should provide convenient visualization mechanism since biological pathway data is difficult to conceptualize without graphical representations.
+Still, the visual interface in the previous systems, at best, uses static images only for the specific categorized pathways.
+Thus, it is difficult to cope with more complex pathways.
+In the BIOWAY system, all the pathway data can be displayed in computer generated graphical networks, rather than manually drawn image data.
+Furthermore, it is designed in such a way that all the pathway maps can be expanded or shrinked, by introducing the concept of super node.
+A subtle graphic layout algorithm has been applied to best display the pathway data.

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(1): 1-12. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.1.001
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+An Alternative Way of Constructing Ancestral Graphs Using Marker Allele Ages from Population Linkage Disequilibrium Information.
+
+
+
+ Leeyoung Park 
+
+
+
+			Natural Science Research Institute, Yonsei University, Seoul, Korea. lypark@yonsei.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		An alternative way of constructing ancestral graphs, which is different from the coalescent-based approach, is proposed using population linkage disequilibrium (LD) data. The main difference from the existing method is the construction of the ancestral graphs based on variants instead of individual sequences. Therefore, the key of the proposed method is to use the order of allele ages in the graphs. Distinct from the previous age-estimation methods, allele ages are estimated from full haplotype information by examining the number of generations from the initial complete LD to the current decayed state for each two variants depending on the direction of LD decay between variants. Using a simple algorithmic procedure, an ancestral graph can be derived from the expected allele ages and current LD decay status.
+This method is different in many ways from previous methods, and, with further improvement, it might be a good replacement for the current approaches.		
+
+
+Keywords:
+allele age; ancestral graph; haplotypes; linkage disequilibrium; recombination 
+
+
+
+
+

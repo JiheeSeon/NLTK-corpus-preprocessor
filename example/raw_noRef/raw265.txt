@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(2): 86-89. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.2.086
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Non-Synteny Regions in the Human Genome.
+
+
+
+ Kichan Lee,  Sangsoo Kim 
+
+
+
+			Department of Bioinformatics & Life Science, Soongsil University, Seoul 156-743, Korea. sskimb@ssu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Closely related species share large genomic segments called syntenic regions, where the genomic elements such as genes are arranged co-linearly among the species. While synteny is an important criteria in establishing orthologous regions between species, non-syntenic regions may display species-specific features. As the first step in cataloging human- or primate-specific genomic elements, we surveyed human genomic regions that are not syntenic with any other non-primate mammalian genomes sequenced so far. Based on the data compiled in Ensembl databases, we were able to identify 10 such regions located in eight different human chromosomes. Interestingly, most of these highly human- or primate-specific loci are concentrated in subtelomeric or pericentromeric regions. It has been reported that subtelomeric regions in human chromosomes are highly plastic and filled with recently shuffled genomic elements.
+Pericentromeric regions also show a great deal of segmental duplications. Such genomic rearrangements may have caused these large human- or primate-specific genome segments.		
+
+
+Keywords:
+synteny; pericentric; subtelomeric; genome rearrangement; mammalian genomes 
+
+
+
+
+

@@ -1,0 +1,13 @@
+Original Article
+Genomics & Informatics 2005; 3(1): 15-23.
+Identification of Caenorhabditis elegans MicroRNA Targets Using a Kernel Method.
+Wha Jin Lee, Jin Wu Nam, Sung Kyu Kim, Byoung Tak Zhang
+1Center for Bioinformation Technology(CBIT), Korea.
+btzhang @ cse.snu.ac.kr 2Biointelligence Laboratory, School of Computer Science and Engineering, Seoul National University, Seoul 151-742, Korea.
+Abstract
+BACKGROUND: MicroRNAs(miRNAs) are a class of noncoding RNAs found in various organisms such as plants and mammals.
+However, most of the mRNAs regulated by miRNAs are unknown.
+Furthermore, miRNA targets in genomes can not be identified by standard sequence comparison since their complementarity to the target sequence is imperfect in general.
+In thi s paper, we propose a kernel-based method for the efficient prediction of miRNA targets.
+To help in distinguishing the false positives from potentially valid targets, we elucidate the features common in experimentally confirmed targets.
+RESULTS

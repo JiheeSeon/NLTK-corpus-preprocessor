@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2005; 3(1): 8-14.
+Gene Expression Analysis of Megakaryocytes Derived from Human Umbilical Cord CD34(+) Cells by Thrombopoietin.
+Jeong Ah Kim, Hyung Lae Kim
+1Department of Biochemistry, College of Medicine, Ewha Womans University, Seoul 158-710, Korea.
+2Department of Medicine and Physiology, University of Maryland, Baltimore, MD 20108, U.S.A.
+Abstract
+Although much is known about the molecular biology of platelets, the megakaryocytes'(MKs) molecular biology was not understood so well because of their rareness.
+By the cloning and characterization of thrombopoietin(TPO), which is the principal regulator of the growth and development of the MKs, researches on the MKs have been growing rapidly.
+To understand megakaryocytopoiesis, we investigated the gene expression profile of the MKs using oligonucleotide microarray where 10, 108 unique genes were spotted.
+Comparing the fluorescence intensities of which ratio is> or = |2|, 372 genes were up-regulated and 541 genes were down-regulated in MKs.
+For confirmatory expression, RNase protection assay(RPA) establishing abundant apoptotic gene expression was carried out.
+In MKs, many of the known genes, including several platelet related genes, GATA binding protein were highly expressed.
+Particularly, TGF beta, clusterin(complement lysis inhibitor), and thymosin beta 4(actin-sequestering molecules) were expressed highly in MKs.
+As MKs specific expressed genes may regulate normal and pathologic platelet(and/or MK) functions, the transcript profiling using microarray was useful on molecular understanding of MKs.

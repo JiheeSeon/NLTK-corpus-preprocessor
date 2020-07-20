@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2010; 8(1): 41-49.
+DOI: https://doi.org/10.5808/gi.2010.8.1.041
+Gene Expression Analysis for Statin-induced Cytotoxicity from Rat Primary Hepatocytes.
+Moon Jeong Ko, Joon Ik Ahn, Hee Jung Shin, Hye Soo Kim, Hye Joo Chung, Ho Sang Jeong
+National Institution of Food and Drug Safety Evaluation, Seoul 122-704, Korea, Korea Food and Drug Administration, Seoul 122-704, Korea.
+hosa33 @ korea.kr
+Abstract
+Statins are competitive inhibitors of hydroxy-3-methyl glutaryl coenzyme A(HMG-CoA) reductase and used most frequently to reduce plasma cholesterol levels and to decrease cardiovascular events.
+However, statins also have been reported to have undesirable side effects such as myotoxicity and hepatotoxicity associated with their intrinsic efficacy mechanisms.
+Clinical studies recurrently reported that statin therapy elevated the level of liver enzymes such as ALT and AST in patients suggesting possible liver toxicity due to statins.
+This observation has been drawn great attention since statins are the most prescribed drugs and statin-therapy was extended to a larger number of high-risk patients.
+Here we employed rat primary hepatocytes and microarray technique to understand underlying mechanism responsible for statin-induced liver toxicity on cell level.
+We isolated genes whose expressions were commonly modulated by statin treatments and examined their biological functions.
+It is of interest that those genes have function related to response to stress in particular immunity and defense in cells.
+Our study provided the basic information on cellular mechanism of statin-induced cytotoxicity and may serve for finding indicator genes of statin-induced toxicity in rat primary hepatocytes.
+Keywords:
+cytotoxicity; gene expression; hepatocyte; microarray; statin

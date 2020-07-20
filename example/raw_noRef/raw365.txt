@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2007;5(3): 124-128. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PathTalk: Interpretation of Microarray Gene-Expression Clusters in Association with Biological Pathways.
+
+
+
+ Tae Su Chung,  Hee Joon Chung,  Ju Han Kim 
+
+
+
+1Seoul National University Biomedical Informatics (SNUBI), Seoul National University College of Medicine, Seoul 110-799, Korea. juhan@snu.ac.kr 2Human Genome Research Institute, Seoul National University College of Medicine, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Microarray technology enables us to measure the expression of tens of thousands of genes simultaneously under various experimental conditions. Clustering analysis is one of the most successful methods for analyzing microarray data using the assumption that co-expressed genes may be co-regulated.
+It is important to extract meaningful clusters from a long unordered list of clusters and to evaluate the functional homogeneity and heterogeneity of clusters. Many quality measures for clustering results have been suggested in different conditions. In the present study, we consider biological pathways as a collection of biological knowledge and used them as a reference for measuring the quality of clustering results and functional homogeneities. PathTalk visualizes and evaluates functional relationships between gene clusters and biological pathways.		
+
+
+Keywords:
+Microarray; Cluster analysis; evaluation; biological pathways 
+
+
+
+
+

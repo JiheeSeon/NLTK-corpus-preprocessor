@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(4): 173-181. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Pattern Summary System Using BLAST for Sequence Analysis.
+
+
+
+ Han Suk Choi,  Dong Wook Kim,  Tae W Ryu 
+
+
+
+1Deaprtment of Multimedia Engineering, Mokpo National University, Chonnam, Korea. chs@mokpo.ac.kr 2Department of Computer Science, California State University-Fullerton, Fullerton, CA, USA. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Pattern finding is one of the important tasks in a protein or DNA sequence analysis. Alignment is the widely used technique for finding patterns in sequence analysis. BLAST (Basic Local Alignment Search Tool) is one of the most popularly used tools in bio-informatics to explore available DNA or protein sequence databases.
+BLAST may generate a huge output for a large sequence data that contains various sequence patterns. However, BLAST does not provide a tool to summarize and analyze the patterns or matched alignments in the BLAST output file. BLAST lacks of general and robust parsing tools to extract the essential information out from its output. This paper presents a pattern summary system which is a powerful and comprehensive tool for discovering pattern structures in huge amount of sequence data in the BLAST. The pattern summary system can identify clusters of patterns, extract the cluster pattern sequences from the subject database of BLAST, and display the clusters graphically to show the distribution of clusters in the subject database.		
+
+
+Keywords:
+Pattern Finding; BLAST; Sequence Analysis; Protein; DNA 
+
+
+
+
+

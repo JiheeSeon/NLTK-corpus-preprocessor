@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(3): 102-106. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prediction of the Exposure to 1763MHz Radiofrequency Radiation Based on Gene Expression Patterns.
+
+
+
+ Min Su Lee,  Tai Qin Huang,  Jeong Sun Seo,  Woong Yang Park 
+
+
+
+1Biointelligence Laboratory, School of Computer Science and Engineering, Seoul National University, Seoul 110-799, Korea. 2ILCHUN Genomic Medicine Institute, MRC and Department of Biochemistry and Molecular Biology, College of Medicine, Seoul National University, Seoul 110-799, Korea. wypark@snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Radiofrequency (RF) radiation at the frequency of mobile phones has been not reported to induce cellular responses in in vitro and in vivo models. We exposed HEI-OC1, conditionally-immortalized mouse auditory cells, to RF radiation to characterize cellular responses to 1763 MHz RF radiation. While we could not detect any differences upon RF exposure, whole-genome expression profiling might provide the most sensitive method to find the molecular responses to RF radiation. HEI-OC1 cells were exposed to 1763 MHz RF radiation at an average specific absorption rate (SAR) of 20 W/kg for 24 hr and harvested after 5 hr of recovery (R5), alongside sham-exposed samples (S5). From the whole-genome profiles of mouse neurons, we selected 9 differentially-expressed genes between the S5 and R5 groups using information gain-based recursive feature elimination procedure. Based on support vector machine (SVM), we designed a prediction model using the 9 genes to discriminate the two groups. Our prediction model could predict the target class without any error. From these results, we developed a prediction model using biomarkers to determine the RF radiation exposure in mouse auditory cells with perfect accuracy, which may need validation in in vivo RF-exposure models.		
+
+
+Keywords:
+support vector machine; prediction; microarray; radiofrequency radiation; auditory cell 
+
+
+
+
+

@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2009; 7(2): 97-106.
+DOI: https://doi.org/10.5808/gi.2009.7.2.097
+High-concentration Epigallocatechin Gallate Treatment Causes Endoplasmic Reticulum Stress-mediated Cell Death in HepG2 Cells.
+Joon Ik Ahn, Kyoung Ji Jeong, Moon Jeong Ko, Hee Jung Shin, Hye Joo Chung, Ho Sang Jeong
+Molecular Pharmacology Division, Pharmacological Research Department, National Institute of Toxicological Research, Seoul 122-704, Korea.
+hosa33 @ kfda.go.kr, hjchung @ kfda.go.kr
+Abstract
+Epigallocatechin gallate(EGCG), a well-known antioxidant molecule, has been reported to cause hepatotoxicity when used in excess.
+However, the mechanism underlying EGCG-induced hepatotoxicity is still unclear.
+To better understand the mode of action of EGCG-induced hepatotoxicity, we examined the effect of EGCG on human hepatic gene expression in HepG2 cells using microarrays.
+Analyses of microarray data revealed more than 1300 differentially expressed genes with a variety of biological processes.
+Upregulated genes showed a primary involvement with protein-related biological processes, such as protein synthesis, protein modification, and protein trafficking, while downregulated genes demonstrated a strong association with lipid transport.
+Genes involved in cellular stress responses were highly upregulated by EGCG treatment, in particular genes involved in endoplasmic reticulum(ER) stress, such as GADD153, GADD34, and ATF3.
+In addition, changes in genes responsible for cholesterol synthesis and lipid transport were also observed, which explains the high accumulation of EGCG-induced lipids.
+We also identified other regulatory genes that might aid in clarifying the molecular mechanism underlying EGCG-induced hepatotoxicity
+Keywords:
+endoplasmic reticulum stress; epigallocatechin gallate; hepatotoxicity; microarray

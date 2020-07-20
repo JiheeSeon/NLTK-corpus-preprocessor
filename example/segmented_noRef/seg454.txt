@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2004; 2(3): 121-125.
+Application of Decision Tree for the Classification of Antimicrobial Peptide.
+Su Yeon Lee, Sunkyu Kim, Sukwon S Kim, Seon Jeong Cha, Young Keun Kwon, Byung Ro Moon, Byeong Jae Lee
+1Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-742, Korea.
+2Laboratory of Molecular Genetics, School of Biological Sciences, Institute of Molecular Biology and Genetics, Seoul National University, Seoul 151-742, Korea.
+3Optimization Laboratory, School of Computer Science and Engineering, Seoul National University, Seoul 151-742, Korea.
+Abstract
+The purpose of this study was to investigate the use of decision tree for the classification of antimicrobial peptides.
+The classification was based on the activities of known antimicrobial peptides against common microbes including Escherichia coli and Staphylococcus aureus.
+A feature selection was employed to select an effective subset of features from available attribute sets.Sequential applications of decision tree with 17 nodes with 9 leaves and 13 nodes with 7 leaves provided the classification rates of 76.74% and 74.66% against E. coli and S. aureus, respectively.
+Angle subtended by positively charged face and the positive charge commonly gave higher accuracies in both E. coli and S. aureus datasets.
+In this study, we describe a successful application of decision tree that provides the understanding of the effects of physicochemical characteristics of peptides on bacterial membrane.
+Keywords:
+decision tree; classification; antimicrobial peptides

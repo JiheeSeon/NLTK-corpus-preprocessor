@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+Erratum 
+
+Genomics & Informatics 2013; 11(2): 99.
+
+
+Published online: June 30, 2013 
+DOI: https://doi.org/10.5808/GI.2013.11.2.99
+
+
+
+
+ERRATUM: Acknowledgments Correction. Annotation of Genes Having Candidate Somatic Mutations in Acute Myeloid Leukemia with Whole-Exome Sequencing Using Concept Lattice Analysis
+
+Kye Hwa Lee , Jae Hyeun Lim , Ju Han Kim 
+Division of Biomedical Informatics, Seoul National University Biomedical Informatics (SNUBI) and Systems Biomedical Informatics National Core Research Center, Seoul National University College of Medicine, Seoul 110-799, Korea.
+
+
+Copyright © 2013 by the Korea Genome Organization 
+ (open-access, http://creativecommons.org/licenses/by-nc/3.0/):  
+It is identical to the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/).
+
+
+
+
+
+http://dx.doi.org/10.5808/GI.2013.11.1.38
+Genomics Inform 2013;11(1):38-45
+The funding acknowledgment in this article was partially omitted as published. Additional acknowledgment is as follows:
+This work was supported by the basic science research program through the National Research Foundation of Korea (NRF), funded by the Ministry of Education, Science and Technology (2012-0000994). This material is based upon work supported by a grant of the National Project for Personalized Genomic Medicine, Ministry for Health & Welfare, Republic of Korea (A111218).
+
+
+

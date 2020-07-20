@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2007;5(4): 196-199. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biological Object Downloader (BOD) Service for Easy Download and Management of Biological Databases.
+
+
+
+ Daeui Park,  Jungwoo Lee,  Giseok Yoon,  Sungsam Gong,  Jong Bhak 
+
+
+
+1Korean BioInformation Center, KRIBB, Daejeon 305-806, Korea. jong@kribb.re.kr; j@bio.cc 2Object Interaction Technologies Inc., Daejeon 305-806, Korea. 3Biochemistry department, Cambridge University, Cambridge, CB2 1TN, UK. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		BOD is an FTP service management tool on the Internet. It was developed for biological researchers in South Korea. It enables easier and faster access of bioinformation without having to go through foreign FTP sites. BOD includes an automatic downloader with a management and email alert service from which the user can easily select and schedule any biological database. Once listed in BOD, the user can check and modify the download status and data from an additional email alert service.		
+
+
+Keywords:
+FTP services; biological data; downloader 
+
+
+
+
+

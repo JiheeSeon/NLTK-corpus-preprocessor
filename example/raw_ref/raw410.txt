@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(1): 23-32. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DNA Microarray Analysis of Gene Expression Profiles in Aging process of Mouse Brain.
+
+
+
+ Mi Suk Lee,  Jee In Heo,  Jae Bong Kim,  Jae Bong Park,  Jae Yang Lee,  Jeong A Han,  Jong Il Kim 
+
+
+
+1Department of Biochemistry, Hallym University College of Medicine, Korea. jougil@hallym.ac.kr 2Department of Biochemistry and Molecular Biology, Kangwon National University College of Medicine, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In order to investigate the molecular basis of the aging process in brain, we have employed high-density oligonucleotide microarrays providing data on 10,108 gene clusters to define transcriptional patterns in three brain regions, cerebral cortex, cerebellum, and hippocampus.
+Comparison of the expression patterns between young (6-week-old) and aged (17-month-old) C57BL/6 male micerevealed that about ten percent (1098) of the genes showed a significant change in the expression level in at least one of the three tissues. Among them, 23 genes were upregulated and 62 genes were downregulated in all three tissues of the old mice. The number of genes upregulated exclusively in hippocampus (337) was much larger compared to other tissues. Gene ontology-based analysis showed the genes related with signal transduction or molecular transports are more likely to be upregulated than downregulated in the aging process of hippocampus. These data may provide some useful means for elucidating the molecular aspect of aging in hippocampus and other regions in brain.		
+
+
+Keywords:
+microarray; aging; brain; cerebral cortex; cerebellum; hippocampus 
+
+
+
+
+

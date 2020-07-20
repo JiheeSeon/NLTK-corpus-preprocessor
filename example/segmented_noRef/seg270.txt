@@ -1,0 +1,18 @@
+Note
+Genomics & Informatics 2010; 8(1): 58-61.
+DOI: https://doi.org/10.5808/gi.2010.8.1.058
+CpG Islands Detector: a Window-basedCpG Island Search Tool.
+Ki Bong Kim
+Department of Biomedical Technology, Sangmyung University, Cheonan 330-720, Korea.
+kbkim @ smu.ac.kr
+Abstract
+CpG is the pair of nucleotides C and G, appearing successively, in this order, along one DNA strand.
+It is known that due to biochemical considerations CpG is relatively rare in most DNA sequences.
+However, in particular subsequences, which are a few hundred to a few thousand nucleotides long, the couple CpG is more frequent.
+These subsequences, called CpG islands, are known to appear in biologically more significant parts of the genome.
+The ability to identify CpG islands along a chromosome will therefore help us spot its more significant regions of interest, such as the promoters or 'start' regions of many genes.
+In this respect, I developed the CpG islands search tool, CpG Islands Detector, which was implemented in JAVA to be run on any platform.
+The window-based graphical user interface of CpG Islands Detector may facilitate the end user to employ this tool to pinpoint CpG islands in a genomic DNA sequence.
+In addition, this tool can be used to highlight potential genes in genomic sequences since CpG islands are very often found in the 5' regions of vertebrate genes.
+Keywords:
+CpG island; promoter;CpG islands detector; JAVA; graphical user interface

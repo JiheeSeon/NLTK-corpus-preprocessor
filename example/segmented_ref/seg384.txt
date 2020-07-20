@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2007; 5(1): 6-9.
+Construction of an RNase P Ribozyme Library System for Functional Genomics Applications.
+Sun Woo Hong, Hyo Jei Choi, Young Hoon Lee, Dong Ki Lee
+1Department of Chemistry and BK School of Molecular Science, Pohang University of Science and Technology, Pohang 790-784, Korea.
+dlee @ postech.edu 2Department of Chemistry, Korea Advanced Institute of Science and Technology, Daejeon 305-701, Korea.
+Abstract
+An RNase P ribozyme library has been developed as a tool for functional genomics studies.
+Each clone of this library contains a random 18-mer and the sequence of M1 RNA, the catalytic subunit of RNase P. Repression of target gene expression is thus achieved by the complementary binding of mRNA to the random guide sequence and the successive target cleavage via M1 RNA.
+Cellular expression of the ribozyme expression was confirmed, and EGFP mRNA was used as a model to demonstrate that the RNase P ribozyme expression system can inhibit the target gene expression.
+The constructed RNase P ribozyme library has a complexity of 1.4x10(7).
+This novel library system should become a useful in functional genomics, to identify novel gene functions in mammalian cells.
+Keywords:
+RNase P; ribozyme library; EGFP; functional genomics

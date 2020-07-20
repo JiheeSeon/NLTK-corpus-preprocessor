@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Brief Communication				
+
+				Genomics & Informatics 2008;6(2): 84-86. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.084
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+In Vivo Target RNA Specificity of Trans-Splicing Phenomena by the Group I Intron.
+
+
+
+ Min Sun Song,  Seong Wook Lee 
+
+
+
+			Department of Molecular Biology, Institute of Nanosensor and Biotechnology, Dankook University, Yongin 448-701, Korea. SWL0208@dankook.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The Tetrahymena group I intron has been shown to employ a trans-splicing reaction and has been modified to specifically target and replace human telomerase reverse transcriptase (hTERT) RNA with a suicide gene transcript, resulting in the induction of selective cytotoxicity in cancer cells that express the target RNA, in animal models as well as in cell cultures. In this study, we evaluated the target RNA specificity of trans -splicing phenomena by the group I intron in mice that were intraperitoneally inoculated with hTERT-expressing human cancer cells to validate the anti-cancer therapeutic applicability of the group I intron. To this end, an adenoviral vector that encoded for the hTERT-targeting group I intron was constructed and systemically injected into the animal.
+5'-end RACE-PCR and sequencing analyses of the trans-spliced cDNA clones revealed that all of the analyzed products in the tumor tissue of the virus-infected mice resulted from reactions that were generated only with the targeted hTERT RNA. This study implies the in vivo target specificity of the trans - splicing group I intron and hence suggests that RNA replacement via a trans -splicing reaction by the group I intron is a potent anti-cancer genetic approach.		
+
+
+Keywords:
+cancer gene therapy; group I intron; hTERT; RACE PCR; RNA replacement; trans-splicing 
+
+
+
+
+

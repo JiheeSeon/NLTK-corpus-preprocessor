@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2005; 3(3): 68-73.
+Development of a Knowledge Base for Korean Pharmacogenomics Research Network.
+Chan Hee Park, Su Yeon Lee, Yong Jung, Yu Rang Park, Hye Won Lee, Ju Han Kim
+Seoul National University Biomedical Informatics(SNUBI),Seoul National University College of Medicine,Seoul 110-799, Korea.
+juhan @ snu.ac.kr
+Abstract
+Pharmacogenomics research requires an intelligent integration of large-scale genomic and clinical data with public and private knowledge resources.
+We developed a web-based knowledge base for KPRN(Korea Pharmacogenomics Research Network, http://kprn.snubi. org/).
+Four major types of information is integrated; genetic variation, drug information, disease information, and literature annotation.
+Eighteen Korean pharmacogenomics research groups in collaboration have submitted 859 genotype data sets for 91 disease-related genes.
+Integrative analysis and visualization of the large collection of data supported by integrated biomedical pathways and ontology resources are provided with a user-friendly interface and visualization engine empowered by Generic Genome Browser.
+Keywords:
+Pharmacogenomics; Alleles; MeSH; PharmGKB; Goldenpath; Genew; Generic Genome Browser

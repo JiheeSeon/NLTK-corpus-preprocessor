@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2005; 3(4): 149-153.
+Genetic Variants of IL-13 and IL-4 in the Korean Population: Polymorphisms, Haplotypes and Linkage Disequilibrium.
+Ha Jung Ryu, Ho Youl Jung, Jung Sun Park, Jun Woo Kim, Hyung Tae Kim, Choon Sik Park, Bok Ghee Han, Insong Koh, Chan Park, Kuchan Kimm, Bermseok Oh, Jong Keuk Lee
+1National Genome Research Institute, National Institute of Health, Seoul 122-701, Korea.
+2Macrogen Co., World Meridian Venture Center 10F, Seoul 153-023, Korea.
+3Genome Research Center for Allergy and Respiratory Diseases, Soonchunhyang University Hospital, Bucheon, Gyeonggi-Do 420-021, Korea.
+Abstract
+Asthma is an inflammatory airways disease characterized by bronchial hyperresponsiveness and airways obstruction, which results from a complex interaction of genetic and environmental factors.
+Interleukin(IL) -13 and IL-4 are important in IgE synthesis and allergic inflammation, therefore genes encoding IL-13 and IL-4 are candidates for predisposition to asthma.
+In the present study, we screened single-nucleotide polymorphisms(SNPs) in IL-13 and IL-4 and examined whether they are risk factors for asthma.
+We resequenced all exons and the promoter region in 12 asthma patients and 12 normal controls, and identified 18 SNPs including 2 novel SNPs.
+The linkage disequilibrium(LD) pattern was evaluated with 16 common SNPs, and haplotypes were also estimated within the block.
+Although IL-13 and IL-4 are localized within 27 kb on chromosome 5q31 and share many biological profiles, this region was partitioned into 2 blocks.
+One SNP and three SNPs were determined as haplotype-taggingSNPs(htSNPs) within IL-13 and IL-4 haplotype-block, respectively.
+No significant associations were observed between any of the SNPs or haplotypes and development of asthma in small number of Korean subjects.
+However, the genetic variants of IL-13 and IL-4 would provide valuable strategies for the genotyping studies in large population.

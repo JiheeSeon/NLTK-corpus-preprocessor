@@ -1,0 +1,22 @@
+Original Article
+Genomics & Informatics 2009; 7(1): 13-19.
+DOI: https://doi.org/10.5808/gi.2009.7.1.013
+Association of Common Vitamin D Receptor Gene Variations with Fracture Risk and Bone Mineral Density in Postmenopausal Korean Population.
+Joo Yeon Hwang, Seung Hun Lee, Ghi Su Kim, Jung Min Koh, Min Jin Go, Tae Ho Kim, Jung Min Hong, Eui Kyun Park, Shin Yoon Kim, Jong Young Lee
+1The Center for Genome Science, National Institute of Health, Seoul, Korea.
+syukim @ wmail.knu.ac.kr 2Skeletal Diseases Genome Research Center, Kyungpook National University Hospital, Daegu, Korea.
+3Deparement of Pathology and Regenerative Medicine, School of Dentistry, Kyungpook National University, Daegu, Korea.
+4Division of Endocrinology and Metabolism, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea.
+5Deparement of Orthopedic Surgery, School of Medicine, Kyungpook National University, Daegu, Korea.
+Abstract
+Osteoporosis is characterized by impaired osteogenesis.
+BMD is a major determinant of bone strength.
+The role of the VDR gene in predisposition to primary osteoporosis has been recognized.
+However, population-based case-control studies have been reported controversial results for known candidate genes in an ethnically distinct group.
+To determine the genetic effects of VDR variants on osteoporosis and BMD, we directly sequenced the VDR gene in 24 unrelated Korean individuals and identified eighteen sequence variants.
+We investigated the potential involvement of eight SNPs in osteoporosis in postmenopausal women(n = 729).
+Two SNPs(LD) in intron 2, -5294G> C(rs2238135) and -4817G> A(rs17882443) showed the evidence of association with enhanced BMD of the femoral neck(p(additive) =0.031 for rs2238135; p(additive) =0.017 and p(dominant) = 0.019 for 17882443).
+Moreover, VDR -4817G> A was significantly associated with protective effect on all fracture risk(p(recessive) =0.035, OR=0.2, 95% CI=0.05~0.89), and tended to be higher BMD values at various proximal femur sites.
+Therefore, we suggest that the -4817G> A may be useful genetic marker for vitamin D-related metabolism and may have an important role in the increased BMD of the proximal femur in postmenopausal Korean women.
+Keywords:
+BMD; fracture; osteoporosis; polymorphism, VDR

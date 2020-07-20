@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2006;4(2): 51-56. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sample Size and Power Estimation in Case-Control Genetic Association Studies.
+
+
+
+ Chul Ahn 
+
+
+
+			Department of Medicine, University of Texas Medical School, USA. Choi.W.Ahn.@uth.tmc.edu 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In planning a genetic association study, it is necessary to determine the number of samples to be collected for the study in order to achieve sufficient power to detect the hypothesized effect. The case-control design is increasingly used for genetic association studies due to the simplicity of its design. We review the methods for the sample size and power calculations in case-control genetic association studies between a marker locus and a disease phenotype.		
+
+
+Keywords:
+case-control study; sample size; genetic association 
+
+
+
+
+

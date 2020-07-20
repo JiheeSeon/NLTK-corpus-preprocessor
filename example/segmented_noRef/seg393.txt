@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2006; 4(3): 133-136.
+Unfolded Histidine-Tagged Protein is Immobilized to Nitrilotriacetic Acid-Nickel Beads, But Not the Nickel-Coated Glass Slide.
+Minho Cho, Sunyoung Ahn, Heonyong Park
+Department of Molecular Biology & Institute of Nanosensor and Biotechnology, BK21 Graduate Program for RNA biology, Dankook University, Seoul, Korea.
+heonyong @ dankook.ac.kr
+Abstract
+The adsorption of proteins on the surface of glass slides is essential for construction of protein chips.
+Previously, we prepared a nickel-coated plate by the spin-coating method for immobilization of His-tagged proteins.
+In order to know whether the structural factor is responsible for the immobilization of His-tagged proteins to the nickel-coated glass slide, we executed a series of experiments.
+First we purified a His-tagged protein after expressing the vector in E. coli BL21(DE3).
+Then we obtained the unfolding curve for the His-tagged protein by using guanidine hydrochloride.
+Fractions unfolded were monitored by internal fluorescence spectroscopy.
+The delta G(H20) for unfolding was 2.27 kcalmol +/- 0.52.
+Then we tested if unfolded His-tagged proteins can be adsorbed to the nickel-coated plate, comparing with Ni2+ -NTA(nitrilotriacetic acid) beads.
+Whereas unfolded His-tagged proteins were adsorbed to Ni2+ -NTA beads, they did not bind to the nickel-coated plate.
+In conclusion, a structural factor is likely to be an important factor for constructing the protein chips, when His-tagged proteins will immobilize to the nickel-coated slides.
+Keywords:
+his-tagged protein; nickel-coated glass slides; protein chip; unfolding

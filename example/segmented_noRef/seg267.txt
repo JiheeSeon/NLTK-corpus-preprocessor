@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2010; 8(2): 76-80.
+DOI: https://doi.org/10.5808/gi.2010.8.2.076
+No Association between Copy Number Variation of the TCRB Gene and the Risk of Autism Spectrum Disorder in the Korean Population.
+So Young Yang, Seon Hee Yim, Hae Jin Hu, Soon Ae Kim, Hee Jeong Yoo, Yeun Jun Chung
+1Intergrated Research Center for Genome Polymorphism, The Catholic University of Korea School of Medicine, Seoul 137-701, Korea.
+yejun @ catholic.ac.kr 2Department of Microbiology, The Catholic University of Korea School of Medicine, Seoul 137-701, Korea.
+3Department of Pharmacology, The Eulji University of School of Medicine, Daejeon 301-746, Korea.
+4Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam 463-707, Korea.
+Abstract
+Although autism spectrum disorder(ASD) has been thought to have a substantial genetic background, major contributing genes have yet to be identified or successfully replicated.
+Immunological dysfunction has been suggested to be associated with ASD, and T cell-mediated immunity was considered important for the development of ASD.
+In this study, we analyzed 163 ASD subjects and 97 normal controls by genomic quantitative PCR to evaluate the association between the copy number variation of the 7q34 locus, harboring the TCRB gene, and ASDs.
+As a result, there was no significant difference of the frequency distribution of TCRB copy numbers between ASD cases and normal controls.
+TCRB gene copy numbers ranged from 0 to 5 copies, and the frequency distribution of each copy number was similar between the two groups.
+The proportion of the individuals with<2 copies of TCRB was 52.8%(86/163) in ASD cases and 57.1%(52/91) in the control group(p=0.44).
+The proportion of individuals with> 2 copies of TCRB was 11.7%(19/163) in ASD cases and 12.1%(11/91) in the control group(p=0.68).
+After the effects of sex were adjusted by logistic regression, ORs for individuals with<2 copies or> 2 copies showed no significant difference compared with the diploid copy number as reference(n=2).
+Although we could not see the positive association, our results will be valuable information for mining ASD-associated genes and for exploring the role of T cell immunity further in the pathogenesis of ASD.
+Keywords:
+autism; copy number variation; T cell receptor beta(TCRB); 7q34

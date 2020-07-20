@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(4): 179-187. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPEATOME: A Database for Repeat Element Comparative Analysis in Human and Chimpanzee.
+
+
+
+ Taeha Woo,  Tae Hui Hong,  Sang Soo Kim,  Won Hyong Chung,  Hyo Jin Kang,  Chang Bae Kim,  Jungmin Seo 
+
+
+
+1Korean BioInformation Center, KRIBB, Daejeon 305-806, Korea. jmseo@kribb.re.kr 2Department of Bioinformatics, Soongsil University, 1-1 Sangdo-dong, Dongjak-Gu, Seoul 156-743, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		An increasing number of primate genomes are being sequenced.
+A direct comparison of repeat elements in human genes and their corresponding chimpanzee orthologs will not only give information on their evolution, but also shed light on the major evolutionary events that shaped our species. We have developed REPEATOME to enable visualization and subsequent comparisons of human and chimpanzee repeat elements.
+REPEATOME (http://www.repeatome.org/) provides easy access to a complete repeat element map of the human genome, as well as repeat element-associated information. It provides a convenient and effective way to access the repeat elements within or spanning the functional regions in human and chimpanzee genome sequences. REPEATOME includes information to compare repeat elements and gene structures of human genes and their counterparts in chimpanzee. This database can be accessed using comparative search options such as intersection, union, and difference to find lineage-specific or common repeat elements. REPEATOME allows researchers to perform visualization and comparative analysis of repeat elements in human and chimpanzee.		
+
+
+Keywords:
+Repeat element; repeat map; comparative genomics; human repeat; chimpanzee repeat; mobile element 
+
+
+
+
+

@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2008; 6(3): 130-135.
+DOI: https://doi.org/10.5808/gi.2008.6.3.130
+Haplotype Phylogeny of a 200kb Region in the Human Chromosome X Terminal Band(q28).
+Sangsoo Kim
+Department of Bioinformatics and Life Science, Soongsil University, Seoul 156-743, Korea.
+sskimb @ ssu.ac.kr
+Abstract
+The haplotypes of a 200 kb region in the human chromosome X terminal band(q28) were analyzed using the International HapMap Project PhaseII data, which had been collected for three analysis panels(YRI, CEU, and CHB+JPT).
+When multiple linkage disequilibrium blocks were encountered for a panel, the neighboring haplotypes that had crossover rate of 5% or more in the panel were combined to generate 'haploid' configurations.
+This resulted in 8, 7, and 5 'haploid' configurations for the panels of YRI, CEU, and CHB+JPT, respectively.
+The multiple sequence alignment of these 'haploids' was used for the calculation of allele-sharing distances and the subsequent principal coordinate analysis.
+Two 'haploids' in CEU and CHB+JPT were hypothesized as 'parental' in light of the observations that the successive recombinants of these haploids can model two other haploids in CEU and CHB+JPT, and that their configurations were consistent with those in YRI.
+This study demonstrates the utility of haplotype phylogeny in understanding population evolution.
+Keywords:
+haplotype; SNP; phylogeny; haploview; HapMap

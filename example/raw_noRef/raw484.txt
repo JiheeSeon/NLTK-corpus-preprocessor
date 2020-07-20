@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(1): 20-24. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Optimization of Clusters in Gene Expression Data of DNA Microarrays by Deterministic Annealing.
+
+
+
+ Kwon Moo Lee,  Tae Su Chung,  Ju Han Kim 
+
+
+
+1Bioinformatics Project, IT R & D Center, Samsung SDS, Korea. 2Human Genome Research Institute, Seoul National University College of Medicine, Seoul 110-799, Korea. 3SNUBiomedical Informatics, Seoul National University College of Medicine, Seoul, Korea. juhan@snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The analysis of DNA microarry data is one of the most important things for functional genomics research. The matrix representation of microarray data and its successive 'optimal' incisional hyperplanes is a useful platform for developing optimization algorithms to determine the optimal partitioning of pairwise proximity matrix representing completely connected and weighted graph. We developed Deterministic Annealing (DA) approach to determine the successive optimal binary partitioning. DA algorithm demonstrated good performance with the ability to find the 'globally optimal' binary partitions. In addition, the objects that have not been clustered at small non-zero temperature, are considered to be very sensitive to even small randomness, and can be used to estimate the reliability of the clustering.		
+
+
+Keywords:
+cluster analysis; DNA microarray; gene expression; global optimization; annealing; clustering quality 
+
+
+
+
+

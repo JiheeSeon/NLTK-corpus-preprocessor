@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(4): 182-187. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In Silico Identification of 6-Phosphogluconolactonase Genes that are Frequently Missing from Completely Sequenced Bacterial Genomes.
+
+
+
+ Haeyoung Jeong,  Jihyun F Kim,  Hong Seog Park 
+
+
+
+1Genome Research Center, KRIBB, Daejeon, Korea. hyjeong@kribb.re.kr, 2Systems Microbiology Research Center, KRIBB, Daejeon, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		6-Phosphogluconolactonase (6PGL) is one of the key enzymes in the ubiquitous pathways of central carbon metabolism, but bacterial 6PGL had been long known as a missing enzyme even after complete bacterial genome sequence information became available. Although recent experimental characterization suggests that there are two types of 6PGLs (DevB and YbhE), their phylogenetic distribution is severely biased. Here we present that proteins in COG group previously described as 3-carboxymuconate cyclase (COG2706) are actually the YbhE-type 6PGLs, which are widely distributed in Proteobacteria and Firmicutes. This case exemplifies how erroneous functional description of a member in the reference database commonly used in transitive genome annotation cause systematic problem in the prediction of genes even with universal cellular functions.		
+
+
+Keywords:
+6-phosphogluconolactonase; 3-carboxymuconate cyclase; missing enzyme; pentose phosphate pathway; genome annotation 
+
+
+
+
+

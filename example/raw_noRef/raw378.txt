@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2007;5(2): 41-45. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pharmacogenomics in Drug Discovery and Development.
+
+
+
+ Chul Ahn 
+
+
+
+			Department of Medicine, University of Texas Medical School, Houston, TX 77030, USA. Chul.W.Ahn@uth.tmc.edu 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Pharmacogenomics is the study that examines how genetic variations affect the ways in which people respond to drugs.
+The ways people respond to drugs are complex traits that are influenced by many different genes. Pharmacogenomics intends to develop rational means of optimizing drug therapy, with respect to the patients' genotype, to maximize efficacy with minimal adverse drug reactions. Pharmacogenomics has the potential to revolutionize the practice of medicine, and promises to usher in an area of personalized medicine, in which drugs and drug combinations are optimized for each individual's unique genetic makeup. Indeed, pharmacogenomics is exploited as an essential step for target discovery and drug development in the pharmaceutical industry. The goal of the personalized medicine is to get the right dose of the right drug to the right patient at the right time. In this article, we will review the use of pharmacogenomics in drug discovery and development.		
+
+
+Keywords:
+targeted therapy; theragnostics 
+
+
+
+
+

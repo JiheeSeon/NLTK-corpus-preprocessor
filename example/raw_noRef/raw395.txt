@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(3): 125-128. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BioCC: An Openfree Hypertext Bio Community Cluster for Biology.
+
+
+
+ Sungsam Gong,  Tae Hyung Kim,  Jungsu Oh,  Jekeun Kwon,  Su An Cho,  Dan Bolser,  Jong Bhak 
+
+
+
+1Korean Bioinformation Center (KOBIC), KRIBB, Daejeon, Korea. j@bio.cc 2MRC-DUNN, Cambridge CB2-2XY, England, United Kindom. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		We present an openfree hypertext (also known as wiki) web cluster called BioCC. BioCC is a novel wiki farm that lets researchers create hundreds of biological web sites. The web sites form an organic information network. The contents of all the sites on the BioCC wiki farm are modifiable by anonymous as well as registered users. This enables biologists with diverse backgrounds to form their own Internet bio-communities. Each community can have custom-made layouts for information, discussion, and knowledge exchange. BioCC aims to form an ever-expanding network of openfree biological knowledge databases used and maintained by biological experts, students, and general users. The philosophy behind BioCC is that the formation of biological knowledge is best achieved by open-minded individuals freely exchanging information. In the near future, the amount of genomic information will have flooded society. BioGG can be an effective and quickly updated knowledge database system. BioCC uses an opensource wiki system called Mediawiki. However, for easier editing, a modified version of Mediawiki, called Biowiki, has been applied. Unlike Mediawiki, Biowiki uses a WYSIWYG (What You See Is What You Get) text editor. BioCC is under a share-alike license called BioLicense (http://biolicense.org). The BioCC top level site is found at http://bio.cc/		
+
+
+Keywords:
+openfree hypertext; bio-domains; omics; bioinformatics; biolicense 
+
+
+
+
+

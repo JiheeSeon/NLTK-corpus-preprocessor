@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2005;3(4): 133-141. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genomic Features of Retroelements and Implications for Human Disease.
+
+
+
+ Heui Soo Kim 
+
+
+
+			Department of Biology, College of Natural Sciences, Pusan National University, Busan 609-735, Korea. khs307@pusan.ac.kr. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Most of the endogenous retroviral genes integrated into the primate genome after the split of New World monkeys in the Oligocene era, approximately 33 million years ago. Because they can change the structure of adjacent genes and move between and within chromosomes they may play important roles in evolutionas well as in many kinds of disease and the creation of genetic polymorphism. Comparative analysis of HERVs (human endogenous retroviruses) and their LTR (long terminal repeat) elements in the primate genomes will help us to understand the possible impact of HERV elements in the evolution and phylogeny of primates. For example, HERV-K LTR and SINE-R elements have been identified that have been subject to recent change in the course of primate evolution.
+They are specific elements to the human genome and could be related to biological function. The HERV-M element is related to the superfamily of HERV-K and is integrated into the periphilin gene as the truncated form, 5'LTR-gag-pol-3'LTR. PCR and RT-PCR approaches indicated that the insertion of various retrotransposable elements in a common ancestor genome may make different transcript variants in different primate species. Examination of the HERV-W elementrevealed that env fragments were detected on human chromosomes 1, 3-7, 12, 14, 17, 20, and X, whilst the pol fragments were detected on human chromosomes 2-8, 10-15, 20, 21, X, and Y. Bioinformatic blast search showed that almost full-length of the HERV-W family was identified on human chromosomes 1-8, 11-15, 17, 18, 21, and X. Expression analysis of HERV-W genes (gag, pol, and env) in human tissues by RT-PCR indicated that gag and pol were expressed in specific tissues, whilst env was constituitively expressed in all tissues examined. DNA sequence based phylogenetic analysis indicated that the gag, pol and env genes have evolved independently during primate evolution.
+It will thus be of considerable interest to expand the current HERV gene information of various primates and disease tissues.		
+
+
+
+
+

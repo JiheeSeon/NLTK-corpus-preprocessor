@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(3): 153-156. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.3.153
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+StrokeBase: A Database of Cerebrovascular Disease-related Candidate Genes.
+
+
+
+ Young Uk Kim,  Il Hyun Kim,  Ok Sun Bang,  Young Joo Kim 
+
+
+
+1Medical Genomics Research Center, KRIBB, Daejeon 305-806, Korea. yjkim8@kribb.re.kr 2Department of Medical Research, KIOM, Daejeon 305-810, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Complex diseases such as stroke and cancer have two or more genetic loci and are affected by environmental factors that contribute to the diseases. Due to the complex characteristics of these diseases, identifying candidate genes requires a system-level analysis of the following: gene ontology, pathway, and interactions. A database and user interface, termed StrokeBase, was developed; StrokeBase provides queries that search for pathways, candidate genes, candidate SNPs, and gene networks. The database was developed by using in silico data mining of HGNC, ENSEMBL, STRING, RefSeq, UCSC, GO, HPRD, KEGG, GAD, and OMIM. Forty candidate genes that are associated with cerebrovascular disease were selected by human experts and public databases.
+The networked cerebrovascular disease gene maps also were developed; these maps describe genegene interactions and biological pathways. We identified 1127 genes, related indirectly to cerebrovascular disease but directly to the etiology of cerebrovascular disease. We found that a protein-protein interaction (PPI) network that was associated with cerebrovascular disease follows the power-law degree distribution that is evident in other biological networks. Not only was in silico data mining utilized, but also 250K Affymetrix SNP chips were utilized in the 320 control/disease association study to generate associated markers that were pertinent to the cerebrovascular disease as a genome- wide search. The associated genes and the genes that were retrieved from the in silico data mining system were compared and analyzed. We developed a well-curated cerebrovascular disease-associated gene network and provided bioinformatic resources to cerebrovascular disease researchers. This cerebrovascular disease network can be used as a frame of systematic genomic research, applicable to other complex diseases. Therefore, the ongoing database efficiently supports medical and genetic research in order to overcome cerebrovascular disease.		
+
+
+Keywords:
+stroke; cerebrovascular disease; SNP; disease gene; association study 
+
+
+
+
+

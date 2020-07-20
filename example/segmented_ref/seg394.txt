@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2006; 4(3): 129-132.
+GraPT: Genomic InteRpreter about Predictive Toxicology.
+Jung Hoon Woo, Yu Rang Park, YongJung, Ji Hun Kim, Ju Han Kim
+1Seoul National University Biomedical Informatics(SNUBI), Seoul, Korea.
+juhan @ snu.ac.kr 2Human Genome Research Institute, Seoul National University College of Medicine, Seoul, Korea.
+3Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul, Korea.
+Abstract
+Toxicogenomics has recently emerged in the field of toxicology and the DNA microarray technique has become common strategy for predictive toxicology which studies molecular mechanism caused by exposure of chemical or environmental stress.
+Although microarray experiment offers extensive genomic information to the researchers, yet high dimensional characteristic of the data often makes it hard to extract meaningful result.
+Therefore we developed toxicant enrichment analysis similar to the common enrichment approach.
+We also developed web-based system graPT to enable considerable prediction of toxic endpoints of experimental chemical.
+Keywords:
+toxicogenomics; predictive toxicology; high-dimensional data; toxicant enrichment analysis; web-based system; prediction; toxic endpoints

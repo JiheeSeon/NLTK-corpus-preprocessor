@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2011; 9(4): 197-199.
+DOI: https://doi.org/10.5808/gi.2011.9.4.197
+2DSpotDB: A Database for the Annotated Two-dimensional Polyacrylamide Gel Electrophoresis of Pathogen Proteins.
+Dae Won Kim, Won Gi Yoo, Myoung Ro Lee, Yu Jung Kim, Shin Hyeong Cho, Won Ja Lee, Jung Won Ju
+Division of Malaria and Parasitic Diseases, Korea National Institute of Health, Osong 363-951, Korea.
+junomics @ gmail.com
+Abstract
+The biological interpretation of two-dimensional(2D) gel electrophoresis experiments is a key step toward understanding the functions of biological systems.
+We here present a web-based integrated database, called 2DSpotDB, for the management of proteome data derived from several pathogens.
+The 2DSpotDB was established as a part of the management of a pathogen proteome project at the Korea National Institute of Health.
+The goals of the 2DSpotDB implementation are to store and define important pathogen genes, retrieve information obtained by 2D polyacrylamide gel electrophoresis and mass spectrometry, and create an integrated system to provide pathogen proteome information for biological scientists.
+This database currently contains 14 gels and information on 387 protein spots, among which 329 proteins were identified and annotated.
+Keywords:
+database; 2D electrophoresis; LC-MS/MS; pathogen proteomics; functional annotation; data mining

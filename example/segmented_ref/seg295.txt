@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2009; 7(2): 131-135.
+DOI: https://doi.org/10.5808/gi.2009.7.2.131
+Comparison of Exon-boundary Old and Young Domains during Metazoan Evolution.
+Byungwook Lee
+Korean BioInformation Center, KRIBB, Daejeon 305-806, Korea.
+bulee @ kribb.re.kr
+Abstract
+Domains are the building blocks of proteins.
+Exon shuffling is an important mechanism accounting for combination of a limited repertoire of protein domains in the evolution of multicellular species.
+A relative excess of domains encoded by symmetric exons in metazoan phyla has been presented as evidence of exon shuffling, and symmetric domains can be divided into old and new domains by determining the ages of the domains.
+In this report, we compare the spread, versatility, and subcellular localization of old and new domains by analyzing eight metazoan genomes and their respective annotated proteomes.
+We found that new domains have been expanding as multicellular organisms evolved, and this expansion was principally because of increases in class 1-1 domains amongst several classes of domain families.
+We also found that younger domains have been expanding in membranes and secreted proteins along with multi-cellular organism evolution.
+In contrast, old domains are located mainly in nuclear and cytoplasmic proteins.
+We conclude that the increasing mobility and versatility of new domains, in contrast to old domains, plays a significant role in metazoan evolution, facilitating the creation of secreted and transmembrane multidomain proteins unique to metazoa.
+Keywords:
+domain mobility and versatility; exon shuffling; old and young domains

@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(2): 72-76. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.072
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Functional Role of a Conserved Sequence Motif in the Oxygen-dependent Degradation Domain of Hypoxia-inducible Factor 1 alpha in the Recognition of p53.
+
+
+
+ Seung Wook Chi 
+
+
+
+			Translational Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-806, Korea. swchi@kribb.re.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Hypoxia-inducible factor 1 alpha (HIF1 alpha) is a transcription factor that plays a key role in the adaptation of cells to low oxygen stress and oxygen homeostasis. The oxygen-dependent degradation (ODD) domain of HIF1 alpha is responsible for the negative regulation of HIF1 alpha in normoxia. The interactions of the HIF1 alpha ODD domain with partner proteins such as von Hippel-Lindau tumor suppressor (pVHL) and p53 are mediated by two sequence motifs, the N- and C-terminal ODD (NODD and CODD). Multiple sequence alignment with HIF1 alpha homologs from human, monkey, pig, rat, mouse, chicken, frog, and zebrafish has demonstrated that the NODD and CODD motifs have noticeably high conservation of the primary sequence across different species and isoforms. In this study, we carried out molecular dynamics simulation of the structure of the HIF1 alpha CODD motif in complex with the p53 DNA-binding domain (DBD). The structure reveals specific functional roles of highly conserved residues in the CODD sequence motif of HIF1 alpha for the recognition of p53.		
+
+
+Keywords:
+hypoxia-inducible factor 1 alpha; molecular dynamics simulation; oxygen-dependent degradation domain; p53; sequence motif 
+
+
+
+
+

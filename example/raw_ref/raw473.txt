@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(2): 101-107. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Construction of Deletion Map of 16q by LOH Analysis from HCC Patients and Physical Map on 16q 23.3 - 24.1 Region.
+
+
+
+ Jiyeol Chung,  Nae Yun Choi,  Myoung Sup Shim,  Dong Wook Choi,  Hyen Sam Kang,  Chang Min Kim,  Ung Jin Kim,  Sun Hwa Park,  Hyeon Kim,  Byeong Jae Lee 
+
+
+
+1School of Biological Sciences, Seoul National University, Korea. 2Department of Surgery, Korea Cancer Center Hospital, Korea. 3Center for Gastric Cancer, Cancer Center Hospital, National Cancer Center, Korea. 4California Institute of Technology, U.S.A. 5Department of Anatomy, Korea University of Medicine, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Loss of heterozygosity (LOH) has been used to detect deleted regions of a specific chromosome in cancer cells. LOH on chromosome 16q has been reported to occur frequently in progressed hepatocellular carcinoma (HCC). Liver tissues from 37 Korean HCC patients were analyzed for LOH by using 25 polymorphic microsatellite markers distributed along 16q.
+Out of the 37 HCC patients studied, 21 patients (56.8%) showed LOH in various regions of 16q with at least one polymorphic marker. Puring the analysis of these 21 LOH cases, 6 patients showed interstitial LOHs in which the boundary of the LOH region was defined. With two rounds of LOH analysis, five commonly occurring interstitial LOH regions were identified; 16q21-22.1, 16q22.2 - 22.3, 16q22.3, 16q23.2 and 16q23.3 - 24.1. Among the five LOH regions the 16q23.3 - 24.1 region has been reported to be related with chromosome instability. A complete physical map, which covers the 3.2 Mb region of 16q23.3 - 24.1 (D16S402 and D16S486), was constructed to identify novel candidate tumor suppressor genes. We provide the minimally tiling path map consisting of 28 BAC clones. There was one gap between NT_10422.11 and NT_019609.9 of the human genome sequence contig (NCBI sequence build 33, April 29, 2003).
+This gap can be filled by sequencing the R-1425M20 clone which bridges these sequence contigs.		
+
+
+Keywords:
+chromosome 16q hepatocellular carcinoma; loss of heterozygosity; physical mapping; polymorphic marker 
+
+
+
+
+

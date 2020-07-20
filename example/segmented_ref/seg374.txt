@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2007; 5(2): 68-76.
+A Statistical Analysis of SNPs, In-Dels, and Their Flanking Sequences in Human Genomic Regions.
+Seung Wook Shin, Young Joo Kim, Byung Dong Kim
+1Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-921, Korea.
+kimbd @ snu.ac.kr 2Functional Genomics Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejon 305-333, Korea.
+3Center for Plant Molecular Genetics and Breeding Research, Seoul National University, Seoul 151-921, Korea.
+Abstract
+Due to the increasing interest in SNPs and mutational hot spots for disease traits, it is becoming more important to define and understand the relationship between SNPs and their flanking sequences.
+To study the effects of flanking sequences on SNPs, statistical approaches are necessary to assess bias in SNP data.
+In this study we mainly applied Markov chains for SNP sequences, particularly those located in intronic regions, and for analysis of in-del data.
+All of the pertaining sequences showed a significant tendency to generate particular SNP types.
+Most sequences flanking SNPs had lower complexities than average sequences, and some of them were associated with microsatellites.
+Moreover, many Alu repeats were found in the flanking sequences.
+We observed an elevated frequency of single-base-pair repeat-like sequences, mirror repeats, and palindromes in the SNP flanking sequence data.
+Alu repeats are hypothesized to be associated with C-to-T transition mutations or A-to-I RNA editing.
+In particular, the in-del data revealed an association between particular changes such as palindromes or mirror repeats.
+Results indicate that the mechanism of induction of in-del transitions is probably very different from that which is responsible for other SNPs.
+From a statistical perspective, frequent DNA lesions in some regions probably have effects on the occurrence of SNPs.
+Keywords:
+single nucleotide polymorphisms; SNPs; Intron; Markov chain

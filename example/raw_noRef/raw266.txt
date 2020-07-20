@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(2): 81-85. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.2.081
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Development of Optimal Breeding Pigs Using DNA Marker Information.
+
+
+
+ Sang Wook Kim,  Jung Gun Roh,  Yang Il Cho,  Bong Hwan Choi,  Tae Hun Kim,  Jong Joo Kim,  Kwan Suk Kim 
+
+
+
+1Department of Animal Science, Chungbuk National University, Cheongju 361-763, Korea. kwanskim@chungbuk.ac.kr 2National Institute of Animal Science, Suwon 441-706, Korea. 3School of Biotechnology, Yeungnam University, Gyeongsan 705-030, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The aim of the study was to investigate pig reference families, generated from Korean native pigs (KNP) that were crossed with Yorkshire (YS) breeds, which were used to evaluate genetic markers to select breeding animals with superior pork quality. A set of five candidate genes (PRKAG3, MC4R, CAST, ESR, and PRLR) was analyzed for association with pork quality traits. PRKAG3 (I199V) SNP genotypes were significantly associated with muscle moisture, protein, and fat contents. The MC4R D298N polymorphism was significantly associated with meat tenderness and color traits. The CAST polymorphism was significantly associated with muscle moisture and crude protein traits. These three genes have been associated with pork quality traits in other pig populations, and some of our results are consistent with earlier studies. In addition, two reproductive candidate genes (ESR and PRLR) did not have significant associations. These results suggest that further study is warranted to investigate and develop more DNA markers associated with pork quality in our KNP-crossed pig families.		
+
+
+Keywords:
+major gene; single nucleotide polymorphism; meat quality; pig breeding 
+
+
+
+
+

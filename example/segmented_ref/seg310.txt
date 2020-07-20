@@ -1,0 +1,23 @@
+Original Article
+Genomics & Informatics 2009; 7(1): 20-25.
+DOI: https://doi.org/10.5808/gi.2009.7.1.020
+Interaction between Smoking and the STAB2 Gene in the Severity of Rheumatoid Arthritis.
+Jin Young Min, Kyoung Bok Min, Joohon Sung, Sung Il Cho
+1Institute of Health & Environment, Seoul National University, Seoul, Korea.
+2Department of Preventive Medicine, Ajou University School of Medicine, Suwon, Korea.
+3Department of Epidemiology, School of Public Health, Seoul National University, Seoul, Korea.
+scho @ snu.ac.kr
+Abstract
+Rheumatoid arthritis(RA) is a chronic autoimmune disorder that is characterized by inflammation of the synovial tissue and deterioration of the joint and bone.
+A recent study reported a potential gene-environment interaction between HLA-DR and smoking.
+The present study investigated whether a specific gene was related to the association between smoking and the severity of RA(rheumatoid factor levels> 20 IU/ml).
+We used the resources of the NARAC family collection of GAW 15 databases, and 1139 subjects with RF> 20 IU/ml were included in the current analysis.
+The linkage panel contained 5858 SNP markers, and 5744 SNPs passed quality control criteria.
+Linear regression analyses, using PLINK software and generalized estimating equation regression models, were used to test for associations between the SNPs and the severity of RA according to smoking groups.
+Two major findings were established.
+First, the severity of RA in smokers was associated with rs703618(p=6x10(-5)), which lies in the intronic region of the stabilin 2(STAB2) gene on chromosome 12.
+Second, there were significant differences in the levels of RF between 'ever smokers' and 'never smokers' according to the rs703618 genotype(G/G, A/G, A/A).
+We investigated whether a specific gene acts as a mediator between smoking and the severity of RA and found that the STAB2 gene could affect this relationship.
+Our finding indicates that smoking may mediate RA severity by affecting the expression level of a specific gene.
+Keywords:
+gene-environment interaction; hyaluronic acid; rheumatoid arthritis; smoking

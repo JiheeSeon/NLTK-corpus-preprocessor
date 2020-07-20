@@ -1,0 +1,14 @@
+Note
+Genomics & Informatics 2009; 7(3): 171-174.
+DOI: https://doi.org/10.5808/gi.2009.7.3.171
+J2.5dPathway: A 2.5D Visualization Tool to Display Selected Nodes in Biological Pathways, in Parallel Planes.
+Sung Il Ham, Eun Ha Song, San Duk Yang, Chin Ting Thong, Arang Rhie, Bulgan Galbadrakh, Kyung Eun Lee, Hyun Seok Park, San Ho Lee
+1Department of Computer Science, Ewha Womans University, Seoul 120-750, Korea.
+neo @ ewha.ac.kr 2Department of Architectural Engineering, Yonsei University, Seoul 120-749, Korea.
+Abstract
+The characteristics of metabolic pathways make them particularly amenable to layered graph drawing methods.
+This paper presents a visual Java-based tool for drawing and annotating biological pathways in twoand- a-half dimensions(2.5D) as an alternative to three dimensional(3D) visualizations.
+Such visualization allows user to display different groups of clustered nodes, in different parallel planes, and to see a detailed view of a group of objects in focus and its place in the context of the whole system.
+This tool is an extended version of J2dPathway.
+Keywords:
+metabolic pathways; pathway editor; visualization

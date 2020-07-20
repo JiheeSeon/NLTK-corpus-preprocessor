@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(3): 97-102. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identification of Gene Expression Signatures in Korean Acute Leukemia Patients.
+
+
+
+ Kyung Hun Lee,  Se Won Park,  Inho Kim,  Sung Soo Yoon,  Seonyang Park,  Byoung Kook Kim 
+
+
+
+			Department of Internal Medicine, Seoul National University, College of Medicine, Korea. Seonpark@plaza.snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		BACKGROUND: In acute leukemia patients, several successful methods of expression profiling have been used for various purposes, i.e., to identify new disease class, to select a therapeutic target, or to predict chemo-sensitivity and clinical outcome. In the present study, we tested the peripheral blood of 47 acute leukemia patients in an attempt to identify differentially expressed genes in AML and ALL using a Korean-made 10K oligo-nucleotide microarray.
+METHODS: Total RNA was prepared from peripheral blood and amplified for microarray experimentation. SAM (significant analysis of microarray) and PAM (prediction analysis of microarray) were used to select significant genes. The selected genes were tested for in a test group, independently of the training group. RESULTS

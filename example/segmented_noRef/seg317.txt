@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2008; 6(4): 202-209.
+DOI: https://doi.org/10.5808/gi.2008.6.4.202
+Biological Pathway Extension Using Microarray Gene Expression Data.
+Tae Su Chung, Jihun Kim, Keewon Kim, Ju Han Kim
+1Seoul National University Biomedical Informatics(SNUBI), Seoul National University College of Medicine, Seoul 110-799, Korea.
+juhan @ snu.ac.kr 2Human Genome Research Institute, Seoul National University College of Medicine, Seoul 110-799, Korea.
+juhan @ snu.ac.kr
+Abstract
+Biological pathways are known as collections of knowledge of certain biological processes.
+Although knowledge about a pathway is quite significant to further analysis, it covers only tiny portion of genes that exists.
+In this paper, we suggest a model to extend each individual pathway using a microarray expression data based on the known knowledge about the pathway.
+We take the Rosetta compendium dataset to extend pathways of Saccharomyces cerevisiae obtained from KEGG(Kyoto Encyclopedia of genes and genomes) database.
+Before applying our model, we verify the underlying assumption that microarray data reflect the interactive knowledge from pathway, and we evaluate our scoring system by introducing performance function.
+In the last step, we validate proposed candidates with the help of another type of biological information.
+We introduced a pathway extending model using its intrinsic structure and microarray expression data.
+The model provides the suitable candidate genes for each single biological pathway to extend it.
+Keywords:
+biological pathway; pathway extension; microarray gene expression

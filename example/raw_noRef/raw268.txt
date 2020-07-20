@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(2): 70-75. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.2.070
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+In Silico Study of Human Gap Junction Beta-2 Protein by Homology Modeling.
+
+
+
+ Abida Shehzadi,  Khalid Masood 
+
+
+
+1Bioinformatics Wing, Center of Excellence in Molecular Biology, University of the Punjab, Lahore, India. khalid@cemb.edu.pk 2Medical Research and Development Division, Informatics Computer and Control Centre, Lahore, India. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Asp66his, Asp54Lys, and Asp50Asn are mutations in connexin 26 that are observed in the clinic and give rise to autosomal dominant syndromes. They are the result of point mutations in the human gap junction beta-2 gene. In order to investigate the structural mechanism of Bart-Pumphrey Syndrome, Keratitis-Ichthyosis-Deafness Syndrome, and Vohwinkel Syndrome, homology modeling was carried out. Asp66 has direct contact with Asn62 by two hydrogen bonds in the wild-type protein, and in Asp66His, the biggest change observed is a tremendous energy increase caused by hydrogen bond breakage to Asn62. Shifts in the side chain and new hydrogen bond formation are observed for Lys54 compared to the wild-type protein (Asn54) and result in closer contact to Val84. Asp50Asn causes a significant decrease in bond energy, and residual charge reversal repels the ion and metabolites and, hence, inhibits their transportation. Such perturbations are likely to be a factor contributing to abnormal functioning of ion channels, resulting cell death and disease.		
+
+
+Keywords:
+Bart-Pumphrey syndrome; connexin 26; gap junction; beta-2 protein; hearing impairment; Keratitis-Ichthyosis-Deafness syndrome; knuckle pads 
+
+
+
+
+

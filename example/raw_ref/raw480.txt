@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(1): 50-54. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genome Mapping of an Extreme Thermophile, Thermus caldophilus GK24.
+
+
+
+ Jong Hoon Park,  Byung Chul Park,  Suk Hoon Koch,  Joong Soo Kim,  Jeong Heon Koh,  Moon Hee Yang,  Yong Sung Kim,  Cheorl Ho Kim,  Myoung Hee Kim,  Suk Tae Kwon,  Dae Sil Lee 
+
+
+
+1Department of Biological Science, Sookmyung Woman's University, Seoul, Korea. parkjh@sookmyung.ac.kr 2Glycobiology Laboratory, Korea Research Institute of Bioscience and Biotechnology, Taejon 305-600, Korea. daesilee@kribb.re.kr 3Genome Center, Korea Research Institute of Bioscience and Biotechnology, Taejon 305-600, Korea. 4Department of Genetic Engineering, SungKyunKwan University, Seoul, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Genome of an extreme thermophile, Thermus caldophilus GK24 has been analyzed to construct the genomic map. The genomic DNAs encapsulated in agarose gel were digested with SspI, EcoRI, SpeI, and HpaI restriction endonucleases, and then the resulting genomic DNA fragments were analyzed by pulsed-field gel electrophoresis. Its restriction map has been constructed by analyzing sizes of the restriction fragments obtained from both complete and partial digestions. The circular form of its genome was composed of about 1.98 Mbp and a megaplasmid. The genomic loci for the genes of xylose isomerase, thioredoxin, tRNA-16S rRNA, 23S rRNA, L5 ribosomal protein, ADP-glucose pyrophosphorylase, DNA-ligase, and Tca DNA polymerase were determined by both Southern hybridization and PCR.		
+
+
+Keywords:
+PFGE; genome map; Thermus caldophilus GK24 
+
+
+
+
+

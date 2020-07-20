@@ -1,0 +1,20 @@
+Original Article
+Genomics & Informatics 2004; 2(1): 36-44.
+In Silico Screening for Angiogenesis-Related Genes in Rat Astrocytes.
+Soo Young Kim, Sae Won Lee, Sung Yong You, Sun Young Rha, Kyu Won Kim
+1Division of Pharmaceutical Bioscience, College of Pharmacy and Research Institute of Pharmaceutical Sciences, Seoul National University, Seoul, Korea.
+qwonkim @ plaza.snu.ac.kr 2Graduate Program in Bioinformatics, Seoul National University, Seoul, Korea.
+3Cancer Metastasis Research Center, Yonsei University College of Medicine, Seoul, Korea.
+Abstract
+Astrocytes play supportive roles for neurons in the brain.
+Recently, they have been accepted to have various functions in the vascular system as well as in the nervous system.
+We investigated the differential gene expression in rat astrocytes according to the oxygen tension, which is a crucial factor for angiogenesis.
+A cDNA microarray was performed to find the genes whose expression was sensitive to oxygen tension.
+We found 26 genes in the astrocyte were found and classified into 4 groups.
+In order to show the genes' relevancy to angiogenesis, seven of the 26 genes were investigated to see whether they have capabilities of interaction with angiogenesis-related factors in AngioDB.
+Through this investigation, we found interactions of three proteins with angiogenesis-related factors.
+These genes were further investigated with a new focus on the vascular endothelial growth factor(VEGF) expression in an astrocyte based on our hypothesis that astrocytes can have effects on endothelial angiogenesis via the release of VEGF.
+Collectively, we identified several genes whose expressions were dependent on the oxygen concentration of the astrocyte.
+Furthermore, the relevancy of astrocytes to angiogenesis was investigated using preexisting information of AngioDB, and suggested a possible signaling pathway for VEGF expression in the aspects of brain endothelial angiogenesis by astrocytes.
+Keywords:
+astrocytes; cDNA microarray; angiogenesis; AngioDB

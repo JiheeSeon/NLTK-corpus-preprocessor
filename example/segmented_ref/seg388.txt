@@ -1,0 +1,12 @@
+Original Article
+Genomics & Informatics 2006; 4(4): 170-172.
+ESTin: A Program for Building a dbEST Submission File from Massive EST Sequences.
+Byungwook Lee
+1Korean Biolnformation Center, KRIBB, Daejeon, Korea.
+bulee @ kribb.re.kr 2Department of BioSystems, KAIST, Daejeon, Korea.
+Abstract
+ESTin is an easy-to-use tool that allows EST researchers to build a dbEST submission file with EST sequences and related data.
+The advantages of ESTin are its user-friendly interface, various editing functions, and rigorous validation function.
+AVAILABILITY: ESTin is freely available at http://pat.kobic.re.kr/biodeposit/est/estin.htm SUPPLEMENTARY INFORMATION: A user manual is available on the ESTin website.
+Keywords:
+dbEST; ESTin; EST submission

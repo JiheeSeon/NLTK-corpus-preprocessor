@@ -1,0 +1,20 @@
+Original Article
+Genomics & Informatics 2008; 6(3): 142-146.
+DOI: https://doi.org/10.5808/gi.2008.6.3.142
+Structural Bioinformatics Analysis of Disease-related Mutations.
+Seong Jin Park, Sangho Oh, Daeui Park, Jong Bhak
+Korean BioInformation Center(KOBIC), KRIBB, Daejeon 305-806, Korea.jongbhak @ yahoo.com, daeui @ kribb.re.kr
+Abstract
+In order to understand the protein functions that are related to disease, it is important to detect the correlation between amino acid mutations and isease.
+Many mutation studies about disease-related proteins have been carried out through molecular biology techniques, such as vector design, protein engineering, and protein crystallization.
+However, experimental protein mutation studies are time-consuming, be it in vivo or in vitro.
+We therefore performed a bioinformatic analysis of known disease-related mutations and their protein structure changes in order to analyze the correlation between mutation and disease.
+For this study, we selected 111 diseases that were related to 175 proteins from the PDB database and 710 mutations that were found in the protein structures.
+The mutations were acquired from the Human Gene Mutation Database(HGMD).
+We selected point mutations, excluding only insertions or deletions, for detecting structural changes.
+To detect a structural change by mutation, we analyzed not only the structural properties(distance of pocket and mutation, pocket size, surface size, and stability), but also the physico-chemical properties(weight, instability, isoelectric point(IEP), and GRAVY score) for the 710 mutations.
+We detected that the distance between the pocket and disease-related mutation lay within 20 A(98.5%, 700 proteins).
+We found that there was no significant correlation between structural stability and disease-causing mutations or between hydrophobicity changes and critical mutations.
+For large-scale mutational analysis of disease-causing mutations, our bioinformatics approach, using 710 structural mutations, called `` Structural Mutatomics, '' can help researchers to detect disease-specific mutations and to understand the biological functions of disease-related proteins.
+Keywords:
+human gene mutation database(HGMD); structural property; physico-chemical property; structural mutatomics

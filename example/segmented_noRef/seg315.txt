@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2008; 6(4): 223-226.
+DOI: https://doi.org/10.5808/gi.2008.6.4.223
+Computational Approach for the Analysis of Post-PKS Glycosylation Step.
+Ki Bong Kim, Kiejung Park
+1Department of Bioinformatics Engineering, Sangmyung University, Cheonan 330-720, Korea.
+kbkim @ smu.ac.kr 2SmallSoft Co., Deajeon 305-728, Korea.
+Abstract
+We introduce a computational approach for analysis of glycosylation in Post-PKS tailoring steps.
+It is a computational method to predict the deoxysugar biosynthesis unit pathway and the substrate specificity of glycosyltransferases involved in the glycosylation of polyketides.
+In this work, a directed and weighted graph is introduced to represent and predict the deoxysugar biosynthesis unit pathway.
+In addition, a homology based gene clustering method is used to predict the substrate specificity of glycosyltransferases.
+It is useful for the rational design of polyketide natural products, which leads to in silico drug discovery.
+Keywords:
+glycosylation; post-PKS tailoring step; glycosyltransferase; deoxysugar biosynthesis unit pathway

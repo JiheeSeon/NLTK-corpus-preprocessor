@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2010; 8(3): 116-121.
+DOI: https://doi.org/10.5808/gi.2010.8.3.116
+Association between ADIPOQ Gene Polymorphism rs182052 and Obesity in Korean Women.
+Miae Doo, Yangha Kim
+Department of Nutritional Science and Food Management, Ewha Womans University, Seoul 120-750, Korea.
+yhmoon @ ewha.ac.kr
+Abstract
+The association between adiponectin concentration and obesity have been reported and genetic variations of the ADIPOQ gene are known to influence the plasmatic concentration of adiponectin.
+Therefore, we investigated the effect of AIPOQ single nucleotide polymorphism(SNP) on obesity-related variables, and their modulation by dietary intakes in Korean women.
+The subjects consisted of 3,217 Korean women aged 40-59 years participating in the Korean Genome Epidemiology Study(KoGES).
+The general characteristics, anthropometric variables, serum blood profiles were measured.
+Dietary intake was analyzed using the Food Frequency Questionnaire.
+Subjects with the T allele of AIPOQ rs182052 showed significantly higher obesity-related variables such as weight(p=0.005), BMI(p<0.000), fat body mass(p=0.005), and waist-hip ratio(p=0.007) than those with the C allele.
+Moreover, the rs182052 T allele was associated with an increased risk of obesity prevalence(p=0.019).
+However, there were not any significant interactions observed between the genotype of ADIPOQ rs182052 and dietary intake on BMI and fat body mass.
+These findings suggest that the obesity-related variables may be more dominantly affected by the genotype of ADIPOQ rs182052 than dietary intake in middle aged Korean women.
+Keywords:
+ADIPOQ; single nucleotide polymorphism; rs182052; obesity; gene-diet interactions

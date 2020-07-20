@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2009; 7(2): 122-130.
+DOI: https://doi.org/10.5808/gi.2009.7.2.122
+Integrative Analysis of Microarray Data with Gene Ontology to Select Perturbed Molecular Functions using Gene Ontology Functional Code.
+Changsik Kim, Jiwon Choi, Sukjoon Yoon
+Department of Biological Sciences, Sookmyung Women 's University, Seoul 140-742, Korea.
+yoonsj @ sookmyung.ac.kr
+Abstract
+A systems biology approach for the identification of perturbed molecular functions is required to understand the complex progressive disease such as breast cancer.
+In this study, we analyze the microarray data with Gene Ontology terms of molecular functions to select perturbed molecular functional modules in breast cancer tissues based on the definition of Gene ontology Functional Code.
+The Gene Ontology is three structured vocabularies describing genes and its products in terms of their associated biological processes, cellular components and molecular functions.
+The Gene Ontology is hierarchically classified as a directed acyclic graph.
+However, it is difficult to visualize Gene Ontology as a directed tree since a Gene Ontology term may have more than one parent by providing multiple paths from the root.
+Therefore, we applied the definition of Gene Ontology codes by defining one or more GO code(s) to each GO term to visualize the hierarchical classification of GO terms as a network.
+The selected molecular functions could be considered as perturbed molecular functional modules that putatively contributes to the progression of disease.
+We evaluated the method by analyzing microarray dataset of breast cancer tissues; i.e., normal and invasive breast cancer tissues.
+Based on the integration approach, we selected several interesting perturbed molecular functions that are implicated in the progression of breast cancers.
+Moreover, these selectedmolecular functions include several known breast cancer- related genes.
+It is concluded from this study that the present strategy is capable of selecting perturbed molecular functions that putatively play roles in the progression of diseases and provides an improved interpretability of GO terms based on the definition of Gene Ontology codes.
+Keywords:
+breast cancer; gene ontology code; gene ontology functional code; microarray; molecular functions

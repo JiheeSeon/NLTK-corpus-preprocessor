@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2010; 8(2): 90-93.
+DOI: https://doi.org/10.5808/gi.2010.8.2.090
+AKAPDB: A-Kinase Anchoring Proteins Database.
+In Sil Kim, Kyung Joon Lim, Bok Ghee Han, Myung Guen Chung, Kyu Won Kim
+1Neurovascular Coordination Research Center, College of Pharmacy and Research Institute of Pharmaceutical Science, Seoul National University, Seoul 151-742, Korea.
+2Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-742, Korea.
+3Department of Molecular Medicine and Biopharmaceutical Sciences, Graduate School of Convergence Science and Technology, Seoul National University, Seoul 151-742, Korea.
+4Center for Genome Science, National Institute of Health, Korea Center for Disease Control and Prevention, Seoul 122-701, Korea.
+qwonkim @ plaza.snu.ac.kr
+Abstract
+A-kinase-anchoring proteins(AKAPs) are scaffold proteins which compartmentalize protein kinase A(PKA, cAMP-dependent protein kinase) and other enzymes to specific subcellular sites.
+The spatiotemporal control of these enzymes by AKAPs is important for cellular function like cell growth and development etc.
+Hence, it is important to understand the basic function of AKAPs and their functional domains.
+However, diverse names, function, cellular localizations and many members of AKAPs increase difficulties when researchers search appropriate AKAPs for their experimental purpose.
+Nevertheless, there was no previous AKAPs-related database regardless of their important cellular functions and difficulty of finding appropriate AKAPs.
+So, we developed AKAPs database(AKAPDB), which contains their sequence information, functions and other information derived from prediction programs and other databases.
+Therefore, we propose that AKAPDB can be an important tool to researchers in the related fields.
+AKAPDB is available via the internet at http://plaza3.snu.ac.kr/akapdb/
+Keywords:
+a-kinase anchoring protein; database

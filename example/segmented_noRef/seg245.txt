@@ -1,0 +1,24 @@
+Original Article
+Genomics & Informatics 2010; 8(4): 206-211.
+DOI: https://doi.org/10.5808/gi.2010.8.4.206
+A Promoter SNP(rs1800682, -670C/T) of FAS Is Associated with Stroke in a Korean Population.
+Sung Wook Kang, Joo Ho Chung, Dong Hwan Kim, Dong Hwan Yun, Seung Don Yoo, Hee Sang Kim, Wan Seo, Jee Sang Yoon, Hyung Hwan Baik
+1Kohwang Medical Research Institute, School of Medicine, Kyung Hee University, Seoul 130-701, Korea.
+2Department of Physical Medicine & Rehabilitation, School of Medicine, Kyung Hee University, Seoul 130-701, Korea.
+3Department of Biochemistry and Molecular Biology, School of Medicine, Kyung Hee University, Seoul 130-701, Korea.
+hhbaik @ khu.ac.kr
+Abstract
+The Fas(TNF receptor superfamily, member 6)(FAS) /FAS ligand(FASLG) interaction plays a central role in the regulation of programmed cell death.
+FAS and FASLG polymorphisms in promoter regions affect transcriptional activities.
+To investigate whether FAS and FASLG polymorphisms are associated with the development and clinical phenotypes of stroke, 2 promoter single nucleotide polymorphisms(SNPs) in FAS(rs1800682, -670C/T) and FASLG(rs763110, -844C/T) were selected and genotyped by direct sequencing in 220 stroke patients[107 ischemic stroke(IS), 77 intracerebral hemorrhage(ICH), and 36 subarachnoid hemorrhage(SAH)] and 369 control subjects.
+For the analysis of clinical symptoms, all stroke patients were divided into 3 clinical phenotypes according to the respective results of the National Institutes of Health Stroke Survey(NIHSS) and the Modified Barthel Index(MBI) and the presence or absence of complex regional pain syndrome(CRPS).
+The SNPStats, SNPAnalyzer, and Helixtree programs were used to analyze the genetic data.
+Multiple logistic regression models(codominant, dominant, and recessive) were used to estimate odds ratios(ORs), 95% confidence intervals(CIs), and p-values.
+The promoter SNP rs1800682 was associated with stroke in the codominant(OR=0.48, 95% CI=0.25-0.94, p=0.04) and dominant models(OR=0.51, 95% CI=0.30-0.87, p=0.011).
+However, a FASLG SNP(rs763110) was not in Hardy-Weinberg equilibrium(p<0.05).
+In the analysis of stroke types, rs1800682 was associated with IS in the codominant(OR=0.30, 95% CI=0.12-0.74, p=0.025), dominant(OR=0.44, 95% CI=0.23-0.88, p=0.018), and recessive models(OR=0.45, 95% CI=0.21-0.99, p=0.042).
+The genotype frequencies of rs1800682 were different between ICH and controls in the dominant model(OR=0.49, 95% CI=0.26-0.94, p=0.031) but not between SAH and controls.
+In the analysis of clinical symptoms, however, rs1800682 was not related to the 3 clinical phenotypes(NIHSS, MBI, and CRPS).
+These results suggest that a promoter SNP(rs1800682, -670C/T) in FAS may be associated with the development of stroke in the Korean population.
+Keywords:
+FAS; FASLG; promoter; single nucleotide polymorphism; stroke

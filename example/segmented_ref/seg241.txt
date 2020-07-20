@@ -1,0 +1,23 @@
+Original Article
+Genomics & Informatics 2011; 9(1): 12-18.
+DOI: https://doi.org/10.5808/gi.2011.9.1.012
+Genetic Association between Eotaxin Genes and Asthma and Its Relationship to Birth Season in Korean Children.
+Insung Ahn, Se Eun Bae, Jeong Hee Kim, Byong Kwan Son, Hyeon S Son, Sung Il Cho
+1Supercomputing Center, Korea Institute of Science and Technology Information, Daejeon 305-806, Korea.
+2Laboratory of Computational Biology & Bioinformatics, Institute of Health and Environment, Graduate School of Public Health, Seoul National University, Seoul 151-742, Korea.
+3Interdisciplinary Graduate Program in Bioinformatics, College of Natural Science, Seoul National University, Seoul 151-742, Korea.
+4Department of Pediatrics, School of Medicine, Inha University, & Inha Univ.
+Hospital, Environment Health Center, Incheon 400-712, Korea.
+5Department of Epidemiology, Graduate School of Public Health and Institute of Health and Environment, Seoul National University, Seoul 151-742, Korea.
+hss2003 @ snu.ac.kr
+Abstract
+Asthma is a chronic disease associated with airway constriction due to inflammation caused by eosinophils, mast cells, and T lymphocytes, leading to serious chronic illness in children.
+The eotaxin gene family has been shown to play an important role in the pathogenesis of asthma.
+We hypothesized that the distinctive variations among the four seasons in Korea may affect the expression of eotaxin polymorphisms, especially in children.
+We examined the possible effects of birth season(spring, March-May; summer, June-August; fall, September-November; and winter, December-February) on the phenotype of asthma in children.
+All SNP data sets of the eotaxin-2 and eotaxin-3 genes were collected from 78 asthma patients and 101 controls.
+Here, we investigated the effects of birth season on the expression of eotaxin-2 and eotaxin-3 in Korean children.
+Using the HAPLOTYPE procedure with the HTR method in SAS/Genetics, we showed that children born in spring and summer show significant haplotypes in both the eotaxin-2 and eotaxin-3 genes.
+Thus, the expression of polymorphisms in eotaxin-2 and eotaxin-3 may vary by season.
+Keywords:
+asthma; haplotype; eotaxin; children; Korean

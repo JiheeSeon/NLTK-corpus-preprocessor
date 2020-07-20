@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(2): 85-96. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.2.085
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Analysis of Gene Expression in Mouse Spinal Cord-derived Neural Precursor Cells During Neuronal Differentiation.
+
+
+
+ Joon Ik Ahn,  So Young Kim,  Moon Jeong Ko,  Hye Joo Chung,  Ho Sang Jeong 
+
+
+
+			Molecular Pharmacology Division, Pharmacological Research Department, National Institute of Toxicological Research, Seoul 122-704, Korea. hosa33@kfda.go.kr, hjchung@kfda.go.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The differentiation of neural precursor cells (NPCs) into neurons and astrocytes is a process that is tightly controlled by complicated and ill-defined gene networks. To extend our knowledge to gene networks, we performed a temporal analysis of gene expression during the differentiation (2, 4, and 8 days) of spinal cord-derived NPCs using oligonucleotide microarray technology. Out of 32,996 genes analyzed, 1878 exhibited significant changes in expression level (fold change>2, p<0.05) at least once throughout the differentiation process. These 1878 genes were classified into 12 groups by k-means clustering, based on their expression patterns. K-means clustering analysis revealed that the genes involved in astrogenesis were categorized into the clusters containing constantly upregulated genes, whereas the genes involved in neurogenesis were grouped to the cluster showing a sudden decrease in gene expression on Day 8. Functional analysis of the differentially expressedgenes indicated the enrichment of genes for Pax6- NeuroD signaling-TGFb-SMAD and BMP-SMAD-which suggest the implication of these genes in the differentiation of NPCs and, in particular, key roles for Nova1 and TGFBR1 in the neurogenesis/astrogenesis of mouse spinal cord.		
+
+
+Keywords:
+astrogenesis; microarray; neural precursor cells; neurogenesis; spinal cord 
+
+
+
+
+

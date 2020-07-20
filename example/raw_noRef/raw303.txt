@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(2): 53-56. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.2.053
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Identification of Genetic Variations in CBL, SORBS1, CRK, and RHOQ,Key Modulators in the CAP/TC10 Pathway of Insulin Signal Transduction and Their Association with Type 2 Diabetes Mellitus in the Korean Population.
+
+
+
+ Kyung Won Hong,  Hyun Seok Jin,  Ji Eun Lim,  Min Jin Go,  Jong Young Lee,  Sue Yun Hwang,  Hun Kuk Park,  Bermseok Oh 
+
+
+
+1Department of Biomedical Engineering, School of Medicine,Kyung Hee University, Seoul 130-701, Korea. ohbs@khu.ac.kr 2Center for Genome Science, National Institute of Health, Seoul 122-701, Korea. 3Graduate School of Informatics and Biotechnology, Hankyung National University, Ansung 456-749, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Recent evidence has strongly suggested that the CAP/TC10 pathway is involved in the trafficking, docking,and fusion of vesicles containing the insulin- responsive glucose transporter Glut4 to the plasma membrane. However, little is known about how the genes employed in the CAP/TC10 pathway are associated with the development of type 2 diabetes mellitus. In this study, we sequenced 4 genes of the CAP/TC10 pathway [SORBS1, CBL, CRK, and RHOQ] in 24 individuals to identify genetic variations in these loci. A total of 48 sequence variants were identified, including 23 novel variations. To investigate the possible association with type 2 diabetes mellitus, 3 single nucleotide polymorphisms from SORBS1, 3 from CBL , and 4 from RHOQ were genotyped in 1122 Korean type 2 diabetic patients and 1138 nondiabetic controls. Using logistic regression analysis, 1 significant association between SNP rs1376405 in RHOQ and type 2 diabetes mellitus [OR = 8.714 (C.I. 1.714-44.29), p = 0.009] was found in the recessive model. Our data demonstrate a positive association of the RHOQ gene in the CAP/TC10 pathway with T2DM in the Korean population.		
+
+
+Keywords:
+CAP/TC10; Glut 4; insulin; SNP; type 2 diabetes mellitus 
+
+
+
+
+

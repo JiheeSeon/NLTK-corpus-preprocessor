@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(1): 32-39. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gene Expression Pattern Analysis via Latent Variable Models Coupled with Topographic Clustering.
+
+
+
+ Jeong Ho Chang,  Sung Wook Chi,  Byoung Tak Zhang 
+
+
+
+			Biointelligence Laboratory, School of Computer Science and Engineering, Seoul National University, Seoul, Korea. btzhang@bi.snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		We present a latent variable model-based approach to the analysis of gene expression patterns, coupled with topographic clustering. Aspect model, a latent variable model for dyadic data, is applied to extract latent patterns underlying complex variations of gene expression levels.
+Then a topographic clustering is performed to find coherent groups of genes, based on the extracted latent patterns as well as individual gene expression behaviors. Applied to cell cycle regulated genes of the yeast Saccharomyces cerevisiae, the proposed method could discover biologically meaningful patterns related with characteristic expression behavior in particular cell cycle phases. In addition, the display of the variation in the composition of these latent patterns on the cluster map provided more facilitated interpretation of the resulting cluster structure. From this, we argue that latent variable models, coupled with topographic clustering, are a promising tool for explorative analysis of gene expression data.		
+
+
+Keywords:
+gene expression pattern; latent variable model; Fisher kernel; topographic clustering 
+
+
+
+
+

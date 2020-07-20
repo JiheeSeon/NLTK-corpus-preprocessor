@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2005; 3(1): 24-29.
+Cloning of Xenopus laevis TRPV2 by Gene Prediction.
+Jung Youn Lee, Won Sik Shim, Uhtaek Oh
+Sensory Research Center, Seoul National University, San 56-1, Shillim-9-Dong, Gwanak-Gu, Seoul 151-742, Korea.
+Abstract
+TRPV2 is a non-specific cation channel expressed in sensory neurons, and activated by noxious heat.
+Particularly, TRPV2 has six transmembrane domains and three ankyrin repeats.
+TRPV2 has been cloned from various species such as human, rat, and mouse.
+Oocytes of Xenopus laevis - an African clawed frog - have been widely used for decades in characterization of various receptors and ion channels.
+The functional property of rat TRPV2 was also identified by this oocyte expression system.
+However, no TRPV2 orthologue of Xenopus laevis has been reported so far.
+Hence, we have focused to clone a TRPV2 orthologue of Xenopus laevis with the aid of bioinformatic tools.
+Because the genome sequence of Xenopus laevis is not available until now, a genome sequence of Xenopus tropicalis - a close relative species of Xenopus laevis - was used.
+After a number of bioinformatic searches in silico, a predicted full-length sequence of TRPV2 orthologue of Xenopus tropicalis was found.
+Based on this predicted sequence, various approaches such as RT-PCR and 5'-RACE technique were applied to clone a full length of Xenopus laevis TRV2.
+Consequently, a full-length Xenopus laevis TRPV2 was cloned from heart cDNA.

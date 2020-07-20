@@ -1,0 +1,402 @@
+Article
+Genomics & Informatics 2012; 10(2): 88-98.
+Published online: June 30, 2012
+DOI: https://doi.org/10.5808/GI.2012.10.2.88
+Interaction Effects of Lipoprotein Lipase Polymorphisms with Lifestyle on Lipid Levels in a Korean Population: A Cross-sectional Study
+Jung-A Pyun 1, Sunshin Kim 1, KyungChae Park 2, Inkyung Baik 3, Nam H Cho 4, InSong Koh 5, Jong-Young Lee 6, Yoon Shin Cho 6, Young Jin Kim 6, Min Jin Go 6, Eugene Shim 7, KyuBum Kwack 1, Chol Shin 8
+1Department of Biomedical Science, College of Life Science, CHA University, Seongnam 463-836, Korea.
+2Department of Family Medicine, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam 463-712, Korea.
+3Department of Foods and Nutrition, College of Natural Sciences, Kookmin University, Seoul 136-702, Korea.
+4Department of Preventive Medicine, Ajou University School of Medicine, Suwon 443-749, Korea.
+5Department of Physiology, Hanyang University College of Medicine, Seoul 133-791, Korea.
+6Center for Genome Science, National Institute of Health, Osong 363-951, Korea.
+7National Hypertension Center, Yonsei University Health System, Seoul 120-752, Korea.
+8Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Korea University Ansan Hospital, Korea University College of Medicine, Ansan 425-707, Korea.
+Corresponding author: Tel: +82-31-725-8376, Fax: +82-31-725-8350, kbkwack @ cha.ac.kr
+Received April 15, 2012 Revised May 13, 2012 Accepted May 23, 2012
+Copyright © 2012 by The Korea Genome Organization
+(open-access, http://creativecommons.org/licenses/by-nc/3.0):
+It is identical to the Creative Commons Attribution Non-Commercial License(http://creativecommons.org/licenses/by-nc/3.0/).
+Abstract
+Lipoprotein lipase(LPL) plays an essential role in the regulation of high-density lipoprotein cholesterol(HDLC) and triglyceride levels, which have been closely associated with cardiovascular diseases.
+Genetic studies in European have shown that LPL single-nucleotide polymorphisms(SNPs) are strongly associated with lipid levels.
+However, studies about the influence of interactions between LPL SNPs and lifestyle factors have not been sufficiently performed.
+Here, we examine if LPL polymorphisms, as well as their interaction with lifestyle factors, influence lipid concentrations in a Korean population.
+A two-stage association study was performed using genotype data for SNPs on the LPL gene, including the 3' flanking region from 7,536(stage 1) and 3,703(stage 2) individuals.
+The association study showed that 15 SNPs and 4 haplotypes were strongly associated with HDLC(lowest p = 2.86 × 10-22) and triglyceride levels(lowest p = 3.0 × 10-15).
+Interactions between LPL polymorphisms and lifestyle factors(lowest p = 9.6 × 10-4) were also observed on lipid concentrations.
+These findings suggest that there are interaction effects of LPL polymorphisms with lifestyle variables, including energy intake, fat intake, smoking, and alcohol consumption, as well as effects of LPL polymorphisms themselves, on lipid concentrations in a Korean population.
+Keywords: interaction, lipoprotein lipase, lipoproteins, lipids, single nucleotide polymorphism
+Introduction
+Lipoprotein lipase(LPL) plays an important role in the metabolism and transport of lipids.
+It hydrolyzes triglycerides(TGs) in lipoproteins, such as chylomicrons(CMs) and very low-density lipoproteins(VLDLs), into free fatty acids, releasing CM remnants and intermediate-density lipoproteins that act on high-density lipoprotein cholesterol(HDLC) metabolism.
+Plasma LPL therefore plays an essential role in elevating HDLC and lowering TG[1-3].
+While HDLC plays a role in the removal and transport of cholesterol from peripheral tissues to other tissues where it is required, such as the liver, low-density lipoprotein cholesterol(LDLC) is, conversely, transported from the liver to peripheral tissues.
+The concentration of lipids has been tightly associated with the risk of cardiovascular diseases[4-6].
+Specifically, LDLC levels have been shown to have a positive log-linear association with the risk of coronary heart disease: a reduction of 1% in the serum concentration of LDLC has been shown to reduce the relative risk of coronary heart disease risk by approximately 1%[7], whereas an increase of 1 mg/dL in serum HDLC levels is associated with a decrease in the risk of coronary heart disease of approximately 2% to 3%, independent of LDLC levels[8].
+It was also reported that TG levels are associated with risk of cardiovascular disease, independent of concentrations of other lipids and cardiac risk factors, although there has been controversy[6].
+Recently, a report based on the Korea National Health and Nutrition Examination Surveys I, II, III, and IV has indicated that the prevalence of dyslipidemia and hypertriglyceridemia in this country has increased during the last decade[9].
+Genetic association studies aimed at identifying the genetic factors associated with variations in lipid concentrations have been performed mostly for Europeans, and they have shown that the polymorphisms in the LPL gene, including the 3' flanking region, are strongly associated with HDLC and TG levels[10-13].
+There is a report of a candidate gene approach for lipid concentrations in a Korean population, but the LPL gene was not included in the study[14].
+The concentration of lipids is also influenced by environmental factors, such as smoking, alcohol consumption, diet, and physical activity, as well as genetic factors[5, 15].
+However, studies about the influence of interactions between LPL polymorphisms and lifestyle factors have not been sufficiently performed.
+In this study, we examined the effects of potential interactions between LPL polymorphisms and lifestyle, as well as genetic variations of the LPL gene, including the 3' flanking region, on the lipid profile of a Korean population.
+Methods
+Subjects
+Data for this study were obtained from the Korean Genome Epidemiology Study(KoGES), conducted by the Korean National Institute of Health(KNIH).
+The study comprised two stages.
+In the first stage, a cross-sectional analysis was conducted of samples from urban and rural communities from South Korea, whereas in the second stage, the study was replicated in other urban regions in Korea.
+Subjects who were examined in the first stage, described in a previous report[16], were recruited from a rural(Ansung) and an urban(Ansan) community from South Korea, which have been studied since 2001 as a part of KoGES.
+In total, 5,018 and 5,020 subjects from the Ansung and Ansan communities, respectively, participated in the study.
+The age of the participants ranged from 40 to 69 years.
+Samples were scrutinized for quality control purposes, after which 8,842 subjects remained in our sample[16].
+We further excluded 1,306 subjects who were on medication for hypertension, diabetes, myocardial infarction, and hyperlipidemia.
+Information about the lifestyle of the subjects was based on their responses to questionnaires.
+For the second stage of the study, 4,302 samples were obtained from both urban regions, Seoul and Busan, in South Korea that were established from 2006 to 2007 as part of KoGES.
+Samples satisfying any of the following criteria were excluded: i) gender inconsistencies, ii) genotype call rate lower than 95%, iii) excessive heterozygosity, iv) cryptic first degree relative, v) outliers on a multidimensional scaling plot, or vi) cancer history.
+A total of 3,703 subjects remained in our sample.
+These exclusion criteria for samples have been described[17].
+Details of the sample characteristics are listed in Table 1.
+Genotyping
+We obtained genotype data for single-nucleotide polymorphisms(SNPs) located in the LPL gene, including the 3' flanking region, from KoGES, which are accessible to the research community through the Korean Associated Resource project.
+The study protocol was approved by the Institutional Review Board of KNIH.
+For genotyping of the samples from the Ansung and Ansan cohorts, Affymetrix Genome-Wide Human SNP Array 5.0(Affymetrix Inc., Santa Clara, CA, USA) was used.
+Affymetrix Genome-Wide Human SNP Array 6.0(Affymetrix Inc.) was used for genotyping samples from the Seoul and Busan cohorts.
+The Bayesian Robust Linear Model with the Mahalanobis distance algorithm was used to determine the genotypes at each SNP of Affymetrix 5.0.
+The BirdSeed calling genotyping algorithm was used on Affymetrix 6.0.
+The SNPs were filtered if any of the following criteria was met: i) a call rate lower than 95%, ii) a minor allele frequency(MAF) lower than 0.05, or iii) significant deviation from the Hardy-Weinberg equilibrium(HWE).
+Significant deviation from HWE for 28 successfully genotyped SNPs was determined based on a threshold of p<0.002(0.05/28).
+SNP imputation was performed using the IMPUTE program(https://mathgen.stats.ox.ac.uk/impute/impute.html).
+A reference panel from International HapMap(phase II/release 22/NCBI build 36 and dbSNP build 126) data, comprising SNPs from 90 Japanese(JPT) and Han Chinese(CHB) individuals, was used as a template for inferring untyped genotypes.
+Imputed SNPs that were located in the LPL gene, including the 3' flanking region, with low quality were excluded according to the following criteria: low genotype information content(information lower than 0.5), a posterior probability score lower than 0.90, a call rate lower than 0.95, and MAF lower than 0.05.
+Biochemical measures
+Biochemical data from KoGES were obtained through the Korean Association Resource(KARE) project.
+Blood samples were obtained from the participants with at least 8 hours of overnight fasting.
+Serum total cholesterol(TCHL), HDLC, and TG concentrations were measured using the Advia 1650 analyzer(Siemens, Tarrytown, NY, USA) for the Ansung and Ansan cohorts and the Hitachi 7600 analyzer(Hitachi, Tokyo, Japan) for the Seoul and Busan study cohorts[16, 17].
+LDLC concentration was estimated using the equation by Friedewald et al.[18] for individuals with TG levels lower than 400 mg/dL.
+Statistics
+To test the association between LPL SNPs and haplotypes(HTs) and lipid concentration, linear regression analyses, adjusted for age, gender, and body mass index(BMI), were performed.
+For stage 1 and imputed data, the residence area of each participant was additionally adjusted.
+The influence of the interaction between LPL SNPs and lifestyle variables on lipid levels was analyzed by using linear regression, including main and interaction effects, adjusted for residence area, age, gender, and BMI.
+The effect of energy and fat intake, physical activity, smoking, and drinking status on lipid profiles was examined.
+Energy intake, fat intake, and physical activity were measured as the total intake of kilocalories per day, daily fat intake, and metabolic equivalent scores per hour, respectively.
+Smoking status had two categories, non-smokers and smokers, and alcohol consumption was divided into non-drinkers and drinkers.
+These lifestyle factors were available for subjects from stage 1 and imputed data but not from stage 2.
+All analyses were performed by log-transforming HDLC, TG, and TCHL values to normalize their distribution.
+Untransformed LDLC values were used for all analyses.
+To determine the effect of SNPs, untransformed lipid concentrations were used.
+Linkage disequilibrium(LD) block partition was performed by Gabriel 's rule, applied in Haploview version 4.1(Broad Institute of MIT and Harvard University, Boston, MA, USA), and HT inference was performed using the expectation maximization algorithm with PLINK version 1.07(http://pngu.mgh.harvard.edu/~purcell/plink).
+All statistical analyses were performed in an additive model(AA vs. AB vs. BB or +/+ vs. +/- vs. -/-) using PLINK.
+Results
+Association of LPL SNPs with lipid concentrations
+We sequentially discarded 6 SNPs with MAF<0.05, 2 SNPs with call rate<95%, and 1 SNP with HWE p-value<0.002, leaving 19 SNPs for the association study at stage 1.
+Our results show that SNPs located in the LPL gene, including the 3' flanking region, were strongly associated with HDLC and TG levels.
+The linear regression, adjusted for age, gender, and BMI, using combined data from the two study stages, revealed that 15 SNPs were associated with HDLC and TG levels(Table 2).
+The strongest associations were between rs10503669 and both HDLC(combined p = 3.6 × 10-22; 2.2-mg/dL increase per minor T allele) and TG(combined p = 3 × 10-15; 13.6-mg/dL decrease per minor T allele) in additive models.
+However, no strong association was detected between the SNP and either LDLC or TCHL levels(Supplementary Fig. 1).
+For LPL SNPs, we tested 2 intronic SNPs and 2 SNPs located in the 3' untranslated region(UTR) from stage 1.
+Of these, two SNPs in the 3' UTR(rs11570892 and rs3200218) were not significantly associated with any lipid concentration(Supplementary Table 1).
+Two intronic SNPs, rs263 and rs271, were significantly associated to higher HDLC levels(p = 1.2 × 10-10 and p = 2.5 × 10-11; 1.2- and 1.3-mg/dL increase per minor A and T allele, respectively) and lower TG levels(p = 1.7 × 10-6 and p = 7.2 × 10-7; 8.8- and 9-mg/dL decrease per minor A and T allele, respectively)(Table 2).
+In stage 2, 7 intronic SNPs and 2 SNPs that were located in the 3' UTR were tested.
+It was found that rs263 and rs271 were also strongly associated with increased HDLC(p = 5.5 × 10-6 and p = 5.1 × 10-6, respectively; both showed a 1.5-mg/dL increase per minor A and T allele)(Table 2) and decreased TG levels(p = 3.3 × 10-3 and p = 2.2 × 10-3; 8.6- and 8.7-mg/dL decrease per minor A and T allele, respectively).
+Additionally, 4 intronic SNPs(rs253, rs326, rs327, and rs12679834) were significantly associated with increased HDLC(p = 4.2 × 10-3, p = 1.5 × 10-9, p = 1.6 × 10-9 and p = 3.1 × 10-14; increase of 0.8, 2.1, 2.1, and 3.3 mg/dL per minor allele, respectively) and decreased TG levels(p = 3.6 × 10-3, p = 9.1 × 10-7, p = 5.9 × 10-7 and p = 1.3 × 10-6; increase of 7.4, 12.2, 12.3, and 13.7 mg/dL per minor allele, respectively)(Supplementary Table 2).
+The analysis using combined data from the two stages showed that rs263 and rs271 were also significantly associated with HDLC(p = 1.7 × 10-11 and p = 5.7 × 10-12, respectively; increase in both cases of 1.2 mg/dL per minor A and T allele) and TG levels(p = 6.8 × 10-7 and p = 2.7 × 10-7; decrease of 8.1, 8.3 mg/dL per minor A and T allele, respectively)(Table 2).
+Association of LPL HTs with lipid concentration
+Two blocks, including SNPs located in the LPL gene, were identified(Supplementary Fig. 2), and the association of HT with lipid profiles for the two blocks was examined.
+The analysis using combined data from the two stages showed that block 2, which includes SNPs located in the LPL gene, including the 3' flanking region, was the region most strongly associated with lipid concentrations(Table 3).
+HT3 in block 2 was strongly associated with increased HDLC levels(p = 2.86 × 10-22; 2.25-mg/dL increase perHT3) and reduced TG levels(p = 9.09 × 10-15; 13.7-mg/dL decrease perHT3), whereas HT1 was strongly associated with reduced HDLC levels(p = 1.1 × 10-14; 1.2-mg/dL decrease per HT1) and higher TG levels(p = 3.05 × 10-12; 8.6-mg/dL increase per HT1).
+There was no significant association between HT and either LDLC or TCHL.
+The analysis using imputed data also showed a strong association between HTs and lipid levels in the 2 blocks, including LPL SNPs(Supplementary Table 3).
+HT1 in block 2 was significantly associated with a reduced HDLC level(p = 4.2 × 10-15; 1.3-mg/dL decrease perHT1) and an increased level of TG(p = 1.9 × 10-8; 8-mg/dL increase perHT1), whereas HT3 was significantly associated with increased HDLC(p = 7.8 × 10-16; 2-mg/dL increase per HT3) and LDLC levels(p = 5.1 × 10-3; 2.3-mg/dL increases per HT3) and decreased TG levels(p = 5.6 × 10-13; 15.1-mg/dL decrease per HT3).
+Effect of the interaction between polymorphisms located in the LPL gene and lifestyle on lipid concentration
+We tested LPL SNPs and HTs from stage 1.
+All significant associations were found in the results of the dominant model for the minor allele.
+The association of minor alleles for 3 SNPs(rs263, rs271, rs328) with higher HDLC levels also depended on energy intake(Supplementary Fig. 3).
+Of these, the minor alleles of 2 SNPs(rs263, rs271) were associated with lower TG levels, also depending on energy intake.
+The association of the minor alleles of two SNPs(rs263, rs271) with higher HDLC levels also depended on fat intake(Fig. 1).
+The minor alleles of 2 SNPs(rs263, rs271) were also associated with higher HDLC levels and lower TG levels through an interaction with cigarette smoking and with lower TG levels through an interaction with alcohol consumption(Fig. 2, Supplementary Fig. 4).
+Interaction effects of HT1 and 2 in block 1, which were formed by two SNP(rs271, rs263) in strong LD(r2 = 0.99), with lifestyle factors on HDLC and TG levels were found to be almost same with those of rs271 and rs263(data not shown).
+In block 2, HT3 was associated with higher HDLC levels and lower TG levels and depended on an interaction with energy intake(Fig. 3, Supplementary Fig. 3).
+HT4 in block 2 was associated with lower TG levels through an interaction with cigarette smoking(Supplementary Fig. 4).
+For the interaction between LPL polymorphisms and physical activity, there was no significant association with any lipid levels.
+Discussion
+The human LPL gene is located on chromosome 8p22 and includes 10 exons encoding 475 amino acids, of which 448 amino acids are part of the mature protein and 27 of the signal peptide[19, 20].
+LPL has an essential role in the metabolism of lipids, as it hydrolyzes a number of substrates, such as long- and short-chain glycerides and phospholipids in vitro, as well as major substrates, such as CMs and VLDL in vivo[21].
+Dysfunction of LPL has been reported to be associated with chylomicronemia, atherosclerosis, obesity, Alzheimer 's disease, and dyslipidemia[22].
+Genetic association studies have shown that some SNPs located in the LPL gene, including the 3' flanking region, are strongly associated with HDLC and TG levels, mostly in Europeans.
+Specifically, by performing meta-analyses of genomewide association studies, Aulchenko et al.[13] found that rs2083637 and rs10096633 were associated with HDLC and TG levels, and it was also demonstrated that rs325 and rs10105606, reported by Waterworth et al.[11], and rs12678919, reported by Kathiresan et al.[23], were associated with HDLC and TG levels.
+Studies using the candidate gene approach, which examines the effects of genetic variants of a putative gene in an association, have reported that some LPL SNPs are associated with HDLC and TG levels.
+Tang et al.[24] recently revealed that rs326 and rs328(which convert serine to a stop codon) and rs13702 are associated with HDLC and TG levels in African-Americans and European-American populations.
+Here, rs263 and rs271, located, respectively, in introns 5 and 6, were strongly associated with increased HDLC and decreased TG levels(Table 2).
+The two significant SNPs formed an HT block with strong LD(r2 = 0.99) in stage 1, and rs3200218, located in the 3' UTR, formed another HT block with 15 SNPs located in the 3' flanking region.
+At stage 2, nine SNPs in the LPL gene remained after SNP filtering, out of which six were significantly associated with HDLC levels(Supplementary Table 2).
+SNPs rs343, rs253, rs263, and rs271, located, respectively, in introns 3, 4, 5, and 6, formed an HT block with moderate LD(r2> 0.3).
+SNPs rs326, rs327, rs12679834, rs11570892n, and rs3200218 formed another HT block with 31SNPs located in the 3' flanking region.
+In the two blocks at stages 1 and 2, some HTs were found to be strongly associated with HDLC and TG levels(Supplementary Tables 4 and 5).
+The analysis using the combined data from both stages showed that HTs were also significantly associated with HDLC and TG levels(Table 3).
+Using the imputation data, we found that more LPL SNPs were included in the two blocks.
+HTs that were significantly associated with lipid profiles were also identified(Supplementary Table 3).
+The strongest association of HT with HDLC and TG levels was observed in block 2(from both stages).
+A previous study reported that one HT was associated with increased LPL activity[25].
+The HT was found to be consistent with HT3 in block 2, found using stage 1 and imputed data, which was associated here with increased HDLC and decreased TG levels.
+In block 2, we found that one SNP, rs328, which converts serine to a stop codon, was included using imputed data.
+Interestingly, the minor allele G of rs328 was found only in HT3.
+It has been reported that this minor allele is associated with increased HDLC and decreased TG concentrations in Japanese[26] and European populations[10, 27], and our results support this finding.
+This truncated variant was also demonstrated to have higher catalytic activity[28-30].
+SNP rs328 has been reported to be in strong LD with rs17482753 in European(r2 = 1) and African(r2 = 0.852) populations[31].
+rs17482753 was genotyped in stage 1 and 2 of this study, and the SNP was found to be in strong LD with rs328, according to the imputed data(r2 = 0.993).
+We additionally identified strong LD(r2 = 0.93) between rs328 and rs17482753 by using genotype data of 830 Korean participants obtained from a previous study[32], in which samples in stage 1 of this study were included.
+Similar to the results of rs328 obtained using the imputed data in this study, the rs17482753 minor allele was found to be strongly associated with raised HDLC and reduced TG levels in a dominant manner at both stages.
+In a previous study, LPL SNPs located in the 3' UTR region were considered possible targets affecting miRNA binding sites, and 5 SNPs were predicted to be putative miRNA binding sites by polymiRTS[33].
+The 3' UTR region of the LPL gene was included in block 2 in this study, and two of the predicted 5 SNPs were tested(Supplementary Table 1).
+Rs1059611 major allele T from the imputed data was significantly associated with reduced levels of HDLC and LDLC and with increased TG levels in an additive manner.
+In this SNP, the major T allele was predicted to create a new miRNA(miR-136) binding site, causing abnormal repression of this gene.
+The major allele of another SNP, rs11570892, was predicted to disrupt a conserved miRNA(miR-592) binding site, and this could cause abnormal control of normal repression.
+However, this SNP showed inconsistent association with LDLC levels in stages 1 and 2 of this study.
+Some environmental factors have been suggested to be associated with lipid profiles.
+Physical activity was reported to be associated with higher HDLC and lower TG and TCHL concentrations[34], whereas smoking was reported to be associated with higher LDLC and TG and lower HDLC levels[35, 36].
+Alcohol consumption was suggested to be associated with increased HDLC levels[37, 38], whereas excessive alcohol consumption was associated with a higher TG level[39].
+A low fat intake, in turn, was associated with reduced TCHL, LDLC, and HDLC and increased TG levels[40].
+Some LPL SNPs have also been shown to be associated with lipid profiles through their interaction with smoking, alcohol consumption, and physical activity.
+Specifically, rs320 has been suggested to interact with smoking[41, 42] and physical activity[42], and rs1801177 interacts with physical activity[43].
+The SNP rs328, which is a nonsense SNP included in our imputed data, has been associated with HDL through its interaction with smoking and alcohol consumption in females but not in males[44].
+In a recent study, however, the interaction of several LPL SNPs, including rs328, with alcohol consumption was suggested to have no influence on HDLC levels[45].
+In this study, we show that the effects of some LPL polymorphisms on lipid concentrations were regulated by several environmental factors.
+Carriers of each minor allele of 3 SNPs(rs263, rs271, and rs328) were associated with slightly higher HDLC levels, depending on an interaction with energy intake.
+This effect, however, was not observed among non-carriers(Supplementary Fig. 3).
+In two of these SNPs(rs263 and rs271), which were in strong LD(r2 = 0.99 in stages 1 and 2), each major genotype carrier led to higher levels of TG, whereas the TG levels of each minor allele carrier were not affected by a higher energy intake.
+Carriers of each minor allele, but not non-carriers, led to a higher HDLC level through an interaction with a higher intake of fat(Fig. 1).
+Each major genotype carrier of two SNPs(rs263 and rs271) showed lower HDLC levels and higher TG levels than minor allele carriers through an interaction with smoking(Fig. 2).
+In the major genotype carrier of these two SNPs, higher TG levels were also found by interacting with alcohol consumption(Supplementary Fig. 4), whereas each minor allele carrier was less affected than non-carriers by smoking or alcohol consumption.
+For interactions of HTs, blocks 1 and 2 were shown to interact with inconsistent lifestyle variables.
+Interaction effects of HT1 and 2 in block 1 with lifestyle factors, which were formed by the two SNPs, on lipid levels were almost same with those of rs263 and rs271(data not shown).
+In the LPL gene, 61 missense mutations have been identified, and interestingly, 42 of them are located in exons 5 and 6, which may be contained in block 1[46].
+Carrier of HT3 in block 2, which was reported to be associated with increased LPL activity[25], showed higher HDLC levels and lower TG levels, whereas non-carriers were not affected by a higher energy intake(Fig. 3, Supplementary Fig. 3).
+In the non-carrier of HT4 in block 2, higher TG levels were found by interacting with cigarette smoking(Supplementary Fig. 4).
+Smoking and moderate alcohol consumption were reported to be related with reduced and increased LPL activity, respectively[47, 48], but the precise mechanisms by which the interaction of LPL polymorphisms with environmental factors affects lipid concentrations have not been demonstrated yet.
+In conclusion, we found that HTs are strongly associated with HDLC and TG levels in the 2 blocks in which LPL SNPs are included and that SNPs in these blocks are also strongly associated with HDLC and TG levels in stage 1.
+Interestingly, these results were replicated in stage 2, which consists of independent samples, and the combined analyses, including the samples of stages 1 and 2, showed the most significant results.
+Moreover, by analyzing the effect of the interaction of LPL polymorphisms with several lifestyle factors on plasma lipid levels, we have shown that the effects of some LPL SNPs and HTs on HDLC and TG concentrations are regulated by energy and fat intake, smoking, and alcohol consumption.
+Since these results have not been reported in any previous studies, they are novel findings.
+These interaction effects suggest that the appropriate lifestyle of each individual could be recommended according to the type of LPL polymorphism.
+These results should be confirmed in other populations and in a longitudinal study.
+Acknowledgments
+This research was performed within the Consortium for Large Scale Genome Wide Association Study III(2011E7300400), which was supported by the genotyping data(the Korean Genome Analysis Project, 4845-301) and the phenotypic data(the Korean Genome Epidemiology Study, 4851-302) from the Korea Center for Disease Control.
+This study was also supported by grants from Korea Health 21 R & D Project, Ministry of Health and Welfare, Republic of Korea(A080734), and the Priority Centers Program of the National Research Foundation of Korea(NRF), which is funded by the Ministry of Education, Science, and Technology(2009-0093821).
+Supplementary materials
+Supplementary data including 5 tables and 4 figures can be found with with this article online at http://www.genominfo.org/src/sm/gni-10-88-s001.pdf.
+gni-10-88-s001.pdf
+References
+1.
+Lusis AJ, Pajukanta P. A treasure trove for lipoprotein biology.
+Nat Genet 2008; 40:129-130.
+PMID: 18227868.
+2.
+Eckel RH.
+Lipoprotein lipase: a multifunctional enzyme relevant to common metabolic diseases.
+N Engl J Med 1989; 320:1060-1068.
+PMID: 2648155.
+3.
+Goldberg IJ, Merkel M. Lipoprotein lipase: physiology, biochemistry, and molecular biology.
+Front Biosci 2001; 6: D388-D405.
+PMID: 11229871.
+4.
+Prospective Studies Collaboration.
+Lewington S, Whitlock G, Clarke R, Sherliker P, Emberson J, et al. Blood cholesterol and vascular mortality by age, sex, and blood pressure: a meta-analysis of individual data from 61 prospective studies with 55,000 vascular deaths.
+Lancet 2007; 370:1829-1839.
+PMID: 18061058.
+5.
+National Cholesterol Education Program(NCEP) Expert panel on detection, evaluation, and treatment of high blood cholesterol in adults(adult treatment panel III).
+Third report of the National Cholesterol Education Program(NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults(Adult Treatment Panel III) final report.
+Circulation 2002; 106:3143-3421.
+PMID: 12485966.
+6.
+Bansal S, Buring JE, Rifai N, Mora S, Sacks FM, Ridker PM.
+Fasting compared with nonfasting triglycerides and risk of cardiovascular events in women.
+JAMA 2007; 298:309-316.
+PMID: 17635891.
+7.
+Grundy SM, Cleeman JI, Merz CN, Brewer HB Jr, Clark LT, Hunninghake DB, et al. Implications of recent clinical trials for the national cholesterol education program adult treatment panel III guidelines.
+Circulation 2004; 110:227-239.
+PMID: 15249516.
+8.
+Linsel-Nitschke P, Tall AR.
+HDL as a target in the treatment of atherosclerotic cardiovascular disease.
+Nat Rev Drug Discov 2005; 4:193-205.
+PMID: 15738977.
+9.
+Korea Center for Disease Control.
+The Forth Korea National Health and Nutrition Examination Survey(KNHANES IV-1), 2007.
+2008.
+Seoul: Korea Center for Disease Control and Prevention.
+10.
+Kathiresan S, Melander O, Anevski D, Guiducci C, Burtt NP, Roos C, et al. Polymorphisms associated with cholesterol and risk of cardiovascular events.
+N Engl J Med 2008; 358:1240-1249.
+PMID: 18354102.
+11.
+Waterworth DM, Ricketts SL, Song K, Chen L, Zhao JH, Ripatti S, et al. Genetic variants influencing circulating lipid levels and risk of coronary artery disease.
+Arterioscler Thromb Vasc Biol 2010; 30:2264-2276.
+PMID: 20864672.
+12.
+Ridker PM, Paré G, Parker AN, Zee RY, Miletich JP, Chasman DI.
+Polymorphism in the CETP gene region, HDL cholesterol, and risk of future myocardial infarction: genomewide analysis among 18 245 initially healthy women from the Women 's Genome Health Study.
+Circ Cardiovasc Genet 2009; 2:26-33.
+PMID: 20031564.
+13.
+Aulchenko YS, Ripatti S, Lindqvist I, Boomsma D, Heid IM, Pramstaller PP, et al. Loci influencing lipid levels and coronary heart disease risk in 16 European population cohorts.
+Nat Genet 2009; 41:47-55.
+PMID: 19060911.
+14.
+Park MH, Kim N, Lee JY,Park HY.
+Genetic loci associated with lipid concentrations and cardiovascular risk factors in the Korean population.
+J Med Genet 2011; 48:10-15.
+PMID: 20972250.
+15.
+Pollin TI, Hsueh WC, Steinle NI, Snitker S, Shuldiner AR, Mitchell BD.
+A genome-wide scan of serum lipid levels in the Old Order Amish.
+Atherosclerosis 2004; 173:89-96.
+PMID: 15177127.
+16.
+Cho YS, Go MJ, Kim YJ, Heo JY, Oh JH, Ban HJ, et al. A large-scale genome-wide association study of Asian populations uncovers genetic factors influencing eight quantitative traits.
+Nat Genet 2009; 41:527-534.
+PMID: 19396169.
+17.
+Kim YJ, Go MJ, Hu C, Hong CB,Kim YK, Lee JY, et al. Large-scale genome-wide association studies in East Asians identify new genetic loci influencing metabolic traits.
+Nat Genet 2011; 43:990-995.
+PMID: 21909109.
+18.
+Friedewald WT, Levy RI, Fredrickson DS.
+Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge.
+Clin Chem 1972; 18:499-502.
+PMID: 4337382.
+19.
+Sparkes RS, Zollman S, Klisak I, Kirchgessner TG, Komaromy MC, Mohandas T, et al. Human genes involved in lipolysis of plasma lipoproteins: mapping of loci for lipoprotein lipase to 8p22 and hepatic lipase to 15q21.
+Genomics 1987; 1:138-144.
+PMID: 3692485.
+20.
+Deeb SS, Peng RL.
+Structure of the human lipoprotein lipase gene.
+Biochemistry 1989; 28:4131-4135.
+PMID: 2765475.
+21.
+Murthy V, Julien P, Gagne C. Molecular pathobiology of the human lipoprotein lipase gene.
+Pharmacol Ther 1996; 70:101-135.
+PMID: 8843465.
+22.
+Mead JR, Irvine SA, Ramji DP.
+Lipoprotein lipase: structure, function, regulation, and role in disease.
+J Mol Med(Berl) 2002; 80:753-769.
+PMID: 12483461.
+23.
+Kathiresan S, Willer CJ, Peloso GM, Demissie S, Musunuru K, Schadt EE, et al. Common variants at 30 loci contribute to polygenic dyslipidemia.
+Nat Genet 2009; 41:56-65.
+PMID: 19060906.
+24.
+Tang W, Apostol G, Schreiner PJ, Jacobs DR Jr, Boerwinkle E, Fornage M. Associations of lipoprotein lipase gene polymorphisms with longitudinal plasma lipid trends in young adults: The Coronary Artery Risk Development in Young Adults(CARDIA) Study.
+Circ Cardiovasc Genet 2010; 3:179-186.
+PMID: 20150529.
+25.
+Goodarzi MO, Wong H, Quiñones MJ, Taylor KD, Guo X, Castellani LW, et al. The 3' untranslated region of the lipoprotein lipase gene: haplotype structure and association with post-heparin plasma lipase activity.
+J Clin Endocrinol Metab 2005; 90:4816-4823.
+PMID: 15928243.
+26.
+Nakayama K, Bayasgalan T, Yamanaka K, Kumada M, Gotoh T, Utsumi N, et al. Large scale replication analysis of loci associated with lipid concentrations in a Japanese population.
+J Med Genet 2009; 46:370-374.
+PMID: 19487539.
+27.
+Rip J, Nierman MC, Ross CJ, Jukema JW, Hayden MR, Kastelein JJ, et al. Lipoprotein lipase S447X: a naturally occurring gain-of-function mutation.
+Arterioscler Thromb Vasc Biol 2006; 26:1236-1245.
+PMID: 16574898.
+28.
+Skoglund-Andersson C, Ehrenborg E, Fisher RM, Olivecrona G, Hamsten A, Karpe F. Influence of common variants in the CETP, LPL, HL and APO E genes on LDL heterogeneity in healthy, middle-aged men.
+Atherosclerosis 2003; 167:311-317.
+PMID: 12818414.
+29.
+Groenemeijer BE, Hallman MD, Reymer PW, Gagné E, Kuivenhoven JA, Bruin T, et al. REGRESS Study Group.
+Genetic variant showing a positive interaction with beta-blocking agents with a beneficial influence on lipoprotein lipase activity, HDL cholesterol, and triglyceride levels in coronary artery disease patients.
+The Ser447-stop substitution in the lipoprotein lipase gene.
+Circulation 1997; 95:2628-2635.
+PMID: 9193431.
+30.
+Henderson HE, Kastelein JJ, Zwinderman AH, Gagné E, Jukema JW, Reymer PW, et al. Lipoprotein lipase activity is decreased in a large cohort of patients with coronary artery disease and is associated with changes in lipids and lipoproteins.
+J Lipid Res 1999; 40:735-743.
+PMID: 10191298.
+31.
+Deo RC, Reich D, Tandon A, Akylbekova E, Patterson N, Waliszewska A, et al. Genetic differences between the determinants of lipid profile phenotypes in African and European Americans: the Jackson Heart Study.
+PLoS Genet 2009; 5: e1000342.
+PMID: 19148283.
+32.
+Cho YS, Go MJ, Han HR, Cha SH, Kim HT, Min H, et al. Association of lipoprotein lipase(LPL) single nucleotide polymorphisms with type 2 diabetes mellitus.
+Exp Mol Med 2008; 40:523-532.
+PMID: 18985010.
+33.
+Heid IM, Boes E, Müller M, Kollerits B, Lamina C, Coassin S, et al. Genome-wide association analysis of high-density lipoprotein cholesterol in the population-based KORA study sheds new light on intergenic regions.
+Circ Cardiovasc Genet 2008; 1:10-20.
+PMID: 20031538.
+34.
+Marrugat J, Elosua R, Covas MI, Molina L, Rubiés-Prat J.
+The MARATHOM Investigators.
+Amount and intensity of physical activity, physical fitness, and serum lipids in men.
+Am J Epidemiol 1996; 143:562-569.
+PMID: 8610673.
+35.
+Freeman DJ, Griffin BA, Murray E, Lindsay GM, Gaffney D, Packard CJ, et al. Smoking and plasma lipoproteins in man: effects on low density lipoprotein cholesterol levels and high density lipoprotein subfraction distribution.
+Eur J Clin Invest 1993; 23:630-640.
+PMID: 8281981.
+36.
+Craig WY, Palomaki GE, Haddow JE.
+Cigarette smoking and serum lipid and lipoprotein concentrations: an analysis of published data.
+BMJ 1989; 298:784-788.
+PMID: 2496857.
+37.
+De Oliveira E Silva ER, Foster D, McGee Harper M, Seidman CE, Smith JD, Breslow JL, et al. Alcohol consumption raises HDL cholesterol levels by increasing the transport rate of apolipoproteins A-I and A-II.
+Circulation 2000; 102:2347-2352.
+PMID: 11067787.
+38.
+Gaziano JM, Buring JE, Breslow JL, Goldhaber SZ, Rosner B, VanDenburgh M, et al. Moderate alcohol intake, increased levels of high-density lipoprotein and its subfractions, and decreased risk of myocardial infarction.
+N Engl J Med 1993; 329:1829-1834.
+PMID: 8247033.
+39.
+Bessembinders K, Wielders J, van de Wiel A.
+Severe hypertriglyceridemia influenced by alcohol(SHIBA).
+AlcoholAlcohol 2011; 46:113-116.
+PMID: 21245063.
+40.
+Brinton EA, Eisenberg S, Breslow JL.
+A low-fat diet decreases high density lipoprotein(HDL) cholesterol levels by decreasing HDL apolipoprotein transport rates.
+J Clin Invest 1990; 85:144-151.
+PMID: 2104877.
+41.
+Peacock RE, Temple A, Gudnason V, Rosseneu M, Humphries SE.
+Variation at the lipoprotein lipase and apolipoprotein AI-CIII gene loci are associated with fasting lipid and lipoprotein traits in a population sample from Iceland: interaction between genotype, gender, and smoking status.
+Genet Epidemiol 1997; 14:265-282.
+PMID: 9181356.
+42.
+Sentí M, Elosua R, Tomás M, Sala J, Masiá R, Ordovás JM, et al. Physical activity modulates the combined effect of a common variant of the lipoprotein lipase gene and smoking on serum triglyceride levels and high-density lipoprotein cholesterol in men.
+Hum Genet 2001; 109:385-392.
+PMID: 11702219.
+43.
+Boer JM, Kuivenhoven JA, Feskens EJ, Schouten EG, Havekes LM, Seidell JC, et al. Physical activity modulates the effect of a lipoprotein lipase mutation(D9N) on plasma lipids and lipoproteins.
+Clin Genet 1999; 56:158-163.
+PMID: 10517255.
+44.
+Lee J, Tan CS, Chia KS, Tan CE, Chew SK, Ordovas JM, et al. The lipoprotein lipase S447X polymorphism and plasma lipids: interactions with APOE polymorphisms, smoking, and alcohol consumption.
+J Lipid Res 2004; 45:1132-1139.
+PMID: 15060087.
+45.
+Marques-Vidal P, Bochud M, Paccaud F, Waterworth D, Bergmann S, Preisig M, et al. No interaction between alcohol consumption and HDL-related genes on HDL cholesterol levels.
+Atherosclerosis 2010; 211:551-557.
+PMID: 20430392.
+46.
+Merkel M, Eckel RH, Goldberg IJ.
+Lipoprotein lipase: genetics, lipid uptake, and regulation.
+J Lipid Res 2002; 43:1997-2006.
+PMID: 12454259.
+47.
+Freeman DJ, Caslake MJ, Griffin BA, Hinnie J, Tan CE, Watson TD, et al. The effect of smoking on post-heparin lipoprotein and hepatic lipase, cholesteryl ester transfer protein and lecithin: cholesterol acyl transferase activities in human plasma.
+Eur J Clin Invest 1998; 28:584-591.
+PMID: 9726040.
+48.
+Nishiwaki M, Ishikawa T, Ito T, Shige H, Tomiyasu K, Nakajima K, et al. Effects of alcohol on lipoprotein lipase, hepatic lipase, cholesteryl ester transfer protein, and lecithin: cholesterol acyltransferase in high-density lipoprotein cholesterol elevation.
+Atherosclerosis 1994; 111:99-109.
+PMID: 7840818.

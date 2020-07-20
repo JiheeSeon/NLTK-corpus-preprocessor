@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(2): 87-93. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poor Correlation Between the New Statistical and the Old Empirical Algorithms for DNA Microarray Analysis.
+
+
+
+ Ju Han Kim,  Winston P Kuo,  Sek Won Kong,  Lucila Ohno Machado,  Isaac S Kohane 
+
+
+
+1SNUBI: Seoul National University Biomedical Informatics, Seoul National University College of Medicine, Seoul 110-799, Republic of Korea. juhan@snu.ac.kr 2Childern's Hospital Informatics Program, and Division of Endocrinology, Department of Medicine, Harvard Medical School, Boston, MA 02115, USA. 3Decision Systems Group, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115, USA. 4Cardiovascular Division, Beth Israel Deaconess Medical Center, and Department of Medicine, Harvard Medical School, Boston, MA 02115, USA. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		DNA microarray is currently the most prominent tool for investigating large-scale gene expression data. Different algorithms for measuring gene expression levels from scanned images of microarray experiments may significantly impact the following steps of functional genomic analyses.
+Affymetrix(R) recently introduced high-density microarrays and new statistical algorithms in Microarray Suit (MAS) version 5.0(R). Very high correlations (0.92 - 0.97) between the new algorithms and the old algorithms (MAS 4.0) across several species and conditions were reported. We found that the column-wise array correlations had a tendency to be much higher than the row-wise gene correlations, which may be much more meaningful in the following higher-order data analyses including clustering and pattern analyses. In this paper, not only the detailed comparison of the two sets of algorithms is illustrated, but the impact of the introducing new algorithms on the further clustering analysis of microarray data and of possible pitfalls in mixing the old and the new algorithms were also described.		
+
+
+Keywords:
+gene expression; DNA microarray; correlation; method comparison 
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(1): 9-18. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.1.009
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Putative Association of ITGB1 Haplotype with the Clearance of HBV Infection.
+
+
+
+ Tae Joon Park,  Ji Yong Chun,  Joon Seol Bae,  Jason Y Kim,  Jin Sol Lee,  Charisse Flerida Pasaje,  Byung Lae Park,  Hyun Sub Cheong,  Hyo Suk Lee,  Yoon Jun Kim,  Hyoung Doo Shin 
+
+
+
+1Department of Life Science, Sogang University, Seoul 121-742, Korea. hdshin@sogang.ac.kr 2Department of Genetic Epidemiology, SNP Genetics, Inc., Seoul 153-801, Korea. 3Department of Internal Medicine and Liver Research Institute, Seoul National University College of Medicine, Seoul 110-744, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Integrins are transmembrane receptor proteins that mediate cell-cell adhesion and cell-extracellular matrix (ECM) adhesion. The deregulation of cell-ECM adhesion and the abnormal expression of beta1 (beta1) integrins (ITGB1s) are involved in tumor development and metastasis. In the liver, the expression of integrins and ECM proteins can be a cause of hepatocellular carcinoma (HCC) development. We performed direct DNA sequencing of 24 individuals, and identified 23 sequence variants of ITGB1 polymorphisms. Among these 23 variants, 7 common variants were selected based on frequencies and linkage disequilibrium, and then genotyped in a larger-scale group of subjects (n=1,103). The genetic associations of ITGB1 polymorphisms with the clearance of HBV and HCC outcome of HBV patients were analyzed using logistic regression models and Cox relative hazard models.
+Although there was no significant association observed between the polymorphisms and the HCC outcome of HBV patients, the second most common haplotype (ITGB1 haplotype-2 [C-C-C-C-T-C-T]) was putatively associated with HBV clearance (OR=0.75, p=0.008 and P(corr)=0.05). The minor allele frequency (MAF) of ITGB1 haplotype-2 of the spontaneously recovered (SR) group was significantly higher than that of the chronic carrier group (CC) (freq. = 0.248 vs. 0.199). The information derived from this study could be valuable for understanding the genetic factors involved in the clearance of HBV.		
+
+
+Keywords:
+Beta integrin (beta integrin); Hepatitis B virus (HBV); Hepatocellular carcinoma (HCC); Liver cirrhosis (LC); Polymorphism 
+
+
+
+
+

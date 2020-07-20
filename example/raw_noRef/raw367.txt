@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(3): 113-117. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fluorescence Quenching Causes Systematic Dye Bias in Microarray Experiments Using Cyanine Dye.
+
+
+
+ Hosang Jeon,  Sangdun Choi 
+
+
+
+			Department of Molecular Science and Technology, Ajou University, Suwon 443-749, Korea. sangdunchoi@ajou.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The development of microarray technology has facilitated the understanding of gene expression profiles. Despite its convenience, the cause of dye-bias that confounds data interpretation in dual-color DNA microarray experiments is not well known. In order to economize time and money, it is necessary to identify the cause of dye bias, since designing dye-swaps to reduce the dye-specific bias tends to be very expensive. Hence, we sought to determine the reliable cause of systematic dye bias after treating murine macrophage RAW 264.7 cells with 2-keto-3-deoxyoctonate (KDO), interferon-beta (IFN-beta), and 8-bromoadenosine (8-BR). To find the cause of systematic dye bias from the point of view of fluorescence quenching, we examined the correlation between systematic dye bias and the proportion of each nucleotide in mRNA and oligonucleotide probe sequence.
+Cy3-dye bias was highly correlated with the proportion of adenines. Our results support the fact that systematic dye bias is affected by fluorescence quenching of each feature.
+In addition, we also found that the strength of fluorescence quenching is based on not only dye-dye interactions but also dye-nucleotide interactions as well.		
+
+
+Keywords:
+DNA microarray; dye bias; fluorescence quenching; cyanine dye; gene expression 
+
+
+
+
+

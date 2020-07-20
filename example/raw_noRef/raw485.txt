@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2003;1(1): 7-19. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biological Network Evolution Hypothesis Applied to Protein Structural Interactome.
+
+
+
+ Dan M Bolser,  Jong Hwa Park 
+
+
+
+1MRC-DUNN Human Nutrition Unit, Hills Road, Cambridge, CB2 2XY, England. 2Object Interaction Technologies Inc. (OITEK), Seoul, Korea. j@bio.cc 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The latest measure of the relative evolutionary age of protein structure families was applied (based on taxonomic diversity) using the protein structural interactome map (PSIMAP). It confirms that, in general, protein domains, which are hubs in this interaction network, are older than protein domains with fewer interaction partners. We apply a hypothesis of 'biological network evolution' to explain the positive correlation between interaction and age. It agrees to the previous suggestions that proteins have acquired an increasing number of interaction partners over time via the stepwise addition of new interactions. This hypothesis is shown to be consistent with the scale-free interaction network topologies proposed by other groups. Closely co-evolved structural interaction and the dynamics of network evolution are used to explain the highly conserved core of protein interaction pathways, which exist across all divisions of life.		
+
+
+Keywords:
+Network Evolution; Structure family Evolution; Protein Interaction; Protein Structural Interactome; PSIMAP; Interactomics 
+
+
+
+
+

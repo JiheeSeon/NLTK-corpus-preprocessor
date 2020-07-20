@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2009; 7(1): 41-45.
+DOI: https://doi.org/10.5808/gi.2009.7.1.041
+An Integrated Database and Web Service for Microbial Resources at KACC.
+Chang Kug Kim, Young Ah Jeon, Gyu Taek Cho, Soon Wo Kwon, Yong Hwan Kim, Seung Beom Hong
+1Genomics Division, National Academy of Agricultural Science(NAAS), Suwon, Korea.
+2National Agrobiodiversity Center, National Academy of Agricultural Science(NAAS), Suwon, Korea.
+sbhong @ rda.go.kr
+Abstract
+The Korean Agricultural Culture Collection(KACC) has developed a web-based system to provide an integrated database with information updates about microbial resources.
+This integrated database consists of 5 major functions and contains general information, which includes identification numbers, culture media composition, image information, DNA sequences, patent information, and general forms for ordering and depositing microorganisms.
+In 2008, KACC started providing characterization information.
+KACC maintains 9,801 cultures of microorganisms, including 3,296 strains of bacteria, 4,734 fungi, 784 actinomycetes, 64 yeasts, and 923 others.
+Keywords:
+KACC; microbial resource; integrated database; microorganism information

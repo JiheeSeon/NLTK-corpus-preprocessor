@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Brief Communication				
+
+				Genomics & Informatics 2008;6(2): 87-90. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.087
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+An Optimized Strategy for Genome Assembly of Sanger/pyrosequencing Hybrid Data using Available Software.
+
+
+
+ Haeyoung Jeong,  Jihyun F Kim 
+
+
+
+1Laboratory of Microbial Genomics, Systems Microbiology Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Korea. jfk@kribb.re.kr 2Field of Functional Genomics, School of Science, Korea University of Science and Technology (UST), Daejeon 305-806, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		During the last four years, the pyrosequencing-based 454 platform has rapidly displaced the traditional Sanger sequencing method due to its high throughput and cost effectiveness. Meanwhile, the Sanger sequencing methodology still provides the longest reads, and paired-end sequencing that is based on that chemistry offers an opportunity to ensure accurate assembly results. In this report, we describe an optimized approach for hybrid de novo genome assembly using pyrosequencing data and varying amounts of Sanger-type reads. 454 platformderived contigs can be used as single non-breakable virtual reads or converted to simpler contigs that consist of editable, overlapping pseudoreads. These modified contigs maintain their integrity at the first jumpstarting assembly stage and are edited by fragmenting and rejoining. Pre-existing assembly software then can be applied for mixed assembly with 454-derived data and Sanger reads. An effective method for identifying genomic differences between reference and sample sequences in whole-genome resequencing procedures also is suggested.		
+
+
+Keywords:
+hybrid assembly; pyrosequencing; resequencing 
+
+
+
+
+

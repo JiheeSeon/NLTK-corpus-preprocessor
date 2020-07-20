@@ -1,0 +1,20 @@
+Meta-Analysis
+Genomics & Informatics 2011; 9(3): 114-120.
+DOI: https://doi.org/10.5808/gi.2011.9.3.114
+Association of an Anti-inflammatory Cytokine Gene IL4 Polymorphism with the Risk of Type 2 Diabetes Mellitus in Korean Populations.
+Min Jin Go, HaesookMin, Jong Young Lee, Sung Soo Kim, Yeonjung Kim
+Center for Genome Science, Korea National Institute of Health, Korea Centers for Disease Control and Prevention, Osong Health Technology Administration Complex, 187, Osongsaengmyeong2-ro, Gangoe-myeon, Cheongwon-gun, Chungcheongbuk-do, 363-951, Korea.
+kim
+Abstract
+Chronic inflammation has been implicated as one of the important etiological factors in insulin resistance and type 2 diabetes mellitus(T2DM).
+To investigate the role of anti-inflammatory cytokines in the development of T2DM, we conducted a case-control study to assess the association between IL4/IL4R polymorphisms and disease risk.
+We firstly identified single nucleotide polymorphisms(SNP) at IL4 and IL4RA loci by sequencing the loci in Korean participants.
+Case-control studies were conducted by genotyping the SNPs in 474 T2DM cases and 470 non-diabetic controls recruited from community-based cohorts.
+Replication of the associated signals was performed in 1,216 cases and 1,352 controls.
+We assessed effect of IL4-IL4RA interaction on T2DM using logistic regression method.
+The functional relevance of the SNP associated with disease risk was determined using a reporter expression assay.
+We identified a strong association between the IL4 promoter variant rs2243250 and T2DM risk(OR=0.77; 95% CI, 0.67~0.88; p=1.65x10-4 in the meta-analysis).
+The reporter gene expression assay demonstrated that the presence of rs2243250 might affect the gene expression level with ~1.5-fold allele difference.
+Our findings contribute to the identification of IL4 as a T2D susceptibility locus, further supporting the role of anti-inflammatory cytokines in T2DM disease development.
+Keywords:
+type 2 diabetes mellitus; single nucleotide polymorphisms; IL4; IL4R; anti-inflammatory cytokine; gene-gene interaction

@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2004; 2(1): 45-52.
+Functional Modification of a Specific RNA with Targeted Trans-Splicing.
+Young Hee Park, Sung Chun Kim, Byung Su Kwon, Heung Su Jung, Kuchan Kimm, Seong Wook Lee
+1Department of Molecular Biology, Institute of Nanosensor and Biotechnology, Dankook University, Seoul, Korea.
+SWL0208 @ dankook.ac.kr 2Genoprot Inc., Seoul, Korea.
+3National Institute of Health, Seoul, Korea.
+Abstract
+The self-splicing group I intron from Tetrahymena thermophila has been demonstrated to perform splicing reaction with its substrate RNA in the trans configuration.
+In this study, we explored the potential use of the trans-splicing group I ribozymes to replace a specific RNA with a new RNA that exerts any new function we want to introduce.
+We have chosen thymidine phosphorylase(TP) RNA as a target RNA that is known as a valid cancer prognostic factor.
+Cancer-specific expression of TP RNA was first evaluated with RT-PCR analysis of RNA from patients with gastric cancer.
+We determined next which regions of the TP RNA are accessible to ribozymes by employing an RNA mapping strategy, and found that the leader sequences upstream of the AUG start codon appeared to be particularly accessible.
+A specific ribozyme recognizing the most accessible sequence in the TP RNA with firefly luciferase transcript as a 3' exon was then developed.
+The specific trans-splicing ribozyme transferred an intended 3' exon tag sequence onto the targeted TP transcripts, resulting in a more than two fold induction of the reporter activity in the presence of TP RNA in mammalian cells, compared to the absence of the target RNA.
+These results suggest that the Tetrahymena ribozyme can be a potent anti-cancer agent to modify TP RNAs in tumors with a new RNA harboring anti-cancer activity.
+Keywords:
+Group I intron; Ribozyme; RNA replacement; Tetrahymena thermophila; Thymidine phosphorylase; Trans-splicing

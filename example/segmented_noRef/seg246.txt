@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2010; 8(4): 201-205.
+DOI: https://doi.org/10.5808/gi.2010.8.4.201
+Single Nucleotide Polymorphism in the Promoter Region of H1 Histone Family Member N, Testis-specific(H1FNT) and Its Association Study with Male Infertility.
+Seung Hee Yang, Jinu Lee, Suman Lee
+1Functional Genomics Lab, Cell and Gene Therapy Research Institute, School of Medicine, CHA University, Seongnam 463-836, Korea.
+suman @ cha.ac.kr 2Department of Pharmacology, School of Medicine, CHA University, Seongnam 463-836, Korea.
+Abstract
+The H1 histone family, member N, testis-specific(H1FNT) is exclusively expressed in the testis, and had its possible role for sperm chromatin formation.
+The purpose of this study is to investigate any genetic association of H1FNT gene with male infertility, especially at the promoter region.
+We examined the promoter single nucleotide polymorphisms(SNP) of H1FNT gene which is located within transcription factor binding site for its association with male infertility.
+The statistical analysis showed that the -1129A> T polymorphism was present at a statistically significance in male infertility(p=0.0059 and 0.0349 for hetero and risk type, respectively).
+The dual-luciferase promoter assay was performed to examine the polymorphic effect of this promoter SNP by the cloning of promoter region(1700bp fragment) into pGL3-basic vector.
+In our plasmid based reporter system, there is no big difference between wild and risk type.
+In conclusion, H1FNT -1129A> T promoter SNP is statistically significant with male infertility, especially with subfertile(non-azoospermia) group.
+Further analysis of its functional polymorphic effect in vivo may provide the biological significance of testis-specific histone with spermatogenesis.
+Keywords:
+H1FNT; male infertility; single nucleotide polymorphism

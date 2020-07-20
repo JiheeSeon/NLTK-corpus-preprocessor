@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(3): 99-109. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.3.099
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Protein Tyrosine Phosphatase N1 Gene Variants Associated with Type 2 Diabetes Mellitus and Its Related Phenotypes in the Korean Population.
+
+
+
+ Kyung Won Hong,  Hyun Seok Jin,  Ji Eun Lim,  Ha Jung Ryu,  Younjhin Ahn,  Jong Young Lee,  Bok Ghee Han,  Hyoung Doo Shin,  Nam Han Cho,  Chol Shin,  Jeong Taek Woo,  Hun Kuk Park,  Bermseok Oh 
+
+
+
+1Biomedical Education Center, Department of Biomedical Engineering, School of Medicine, KyungHee University, Seoul 130-701, Korea. ohbs@khu.ac.kr 2Center for Genome Science, National Institute of Health, Seoul 122-701, Korea. 3SNP Genetics, Inc., Seoul 153-803, Korea. 4Department of Life Science, Sogang University, Seoul 121-742, Korea. 5Department of Preventive Medicine, Ajou University School of Medicine, Suwon 443-749, Korea. 6Department of Internal Medicine, Korea University Ansan Hospital, Gyeonggi-do 425-707, Korea. 7Department of Endocrinology and Metabolism, KyungHee University Hospital, School of Medicine, KyungHee University, Seoul 130-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Protein phosphorylation at tyrosine residues is a key regulatory event that modulates insulin signal transduction.
+We studied the PTPN1 gene with regard to susceptibility to Korean type 2 diabetes mellitus (T2DM) and its related quantitative traits. A total of seven SNPs [g.36171G>A (rs941798), g.58166G>A (rs3787343), g.58208A>G (rs2909270), g.64840C>T (rs754118), g.69560C>G (rs6020612), g.69866G>A (rs718050), and g.69934T>G (rs3787343)] were selected based on frequency (>0.05), linkage disequilibrium (LD) status, and haplotype tagging status. We studied the seven SNPs in 483 unrelated patients with type 2 diabetes (age: 64+/-2.8 years, onset age: 56+/-8.1 years; 206 men, 277 women) and 1138 nondiabetic control subjects (age: 64+/-2.9; 516 men, 622 women). The SNP rs941798 had protective effects against T2DM with an odds ratio of 0.726 (C.I. 0.541~0.975) and p-value=0.034, but none of the remaining six SNPs was associated with T2DM. Also, rs941798 was associated with blood pressure, HDL cholesterol, insulin sensitivity. rs941798 also has been associated with T2DM in previous reports of Caucasian-American and Hispanic-American populations. This is the first report that shows an association between PTPN1 and T2DM in the Korean as well as Asian population.		
+
+
+Keywords:
+PTPN1; insulin signaling; Korean; T2DM; rs941798 
+
+
+
+
+

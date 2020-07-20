@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2011; 9(2): 59-63.
+DOI: https://doi.org/10.5808/gi.2011.9.2.59
+Lack of Replication of Genetic Association with Body Mass Index Detected by Genome-wide Association Study.
+Hae In Lee, Jae Jung Kim, Taesung Park, Kyunga Kim, Jong Eun Lee, Yoon Shin Cho, Jong Young Lee, Bok Ghee Han, Jong Keuk Lee
+1Asan Institute for Life Sciences, University of Ulsan College of Medicine, Seoul 138-736, Korea.
+cookie_jklee @ hotmail.com 2Department of Statistics, College of Natural Science, Seoul National University, Seoul 110-744, Korea.
+3Department of Statistics, Sookmyung Women 's University, Seoul 140-742, Korea.
+4DNA Link, Seoul 121-850, Korea.
+5Center for Genome Science, National Institute of Health, Chungwon 363-951, Korea.
+Abstract
+Obesity provokes many serious human diseases, including various cardiovascular diseases and diabetes.
+Body mass index(BMI) is a highly heritable trait that is broadly used to diagnose obesity.
+To identify genetic loci associated with obesity in Asians, we conducted a genome-wide association study(GWAS) of a population of Korean adults(n=6,742, age 40~60 years) and detected six BMI risk loci(TNR, FAM124B, RGS12, NFE2L3, MC4R and FTO) having p<1x10(-5).
+However, in the replication study, only melanocortin 4 receptor gene(MC4R)(rs9946888, p=4.58x10(-7)) was replicated with marginal significance(p<0.05) in the second cohort(n=5,102, age 40~60 years).
+This study indicates that each locus associated with BMI has very weak genetic effect.
+Keywords:
+genome-wide association study(GWAS); body mass index(BMI); Korean; single nucleotide polymorphism(SNP)

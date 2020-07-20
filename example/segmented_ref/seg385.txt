@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2007; 5(1): 1-5.
+Detection of Neural Fates from Random Differentiation: Application of Support Vector MachineMin.
+Min Su Lee, Jeong Hyuck Ahn, Woong Yang Park
+1Department of Computer Science and Engineering, Ewha Womans University, Seoul 120-759, Korea.
+2Laboratory of Molecular and Cellular Neuroscience, Rockefeller University, New York, U.S.A. 3Human Genome Research Institute and Department of Biochemistry, Seoul National University College of Medicine, Seoul 110-799, Korea.
+wypark @ snu.ac.kr
+Abstract
+Embryonic stem cells can be differentiated into various types of cells, requiring a tight regulation of transcription.
+Biomarkers related to each lineage of cells are used to guide the differentiation into neural or any other fates.
+In previous experiments, we reported the guided differentiation(GD) -specific genes by comparing profiles of random differentiation(RD).
+Interestingly 68% of differentially expressed genes in GD overlap with that of RD, which makes it difficult for us to separate the lineages by examining several markers.
+In this paper, we design a prediction model to identify the differentiation into neural fates from any other lineage.
+From the profiles of 11,376 genes, 203 differentially expressed genes between neural and random differentiation were selected by random variance T-test with 95% confidence and 5% false discovery rate.
+Based on support vector machine algorithm, we could select 79 marker genes from the 203 informative genes to construct the optimal prediction model.
+Here we propose a prediction model for the prediction of neural fates from random differentiation which is constructed with a perfect accuracy.
+Keywords:
+stem cells; microarray; neural differentiation; random differentiation

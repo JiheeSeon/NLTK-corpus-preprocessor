@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2007; 5(2): 61-67.
+Controlling Linkage Disequilibrium in Association Tests: Revisiting APOE Association in Alzheimer 's Disease.
+Leeyoung Park
+Genomic Epidemiology Division, Center for Genome Science, National Institute of Health, KCDC, Seoul 122-701, Korea.
+ly_park @ hanmail.net
+Abstract
+The allele frequencies of markers as well as linkage disequilibrium(LD) can be changed in cases due to the LD between markers and the disease allele, exhibiting spurious associations of markers.
+To identify the true association, classical statistical tests for dealing with confounders have been applied to draw a conclusion as to whether the association of variants comes from LD with the known disease allele.
+However, a more direct test considering LD using estimated haplotype frequencies may be more efficient.
+The null hypothesis is that the different allele frequencies of a variant between cases and controls come solely from the increased disease allele frequency and the LD relationship with the disease allele.
+The haplotype frequencies of controls are estimated using the expectation maximization(EM) algorithm from the genotype data.
+The estimated frequencies are applied to calculate the expected haplotype frequencies in cases corresponding to the increase or decrease of the causative or protective alleles.
+The suggested method was applied to previously published data, and several APOE variants showed association with Alzheimer 's disease independent from the APOE epsilon4 variant, rs429358, regardless of LD showing significant simulated p-values.
+The test results support the possibility that there may be more than one common disease variant in a locus.

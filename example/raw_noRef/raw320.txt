@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(4): 173-180. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.4.173
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Identification and Characterization of Human Genes Targeted by Natural Selection.
+
+
+
+ Ha Jung Ryu,  Young Joo Kim,  Young Kyu Park,  Jae Jung Kim,  Mi Young Park,  Eul Ju Seo,  Han Wook Yoo,  In Sook Park,  Bermseok Oh,  Jong Keuk Lee 
+
+
+
+1Asan Institute for Life Sciences, University of Ulsan College of Medicine, Seoul 138-736, Korea. 2KRIBB, Daejeon 305-806, Korea. 3Genome Research Center for Birth Defects and Genetic Disorders, Asan Medical Center, University of Ulsan College of Medicine, Seoul 138-736, Korea. 4Department of Biomedical Engineering, Kyung Hee University School of Medicine, Seoul 130-702, Korea. cookie_jklee@hotmail.com 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The human genome has evolved as a consequence of evolutionary forces, such as natural selection. In this study, we investigated natural selection on the human genes by comparing the numbers of nonsynonymous(NS) and synonymous (S) mutations in individual genes. We initially collected all coding SNP data of all human genes from the public dbSNP. Among the human genes, we selected 3 different selection groups of genes: positively selected genes (NS/S > or = 3), negatively selected genes (NS/S < or = 1/3) and neutral selection genes (0.9 < NS/S < 1.1). We characterized human genes targeted by natural selection. Negatively selected human genes were markedly associated with disease occurrence, but not positively selected genes.
+Interestingly, positively selected genes displayed an increase in potentially deleterious nonsynonymous SNPs with an increased frequency of tryptophan and tyrosine residues, suggesting a correlation with protective effects against human disease. Furthermore, our nonsynonymous/synonymous ratio data imply that specific human genes, such as ALMS1 and SPTBN5 genes, are differentially selected among distinct populations. We confirmed that inferences of natural selection using the NS/S ratio can be used extensively to identify functional genes selected during the evolutionary adaptation process.		
+
+
+Keywords:
+single nucleotide polymorphism (SNP); natural selection; disease genes; ethnicity 
+
+
+
+
+

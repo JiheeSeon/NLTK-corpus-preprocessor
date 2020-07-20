@@ -1,0 +1,13 @@
+Review
+Genomics & Informatics 2004; 2(1): 7-18.
+Computational Challenges for Integrative Genomics.
+Jun Hyong Kim, Paul Magwene
+1Department of Biology, Penn Center for Bioinformatics, University of Pennsylvania, Pennsylvania, USA. junhyong @ sas.upenn.edu 2Department of Computer and Information Science, Penn Center for Bioinformatics, University of Pennsylvania, Pennsylvania, USA.
+Abstract
+Integrated genomics refers to the use of large-scale, systematically collected data from various sources to address biological and biomedical problems.
+A critical ingredient to a successful research program in integrated genomics is the establishment of an effective computational infrastructure.
+In this review, we suggest that the computational infrastructure challenges include developing tools for heterogeneous data organization and access, innovating techniques for combining the results of different analyses, and establishing a theoretical framework for integrating biological and quantitative models.
+For each of the three areas - data integration, analyses integration, and model integration - we review some of the current progress and suggest new topics of research.
+We argue that the primary computational challenges lie in developing sound theoretical foundations for understanding the genome rather than simply the development of algorithms and programs.
+Keywords:
+Integrative genomics; computational biology; bioinformatics; probabilistic modeling

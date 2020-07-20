@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+
+Original Article 
+
+
+Genomics & Informatics 2012; 10(4): 244-248.
+
+
+Published online: December 31, 2012 
+DOI: https://doi.org/10.5808/GI.2012.10.4.244
+
+
+
+
+Association Analysis of Reactive Oxygen Species-Hypertension Genes Discovered by Literature Mining
+
+Ji Eun Lim 1, Kyung-Won Hong 2, Hyun-Seok Jin 3, Bermseok Oh 1
+
+1Department of Biomedical Engineering, Kyung Hee University School of Medicine, Seoul 130-701, Korea.
+2Division of Epidemiology and Health Index, Center for Genome Science, Korea National Institute of Health, Korea Centers for Disease Control and Prevention, Cheongwon 363-951, Korea.
+3Department of Medical Genetics, Ajou University School of Medicine, Suwon 443-721, Korea.
+
+
+Corresponding author: Tel: +82-2-961-0617, Fax: +82-2-6008-0647, ohbs@khu.ac.kr
+ 
+
+ Received November 02, 2012    Revised November 13, 2012    Accepted November 15, 2012
+
+Copyright © 2012 by The Korea Genome Organization 
+ (open-access, http://creativecommons.org/licenses/by-nc/3.0/):  
+It is identical to the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/).
+
+
+
+
+Abstract
+
+Oxidative stress, which results in an excessive product of reactive oxygen species (ROS), is one of the fundamental mechanisms of the development of hypertension. In the vascular system, ROS have physical and pathophysiological roles in vascular remodeling and endothelial dysfunction. In this study, ROS-hypertension-related genes were collected by the biological literature-mining tools, such as SciMiner and gene2pubmed, in order to identify the genes that would cause hypertension through ROS. Further, single nucleotide polymorphisms (SNPs) located within these gene regions were examined statistically for their association with hypertension in 6,419 Korean individuals, and pathway enrichment analysis using the associated genes was performed. The 2,945 SNPs of 237 ROS-hypertension genes were analyzed, and 68 genes were significantly associated with hypertension (p < 0.05). The most significant SNP was rs2889611 within MAPK8 (p = 2.70 × 10-5; odds ratio, 0.82; confidence interval, 0.75 to 0.90). This study demonstrates that a text mining approach combined with association analysis may be useful to identify the candidate genes that cause hypertension through ROS or oxidative stress.
+Keywords: genetic association study, hypertension, literature mining, reactive oxygen species 
+
+
+
+
+
+Introduction
+Hypertension is defined as blood pressure measurement consistently higher than 140 mm Hg systolic blood pressure (SBP) and/or 90 mm Hg diastolic blood pressure (DBP) [1]. It is a complex syndrome determined by genetic and environmental factors and affected by multiple genetic factors to 30% to 50% of blood pressure variability in human hypertension [2]. Although hypertension is a leading cause of cardiovascular disease, ischemic heart disease, and stroke, the exact cause of hypertension is unclear [3].
+Oxidative stress, which results in an excessive product of reactive oxygen species (ROS), is one of the fundamental mechanisms of the development of hypertension. In the vascular system, ROS has physical and pathophysiological roles that are important in vascular remodeling and endothelial dysfunction associated with hypertension [4]. Since 1960, when the association between free radicals and hypertension was reported [5], plenty of data supporting a role of oxidative stress in hypertension have been published. However, the evidence of whether oxidative stress causes hypertension is weak, and a few clinical studies have shown the relationship between blood pressure and ROS. Nonetheless, oxidative stress has an important role in vascular biology and a potential role in hypertension.
+In this study, ROS-hypertension-related genes were collected by the biological literature-mining tools, such as SciMiner and gene2pubmed, in order to identify the genes that would cause hypertension through ROS. Further, single nucleotide polymorphisms (SNPs) located within these gene regions were examined statistically for their association with hypertension in 6,419 Korean individuals, and pathway enrichment analysis using the associated genes was performed.
+
+
+Methods
+
+ Study participants and genotyping
+The Korea Association Resource (KARE) study recruited 10,038 participants aged 40 years to 69 years from the rural Ansung and urban Ansan cohorts and has been previously described in detail [6]; 1,196 subjects were excluded due to poor genotyping data, and we also excluded subjects with prehypertensive status (120 mm Hg < SBP < 140 mm Hg and/or 80 mm Hg < DBP < 90 mm Hg). In total, 6,420 participants-1,968 hypertensive cases with hypertensive therapy or SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg and 4,452 controls with SBP ≤ 120 mm Hg and DBP ≤ 80 mm Hg-were examined for a hypertension case control study.
+The Affymetrix Genome-Wide Human SNP array 5.0 (Affymetrix, Inc., Santa Clara, CA, USA) was used to genotype KARE study individuals. The accuracy of the genotyping was examined by Bayesian Robust Linear Modeling using the Mahalanobis distance (BRLMM) genotyping algorithm [7]. The sample and SNP quality control criteria have been described [6]. In brief, samples with accuracies that were lower than 98%, high missing genotype call rates (≥4%), high heterozygosity (>30%), or gender biases were excluded. SNPs were excluded according to filter criteria as follows: SNP call rate > 5%, minor allele frequency < 0.01, and Hardy-Weinberg equilibrium p < 1 × 10-6. After quality control, 8,842 individuals and 352,228 markers remained.
+
+
+ Ascertaining ROS- and hypertension-related genes
+The SciMiner [8] web-based literature mining tool was used to obtain gene sets associated with ROS and hypertension. SciMiner was run on a query of "Reactive Oxygen Species" [MeSH] AND "Hypertension" [MeSH], identifying ROS-hypertension articles and genes as of April 24, 2012. We also retrieved genes for these ROS-hypertension articles from NCBI gene2pubmed (ftp://ftp.ncbi.nlm.nih.gov/gene/DATA) data. The newly found genes from gene2pubmed were added to the ROS-hypertension gene set. The positions of genes in the human genome were downloaded from the Ensembl Biomart database (NCBI build 36). Some gene symbols were different from the results of SciMiner and Biomart, such as NOS2A → NOS2 and STN → EEF1A2. The functional analysis tools, such as SciMiner, WebGestalt [9, 10], and DAVID [11, 12], were used for enrichment analysis to find the pathway with ROS-hypertension-associated genes, and the statistical significance of biological functions was calculated with Benjamini and Hochberg-adjusted p < 0.05 as the cutoff.
+
+
+ Statistical analyses
+PLINK version v1.07 (http://pngu.mgh.harvard.edu/~purcell/plink) was used to perform the association analysis, and the hypertension case control study was tested by logistic regression analysis. The association tests were based on an additive genetic model and adjusted for recruitment area, age, sex, and body mass index.
+
+
+
+Results
+
+ Ascertaining ROS and hypertension candidate genes
+With the results of SciMiner, queried with "'Reactive Oxygen Species' [MeSH] AND 'Hypertension' [MeSH]", 574 genes were obtained from 903 ROS-hypertension-related articles; 49 genes were found through the NCBI gene2pubmed data with these 903 papers, and only 2 genes out of 49 genes were new to the 574 SciMiner genes. Three hundred seventeen genes (55%) among the 576 ROS-hypertension genes were referenced in only 1 article (Table 1) and were excluded for further analysis, with 259 genes remaining.
+Using Ensembl Biomart (NCBI Build 36), we then extracted the position information of 259 genes, and the genes located on chromosomes X, Y, and MT were also excluded. Finally, 237 genes that included SNPs genotype information from KARE data within the gene boundary (±20 kb upstream and downstream of the gene) were selected, and 2,945 SNPs were tested for hypertension association analysis. The frequently mentioned genes (number of papers > 40) in the ROS-hypertension papers are shown in Table 2.
+
+
+ Association analysis of hypertension
+We examined 2,945 SNPs of 237 genes for a hypertension case control study by logistic regression analysis; 68 genes were significantly associated with hypertension (p < 0.05) (Table 3). The most significant SNP was rs2889611 within mitogen-activated protein kinase 8 (MAPK8; p = 2.70 × 10-5; odds ratio [OR], 0.82; confidence interval [CI], 0.75 to 0.90), and rs1356415 from PROM1 and rs4536994 from KDR were strongly associated with hypertension (p = 3.45 × 10-4; OR, 1.18; CI, 1.08 to 1.29 and p = 3.73 × 10-4; OR, 1.19; CI, 1.08 to 1.31, respectively).
+
+
+ Functional analysis of ROS-hypertension gene set
+The 68 targets that were significantly associated with ROS and hypertension were tested for functional enrichment analysis. Three functional analysis tools, SciMiner, Web-Gestalt, and DAVID, identified 34 significantly over-represented biological functions in the Kyoto Encyclopedia of Genes and Genomes pathway [13, 14]. The most significant biological pathway from the 3 functional analysis tools was focal adhesion, involved in the cell communication pathway group (Table 4). The most frequent pathway group was cancer pathways (n = 9), such as glioma and pancreatic cancer. Eight other pathways related to signal transduction and 11 organismal system pathways (level 1) related to the immune system, endocrine system, and nervous system were significantly identified.
+
+
+
+Discussion
+Oxidative stress due to excess production of ROS is one of the reasons for the development of hypertension [4]. To identify genetic risk factors that induce hypertension through ROS, this study extracted ROS-hypertension-related genes using text-mining tools and investigated the association of genes with hypertension in 6,419 unrelated Koreans. MAPK8, PROM1, and KDR had strong association signals with hypertension (p < 4 × 10-4). Especially, MAPK8 was published 13 times in ROS-hypertension articles, while most genes strongly associated with hypertension (p < 0.01) were published an average of 6.29 times.
+
+MAPK8, known as JNK1, included 19 SNPs in the KARE genotype data, and 14 SNPs among the 19 SNPs were significantly associated with hypertension, ranging in p-value from 2.7 × 10-5 to 1.3 × 10-3-moderate in comparison with a genome-wide association study (GWAS)-significant p-value (5.0 × 10-8); thus MAPK8 was not considered as the candidate gene of hypertension in previous GWAS studies [15, 16]. MAPK8 plays a key role in T cell proliferation, apoptosis, and differentiation through the studies of Jnk1-deficient mice [17, 18]. MAPK8 was included on HumanCVD Beadchip, a customized cardiovascular disease (CVD) SNP chip containing more than 2,100 CVD candidate genes [19]. However, previous cardiovascular disease GWASs regarding high-density lipoprotein particle features, lipids, and apolipoproteins did not report the association of the MAPK8 gene [20, 21]. Therefore, it needs replication to make it sure whether MAPK8 is indeed involved in the development of hypertension through ROS.
+Using the text-mining tool, we found 237 ROS-hypertension-related genes. The most frequent gene was AGT (angiotensinogen [serpin peptidase inhibitor, clade A, member 8]), which was reported on 320 ROS-hypertension articles, but it was not associated with hypertension in this study or our previous report [22]. Most of the genes that were published in more than 40 articles were not associated with hypertension or showed weak associations; 6 of 17 genes were significant, and the lowest p-value was 0.014 (nitric oxide synthase 1 [neuronal], NOS1). The average number of articles for genes with strong signals (p < 0.01) was 6.29 articles, and that for those with moderate signals (0.01 ≤ p < 0.05) was 18.90 articles.
+Two large GWASs, the International Consortium for Blood Pressure Genome-Wide Association Studies (IC-BPGWAS) [23] and Asian Genetic Epidemiology Network Blood Pressure (AGEN-BP) [16], reported 33 blood pressure candidate loci in 2011. Among 66 genes within the 33 blood pressure candidate loci, 6 genes were included in the ROS-hypertension gene set as follows: NPPA, NPPB, PTPN11, CYP1A1, GNAS, and EDN3. We examined their association with hypertension by case control study, and NPPA, NPPB, and CYP1A1 were associated with hypertension with p < 0.05. The weakly associated SNP rs1023252 (p = 0.047) overlapped with NPPA and NPPB, and rs2472299 within the CYP1A1 locus was previously mentioned for the oxidative stress pathway from WikiPathway (http://www.wikipathways.org).
+In conclusion, we listed ROS-hypertension genes that were extracted by a text-mining approach and tested their association with hypertension in Korean population. Several genes, including the MAPK8 gene, were identified as potential genes causing hypertension through ROS. This study demonstrates that a text-mining approach combined with association analysis may be useful to identify candidate genes that cause hypertension through ROS or oxidative stress.
+
+
+
+
+Acknowledgments
+This research was performed within the Consortium for Large-Scale Genome-Wide Association Study III (no. 2011 E7300400), which was supported by the genotyping data (the Korean Genome Analysis Project no. 4845-301) and the phenotypic data (the Korean Genome Epidemiology Study no. 4851-302) from the Korea Center for Disease Control. This work was supported by the Basic Science Research Program through a National Research Foundation of Korea (NRF) grant, funded by the Korean government (MEST) (no. 2010-0012080) and (MEST) (no. 2012-0009384).
+
+
+References
+
+
+1. Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JL Jr, et al. Seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Hypertension 2003;42:1206-1252. PMID: 14656957.   
+2. Saavedra JM. Studies on genes and hypertension: a daunting task. J Hypertens 2005;23:929-932. PMID: 15834274.   
+3. Fields LE, Burt VL, Cutler JA, Hughes J, Roccella EJ, Sorlie P. The burden of adult hypertension in the United States 1999 to 2000: a rising tide. Hypertension 2004;44:398-404. PMID: 15326093.   
+4. Touyz RM, Briones AM. Reactive oxygen species and vascular biology: implications in human hypertension. Hypertens Res 2011;34:5-14. PMID: 20981034.   
+5. Romanowski A, Murray JR, Huston MJ. Effects of hydrogen peroxide on normal and hypertensive rats. Pharm Acta Helv 1960;35:354-357. PMID: 13743029.  
+6. Cho YS, Go MJ, Kim YJ, Heo JY, Oh JH, Ban HJ, et al. A large-scale genome-wide association study of Asian populations uncovers genetic factors influencing eight quantitative traits. Nat Genet 2009;41:527-534. PMID: 19396169.   
+7. Rabbee N, Speed TP. A genotype calling algorithm for affymetrix SNP arrays. Bioinformatics 2006;22:7-12. PMID: 16267090.   
+8. Hur J, Schuyler AD, States DJ, Feldman EL. SciMiner: web-based literature mining tool for target identification and functional enrichment analysis. Bioinformatics 2009;25:838-840. PMID: 19188191.    
+9. Duncan D, Prodduturi N, Zhang B. WebGestalt2: an updated and expanded version of the Web-based Gene Set Analysis Toolkit. BMC Bioinformatics 2010;11(Suppl 4):P10.   
+10. Zhang B, Kirov S, Snoddy J. WebGestalt: an integrated system for exploring gene sets in various biological contexts. Nucleic Acids Res 2005;33:W741-W748. PMID: 15980575.    
+11. Huang da W, Sherman BT, Lempicki RA. Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic Acids Res 2009;37:1-13. PMID: 19033363.    
+12. Huang da W, Sherman BT, Lempicki RA. Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat Protoc 2009;4:44-57. PMID: 19131956.   
+13. Kanehisa M, Goto S. KEGG: kyoto encyclopedia of genes and genomes. Nucleic Acids Res 2000;28:27-30. PMID: 10592173.    
+14. Kanehisa M, Goto S, Sato Y, Furumichi M, Tanabe M. KEGG for integration and interpretation of large-scale molecular data sets. Nucleic Acids Res 2012;40:D109-D114. PMID: 22080510.    
+15. Levy D, Ehret GB, Rice K, Verwoert GC, Launer LJ, Dehghan A, et al. Genome-wide association study of blood pressure and hypertension. Nat Genet 2009;41:677-687. PMID: 19430479.    
+16. Kato N, Takeuchi F, Tabara Y, Kelly TN, Go MJ, Sim X, et al. Meta-analysis of genome-wide association studies identifies common variants associated with blood pressure variation in east Asians. Nat Genet 2011;43:531-538. PMID: 21572416.    
+17. Dong C, Yang DD, Wysk M, Whitmarsh AJ, Davis RJ, Flavell RA. Defective T cell differentiation in the absence of Jnk1. Science 1998;282:2092-2095. PMID: 9851932.   
+18. Dong C, Yang DD, Tournier C, Whitmarsh AJ, Xu J, Davis RJ, et al. JNK is required for effector T-cell function but not for T-cell activation. Nature 2000;405:91-94. PMID: 10811224.   
+19. Keating BJ, Tischfield S, Murray SS, Bhangale T, Price TS, Glessner JT, et al. Concept, design and implementation of a cardiovascular gene-centric 50 k SNP array for large-scale genomic association studies. PLoS One 2008;3:e3583. PMID: 18974833.    
+20. Talmud PJ, Drenos F, Shah S, Shah T, Palmen J, Verzilli C, et al. Gene-centric association signals for lipids and apolipoproteins identified via the HumanCVD BeadChip. Am J Hum Genet 2009;85:628-642. PMID: 19913121.    
+21. Kaess BM, Tomaszewski M, Braund PS, Stark K, Rafelt S, Fischer M, et al. Large-scale candidate gene analysis of HDL particle features. PLoS One 2011;6:e14529. PMID: 21283740.    
+22. Song SB, Jin HS, Hong KW, Lim JE, Moon JY, Jeong KH, et al. Association between renin-angiotensin-aldosterone system-related genes and blood pressure in a Korean population. Blood Press 2011;20:204-210. PMID: 21342026.   
+23. International Consortium for Blood Pressure Genome-Wide Association Studies. Ehret GB, Munroe PB, Rice KM, Bochud M, Johnson AD, et al. Genetic variants in novel pathways influence blood pressure and cardiovascular disease risk. Nature 2011;478:103-109. PMID: 21909115.    
+
+
+
+
+
+
+
+
+
+
+
+

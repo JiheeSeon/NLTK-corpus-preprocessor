@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2011;9(4): 143-151. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.4.143
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Directed Causal Network Construction Using Linkage Analysis with Metabolic Syndrome-Related Expression Quantitative Traits.
+
+
+
+ Kyee Zu Kim,  Jin Young Min,  Geun Yong Kwon,  Joohon Sung,  Sung Il Cho 
+
+
+
+1Graduate School of Public Health, Seoul National University, Seoul 151-742, Korea. 2Institute of Health & Environment, Seoul National University, Seoul 151-742, Korea. 3Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Osong 363-951, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In this study, we propose a novel, intuitive method of constructing an expression quantitative trait (eQT) network that is related to the metabolic syndrome using LOD scores and peak loci for selected eQTs, based on the concept of gene-gene interactions. We selected 49 eQTs that were related to insulin resistance. A variance component linkage analysis was performed to explore the expression loci of each of the eQTs. The linkage peak loci were investigated, and the "support zone" was defined within boundaries of an LOD score of 0.5 from the peak. If one gene was located within the "support zone" of the peak loci for the eQT of another gene, the relationship was considered as a potential "directed causal pathway" from the former to the latter gene. SNP markers under the linkage peaks or within the support zone were searched for in the database to identify the genes at the loci. Two groups of gene networks were formed separately around the genes IRS2 and UGCGL2. The findings indicated evidence of networks between genes that were related to the metabolic syndrome. The use of linkage analysis enabled the construction of directed causal networks. This methodology showed that characterizing and locating eQTs can provide an effective means of constructing a genetic network.		
+
+
+Keywords:
+genetic network; expression quantitative trait; linkage analysis; metabolic syndrome 
+
+
+
+
+

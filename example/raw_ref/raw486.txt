@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2003;1(1): 1-6. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Challenges and New Approaches in Genomics and Bioinformatics.
+
+
+
+ Jong Hwa Park,  Kyung Sook Han 
+
+
+
+1MRC-DUNN Human Nutrition Unit, Hills Road, Cambridge, CB2 2XY, England, UK. j@bio.cc 2Object Interaction Technologies Inc. (OITEK), Seoul, Korea. 3School of Computer Science and Engineering, Inha University, Inchon, Korea. khan@inha.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		No abstract available.		
+
+
+Keywords:
+network biology; interaction among biological entities; protein interaction network 
+
+
+
+
+

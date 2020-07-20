@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2009;7(4): 212-216. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.4.212
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+WebChemDB: An Integrated Chemical Database Retrieval System.
+
+
+
+ Bo Kyeng Hou,  Eun Joung Moon,  Sung Chul Moon,  Hae Jin Kim 
+
+
+
+			Korean Bioinformation Center, KRIBB, Daejeon 305- 806, Ensoltek, Daejeon 305-510, Korea. bkher71@kribb.re.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		WebChemDB is an integrated chemical database retrieval system that provides access to over 8 million publicly available chemical structures, including related information on their biological activities and direct links to other public chemical resources, such as PubChem, ChEBI, and DrugBank. The data are publicly available over the web, using two-dimensional (2D) and three-dimensional (3D) structure retrieval systems with various filters and molecular descriptors. The web services API also provides researchers with functionalities to programmatically manipulate, search, and analyze the data.		
+
+
+Keywords:
+Chemical database; biological activities; structure retrieval system; molecular descriptors 
+
+
+
+
+

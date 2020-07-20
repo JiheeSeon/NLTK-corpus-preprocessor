@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(3): 118-123. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of Normalization on Detection of Differentially-Expressed Genes with Moderate Effects.
+
+
+
+ Seoae Cho,  Eunjee Lee,  Youngchul Kim,  Taesung Park 
+
+
+
+1Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-921, Korea. 2Department of Statistics, Seoul National University, Seoul 151-921, Korea. tspark@stats.snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The current existing literature offers little guidance on how to decide which method to use to analyze one-channel microarray measurements when dealing with large, grouped samples. Most previous methods have focused on two-channel data;therefore they can not be easily applied to one-channel microarray data. Thus, a more reliable method is required to determine an appropriate combination of individual basic processing steps for a given dataset in order to improve the validity of onechannel expression data analysis. We address key issues in evaluating the effectiveness of basic statistical processing steps of microarray data that can affect the final outcome of gene expression analysis without focusingon the intrinsic data underlying biological interpretation.		
+
+
+Keywords:
+Normalization; CFS disease; Microarray; ANOVA 
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(2): 77-83. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.077
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Identification of Human LRG1 Polymorphisms and Their Genetic Association with Rheumatoid Arthritis.
+
+
+
+ Eun Heui Jin,  Soo Cheon Chae,  Seung Cheol Shim,  Hwan Gyu Kim,  Hun Taeg Chung 
+
+
+
+1Genome Research Center for Immune Disorders, Wonkwang University School of Medicine, Iksan, Chonbuk 570-749, Korea. chaesc@wonkwang.ac.kr; htchung@wonkwang.ac.kr 2Department of Pathology, Wonkwang University School of Medicine, Iksan, Chonbuk 570-749, Korea. 3Division of Rheumatology, Department of Internal Medicine, Eulji University School of Medicine, Daejeon 301-831, Korea. 4Division of Biological Sciences, Research Center of Bioactive Materials, Chonbuk National University, Chunju, Chonbuk 561-756, Korea. 5Microbiology and Immunology, Wonkwang University School of Medicine, Iksan, Chonbuk 570-749, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Human leucine-rich alpha-2-glycoprotein 1 (LRG1 ) was first identified as a trace protein in human serum. The primary sequence of LRG1 includes repeated leucine residues and putative membrane-binding domains. But, there is no published information on the genetic variation of this gene.
+In this study, LRG1 was identified as one of several upregulated genes in RA patients. We examined the expression levels of LRG1 between an RA patient and a healthy control by RT-PCR and validated that LRG1 was highly expressed in RA patients compared with controls. We identified the possible variation sites and single nucleotide polymorphisms (SNPs) in the human LRG1 gene by direct sequencing and analyzed the association of genotype and allele frequencies between RA patients and a control group without RA. We further investigated the relationship between these polymorphisms and the level of RF or anti-CCP in RA patients. We identified a total of three SNPs (g.-678A> G, g.-404C>T and g.1427T>C) and two variation sites (g.-1198delA and g.-893delA) in the LRG1 gene. Our results suggest that polymorphisms of the LRG1 gene are not associated with the susceptibility of RA in the Korean population.		
+
+
+Keywords:
+HRM; LRG1; polymorphism; rheumatoid arthritis 
+
+
+
+
+

@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(3): 95-101. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Application of the Clustering Threshold Gradient Descent Regularization Method for Selecting Genes in Predicting the Survival Time of Lung Carcinomas.
+
+
+
+ Seungyeoun Lee,  Youngchul Kim 
+
+
+
+1Department of Applied Mathematics, Sejong University, Seoul 143-747, Korea. leesy@sejong.ac.kr 2Department of Statistics, Seoul National University, Seoul 151-747, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		In this paper, we consider the variable selection methods in the Cox model when a large number of gene expression levels are involved with survival time. Deciding which genes are associated with survival time has been a challenging problem because of the large number of genes and relatively small sample size (n << p). Several methods for variable selection have been proposed in the Cox model. Among those, we consider least absolute shrinkage and selection operator (LASSO), threshold gradient descent regularization (TGDR), and two different clustering threshold gradient descent regularization (CTGDR)- the K-means CTGDR and the hierarchical CTGDR - and compare these four methods in an application of lung cancer data. Comparison of the four methods shows that the two CTGDR methods yield more compact gene selection than TGDR, while LASSO selects the smallest number of genes. When these methods are evaluated by the approach of Ma and Huang (2007), none of the methods shows satisfactory performance in separating the two risk groups using the log-rank statistic based on the risk scores calculated from the selected genes. However, when the risk scores are calculated from the genes that are significant in the Cox model, the performance of the log-rank statistics shows that the two risk groups are well separated.
+Especially, the TGDR method has the largest log-rank statistic, and the K-means CTGDR method and the LASSO method show similar performance, but the hierarchical CTGDR method has the smallest log-rank statistic.		
+
+
+Keywords:
+variable selection; regularization; shrinkage estimate; LASSO; threshold gradient descent regularization; the Cox model 
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2009;7(3): 168-170. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.3.168
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Computer-aided Design Tool with Semiautomatic Image-Processing Features for Visualizing Biological Pathways.
+
+
+
+ Sung Il Ham,  San Duk Yang,  Chin Ting Thong,  Hyun Seok Park 
+
+
+
+1Department of Computer Science, Ewha Womans University, Seoul 120-750, Korea. neo@ewha.ac.kr 2Department of Architectural Engineering, Yonsei University, Seoul 120-749, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The explosion in biological data resulting from highthroughput experiments requires new software tools to manipulate and display pathways in a way that can integrate disparate sources of information. A visual Java-based CAD tool for drawing and annotating biological pathways with semiautomatic image-processing features is described in this paper. The result of the image-editing process is an XML file for the appropriate links. This tool integrates the pathway images and XML file sources. The system has facilities for linking graphical objects to external databases and is capable of reproducing existing visual representations of pathway maps.		
+
+
+Keywords:
+bioinformatics; computer-aided design; metabolic pathway visualization; systems biology 
+
+
+
+
+

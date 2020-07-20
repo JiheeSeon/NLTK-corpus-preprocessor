@@ -1,0 +1,232 @@
+Review Article
+Genomics & Informatics 2018; 16(4): e17.
+Published online: December 28, 2018
+DOI: https://doi.org/10.5808/GI.2018.16.4.e17
+Single-Cell Sequencing in Cancer: Recent Applications to Immunogenomics and Multi-omics Tools
+Michael C. Sierant 1, Jungmin Choi 1, 2 *
+1Department of Genetics, Yale University School of Medicine, New Haven, CT 06520,
+USA
+2Laboratory of Human Genetics and Genomics, The Rockefeller University, New York, NY 10065,
+USA
+* Corresponding author: Tel: +1-212-327-7466, Fax: +1-212-327-8090, E-mail: jungmin.choi @ rockefeller.edu
+Received December 13, 2018 Revised December 21, 2018 Accepted December 21, 2018
+Copyright © 2018 by the Korea Genome Organization
+It is identical to the Creative Commons Attribution Non-Commercial License(http://creativecommons.org/licenses/by-nc/4.0/).
+Abstract
+Tumor heterogeneity, the cellular mosaic of multiple lineages arising from the process of clonal evolution, has continued to thwart multi-omics analyses using traditional bulk sequencing methods.
+The application of single-cell sequencing, in concert with existing genomics methods, has enabled high-resolution interrogation of the genome, transcriptome, epigenome, and proteome.
+Applied to cancers, these single-cell multi-omics methods bypass previous limitations on data resolution and have enabled a more nuanced understanding of the evolutionary dynamics of tumor progression, immune evasion, metastasis, and treatment resistance.
+This review details the growing number of novel single-cell multi-omics methods applied to tumors and further discusses recent discoveries emerging from these approaches, especially in regard to immunotherapy.
+Keywords: computational biology, epigenomics, genetic heterogeneity, immunotherapy, neoplasms, single-cell analysis
+Introduction
+The advent of genomic medicine has bolstered the appreciation of heterogeneity between and, especially, within tumors.
+This cellular heterogeneity plays a major role in tumor progression and sensitivity to anti-tumor therapies[1, 2], thereby posing a significant challenge to personalized cancer therapy.
+With continuing advances in high-throughput single-cell sequencing technology[3, 4], we are now able to interrogate at high resolution the genomic features of both the malignant cells and the immune cells residing within the tumor microenvironment[5-7] to better understand what promotes evasion from growth suppression and cell death signals.
+Given the extremely heterogenous nature of tumors and the equally diverse immune repertoire in a population, single-cell sequencing provides information that bulk sequencing can not, such as intratumoral heterogeneity[8, 9], clonal evolution[4, 10, 11], tumor microenvironment remodeling status[7, 12], and development of cancer therapy resistance[13].
+This information will be invaluable in the effort to predict targetable mechanisms of resistance to cancer immunotherapy, a revolutionary cancer treatment that harnesses the immune system to battle a wide range of tumor types including melanoma, renal cell carcinoma, and non-small cell lung cancer[14].
+Understanding tumor heterogeneity via single-cell sequencing has implications for the identification of biomarkers for cancer and could help uncover approaches to delay or reverse acquired resistance.
+Multi-omics is an umbrella term to describe multi-dimensional analytical methods that integrate high-throughput biomolecule data from multiple sources, such as the genome(via whole genome sequencing), transcriptome(via RNA-Seq), proteome(via liquid chromatography with tandem mass spectrometry), interactome(via genome-wide chromosome conformation capture[Hi-C]), epigenome(via chromatin immunoprecipitation sequencing[ChIP-Seq], Bisulfite-Seq, or assay for transposase-accessible chromatin using sequencing[ATAC-Seq]), and metabolome(via mass spectrometry[MS])[15].
+Integration of multiple biomolecular datasets is particularly relevant to the investigation of factors driving tumorigenesis and metastasis since malignancy can arise from the concomitant effects of mild perturbations within interlinked homeostatic networks that may individually go unnoticed[16].
+With the advent of single-cell sequencing approaches, multi-omics methods can be applied to better understand the complex interactions and connections in cell state and phenotype in the cancer ecosystem and explore cellular heterogeneity that often confounds biomolecular variation from multi-omics approaches in bulk[17].
+This review presents the perspectives of single-cell genomic analysis in cancer immunology, the potential pitfalls of different single-cell analysis technology, and the therapeutic opportunity for cancer treatment as the hallmarks of precision medicine in the future.
+The Evolving Role of Single-Cell Genomic Analysis in Cancer Immunotherapy
+A tumor is a complex ecosystem containing an extensive admixture of different cell types, states, and fates.
+Tumors begin as a single cell but, during the process of tumor progression, accumulate somatic mutations and diversify to form distinct lineages and subclonal populations.
+This intratumor heterogeneity, and the clonal evolution that results, plays a critical role in many processes such as immune evasion, angiogenesis, and metastasis.
+This heterogeneity poses a major challenge for genomic analysis by conventional bulk sequencing which typically measures the average signal from an ensemble of cells and is thus a confounding factor in clinical diagnosis and therapeutic treatment of patients.
+Understanding genomic alterations at single-cell resolution allows the accurate identification of clonal lineages that favored proliferation despite treatment.
+To date, most single-cell DNA sequencing(scDNA-Seq) studies of cancer have focused on intratumor heterogeneity and clonal evolution in primary tumors.
+One of the first studies to use scDNA-Seq to examine aneuploidy evolution in individual cells from triple-negative breast cancer patients found punctuated copy number evolution that was followed by stable clonal expansion[18].
+More recently, a study investigated the genomic evolution of single cells in triple-negative breast cancer patients who were treated with chemotherapy and found two distinct subclonal populations that were undergoing extinction and persistence[19].
+Among the many single-cell sequencing approaches, single-cell RNA sequencing(scRNA-Seq) has been the most widely used technique and has been demonstrated to be both accurate and scalable.
+As a result, scRNA-Seq has already had a great impact on improving our fundamental understanding of intratumor heterogeneity[8, 9, 20, 21], clonal evolution[10, 19, 21], and metastatic dissemination[21] in tumors.
+Previously, application of scRNA-Seq was limited to the interrogation of features on tumor-associated factors, including tumoral somatic mutation burden, neoantigen load, and PD-L1 expression.
+Recently, however, scRNA-Seq has been used to interrogate immune-related factors in both tumor cells and microenvironment.
+In a series of studies, scRNA-Seq was used in combination with tumor spatial heterogeneity analysis to profile the mechanisms of cancer-associated immunosuppression on tumor-infiltrating T-cell dysfunction[22, 23], immunosuppressive tumoral T cells[23], and macrophages[24].
+An analysis of melanomas via scRNA-Seq revealed spatial and functional heterogeneity in both the tumor and T cells and further demonstrated the range of T-cell activation, clonal expansion, and exhaustion programs within the tumor[6].
+Another study used scRNA-Seq to determine the immune landscape of melanoma patients treated with checkpoint inhibitors and identified two major cell states.
+One state was similar to that of stem-cell-like memory CD8 T cells and was predominantly found in tumors that responded to treatment, whereas the other state was similar to dysfunctional or exhausted T cells and was commonly seen in resistant tumors[25].
+In a further study, scRNA-Seq was applied to map out a high-resolution landscape of immunotherapyresistant melanoma and subsequently discovered a gene expression program that correlated with reduced tumor infiltrating T cells.
+This study provided a potential approach to predict resistance to immunotherapy before treatment begins, thereby providing a potential target as a means to delay or counter resistance[26].
+The discrepancy between mRNA and protein abundance has been frequently reported and even more discordant in the heterogenous tissue of a tumor.
+Although proteomic studies provide accurate information on the final layer of intratumoral heterogeneity, single-cell proteomics has proven to be more challenging than other single-cell genomic sequencing methods since there is currently no approach to amplify the initial amount of protein.
+Instead, efforts have been focused on developing methods to more sensitively detect small amounts of protein.
+Single-cell mass-cytometry(also known as CyTOF) was introduced to tackle this issue with the use of antibody conjugation in combination with MS in order to determine functional properties of cells.
+In a recent study, this single-cell proteomic method was applied to characterize the functional states of immune cells in melanoma patients before and after anti-PD-1 immunotherapy and found that the frequency of CD14+ CD16− HLA-DRhi monocytes in peripheral blood mononuclear cells could be used as a biomarker to discriminate responders from nonresponders[27].
+Complementation of Single-Cell Genomic Sequencing Analysis with Multi-omic Approaches
+Epigenetics links the genome with its functional phenotypes by regulating gene expression without modification of the DNA sequence itself and is an essential player in cancer progression.
+The recent development of single-cell epigenomics methods has allowed us to begin addressing significant cell-to-cell variability within tumor populations by profiling methylation, chromatin status, and chromosome organization.
+Single-cell epigenetic sequencing has primarily been applied in combination with other single-cell genomics to discover new connections between genomic features and cell function, fate, and identity with the ultimate goal of understanding the process and mechanism for tumor progression at each level of genomic regulation.
+In one study, single-cell bisulfite sequencing(scBS-Seq) with concurrent scRNA-Seq on a hepatocellular carcinoma was used to detect differential methylation heterogeneity within two subpopulations.
+Interestingly, when scBS-Seq was combined with scDNA-seq on the same tumor, a similar pattern of clustered copy number variants(CNVs) was found[28].
+Studying single-cell genomic architecture serves as a useful resource to understand the state of the chromatin accessibility and long-range regulatory interactions that could reveal the relationship between topological structure and phenotype in cancer progression.
+Single-cell combinatorial indexed Hi-C has provided insight into cell regulatory heterogeneity via higher-order chromatin differences and subsequently was used to link karyotypic and cell-cycle state differences[40].
+In addition, single-cell ATAC-Seq and ChIP-Seq were used to measure the genome-wide landscape of chromatin accessibility at cis-regulatory elements and determine which trans-acting factors might drive functional chromatin states at a single cell resolution[41].
+Further, a single-cell combinatorial indexing-based method(sciCAR) to jointly profile chromatin accessibility and gene expression was used to successfully link cis-regulatory sites to their target genes[42].
+A recent study used single-cell CyTOF combined with scRNA-Seq to analyze tumor cells, adjacent normal tissue, and blood from early lung adenocarcinoma to propose that tumor-infiltrating myeloid cells likely compromise anti-tumor immunity[43].
+In another study, concurrent scRNA-Seq and CyTOF were used to reveal significant remodeling of the lymphoid and myeloid intratumoral compartment during immune checkpoint therapy[44].
+Computational methodologies for profiling multi-omics datasets have grown in popularity and sophistication in recent years(Table 1).
+Recently, two groups independently developed methods to simultaneously analyze cellular protein markers and transcriptome in single cells; REAP-Seq(RNA expression and protein sequencing) demonstrated successful subclustering of natural killer cells[34] and CITE-Seq(cellular indexing of transcriptomes and epitopes by sequencing) improved characterization of immune cell phenotypes[35], respectively.
+Adding another layer of data, the triple-omics single-cell assay scTrio-Seq(single-cell triple omics sequencing) is able to combine and analyze genomic copy number variation, DNA methylation, and gene expression from single cells and was used to identify two heterogeneous subpopulations with distinct malignant potentials in hepanocellular carcinomas[28].
+Alternatively, scCOOL-Seq(single-cell chromatin overall omic-scale landscape sequencing) profiles chromatin state, DNA methylation, and CNVs simultaneously and subsequently revealed a difference in DNA methylation between paternal and maternal alleles, although overall accessibility was similar[36].
+Lastly, scNMT-Seq(single-cell nucleosome, methylation and transcription sequencing) analyzes nucleosome occupancy, DNA methylation, and mRNA transcription jointly and, remarkably, discovered distinct dynamics in the coupling of all three molecular layers at developmentally relevant regions during differentiation of embryonic stem cells[37].
+Although these single-cell multi-omics approaches have proven extraordinarily fruitful in uncovering the intricacies of cellular heterogeneity in tumors, it has not been without limitations.
+Uneven genome coverage due to stochastic over or under amplification, strong bias toward amplification of high% GC, low mappability rates(~20% to 30%), restricted capture rates(~40%), and high levels of polymerase chain reaction duplicates continue to challenge the efficacy of these method; however, advances in single-cell methods and computational analyses have begun to overcome these issues by imputing missing information[45, 46].
+Although these single-cell experiments have provided tantalizing evidence, further functional validation to confirm these results are necessary.
+Conclusion
+Single-cell sequencing technologies already have led to many discoveries in the field of cancer immunology and proven it can provide further insight into our understanding of intratumor heterogeneity, immunoediting, and immunogenicity that are difficult to resolve from bulk sequencing.
+Nevertheless, many dynamic tumor processes remain poorly understood.
+With the continual advances in single-cell methods at an ever more affordable cost, the repertoire of new data across additional tumor types and at unprecedented sample size will aid in capturing individual cell states at the transcriptional, regulatory, and translational layers.
+In combination with functional work, these mechanistic insights can be used to identify prognostic biomarkers, monitor circulating tumor cells, map rare cell population, estimate and stratify tumor and tumor microenvironment heterogeneity, and, finally, be used to identify therapy resistance mechanisms.
+Ultimately, these approaches will guide the way to detection of single-cell signatures in cancer, precisely manipulate immunity with therapy and vaccination to overcome immune suppression, revitalize immune surveillance, and stabilize or hopefully revert the tumor phenotype in cancer patients.
+Notes
+Authors ’ contribution
+Conceptualization: JC
+Writing - original draft: MCS, JC
+Writing - review & editing: MCS, JC
+Conflicts of Interest
+No potential conflicts of interest relevant to this article was reported.
+References
+1.
+Bhang HE, Ruddy DA, Krishnamurthy Radhakrishna V, Caushi JX, Zhao R, Hims MM, et al. Studying clonal dynamics in response to cancer therapy using high-complexity barcoding.
+Nat Med 2015; 21:440-448.
+2.
+Russo M, Siravegna G, Blaszkowsky LS, Corti G, Crisafulli G, Ahronian LG, et al. Tumor heterogeneity and lesion-specific response to targeted therapy in colorectal cancer.
+Cancer Discov 2016; 6:147-153.
+3.
+Tang F, Barbacioru C, Wang Y, Nordman E, Lee C, Xu N, et al. mRNA-Seq whole-transcriptome analysis of a single cell.
+Nat Methods 2009; 6:377-382.
+4.
+Navin N, Kendall J, Troge J, Andrews P, Rodgers L, McIndoo J, et al. Tumour evolution inferred by single-cell sequencing.
+Nature 2011; 472:90-94.
+5.
+Puram SV, Tirosh I, Parikh AS, Patel AP, Yizhak K, Gillespie S, et al. Single-cell transcriptomic analysis of primary and metastatic tumor ecosystems in head and neck cancer.
+Cell 2017; 171:1611-1624.e24.
+6.
+Tirosh I, Izar B, Prakadan SM, Wadsworth MH 2nd, Treacy D, Trombetta JJ, et al. Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq.
+Science 2016; 352:189-196.
+7.
+Venteicher AS, Tirosh I, Hebert C, Yizhak K, Neftel C, Filbin MG, et al. Decoupling genetics, lineages, and microenvironment in IDH-mutant gliomas by single-cell RNA-seq.
+Science 2017; 355: eaai8478.
+8.
+Dalerba P, Kalisky T, Sahoo D, Rajendran PS, Rothenberg ME, Leyrat AA, et al. Single-cell dissection of transcriptional heterogeneity in human colon tumors.
+Nat Biotechnol 2011; 29:1120-1127.
+9.
+Patel AP, Tirosh I, Trombetta JJ, Shalek AK, Gillespie SM, Wakimoto H, et al. Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma.
+Science 2014; 344:1396-1401.
+10.
+Corces MR, Buenrostro JD, Wu B, Greenside PG, Chan SM, Koenig JL, et al. Lineage-specific and single-cell chromatin accessibility charts human hematopoiesis and leukemia evolution.
+Nat Genet 2016; 48:1193-1203.
+11.
+Hou Y, Song L, Zhu P, Zhang B, Tao Y, Xu X, et al. Single-cell exome sequencing and monoclonal evolution of a JAK2-negative myeloproliferative neoplasm.
+Cell 2012; 148:873-885.
+12.
+Azizi E, Carr AJ, Plitas G, Cornish AE, Konopacki C, Prabhakaran S, et al. Single-cell map of diverse immune phenotypes in the breast tumor microenvironment.
+Cell 2018; 174:1293-1308.e36.
+13.
+Miyamoto DT, Zheng Y, Wittner BS, Lee RJ, Zhu H, Broderick KT, et al. RNA-Seq of single prostate CTCs implicates non-canonical Wnt signaling in antiandrogen resistance.
+Science 2015; 349:1351-1356.
+14.
+Sznol M, Powderly JD, Smith DC, Brahmer JR, Drake CG, McDermott DF, et al. Safety and antitumor activity of biweekly MDX-1106(Anti-PD-1, BMS-936558/ONO-4538) in patients with advanced refractory malignancies.
+J Clin Oncol 2010; 28(15 Suppl) :2506.
+15.
+Hasin Y, Seldin M, Lusis A. Multi-omics approaches to disease.
+Genome Biol 2017; 18:83.
+16.
+Chakraborty S, Hosen MI, Ahmed M, Shekhar HU.
+Onco-multi-OMICS approach: a new frontier in cancer research.
+Biomed Res Int 2018; 2018:9836256.
+17.
+Bock C, Farlik M, Sheffield NC.
+Multi-omics of single cells: strategies and applications.
+Trends Biotechnol 2016; 34:605-608.
+18.
+Gao R, Davis A, McDonald TO, Sei E, Shi X, Wang Y, et al. Punctuated copy number evolution and clonal stasis in triple-negative breast cancer.
+Nat Genet 2016; 48:1119-1130.
+19.
+Kim C, Gao R, Sei E, Brandt R, Hartman J, Hatschek T, et al. Chemoresistance evolution in triple-negative breast cancer delineated by single-cell sequencing.
+Cell 2018; 173:879-893.e13.
+20.
+Bernard V, Semaan A, Huang J, San Lucas FA, Mulu FC, Stephens BM, et al. Single cell transcriptomics of pancreatic cancer precursors demonstrates epithelial and micro-environmental heterogeneity as an early event in neoplastic progression.
+Clin Cancer Res 2018 Nov 1[Epub].
+https://doi.org/10.1158/1078-0432.CCR-18-1955.
+21.
+Karaayvaz M, Cristea S, Gillespie SM, Patel AP, Mylvaganam R, Luo CC, et al. Unravelling subclonal heterogeneity and aggressive disease states in TNBC through single-cell RNA-seq.
+Nat Commun 2018; 9:3588.
+22.
+Singer M, Wang C, Cong L, Marjanovic ND, Kowalczyk MS, Zhang H, et al. A distinct gene module for dysfunction uncoupled from activation in tumor-infiltrating T cells.
+Cell 2017; 171:1221-1223.
+23.
+Zheng C,Zheng L, Yoo JK, Guo H, Zhang Y, Guo X, et al. Landscape of infiltrating T cells in liver cancer revealed by single-cell sequencing.
+Cell 2017; 169:1342-1356.e16.
+24.
+Zong CC.
+Single-cell RNA-seq study determines the ontogeny of macrophages in glioblastomas.
+Genome Biol 2017; 18:235.
+25.
+Sade-Feldman M, Yizhak K, Bjorgaard SL, Ray JP, de Boer CG, Jenkins RW, et al. Defining T cell states associated with response to checkpoint immunotherapy in melanoma.
+Cell 2018; 175:998-1013.e20.
+26.
+Jerby-Arnon L, Shah P, Cuoco MS, Rodman C, Su MJ, Melms JC, et al. A cancer cell program promotes T cell exclusion and resistance to checkpoint blockade.
+Cell 2018; 175:984-997.e24.
+27.
+Krieg C, Nowicka M, Guglietta S, Schindler S, Hartmann FJ, Weber LM, et al. High-dimensional single-cell analysis predicts response to anti-PD-1 immunotherapy.
+Nat Med 2018; 24:144-153.
+28.
+Hou Y, Guo H, Cao C, Li X, Hu B, Zhu P, et al. Single-cell triple omics sequencing reveals genetic, epigenetic, and transcriptomic heterogeneity in hepatocellular carcinomas.
+Cell Res 2016; 26:304-319.
+29.
+Macaulay IC, Haerty W, Kumar P, Li YI, Hu TX, Teng MJ, et al. G & T-seq: parallel sequencing of single-cell genomes and transcriptomes.
+Nat Methods 2015; 12:519-522.
+30.
+Dey SS, Kester L, Spanjaard B, Bienko M, van Oudenaarden A.
+Integrated genome and transcriptome sequencing of the same cell.
+Nat Biotechnol 2015; 33:285-289.
+31.
+Hu Y, Huang K, An Q, Du G,Hu G, Xue J, et al. Simultaneous profiling of transcriptome and DNA methylome from a single cell.
+Genome Biol 2016; 17:88.
+32.
+Angermueller C, Clark SJ, Lee HJ, Macaulay IC, Teng MJ, Hu TX, et al. Parallel single-cell sequencing links transcriptional and epigenetic heterogeneity.
+Nat Methods 2016; 13:229-232.
+33.
+Darmanis S, Gallant CJ, Marinescu VD, Niklasson M, Segerman A, Flamourakis G, et al. Simultaneous multiplexed measurement of RNA and proteins in single cells.
+Cell Rep 2016; 14:380-389.
+34.
+Peterson VM, Zhang KX, Kumar N, Wong J, Li L, Wilson DC, et al. Multiplexed quantification of proteins and transcripts in single cells.
+Nat Biotechnol 2017; 35:936-939.
+35.
+Stoeckius M, Hafemeister C, Stephenson W, Houck-Loomis B, Chattopadhyay PK, Swerdlow H, et al. Simultaneous epitope and transcriptome measurement in single cells.
+Nat Methods 2017; 14:865-868.
+36.
+Guo F, Li L, Li J, Wu X, Hu B, Zhu P, et al. Single-cell multi-omics sequencing of mouse early embryos and embryonic stem cells.
+Cell Res 2017; 27:967-988.
+37.
+Clark SJ, Argelaguet R, Kapourani CA, Stubbs TM, Lee HJ, Alda-Catalinas C, et al. scNMT-seq enables joint profiling of chromatin accessibility DNA methylation and transcription in single cells.
+Nat Commun 2018; 9:781.
+38.
+Pott S. Simultaneous measurement of chromatin accessibility, DNA methylation, and nucleosome phasing in single cells.
+Elife 2017; 6: e23203.
+39.
+Han KY, Kim KT, Joung JG, Son DS, Kim YJ, Jo A, et al. SIDR: simultaneous isolation and parallel sequencing of genomic DNA and total RNA from single cells.
+Genome Res 2018; 28:75-87.
+40.
+Ramani V, Deng X, Qiu R, Gunderson KL, Steemers FJ, Disteche CM, et al. Massively multiplex single-cell Hi-C. Nat Methods 2017; 14:263-266.
+41.
+Buenrostro JD, Wu B, Litzenburger UM, Ruff D, Gonzales ML, Snyder MP, et al. Single-cell chromatin accessibility reveals principles of regulatory variation.
+Nature 2015; 523:486-490.
+42.
+Cao J, Cusanovich DA, Ramani V, Aghamirzaie D, Pliner HA, Hill AJ, et al. Joint profiling of chromatin accessibility and gene expression in thousands of single cells.
+Science 2018; 361:1380-1385.
+43.
+Lavin Y, Kobayashi S, Leader A, Amir ED, Elefant N, Bigenwald C, et al. Innate immune landscape in early lung adenocarcinoma by paired single-cell analyses.
+Cell 2017; 169:750-765.e17.
+44.
+Gubin MM, Esaulova E, Ward JP, Malkova ON, Runci D, Wong P, et al. High-dimensional analysis delineates myeloid and lymphoid compartment remodeling during successful immune-checkpoint cancer therapy.
+Cell 2018; 175:1443.
+45.
+Chen M, Zhou X. VIPER: variability-preserving imputation for accurate gene expression recovery in single-cell RNA sequencing studies.
+Genome Biol 2018; 19:196.
+46.
+Li WV,Li JJ.
+An accurate and robust imputation method scImpute for single-cell RNA-seq data.
+Nat Commun 2018; 9:997.

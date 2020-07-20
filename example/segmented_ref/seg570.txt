@@ -1,0 +1,226 @@
+Original article
+Genomics & Informatics 2019; 17(3): e31.
+Published online: September 26, 2019
+DOI: https://doi.org/10.5808/GI.2019.17.3.e31
+In silico approach to calculate the transcript capacity
+Young-Sup Lee, Kyung-Hye Won, Jae-Don Oh *, Donghyun Shin * *
+Department of Animal Biotechnology, Chonbuk National University, Jeonju 54896, Korea
+* Corresponding author E-mail: oh5ow @ naver.com
+** Corresponding author E-mail: sdh1214 @ gmail.com
+Received September 2, 2019 Revised September 18, 2019 Accepted September 19, 2019
+(c) 2019, Korea Genome Organization
+(CC) This is an open-access article distributed under the terms of the Creative Commons Attribution license(https://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Abstract
+We sought the novel concept, transcript capacity(TC) and analyzed TC.
+Our approach to estimate TC was through an in silico method.
+TC refers to the capacity that a transcript exerts in a cell as enzyme or protein function after translation.
+We used the genome-wide association study(GWAS) beta effect and transcription level in RNA-sequencing to estimate TC.
+The trait was body fat percent and the transcript reads were obtained from the human protein atlas.
+The assumption was that the GWAS beta effect is the gene ’ s effect and TC was related to the corresponding gene effect and transcript reads.
+Further, we surveyed gene ontology(GO) in the highest TC and the lowest TC genes.
+The most frequent GOs with the highest TC were neuronal-related and cell projection organization related.
+The most frequent GOs with the lowest TC were wound-healing related and embryo development related.
+We expect that our analysis contributes to estimating TC in the diverse species and playing a benevolent role to the new bioinformatic analysis.
+Keywords: fat, genome-wide association study, in silico method, transcript capacity, RNA-seq
+Introduction
+There have been various experimental studies regarding enzyme activity[1,2].
+Enzyme activity is defined by a measure of the quantity of active enzyme present.
+Most enzyme activity studies are based on in vitro experiments.
+This approach is a limited method because it does not contain in vivo situations.
+Our approach was to introduce transcript capacity(TC) concept and this concept has both resemblance and difference in comparison to the enzyme activity estimation.
+It can be considered that TC plays a role like enzyme activity as transcript activity or TC but it is mainly related to the analyzed traits.
+Thus, TC does not match to the concept of enzyme activity, perfectly.
+Although enzyme activity is not directly associated with TC, the investigation of TC can be one of the important route to examine enzyme activity because both deal with the capacity of specific cellular units, i.e.
+enzyme and transcript.
+We calculated TC using the genome-wide association study(GWAS) beta effect and transcript reads in RNA-sequencing(RNA-seq) data, and our study is based on an in silico analysis.
+Our novel approach was based on that gene effect could be a function of TC and transcript reads.
+TC refers to the capacity that one unit of transcripts exerts as a cellular function.
+TC can not be easily measured in experiments.
+We calculated TC using bioinformatics studies.
+GWAS can be used for finding significant variants and genes associated with given traits.
+It is a very efficient and powerful method for detecting genes of significance.
+GWAS has been used to discover disease-associated genes and quantitative trait loci genes[3-5].
+Lu et al.[6] tried to discover new loci associated with body fat percent(BF%) and identified cardiometabolic disease risk genomic factors.
+For TC estimation, we used BF% as the phenotype and performed GWAS.
+The beta effect in GWAS denotes the coefficient of the regression model and it can be the additive effect of the single nucleotide polymorphism(SNP) in the GWAS[7-9].
+The significant markers associated with phenotypes have been used as the significance of the encompassed genes in GWAS.
+This is plausible because SNPs is linked at those encompassing genes which are usually called “ linkage disequilibrium.
+”
+RNA-seq data provides transcripts ’ reads[10,11].
+Through transcript reads and gene effects, we calculated TC.
+TC analysis can be important because it can be further analyzed the enzyme activity if the protein expression level instead of transcript reads is given.
+Methods
+Data description
+For GWAS, we used Ansan-Anseong cohort data.
+These were for a study of a chronic diseases within Ansan city and Anseong rural areas in Korea.
+The dataset comprised men(8,842 people) between 40-69 years of age who had been residents of the region for at least 6 months[12,13].
+Our study was from the 3rd Ansan-Anseong cohort dataset version 2.1.
+The analyzed phenotypes were BF% unit and the covariates were set to be area, age and sex.
+The SNP dataset was implemented using Affymetrix Genome-wide Human SNP Array 5.0(Affymetrix, Santa Clara, CA, USA).
+The mean call rate was 99.01%.
+The total number of SNPs was 352,228 and after quality control(minor allele frequency<0.05, Hardy-Weinberg equilibrium p-value<0.0001 and missing genotype rate> 0.05), 308,003 SNPs were left.
+For transcript reads, we used transcript reads per million(TPM) data at the following website(http://www.proteinatlas.org).
+The Human Protein Atlas was released with protein profile data covering 48 different human tissues and organs, including adipocytes, the kidney and the liver[14,15].
+Among these organs, we used adipocyte ’ s transcript reads data.
+The TPM data of the Human Protein atlas is based on the reads per gene.
+Thus the gene length was pre-considered for the accurate reads estimation per gene.
+Genome-wide association study(GWAS)
+GWAS was performed using GCTA(a tool for genome-wide complex trait analysis) to estimate the beta effects[9,16].
+The following model was:
+(1)
+y=a+bx+g+e
+where y is the phenotypic value(BF%), a is the mean term, b is the additive beta effect of the candidate SNP for association, x is the SNP genotype indicator variable, g is the polygenic effect, and e is the residual.
+The covariates were sex(male and female), area(Ansan and Anseong) and age.
+The age was factored to be 10-age steps.
+The b was the beta effect of the SNPs.
+TC calculation
+TC was calculated using the following relationships:
+(2)
+TC=effectofgenetranscriptreads
+Eq.(2) uses the gene effect and transcript reads(TPM) to determine the TC.
+We assumed that the effect of the gene was proportional to the transcript reads and TC.
+The gene effect is proportional to TC as given in Eq.(2).
+If A and B genes ’ effect is 10, 10, respectively and transcript reads are 1,000 and 10,000, then TCs of A and B are 0.01 and 0.001.
+Thus the capacity of the A transcript is 10-fold stronger than B transcript.
+One unit of A transcripts influences 10-fold to the traits in comparison to the B transcripts.
+Gene ontology analysis
+The gene ontology(GO) analysis was performed using DAVID(Database for Annotation, Visualization and Integrated Discovery)[17].
+The gene catalogue was retrieved from Ensembl DB(http://www.ensembl.org).
+We selected the genes with the highest and lowest TC(top and bottom 5% in TC values) for the GO analysis.
+Results
+Figure description
+Fig. 1 shows the flow chart of our analysis.
+It explains the procedure of the TC calculation.
+The gene effect was calculated using GWAS and TC was calculated using gene effect and TPM.
+As shown in Eq.(2), the TC unit in our analysis is BF%.
+Fig. 2 shows the plot of TPM and GWAS beta effect.
+The genes with a higher TPM had a smaller beta effect across the board.
+According to Eq.(2), a higher TPM and a smaller beta effect would show a smaller TC.
+Fig. 3 shows the Manhattan plot of -log10(p-value) and the TC across chromosomes.
+The p-value was from GWAS results and TC was calculated as shown in Fig. 1.
+TC calculation and GO analysis
+Table 1 shows the summary statistics(minimum, maximum, average, standard deviation) of GWAS beta effect, TPM and TC.
+Table 2. shows the gene information with the lowest p-values(<0.0001) and the estimated TC.
+The TC was simply calculated using Eq.(2).
+Table 3 illustrates genes ’ TC information of the highest p-values(top 5% genes in TC value).
+The neuronal genes including neuronal-activity regulated genes have important functions in dendrites and synapses and are likely to regulate circuit connectivity directly.
+Thus for the easy regulation of circuit connectivity, they might have the strategy through possessing low transcript reads and high TC[18].
+Brain-derived neurotrophic factor(BDNF; TC, 1.88 BF%) encodes a neurotrophin that is secreted at the synapse.
+The induction of BDNF promotes both synapse maturation and dendritic growth.
+BDNF had high TC and its mutation can cause neurological and psychiatric disorders[18].
+Table 4 shows the GO with the lowest TC(bottom 5% genes).
+It shows that the lowest TC ’ s major GO terms were endoderm formation, wound healing and embryo development.
+The von Willebrand factor(VWF) is not an enzyme and thus, has no catalytic activity(https://en.wikipedia.org/wiki/Von_Willebrand_factor).
+In our analysis, the VWF had high transcript reads and low TC(TPM, 155.1; TC, 0.002 BF%).
+Discussion
+GWAS and expression quantitative trait loci
+We used the GWAS and RNA-seq data associated with body fat.
+The expression quantitative trait loci(eQTL) are genomic loci that explain a variation in expression levels of mRNAs(https://en.wikipedia.org/wiki/Expression_quantitative_trait_loci).
+Parks et al.[19] showed the genetic control of obesity and gut microbiota composition using eQTL analysis.
+In our analysis, the accurate beta effect estimation accompanied by p-value are crucial and thus eQTL analysis can help better estimating TC because eQTL information contains the mRNA expression level.
+GWAS p-value and accuracy of TC calculation
+In GWASs, the significance is guaranteed by the p-value.
+The p-value is the criteria to dissect the significant variants and those genes from insignificant ones.
+Although genes ’ effects were dissected by the p-value, only the beta effect was used for TC calculation.
+The gene ’ s GWAS p-value and beta effect can be varied with respect to analyzed phenotypes.
+The highly accurate TC calculation should be certified by using diverse phenotypes in GWAS.
+Additionally, the transcript reads in RNA-seq data can be diverse in various tissues.
+By using diverse tissues and information from various traits, the accurate TC calculation can be plausible for generally acceptable estimation.
+BF% can be used to approximate fat accumulation in adipose tissues.
+The trait reflects the fat accumulation and the gene ’ s play in adipose tissue.
+The GWAS directs the significant variants associated with body fat but the TC quantity only mirrors the transcript activity only related to the analyzed traits as indicated by TC unit(BF%).
+Our GWAS calculation for the gene effect was based on the linkage disequilibrium between SNP markers and the gene.
+Despite the advantages of GWAS using SNP markers, diverse SNP markers per gene can cause a problem.
+Thus gene-based GWAS can be an another alternative method.
+And RNA-seq data had better be obtained from the similar sample to the GWAS dataset.
+The neuronal and cell projection organization genes were enriched in the GO analysis(Table 2).
+These genes have low p-values in the GWAS analysis of BF% across the board.
+Inspecting the relationship between TC and GO terms why the lowest TC values are associated with certain GO terms, is a subject that needs to be addressed.
+Likewise, the reason why wound healing and embryo development GO terms have low TC values must be elucidated.
+Features of the TC calculation in our study
+Unlike previous studies that calculate the protein activity, TC calculation is a high-throughput analysis.
+Vermeirssen et al.[20] used a quantitative in silico analysis to calculate the inhibitory activity of angiotensin I converting enzyme(ACE).
+They used an in vivo analysis to calculate ACE activity, also.
+Our study to calculate TC is theoretically novel.
+Additionally, it is feasible not only to calculate TC, but also to calculate other annotated ones including transcription factor whose activity can not be easily measured experimentally.
+Notes
+Authors ’ Contribution
+Conceptualization: YSL.
+Data curation: JDO, DS, KHW.
+Formal analysis: YSL.
+Funding acquisition: YSL.
+Methodology: YSL.
+Writing - original draft: YSL.
+Writing - review & editing: JDO, DS.
+Conflicts of Interest
+No potential conflict of interest relevant to this article was reported.
+Acknowledgments
+This research was supported by the Basic Science Research Program through the National Research Foundation of Korea(NRF) funded by the Ministry of Education(No.
+NRF-2017R1A6A3A11033784 & NRF-2017R1C1B3007144).
+References
+1.
+Chen J, Lipska BK, Halim N, Ma QD, Matsumoto M, Melhem S, et al. Functional analysis of genetic variation in catechol-O-methyltransferase(COMT): effects on mRNA, protein, and enzyme activity in postmortem human brain.
+Am J Hum Genet 2004; 75:807-821.
+2.
+Bailey MJ, Biely P, Poutanen K. Interlaboratory testing of methods for assay of xylanase activity.
+J Biotechnol 1992; 23:257-270.
+3.
+Kraus WE, Muoio DM, Stevens R, Craig D, Bain JR, Grass E, et al. Metabolomic quantitative trait loci(mQTL) mapping implicates the ubiquitin proteasome system in cardiovascular disease pathogenesis.
+PLoS Genet 2015; 11: e1005553.
+4.
+Warren CR, O'Sullivan JF, Friesen M, Becker CE, Zhang X, Liu P, et al. Induced pluripotent stem cell differentiation enables functional validation of GWAS variants in metabolic disease.
+Cell StemCell 2017; 20:547-557.
+5.
+Marigorta UM, Denson LA, Hyams JS, Mondal K, Prince J, Walters TD, et al. Transcriptional risk scores link GWAS to eQTLs and predict complications in Crohn 's disease.
+Nat Genet 2017; 49:1517-1521.
+6.
+Lu Y, Day FR, Gustafsson S, Buchkovich ML, Na J, Bataille V, et al. New loci for body fat percentage reveal link between adiposity and cardiometabolic disease risk.
+Nat Commun 2016; 7:10495.
+7.
+Lauc G, Essafi A, Huffman JE, Hayward C, Knezevic A, Kattla JJ, et al. Genomics meets glycomics-the first GWAS study of human N-Glycome identifies HNF1alpha as a master regulator of plasma protein fucosylation.
+PLoS Genet 2010; 6: e1001256.
+8.
+Nettleton JA, McKeown NM, Kanoni S, Lemaitre RN, Hivert MF, Ngwa J, et al. Interactions of dietary whole-grain intake with fasting glucose- and insulin-related genetic loci in individuals of European descent: a meta-analysis of 14 cohort studies.
+Diabetes Care 2010; 33:2684-2691.
+9.
+Yang J, Lee SH, Goddard ME, Visscher PM.
+GCTA: a tool for genome-wide complex trait analysis.
+Am J Hum Genet 2011; 88:76-82.
+10.
+Pertea M,Pertea GM, Antonescu CM, Chang TC, Mendell JT, Salzberg SL.
+StringTie enables improved reconstruction of a transcriptome from RNA-seq reads.
+Nat Biotechnol 2015; 33:290-295.
+11.
+Bray NL, Pimentel H, Melsted P, Pachter L. Near-optimal probabilistic RNA-seq quantification.
+Nat Biotechnol 2016; 34:525-527.
+12.
+Lim S, Jang HC, Lee HK, Kimm KC, Park C, Cho NH.
+A rural-urban comparison of the characteristics of the metabolic syndrome by gender in Korea: the Korean Health and Genome Study(KHGS).
+J Endocrinol Invest 2006; 29:313-319.
+13.
+Cho YS, Go MJ, Kim YJ, Heo JY, Oh JH, Ban HJ, et al. A large-scale genome-wide association study of Asian populations uncovers genetic factors influencing eight quantitative traits.
+Nat Genet 2009; 41:527-534.
+14.
+Berglund L, Bjorling E, Oksvold P, Fagerberg L, Asplund A, Szigyarto CA, et al. A genecentric Human Protein Atlas for expression profiles based on antibodies.
+Mol Cell Proteomics 2008; 7:2019-2027.
+15.
+Uhlen M, Oksvold P, Fagerberg L, Lundberg E, Jonasson K, Forsberg M, et al. Towards a knowledge-based Human Protein Atlas.
+Nat Biotechnol 2010; 28:1248-1250.
+16.
+Kapoor M, Wang JC, Wetherill L, Le N, Bertelsen S, Hinrichs AL, et al. A meta-analysis of two genome-wide association studies to identify novel loci for maximum number of alcoholic drinks.
+Hum Genet 2013; 132:1141-1151.
+17.
+Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, Cherry JM, et al. Gene ontology: tool for the unification of biology.
+The Gene Ontology Consortium.
+Nat Genet 2000; 25:25-29.
+18.
+Flavell SW, Greenberg ME.
+Signaling mechanisms linking neuronal activity to gene expression and plasticity of the nervous system.
+Annu Rev Neurosci 2008; 31:563-590.
+19.
+Parks BW, Nam E, Org E, Kostem E, Norheim F, Hui ST, et al. Genetic control of obesity and gut microbiota composition in response to high-fat, high-sucrose diet in mice.
+Cell Metab 2013; 17:141-152.
+20.
+Vermeirssen V, van der Bent A, Van Camp J, van Amerongen A, Verstraete W. A quantitative in silico analysis calculates the angiotensin I converting enzyme(ACE) inhibitory activity in pea and whey protein digests.
+Biochimie 2004; 86:231-239.

@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(2): 87-93. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improved Algorithms for the Identification of Yeast Proteins and Significant Transcription Factor and Motif Analysis.
+
+
+
+ Seung Won Lee,  Seong Eui Hong,  Kyoo Yeol Lee,  Do Il Choi,  Hae Young Chung,  Cheol Goo Hur 
+
+
+
+1Korea Research Institute of Bioscience and Biotechnology, Korea. hurlee@kribb.re.kr 2Pusan National University, Pusan, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		With the rapid development of MS technologiesy, the demands for a more sophisticated MS interpretation algorithm haves grown as well. We have developed a new protein fingerprinting method using a binomial distribution, (fBIND). With the fBIND, we improved the performance accuracy of protein fingerprinting up to the maximum 49% (more than MOWSE) and 2% than(at a previous binomial distribution approach studied by of Wool et al.) as compared to the established algorithms. Moreover, we also suggest a the statistical approach to define the significance of transcription factors and motifs in the identified proteins based on the Gene Ontology (GO).		
+
+
+Keywords:
+peptide mass fingerprinting; molecular weight search; binomial distribution; hypergeometric distribution 
+
+
+
+
+

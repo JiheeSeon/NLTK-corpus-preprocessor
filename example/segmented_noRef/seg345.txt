@@ -1,0 +1,23 @@
+Original Article
+Genomics & Informatics 2008; 6(1): 36-43.
+DOI: https://doi.org/10.5808/gi.2008.6.1.036
+Differential Expressions of Apoptosis-related Genes in Lung Cancer Cell Lines Determine the Responsiveness to Ionizing Radiation.
+Su Yeon Lee, Moon Kyung Choi, Jung Min Lim, Hong Gyun Wu, Ju Han Kim, Woong Yang Park
+1Seoul National University Bioinformatics, Seoul National University College of Medicine, Seoul 110-799, Korea.
+2Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul 110-799, Korea.
+wypark @ snu.ac.kr 3Department of Radiation Oncology, Seoul National University College of Medicine, Seoul 110-799, Korea.
+4Cancer Research Institute, Seoul National University College of Medicine, Seoul 110-799, Korea.
+Abstract
+Radiotherapy would be the choice of treatment for human cancers, because of high cost-effectiveness.
+However, a certain population of patients shows a resistance to radiotherapy and recurrence.
+In an effort to increase the efficacy of radiotherapy, many efforts were driven to find the genes causing the unresponsiveness to ionizing radiation.
+In this paper, we compared the gene expression profiles of two lung cancer cell lines, H460 and H1299, which showed differential responses to ionizing radiations.
+Each cell were irradiated at 2 Gy, and harvested after 0, 2, 4, 8, 12 and 24 hours to examine the expressions.
+Two-way ANOVA analysis on time-series experiments of two cells could select 2863 genes differentially expressed upon ionizing radiation among 32,321 genes in microarray(p<0.05).
+We classified these genes into 21 clusters by SOM clustering according to the interaction between cell types and time.
+Two SOM clusters were enriched with apoptosis-related genes in pathway analysis.
+One cluster contained higher levels of phosphatidyl inositol 3-phosphate kinase(PI3K) subunits in H1299, radio resistant cells than H460, radiosensitive cells.
+TRAIL receptors were expressed in H460 cells while the decoy receptor forTRAIL was expressed in H1299 cells.
+From these results, we could characterize the differential responsiveness to ionizing radiation according to their differential expressions of apoptosis-related genes, which might be the candidates to increase the power of radiotherapy.
+Keywords:
+apoptosis; ionizing radiation; lung cancer; radio-sensitivity; radiotherapy

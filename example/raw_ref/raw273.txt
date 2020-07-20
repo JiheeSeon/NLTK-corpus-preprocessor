@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(1): 34-40. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.1.034
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Classification of Biological Effect of 1,763 MHz Radiofrequency Radiation Based on Gene Expression Profiles.
+
+
+
+ Chang Nim Im,  Eun Hye Kim,  Ae Kyung Park,  Woong Yang Park 
+
+
+
+			Genomics Core Laboratory and Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Seoul 110-799, Korea. wypark@snu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Radiofrequency (RF) radiation might induce the transcription of a certain set of genes as other physical stresses like ionizing radiation and UV. To observe transcriptional changes upon RF radiation, we exposed WI-38, human lung fibroblast cell to 1763 MHz of mobile phone RF radiation at 60 W/kg of specific absorption rate (SAR) for 24h with or without heat control. There were no significant changes in cell numbers and morphology after exposure to RF radiation.
+Using quantitative RT-PCR, we checked the expression of three heat shock protein (HSP) (HSPA1A, HSPA6 and HSP105) and seven stress-related genes (TNFRSF11B, FGF2, TGFB2, ITGA2, BRIP1, EXO1, and MCM10) in RF only and RF/HS groups of RF-exposed cells. The expressions of three heat shock proteins and seven stress-related genes were selectively changed only in RF/HS groups. Based on the expression of ten genes, we could classify thermal and non-thermal effect of RF-exposure, which genes can be used as biomarkers for RF radiation exposure.		
+
+
+Keywords:
+biomarker; heat shock; quantitative RT-PCR; radiofrequency radiation 
+
+
+
+
+

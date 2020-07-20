@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(1): 1-10. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloning of Notl-linked DNA Detected by Restriction Landmark Genomic Scanning of Human Genome.
+
+
+
+ Jeong Hwan Kim,  Kyung Tae Lee,  Hyung Chul Kim,  Jin Ok Yang,  Yoon Soo Hahn,  Sang Soo Kim,  Seon Young Kim,  Hyang Sook Yoo,  Yong Sung Kim 
+
+
+
+1Human Genomics Laboratory, Genome Research Center, Korea. yongsung@kribb.re.kr 2National Genome Information Center, Korea. 3The Center for Functional Analysis of Human Genome, 21 st Century Frontier R&D Program, Korea. 4Department of Functional Genomics, University of Science & Technology, Korea Research Institute of Bioscience and Biotechnology, 52 Eoeun-dong, Yuseong-gu, Daejeon, Korea. 5Department of Bioinformatics, Soongsil University, Seoul, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Epigenetic alterations are common features of human solid tumors, though global DNA methylation has been difficult to assess. Restriction Landmark Genomic Scanning (RLGS) is one of technology to examine epigenetic alterations at several thousand Notl sites of promoter regions in tumor genome. To assess sequence information for Notl sequences in RLGS gel, we cloned 1,161 unique Notl-linked clones, compromising about 60% of the spots in the soluble region of RLGS profile, and performed BLAT searches on the UCSC genome server, May 2004 Freeze. 1,023 (88%) unique sequences were matched to the CpG islands of human genome showing a large bias of RLGS toward identifying potential genes or CpG islands. The cloned Notl-loci had a high frequency (71%) of occurrence within CpG islands near the 5' ends of known genes rather than within CpG islands near the 3' ends or intragenic regions, making RLGS a potent tool for the identification of gene-associated methylation events. By mixing RLGS gels with all Notl-linked clones, we addressed 151 Notl sequences onto a standard RLGS gel and compared them with previous reports from several types of tumors. We hope our sequence information will be useful to identify novel epigenetic targets in any types of tumor genome.		
+
+
+Keywords:
+RLGS; epigenetics; cancer; CpG island 
+
+
+
+
+

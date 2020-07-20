@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(1): 39-42. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xperanto: A Web-Based Integrated System for DNA Microarray Data Management and Analysis.
+
+
+
+ Ji Yeon Park,  Yu Rang Park,  Chan Hee Park,  Ji Hoon Kim,  Ju Han Kim 
+
+
+
+1Seoul National University Biomedical Informatics (SNUBI), Korea. 2Human Genome Research Institute, Seoul National University College of Medicine, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		DNA microarray is a high-throughput biomedical technology that monitors gene expression for thousands of genes in parallel. The abundance and complexity of the gene expression data have given rise to a requirement for their systematic management and analysis to support many laboratories performing microarray research. On these demands, we developed Xperanto for integrated data management and analysis using user-friendly web-based interface. Xperanto provides an integrated environment for management and analysis by linking the computational tools and rich sources of biological annotation. With the growing needs of data sharing, it is designed to be compliant to MGED (Microarray Gene Expression Data) standards for microarray data annotation and exchange. Xperanto enables a fast and efficient management of vast amounts of data, and serves as a communication channel among multiple researchers within an emerging interdisciplinary field.		
+
+
+
+
+

@@ -1,0 +1,16 @@
+Brief Communication
+Genomics & Informatics 2007; 5(1): 32-35.
+An RNA Mapping Strategy to Identify Ribozyme-Accessible Sites on the Catalytic Subunit of Mouse Telomerase.
+Min Sun Song, Seong Wook Lee
+Department of Molecular Biology, BK21 Graduate Program for RNA Biology, Institute of Nanosensor and Biotechnology, Dankook University, Seoul 140-714, Korea.
+SWL0208 @ dankook.ac.kr
+Abstract
+Telomerase reverse transcriptase(TERT) is an enzymatic ribonucleoprotein that prolongs the replicative life span of cells by maintaining protective structures at the ends of eukaryotic chromosomes.
+Telomerase activity is highly up-regulated in 85-90% of human cancers, and is predominately regulated by hTERT expression.
+In contrast, most normal somatic tissues in humans express low or undetectable levels of telomerase activity.
+This expression profile identifies TERT as a potential anticancer target.
+By using an RNA mapping strategy based on a trans-splicing ribozyme library, we identified the regions of mouse TERT(mTERT) RNA that were accessible to ribozymes.
+We found that particularly accessible sites were present downstream of the AUG start codon.
+This mTERTspecific ribozyme will be useful for validation of the RNA replacement as cancer gene therapy approach in mouse model with syngeneic tumors.
+Keywords:
+cancer; gene therapy; group I intron; mTERT; RNA replacement; trans-splicing ribozyme; RNA mapping

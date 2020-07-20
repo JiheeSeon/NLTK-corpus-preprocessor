@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2011; 9(3): 102-113.
+DOI: https://doi.org/10.5808/gi.2011.9.3.102
+Differentially Expressed Genes by Inhibition of C-terminal Src Kinase by siRNA in Human Vascular Smooth Muscle Cells and Their Association with Blood Pressure.
+Kyung Won Hong, Young Bin Shin, Koanhoi Kim, Bermseok Oh
+1Department of Biomedical Engineering, School of Medicine, Kyung Hee University, Seoul 130-702, Korea.
+ohbs @ khu.ac.kr 2Department of Pharmacology, School of Medicine, Pusan National University, Yangsan 626-774, Korea.
+Abstract
+C-terminal SRC kinase(CSK) is a ubiquitously expressed, cytosolic enzyme that phosphorylates and inactivates several SRC family protein tyrosine kinases.
+Recent genomewide association studies have implicated CSK in the regulation of blood pressure.
+The current study aim is to determine the blood pressure association of the genes regulated by CSK down-regulation.
+The CSK mRNA expression was downregulated in vascular smooth muscle cells using small interfering RNA(siRNA).
+CSK mRNA levels fell by 90% in cells that were treated withCSK siRNA; the RNA from these cells was examined by microarray using the Illumina HumanRef-8 v3 platform, which comprises 24,526 reference mRNA probes.
+On treatment with CSK siRNA, 19 genes were downregulated by more than 2-fold and 13 genes were upregulated by more than 2-fold.
+Three(CANX, SLC30A7, and HMOX1) of them revealed more than 3 fold differential expression.
+Interestingly, the HMOX1 SNPs were associated with diastolic blood pressure in the 7551 Koreans using Korea Association REsource data, and the result was supported by the other reports that HMOX1 linked to blood vessel maintenance.
+Among the remaining 29 differentially expressed genes, seven(SSBP1, CDH2, YWHAE, ME2, PFTK1, G3BP2, and TUFT1) revealed association with both systolic and diastolic blood pressures.
+The CDH2 gene was linked to blood pressures.
+Conclusively, we identified 32 differentially expressed genes which were regulated by CSK reduction, and two(HOMX1 and CDH2) of them might influence the blood pressure regulation through CSK pathway.
+Keywords:
+CSK; blood pressure; microarray; expression; association analysis

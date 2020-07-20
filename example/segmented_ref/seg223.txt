@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2011; 9(3): 127-133.
+DOI: https://doi.org/10.5808/gi.2011.9.3.127
+Optimized Internal Control and Gene Expression Analysis in Epstein-Barr Virus-Transformed Lymphoblastoid Cell Lines.
+Hye Young Nam,Hye Ryun Kim, Sung Mi Shim, Jae Eun Lee, Jun Woo Kim,Hye Kyung Park, Bok Ghee Han, Jae Pil Jeon
+National Biobank of Korea, Center for Genome Science, KoreaNational Institute of Health, Korea Centers for Disease Control & Prevention, Osong Health Technology Administration Complex(OHTAC), Chungbuk 363-951, Korea.
+jpjeon @ cdc.go.kr
+Abstract
+The Epstein-Barr virus-transformed lymphoblastoid cell line(LCL) is one of the major genomic resources for human genetics and immunological studies.
+Use of LCLs is currently extended to pharmacogenetic studies to investigate variations in human gene expression as well as drug responses between individuals.
+We evaluated four common internal controls for gene expression analysis of selected hematopoietic transcriptional regulatory genes between B cells and LCLs.
+In this study, the expression pattern analyses showed that TBP(TATA box-binding protein) is a suitable internal control for normalization, whereas GAPDH(glyceraldehyde-3-phosphate dehydrogenase) is not a good internal control for gene expression analyses of hematopoiesis-related genes between B cells and LCLs at different subculture passages.
+Using the TBP normalizer, we found significant gene expression changes in selected hematopoietic transcriptional regulatory genes(downregulation of RUNX1, RUNX3, CBFB, TLE1, and NOTCH2; upregulation of MSC and PLAGL2) between B cells and LCLs at different passage numbers.
+These results suggest that these hematopoietic transcriptional regulatory genes are potential cellular targets of EBV infection, contributing to EBV-mediated B-cell transformation and LCL immortalization.
+Keywords:
+lymphoblastoid cell line; internal control; quantitative real-time polymerase chain reaction

@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2008; 6(3): 117-125.
+DOI: https://doi.org/10.5808/gi.2008.6.3.117
+Gene Expression Profiling in C57BL/6 Mice Treated with the Anorectic Drugs Sibutramine and Phendimetrazine and Their Mechanistic Implications.
+Moon Jeong Ko, Hyo Sung Choi, Joon Ik Ahn, So Young Kim, Ho Sang Jeong, Hye Joo Chung
+Division of Molecular Pharmacology, Department of Pharmacological Research, National Institute of Toxicological Research, Korea Food and Drug Administration, Seoul 122-704, Korea.
+hjchung @ kfda.go.kr
+Abstract
+Recently, obesity has become a worldwide public health concern and the use of anorectic drugs has drastically increased.
+In this study, sibutramine and phendimetrazine, representative marketed anorectics, were repeatedly administered per os on a daily basis into C57BL/6 mice and the effects of these drugs on food intakes, body weight changes and gene expression profiles were monitored for up to following 7 days.
+Methamphetamine, which has a potent anorectic effect, was used as a positive control.
+Anorectic effects were sustained only for two days by phendimetrazine or methamphetamine, but for six days by sibutramine.
+The modulations of gene expressions in the hypothalamus and the striatum were investigated using microarrays on day 2 and day 7 post-administration, which corresponded to the anorectic period and a return of appetite respectively, for all three drugs tested.
+Differences in overall gene expression profiles in the stratum on day 2 for sibutramine and phendimetrazine seems to reflect difference between the two in terms of the onsets of drug tolerance.
+According to microarray findings, the Ankrd26 gene appears to have an important anorectic role, whereas the up-regulation of the olfaction system appeared to be involved in the drug tolerance of anorectics.
+The microarray data presented in this study demonstrates the usefulness of gene expression analysis for gathering information on the efficacy and safety of anorectic drugs.
+Keywords:
+microarray; gene expression; anorectic drug; sibutramine; phendimetrazine; methamphetamine

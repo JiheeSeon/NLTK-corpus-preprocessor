@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2010; 8(1): 19-27.
+DOI: https://doi.org/10.5808/gi.2010.8.1.019
+Replication of the Association between Copy Number Variation on 8p23.1 and Autism by Using ASD-specific BAC Array.
+Jung Hoon Woo, Song Ju Yang, Seon Hee Yim, Hae Jin Hu, Myung Ju Shin, Eun Hee Oh, Hyun Woong Kang, Seonyang Park, Yeun Jun Chung
+1Macrogen, Inc., Seoul 153-781, Korea.
+2Intergrated Research Center for Genome Polymorphism, Department of Microbiology, The Catholic University of Korea School of Medicine, Seoul 137-701, Korea.
+yejun @ catholic.ac.kr 3Department of Internal Medicine, Seoul National University College of Medicine, Seoul 110-744, Korea.
+Abstract
+To discover genetic markers for autism spectrum disorder(ASD), we previously applied genome-wide BAC array comparative genomic hybridization(array-CGH) to 28 autistic patients and 62 normal controls in Korean population, and identified that chromosomal losses on 8p23.1 and on 17p11.2 are significantly associated with autism.
+In this study, we developed an 8.5K ASD-specific BAC array covering 27 previously reported ASD-associated CNV loci including ours and examined whether the associations would be replicated in 8 ASD patient cell lines of four different ethnic groups and 10 Korean normal controls.
+As a result, a CNV-loss on 8p23.1 was found to be significantly more frequent in patients regardless of ethnicity(p<0.0001).
+This CNV region contains two coding genes, DEFA1 and DEFA3, which are members of DEFENSIN gene family.
+Two other CNVs on 17p11.2 and Xp22.31 were also distributed differently between ASDs and controls, but not significant(p=0.069 and 0.092, respectively).
+All the other loci did not show significant association.
+When these evidences are considered, the association between ASD and CNV of DEFENSIN gene seems worthy of further exploration to elucidate the pathogenesis of ASD.
+Validation studies with a larger sample size will be required to verify its biological implication.
+Keywords:
+8p23.1; array-CGH; autism; copy number variation; defensin

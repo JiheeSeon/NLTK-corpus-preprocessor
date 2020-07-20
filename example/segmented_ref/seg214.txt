@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2011; 9(4): 189-193.
+DOI: https://doi.org/10.5808/gi.2011.9.4.189
+SSR-Primer Generator: A Tool for Finding Simple Sequence Repeats and Designing SSR-Primers.
+Chang Pyo Hong, Su Ryun Choi, Yong Pyo Lim
+1Department of Horticulture, College of Agriculture and Life Science, Chungnam National University, Daejeon 305-764, Korea.
+yplim @ cnu.ac.kr 2Division of Molecular & Life Sciences, Pohang University of Science & Technology(POSTECH), Pohang 790-784, Korea.
+Abstract
+Simple sequence repeats(SSRs) are ubiquitous short tandem duplications found within eukaryotic genomes.
+Their length variability and abundance throughout the genome has led them to be widely used as molecular markers for crop-breeding programs, facilitating the use of marker-assisted selection as well as estimation of genetic population structure.
+Here, we report a software application, `` SSR-Primer Generator '' for SSR discovery, SSR-primer design, and homology-based search of in silico amplicons from a DNA sequence dataset.
+On submission of multiple FASTA-format DNA sequences, those analyses are batch processed in a Java runtime environment(JRE) platform, in a pipeline, and the resulting data are visualized in HTML tabular format.
+This application will be a useful tool for reducing the time and costs associated with the development and application of SSR markers.
+Keywords:
+EST clustering and assembly; homology-based search; in silico amplicon; PCR; simple sequence repeat(SSR); SSR-primer

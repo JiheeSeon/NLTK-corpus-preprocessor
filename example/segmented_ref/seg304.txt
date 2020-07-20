@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2009; 7(1): 49-51.
+DOI: https://doi.org/10.5808/gi.2009.7.1.049
+BioStore: A Repository System for Registering and Distributing Public Biology Databases.
+Hongseok Tae, Jeong Min Han, Bu Young Ahn, Kiejung Park
+1Information Technology Institute, SmallSoft Co. Ltd., Daejeon, Korea.
+kjpark @ smallsoft.co.kr 2Korea Institute of Oriental Medicine, Daejeon, Korea.
+3Korea Institute of Science and Technology Information, Daejeon, Korea.
+Abstract
+Although abundant biology data have been accumulated in public biology databases, such as GenBank and PIR, few easy-interface services are provided for users to access or update them.
+We have developed a system, named BioStore, that is composed of several programs to aid users to not only access public data but also share their own data easily.
+The service can be used for maintaining a local database as a repository of raw data files of several public databases and distributing the data files to other users.
+Currently, BioStore manipulates major bio-databases and will expand to include more databases and more useful interfaces.
+Keywords:
+BioStore; FTP; GenBank; repository

@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2010; 8(4): 212-218.
+DOI: https://doi.org/10.5808/gi.2010.8.4.212
+Nomogram for Predicting Survival for Oral Squamous Cell Carcinoma.
+Ki Yeol Kim, ShengJin Li, In Ho Cha
+1Oral Cancer Research Institute, College of Dentistry, Yonsei University, Seoul 120-752, Korea.
+cha8764 @ yuhs.ac 2Department of Oral and Maxillofacial Surgery, College of Dentistry, Yonsei University, Seoul 120-752, Korea.
+Abstract
+An accurate system for predicting the survival of patients with oral squamous cell carcinoma(OSCC) will be useful for selecting appropriate therapies.
+A nomogram for predicting survival was constructed from 96 patients with primary OSCC who underwent surgical resection between January 1994 and June 2003 at the Yonsei Dental Hospital in Seoul, Korea.
+We performed univariate and multivariate Cox regression to identify survival prognostic factors.
+For the early stage patients group, the nomogram was able to predict the 5 and 10 year survival from OSCC with a concordance index of 0.72.
+The total point assigned by the nomogram was a significant factor for predicting survival.
+This nomogram was able to accurately predict the survival after treatment of an individual patient with OSCC and may have practical utility for deciding adjuvant treatment.
+Keywords:
+c-index; nomogram; oral squamoue cell carcinoma; predictive model; survival

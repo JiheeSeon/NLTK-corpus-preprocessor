@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2011;9(1): 5-11. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.1.005
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Recent Progresses in the Linguistic Modeling of Biological Sequences Based on Formal Language Theory.
+
+
+
+ Hyun Seok Park,  Bulgan Galbadrakh,  Young Mi Kim 
+
+
+
+1Bioinformatics Laboratory, School of Engineering, Ewha Womans University, Seoul 120-750, Korea. neo@ewha.ac.kr 2Natural Language Processing Laboratory, School of Natural Science, Huree Institute of Information and Communication Technology, Ulaanbaatar, P.O.Box 780, Mongolia. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Treating genomes just as languages raises the possibility of producing concise generalizations about information in biological sequences. Grammars used in this way would constitute a model of underlying biological processes or structures, and that grammars may, in fact, serve as an appropriate tool for theory formation. The increasing number of biological sequences that have been yielded further highlights a growing need for developing grammatical systems in bioinformatics. The intent of this review is therefore to list some bibliographic references regarding the recent progresses in the field of grammatical modeling of biological sequences. This review will also contain some sections to briefly introduce basic knowledge about formal language theory, such as the Chomsky hierarchy, for non-experts in computational linguistics, and to provide some helpful pointers to start a deeper investigation into this field.		
+
+
+Keywords:
+natural language processing; Chomsky hierarchy; bioinformatics; formal language theory 
+
+
+
+
+

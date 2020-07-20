@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2008; 6(1): 32-35.
+DOI: https://doi.org/10.5808/gi.2008.6.1.032
+Functional Prediction of Imprinted Genes in Chicken Based on a Mammalian Comparative Expression Network.
+Hyo Young Kim, Sunjin Moon, Heebal Kim
+1Department of Agricultural Biotechnology, Seoul National University, Seoul 151-742, Korea.
+heebal @ snu.ac.kr 2Graduate Program in Bioinformatics, Seoul National University, Seoul 151-742, Korea.
+Abstract
+Little evidence supports the existence of imprinted genes in chicken.
+Imprinted genes are thought to be intimately connected with the acquisition of parental resources in mammals; thus, the predicted lack of this type of gene in chicken is not surprising, given that they leave their offspring to their own heritance after conception.
+In this study, we identified several imprinted genes and their orthologs in human, mouse, and zebrafish, including 30 previously identified human and mouse imprinted genes.
+Next, using the HomoloGene database, we identified six orthologous genes in human, mouse, and chicken; however, no orthologs were identified for SLC22A18, and mouse Ppp1r9a was not included in the HomoloGene database.
+Thus, from our analysis, four candidate chicken imprinted genes(IGF2, UBE3A, PHLDA2, and GRB10) were identified.
+To expand our analysis, zebrafish was included, but no probe ID for UBE3A exists in this species.
+Thus, ultimately, three candidate imprinted genes(IGF2, PHLDA2, and GRB10) in chicken were identified.
+GRB10 was not significant in chicken and zebrafish based on the Wilcoxon-Mann-Whitney test, whereas a weak correlation between PHLDA2 in chicken and human was identified from the Spearman 's rank correlation coefficient.
+Significant associations between human, mouse, chicken, and zebrafish were found for IGF2 and GRB10 using the Friedman 's test.
+Based on our results, IGF2, PHLDA2, and GRB10 are candidate imprinted genes in chicken.
+Importantly, the strongest candidate was PHLDA2.
+Keywords:
+chicken; conservation; homologs; imprinted genes; statistical analysis

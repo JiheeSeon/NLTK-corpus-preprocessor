@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(2): 64-67. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.064
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+KRDD: Korean Rice Ds-tagging Lines Database for Rice (Oryza sativa L. Dongjin).
+
+
+
+ Chang Kug Kim,  Myung Chul Lee,  Byung Ohg Ahn,  Doh Won Yun,  Ung Han Yoon,  Seok Cheol Suh,  Moo Young Eun,  Jang Ho Hahn 
+
+
+
+1Bioinformatics Division, National Institute of Agricultural, Biotechnology (NIAB), Suwon 441-707, Korea. jhhahn@rda.go.kr 2Cell and Genetics Division, NIAB, Suwon 441-707, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The Korean Rice Ds-tagging lines Database (KRDD) is designed to provide information about Ac/Ds insertion lines and activation tagging lines using japonica rice. This database has provided information on 18,158 Ds lines, which includes the ID, description, photo image, sequence information, and gene characteristics. The KRDD is visualized using a web-based graphical view, and anonymous users can query and browse the data using the search function. It has four major menus of web pages: (i) a Blast Search menu of a mutant line; Blast from rice Ds-tagging mutant lines; (ii) a primer design tool to identify genotypes of Ds insertion lines; (iii) a Phenotype menu for Ds lines, searching by identification name and phenotype characteristics; and (iv) a Management menu for Ds lines.		
+
+
+Keywords:
+Ac/Ds database; Ds phenotype; Ds-tagging line; insertion line; KRDD 
+
+
+
+
+

@@ -1,0 +1,13 @@
+Brief Communication
+Genomics & Informatics 2005; 3(2): 77-80.
+Massive Identification of Cancer-Specific Nucleic Acid Ligands.
+Young Ju Lee, Seong Wook Lee
+Department of Molecular Biology, Institute of Nanosensor and Biotechnology, Dankook University, Seoul 140-714, Korea.
+SWL0208 @ dankook.ac.kr
+Abstract
+Targeting of complex system such as human cells rather than biochemically pure molecules will be a useful approach to massively identify ligands specific for the markers associated with human disease such as cancer and simultaneously discover the specific molecular markers.
+In this study, we developed in vitro selection method to identify nuclease-resistant nucleic acid ligands called RNA aptamers that are specific for human cancer cells.
+This method is based on the combination of the cell-based selection and subtractive systematic evolution of ligands by exponential enrichment(SELEX) method.
+These aptamers will be useful for cancer-specific ligands for proteomic research to identify cancer-specific molecular markers as well as tumor diagnosis and therapy.
+Keywords:
+cancer; proteomics; RNA aptamers; SELEX

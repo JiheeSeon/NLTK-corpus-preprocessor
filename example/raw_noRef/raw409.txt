@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(1): 33-39. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deducing Isoform Abundance from Exon Junction Microarray.
+
+
+
+ Po Ra Kim,  S June Oh,  Sang Hyuk Lee 
+
+
+
+1Bioinformatics Team, IT-BT group, Electronics and Telecommunications Research Institute, Daejeon, Korea. 2Department of Pharmacology & Pharmacogenomics Research Center, College of Medicine, Inje University, Pusan, Korea. 3Division of Molecular Life Sciences, Ewha Womans University, Seoul, Korea. sanghyuk@ewha.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Alternative splicing (AS) is an important mechanism of producing transcriptome diversity and microarray techniques are being used increasingly to monitor the splice variants.
+There exist three types of microarrays interrogating AS events-junction, exon, and tiling arrays. Junction probes have the advantage of monitoring the splice site directly.
+Johnson et al., performed a genome-wide survey of human alternative pre-mRNA splicing with exon junction microarrays (Science 302:2141-2144, 2003), which monitored splicing at every known exon-exon junctions for more than 10,000 multi-exon human genes in 52 tissues and cell lines. Here, we describe an algorithm to deduce the relative concentration of isoforms from the junction array data.
+Non-negative Matrix Factorization (NMF) is applied to obtain the transcript structure inferred from the expression data.
+Then we choose the transcript models consistent with the ECgene model of alternative splicing which is based on mRNA and EST alignment. The probe-transcript matrix is constructed using the NMF-consistent ECgene transcripts, and the isoform abundance is deduced from the non-negative least squares (NNLS) fitting of experimental data. Our method can be easily extended to other types of microarrays with exon or junction probes.		
+
+
+Keywords:
+Alternative Splicing; Junction Microarray; Nonnegative Matrix Factorization (NMF); Non-Negative Least Squares (NNLS) 
+
+
+
+
+

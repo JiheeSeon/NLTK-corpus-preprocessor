@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2003; 1(1): 40-49.
+Computational Analysis of Neighboring Genes on Arabidopsis thaliana Chromosomes 4 and 5: Their Genomic Association as Functional Subunits.
+Sung Ho Goh, Tae Hyung Kim, Jee Hyub Kim, Dou Gu Nam, Doil Choi, Cheol Goo Hur
+Laboratory of Plant Genomics Center, Korea Research Institute of Bioscience and Biotechnology, Taejon, Korea.
+hurlee @ kribb.re.kr
+Abstract
+The genes related to specific events or pathways in bacteria are frequently localized proximate to the genome of their neighbors, as with the structures known as operon, but eukaryotic genes seem to be independent of their neighbors, and are dispersed randomly throughout genomes.
+Although cases are rare, the findings from structures similar to prokaryotic operons in the nematode genome, and the clustering of housekeeping genes on human genome, lead us to assess the genomic association of genes as functional subunits.
+We evaluated the genomic association of neighboring genes on chromosomes 4 and 5 of Arabidopsis thaliana with and without respectively consideration of the scaffold/matrix-attached regions(S/MAR) loci.
+The observed number of functionally identical bigrams and trig rams were significantly higher than expected, and these results were verified statistically by calculating rho-values for weighted random distributions.
+The observed frequency of functionally identical big rams and trig rams were much higher in chromosome 4 than in chromosome 5, but the frequencies with, and without, consideration of the S/MAR in each chromosome were similar.
+In this study, a genomic association among functionally related neighboring genes in Arabidopsis thaliana was suggested.
+Keywords:
+Scaffold/matrix-attached regions #(S/MAR); bigram; trigram; weighted random distribution

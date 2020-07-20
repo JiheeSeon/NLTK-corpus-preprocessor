@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(3): 118-124. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Metabolic Pathway Drawing Algorithm for Reducing the Number of Edge Crossings.
+
+
+
+ Eun Ha Song,  Min Kyung Kim,  Sang Ho Lee 
+
+
+
+1Department of Computer Science and Engineering, Ewha Womans University, Seoul, Korea. ehsong@ewhain.net 2UC Irvine Institute for Genomics and Bioinformatics, Irvine, California, USA. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		For the direct understanding of flow, pathway data are usually represented as directed graphs in biological journals and texts. Databases of metabolic pathways or signal transduction pathways inevitably contain these kinds of graphs to show the flow. KEGG, one of the representative pathway databases, uses the manually drawn figure which can not be easily maintained. Graph layout algorithms are applied for visualizing metabolic pathways in some databases, such as EcoCyc. Although these can express any changes of data in the real time, it exponentially increases the edge crossings according to the increase of nodes. For the understanding of genome scale flow of metabolism, it is very important to reduce the unnecessary edge crossings which exist in the automatic graph layout. We propose a metabolic pathway drawing algorithm for reducing the number of edge crossings by considering the fact that metabolic pathway graph is scale-free network. The experimental results show that the number of edge crossings is reduced about 37~40% by the consideration of scale-free network in contrast with non-considering scale-free network. And also we found that the increase of nodes do not always mean that there is an increase of edge crossings.		
+
+
+Keywords:
+drawing algorithm; edge crossings; metabolic pathway; scale-free network 
+
+
+
+
+

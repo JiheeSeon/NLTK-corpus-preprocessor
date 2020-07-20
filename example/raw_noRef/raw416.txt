@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(4): 159-165. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Estimating the Genetic Epidemiology Parameters of Selected Cancers in Korea Population: The Korean Twin Study.
+
+
+
+ Joohon Sung 
+
+
+
+			Department of Preventive Medicine, Kangwon National University College of Medicine, Kangwon 200-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The Korean Twin Register (n=154,783 pairs) was reported in 2002 as the first nationwide twin study in Korea and the largest study in Asia. The Twin Register has the information of disease outcomes since 1990, and basic clinical and questionnaire data from biennial health examination provided by Korea National Health Service. The author attempted to calculate some of the genetic parameters of cancers in this population. Common cancers in Korea known to have familial aggregation (colon and breast) and cancers of which familial aggregation is unclear (stomach cancer) were examined for their familial recurrence risks. There were 699 stomach cancers, 438 breast and 491 colorectal cancers cases in the twin register between 1991 and 2003. Like-sex twins showed recurrence risks (lambdaLS) of 5.1 (95% CI 3.7 - 6.9) for stomach cancers, 15.5 (95% CI 10.9-20.2) for female breast cancers, and 28.1 (95% CI 23.5-34.4) for colon cancers.
+Colorectal cancers of female like-sex twins show significantly higher familial recurrence risk 40.7 (95% CI 34.6-47.4), suggesting higher genetic contribution in women than in men. The results show increased familial risks compared with previous studies from the same register and are largely compatible with other studies. The data of the Twin Register could be used for estimating population level genetic parameters, as well as base of the various studies.		
+
+
+
+
+

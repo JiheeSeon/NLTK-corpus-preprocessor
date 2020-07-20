@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2011;9(1): 1-4. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.1.001
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Post-GWAS Strategies.
+
+
+
+ Sangsoo Kim,  Jong Bhak 
+
+
+
+1Department of Bioinformatics, Soongsil University, Seoul 156-743, Korea. sskimb@ssu.ac.kr 2Personal Genomics Institute, Suwon 443-270, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Genome-wide association (GWA) studies are the method of choice for discovering loci associated with common diseases.
+More than a thousand GWA studies have reported successful identification of statistically significant association signals in human genomes for a variety of complex diseases.
+In this review, I discuss some of the issues related to the future of GWA studies and their biomedical applications.		
+
+
+Keywords:
+post-GWAS; personal genomics; NGS; SNP 
+
+
+
+
+

@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2011; 9(2): 69-73.
+DOI: https://doi.org/10.5808/gi.2011.9.2.69
+Identification of Genomic Differences between Hanwoo and Holstein Breeds Using the Illumina Bovine SNP50 BeadChip.
+Hailu Dadi Melka, Eun Kyeong Jeon, Sang Wook Kim, James Bond Han, Duhak Yoon, Kwan Suk Kim
+1Department of Animal Science, Chungbuk National University, Cheongju 361-763, Korea.
+Kwanskim @ chungbuk.ac.kr 2Department of Animal Science, Kyungbook National University, Sangju, Korea.
+Abstract
+The use of genomic information in genomic selection programs for dairy and beef cattle breeds has become a reality in recent years.
+In this investigation, we analyzed single-nucleotide polymorphisms(SNPs) for Hanwoo(n=50) and Holstein(n=50) breeds using the Illumina Bovine SNP50 BeadChip to facilitate genomic selection and utilization of the Hanwoo breed in Korea.
+Analysis of the entire genomes showed different spectra of SNP frequencies for Hanwoo and Holstein cattle.
+The study revealed a highly significant(p<0.001) difference between Hanwoo and Holstein cattle in minor allele frequency(MAF).
+The average MAFs were 0.19+/-0.16 and 0.22+/-0.16 for Hanwoo and Holstein, respectively.
+From the total of 52,337 SNPs that were successfully identified, about 72% and 79% were polymorphic in Hanwoos and Holsteins, respectively.
+Polymorphic and fixed SNPs were not distributed uniformly across the chromosomes within breeds or between the two breeds.
+The number of fixed SNPs on all chromosomes was higher in Hanwoo cattle, reflecting the genetic uniqueness of the Hanwoo breed.
+In general, the rate of polymorphisms detected in these two breeds suggests that the SNPs can be used for different applications, such as whole-genome association and comparative genetic studies, and are a helpful tool in developing breed identification genetic markers.
+Keywords:
+Hanwoo; Holstein; genome; SNP frequency; rate of polymorphism

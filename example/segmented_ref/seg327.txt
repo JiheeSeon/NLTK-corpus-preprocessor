@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2008; 6(3): 136-141.
+DOI: https://doi.org/10.5808/gi.2008.6.3.136
+Disease Prediction Using Ranks of Gene Expressions.
+Ki Yeol Kim, Dong HyukKi, Hyun Cheol Chung, Sun Young Rha
+1Oral Cancer Research Institute, Yonsei University College of Dentistry, Seoul 120-752, Korea.
+2Cancer Metastasis Research Center, Yonsei University College of Medicine, Seoul 120-752, Korea.
+rha7655 @ yuhs.ac 3Brain Korea 21 Project for Medical Science, Yonsei University College of Medicine, Seoul 120-752, Korea.
+4Department of Internal Medicine, Yonsei University College of Medicine, Seoul 120-752, Korea.
+Abstract
+A large number of studies have been performed to identify biomarkers that will allow efficient detection and determination of the precise status of a patient 's disease.
+The use of microarrays to assess biomarker status is expected to improve prediction accuracies, because a whole-genome approach is used.
+Despite their potential, however, patient samples can differ with respect to biomarker status when analyzed on different platforms, making it more difficult to make accurate predictions, because bias may exist between any two different experimental conditions.
+Because of this difficulty in experimental standardization of microarray data, it is currently difficult to utilize microarray-based gene sets in the clinic.
+To address this problem, we propose a method that predicts disease status using gene expression data that are transformed by their ranks, a concept that is easily applied to two datasets that are obtained using different experimental platforms.
+NCI and colon cancer datasets, which were assessed using both Affymetrix and cDNA microarray platforms, were used for method validation.
+Our results demonstrate that the proposed method is able to achieve good predictive performance for datasets that are obtained under different experimental conditions.
+Keywords:
+biomarker; different platform; microarray; gene expression; rank; prediction

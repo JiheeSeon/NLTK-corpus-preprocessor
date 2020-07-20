@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2004;2(3): 147-148. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MitGEN: Single Nucleotide Polymorphism DB Browser for Human Mitochondrial Genome.
+
+
+
+ Hyun Seok Park,  Seung Uk Lee 
+
+
+
+1Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea.hspark@macrogen.co 2Department of Computer Science,Ewha Womans University, Seoul 120-75, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Recently completed mitochondrial genome databses from public resources provide us with a better understanding of individual mitochondrial genomes for population genomics. By determining the substitution rate of the genomic sequences, it is plausible to derive dates on the phylogenetic tree and build a chronology of events in the evolution of human species. MitGEN is specially designed as a mitochondrial genome browser for analyzing, comparing and visualizing single nucleotide polymorphism for human mitochondrial genomes between human races for comparative genomics.It is a standalone application and is available free for non-commercial work.		
+
+
+Keywords:
+visualization; mitochondrial genome; bioinformatics 
+
+
+
+
+

@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2004; 2(3): 126-130.
+STAT6 Gene Polymorphisms in Allergic Rhinitis.
+Jeong Joong Kim, Min Su Kim, Jung Hun Lee, Tae Wook Choi, Sang Heon Choi, Jae Hoon Lee, Hun Taeg Chung
+1Department of Anatomy, the Genomic Research Center for Immune Disorders, Wonkwang Institute of Medical Science, Wonkwang University School of Medicine, Iksan, Chonbuk 570-749, Korea.
+coolnose @ wmc.wonkwang.ac.kr 2Department of Otolaryngology, the Genomic Research Center for Immune Disorders, Wonkwang Institute of Medical Science, Wonkwang University School of Medicine, Iksan, Chonbuk 570-749, Korea.
+3Department of Microbiology and Immunology, the Genomic Research Center for Immune Disorders, Wonkwang Institute of Medical Science, Wonkwang University, School of Medicine, Iksan, Chonbuk 570-749, Korea.
+Abstract
+T helper-type 2 cytokines, such as IL-4 and IL-13, may play a central role in allergic diseases.
+The protein known as signal transducers and activators of transcription 6(STAT6) is a key transcription factor involved in both IL-4- and -13-mediated biological responses.
+Two polymorphisms of the STAT 6 gene(exon 1 and G2964A variant) have been found.
+We investigated whether these STAT6 gene polymorphisms were associated with allergic rhinitis.
+Blood samples for genetic analysis were obtained from 285 individuals with allergic rhinitis and from 271 healthy subjects without atopic disease.
+The G2964A variant of the STAT6 gene was genotyped using PCR-RFLP analysis.
+The GT repeat polymorphism in exon 1 of the STAT6 gene was genotyped by fragment analysis.
+There was no association between the 2964A variant and GT repeat polymorphism in exon 1 of the STAT6 and allergic rhinitis in a Korean population(both p> 0.05).
+Our results suggest that a combination of STAT6 gene polymorphisms is not a useful marker for predicting allergic rhinitis.
+Keywords:
+STAT6; allergic rhinitis; polymorphism; Korean

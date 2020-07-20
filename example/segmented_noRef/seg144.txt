@@ -1,0 +1,18 @@
+Erratum
+Genomics & Informatics 2015; 13(4): 156.
+Published online: December 31, 2015
+DOI: https://doi.org/10.5808/GI.2015.13.4.156
+ERRATUM: Acknowledgments Correction.
+Cell-Free miR-27a, a Potential Diagnostic and Prognostic Biomarker for Gastric Cancer
+Jong-Lyul Park 1, Mirang Kim 1, 2, Kyu-Sang Song 3, Seon-Young Kim 1, 2, Yong Sung Kim 1, 2
+1Epigenome Research Center, Genome Institute, KRIBB, Daejeon 34141, Korea.
+2Department of Functional Genomics, Korea University of Science and Technology, Daejeon 34141, Korea.
+3Department of Pathology, Chungnam National University College of Medicine, Daejeon 35015, Korea.
+Copyright © 2015 by the Korea Genome Organization
+(open-access, http://creativecommons.org/licenses/by-nc/4.0/):
+It is identical to the Creative Commons Attribution Non-Commercial License(http://creativecommons.org/licenses/by-nc/4.0/).
+http://dx.doi.org/10.5808/GI.2015.13.3.70
+Genomics Inform 2015; 13(3) :70-75
+The funding acknowledgment in this article was partially omitted as published.
+Additional acknowledgment is as follows:
+This work was supported by the National Research Foundation of Korea(NRF), grants funded by the Korea government(MSIP; No. 2011-0030049 and 2013R1A1A2006621), and a KRIBB Research Initiative Grant.

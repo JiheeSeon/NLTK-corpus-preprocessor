@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2008;6(2): 95-97. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.2.095
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Bio-database Management System for the Monitoring and Automatic FTP of Public Databases.
+
+
+
+ Hongseok Tae,  Jeong Min Han,  Bu Young Ahn,  Kiejung Park 
+
+
+
+1Information Technology Institute, SmallSoft Co. Ltd., Daejeon 305-343, Korea. kjpark@smallsoft.co.kr 2Korean Medicine Information Division, Korea Institute of Oriental Medicine, Daejeon 305-811, Korea. 3Contents Convergence Team, Korea Institute of Science and Technology Information, Daejeon 305-806, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Many bioinformatics sites have managed local bio-databases, including major databases such as GenBank and PIR with update load. We have developed several programs to monitor the update status of these databases and to FTP them automatically. These programs can be used for maintaining local bio-databases as recent versions and providing up-to-date databases through FTP sites. Currently, the program serves major bio-databases and will extend to accommodate many more bio-databases.		
+
+
+Keywords:
+bio-database; FTP; GenBank; monitoring; scheduling 
+
+
+
+
+

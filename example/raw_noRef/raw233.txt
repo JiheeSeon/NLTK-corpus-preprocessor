@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2011;9(2): 64-68. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.2.64
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Association of the X-linked Androgen Receptor Leu57Gln Polymorphism with Monomelic Amyotrophy.
+
+
+
+ Young Mi Park,  Young Min Lim,  Dae Seong Kim,  Jong Keuk Lee,  Kwang Kuk Kim 
+
+
+
+1Asan Institute for Life Sciences, Asan Medical Center, Seoul 138-736, Korea. 2Department of Neurology, University of Ulsan College of Medicine, Asan Medical Center, Seoul 138-736, Korea. kkkim@amc.seoul.kr 3Department of Neurology, Pusan National University Hospital, Busan 626-770, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Monomelic amyotrophy (MA), also known as Hirayama disease, occurs mainly in young men and manifests as weakness and wasting of the muscles of the distal upper limbs. Here, we sought to identify a genetic basis for MA. Given the predominance of MA in males, we focused on candidate neurological disease genes located on the X chromosome, selecting two X-linked candidate genes, androgen receptor (AR) and ubiquitin-like modifier activating enzyme 1 (UBA1).
+Screening for genetic variants using patients' genomic DNA revealed three known genetic variants in the coding region of the AR gene: one nonsynonymous single-nucleotide polymorphism (SNP; rs78686797) encoding Leu57Gln, and two variants of polymorphic trinucleotide repeat segments that encode polyglutamine (CAG repeat; rs5902610) and polyglycine (GGC repeat; rs3138869) tracts. Notably, the Leu57Gln polymorphism was found in two patients with MA from 24 MA patients, whereas no variants were found in 142 healthy male controls. However, the numbers of CAG and GGC repeats in the AR gene were within the normal range. These data suggest that the Leu57Gln polymorphism encoded by the X-linked AR gene may contribute to the development of MA.		
+
+
+Keywords:
+X-linked gene; androgen receptor (AR) gene; monomelic amyotrophy (MA); case-control study 
+
+
+
+
+

@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2010; 8(1): 1-8.
+DOI: https://doi.org/10.5808/gi.2010.8.1.001
+Association Analysis of SERPINB5 Polymorphisms with HBV Clearance and HCC Occurrence in a Korean Population.
+Jason Y Kim, Tae Joon Park, Jin Sol Lee, Ji Yong Chun, Joon Seol Bae, Byung Lae Park, Hyun Sub Cheong, Hyo Suk Lee, Yoon Jun Kim, Hyoung Doo Shin
+1Department of Life Science, Sogang University, Seoul 121-742, Korea.
+hdshin @ sogang.ac.kr 2Department of Genetic Epidemiology, SNP Genetics, Inc., Seoul 153-801, Korea.
+3Department of Internal Medicine and Liver Research Institute, Seoul National University, Seoul 110-744, Korea.
+Abstract
+Serpin peptidase inhibitor, Clade B(ovalbumin), Member 5(SERPINB5), also known as maspin, is a potent tumor suppressor gene.
+It has correlations with many tumor cells, from pancreas cancer to breast cancer, so it is possible that it may also affect liver cancer.
+There has also been a report that SERPINB12, a gene placed right next to SERPINB5, is expressed in liver.
+For this study, 32 polymorphisms were identified in SERPINB5 by direct DNA sequencing, and 11 of them were selected to be tested with a larger scale subjects.
+The association of the 11 SERPINB5 polymorphisms with Hepatitis B virus(HBV) clearance, hepatocellular carcinoma(HCC) occurrence and the onset age of HCC were analyzed.
+There were no significant associations found between 11 SERPINB5 polymorphisms and HBV clearance.
+In the case of HCC occurrence, one of the haplotypes(ht) showed association with HCC occurrence(OR=2.26, p=0.005, P(Cor) =0.05), albeit with a low statistical power(40.8%) and haplotype frequency(0.052).
+Further study with a bigger sample size will be needed to clearly verify the association between ht5 and HCC occurrence.
+Keywords:
+haplotypes; hepatocellular carcinoma; hepatitis B virus; polymorphism; serine protease inhibitor clade B

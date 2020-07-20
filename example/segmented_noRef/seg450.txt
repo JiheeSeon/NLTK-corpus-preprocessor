@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2004; 2(3): 142-146.
+Web Services Based Biological Data Analysis Tool.
+Min Kyung Kim, Yo Hahn Choi, Seong Joon Yoo, Hyun Seok Park
+1Department of Computer Science and Engineering, Ewha University, Seoul 120-750, Korea.
+neo @ ewha.ac.kr 2School of Computer Science and Engineering, Sejong University, Seoul 143-747, Korea.
+3Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea.
+Abstract
+Biological data and analysis tools are accumulated in distributed databases and web servers.
+For this reason, biologists who want to find information from the web should be aware of the various kinds of resources where it is located and how it is retrieved.
+Integrating the data from heterogeneous biological resources will enable biologists to discover new knowledge across the specific domain boundaries from sequences to expression, structure, and pathway.
+And inevitably biological databases contain noisy data.
+Therefore, consensus among databases will confirm the reliability of its contents.
+We have developed WeSAT that integrates distributed and heterogeneous biological databases and analysis tools, providing through Web Services protocols.
+In WeSAT, biologists are retrieved specific entries in SWISS-PROT/EMBL, PDB, and KEGG, which have annotated information about sequence, structure, and pathway.
+And further analysis is carried by integrated services for example homology search and multiple alignments.
+WeSAT makes it possible to retrieve real time updated data and analysis from the scattered databases in a single platform through Web Services.
+Keywords:
+database integration; platform; web services

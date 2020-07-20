@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2006; 4(2): 77-79.
+Identification of Novel Genes with Proapoptotic Activity.
+Eun Ju Kang, Jeong Min Kim, Na Young Kim, Kyung Mi Park, Seong Min Park, Nam Soon Kim, Hyang Sook Yoo, Young Il Yeom, Soo Jung Kim
+Functional Genomics Research Center, Korea Research Institute of Bioscience and Biotechnology, Korea.
+crystal @ kribb.re.kr
+Abstract
+In order to identify novel proapoptotic genes, we screened approximately 1,000 hypothetical genes whose functions are completely unknown.
+After these genes were transiently expressed in HeLa cells, their nuclei images were captured using automated high-speed fluorescence microscope, through which the ratio of apoptotic nuclei was estimated.
+We selected genes that induce greater than 3-fold increase in apoptotic nuclei compared to that of the vector control.
+The candidate proapoptotic genes were sequenced and their effects on cell death were further confirmed by the additional assay, DNA fragmentation ELISA.
+Finally, we were able to identify 4 full-length hypo-thetical genes with proapoptotic activity.
+Keywords:
+Novel proapoptotic genes; apoptosis; fluorescence microscope; apoptotic nuclei

@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(3): 159-163. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.3.159
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Comparison of Erythrocyte Traits Among European, Japanese and Korean.
+
+
+
+ Ji Sun Kwon,  Sangsoo Kim 
+
+
+
+			Department of Bioinformatics and Life Science, Soongsil University, Seoul 156-743, Korea. sskimb@ssu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Erythrocyte traits are heritable and indirect indicators of blood diseases caused by erythrocyte, but their genetic factors are largely unknown. So we performed genome-wide association study in 8,842 Korean individuals to identify genetic factors influencing erythrocyte traits. We identified 40 associations for three erythrocyte traits at genome-wide significance levels (p<1x10-6). We compared these associated loci with those reported in genome-wide association studies of European and Japanese. Our findings include previously identified loci (HBS1L-MYB, TMPRSS6, USP49 and CCND3) in other studies and novel associations (MRDS1/OFCC1, CSDE1, NRAS and 8 other loci). For example, SNP rs4895440 of HBS1L-MYB intergenic region on chromosome 6q23.3 is one of the most associations influencing erythrocyte traits (p=8.33x10-27).		
+
+
+Keywords:
+erythrocyte; GWAS; hematocrit; hemoglobin; red blood cell 
+
+
+
+
+

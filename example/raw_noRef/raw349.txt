@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(1): 14-17. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.1.014
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Inbreeding Coefficients in Two Isolated Mongolian Populations: GENDISCAN Study.
+
+
+
+ Joohon Sung,  Mi Kyeong Lee,  Jeong Sun Seo 
+
+
+
+1Department of Epidemiology, Seoul National University School of Public Health, Seoul 110-799, Korea. 2Department of Cancer Prevention and Epidemiology, National Cancer Center, Goyang 410-769, Korea. 3Ilchon Institute, Seoul National University College of Medicine, Seoul 110-799, Korea. jeongsun@snu.ac.kr 4Department of Biochemistry, Seoul National University College of Medicine, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		GENDISCAN study (Gene Discovery for Complex traits in Asian population of Northeast area) was designed to incorporate methodologies which enhance the power to identify genetic variations underlying complex disorders. Use of population isolates as the target population is a unique feather of this study. However, population isolates may have hidden inbreeding structures which can affect the validity of the study. To understand how this issue may affect results of GENDISCAN, we estimated inbreeding coefficients in two study populations in Mongolia. We analyzed the status of Hardy-Weinberg Equilibrium (HWE), polymorphism information contents (PIC), heterozygosity, allelic diversity, and inbreeding coefficients, using 317 and 1,044 STR (short tandem repeat) markers in Orkhontuul and Dashbalbar populations. HWE assumptions were generally met in most markers (88.6% and 94.2% respectively), and single marker PIC ranged between 0.2 and 0.9. Inbreeding coefficients were estimated to be 0.0023 and 0.0021, which are small enough to assure that conventional genetic analysis would work without any specific modification. We concluded that the population isolates used in GENDISCAN study would not present significant inflation of type I errors from inbreeding effects in its gene discovery analysis.		
+
+
+Keywords:
+inbreeding coefficient; Mengolian population; STR; HWE; PIC 
+
+
+
+
+

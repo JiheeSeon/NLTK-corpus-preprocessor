@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(2): 73-76. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrimateDB: Development of Primate Genome DB and Web Service.
+
+
+
+ Taeha Woo,  Gwangsik Shin,  Taewook Kang,  Byoungchul Kim,  Jungmin Seo,  Sang Soo Kim,  Chang Bae Kim 
+
+
+
+1National Genome Information Center, Korea Research Institute of Bioscience and Biotechnology, 52 Eoeun-dong, Yuseong-gu, Daejeon 305-333, Korea. changbae@kribb.re.kr 2Department of Bioinformatics, Soongsil University, 1-1, Sangdo-dong, Dongjak-Gu, Seoul, 156-743, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The comparative analysis of the human and primate genomes including the chimpanzee can reveal unique types of information impossible to obtain from comparing the human genome with the genomes of other vertebrates. PrimateDB is an open depository server that provides primate genome information for the comparative genome research. The database also provides an easy access to variable information within/between the primate genomes and supports analyzed information, such as annotation and retroelements and phylogeny. The comparative analyses of more primate genomes are also being included as the long-term objective.		
+
+
+Keywords:
+Primate genome; comparative genomics; database; retroelements 
+
+
+
+
+

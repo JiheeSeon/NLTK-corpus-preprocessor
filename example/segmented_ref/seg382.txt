@@ -1,0 +1,13 @@
+Original Article
+Genomics & Informatics 2007; 5(1): 19-23.
+Regression Models for Haplotype-Based Association Studies.
+So Hee Oh, Jung Hyun Namkung, Tae Sung Park
+1Department of Statistics, Seoul National University, Seoul 151-742, Korea.
+tspark @ stats.snu.ac.kr 2Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-742, Korea.
+Abstract
+In this paper, we provide an overview of statistical models for haplotype-based association studies, and summarize their features based on the design matrix.
+We classify the design matrix into the two types: direct and indirect.
+For these two kinds of matrices, we present and compare characteristics using a simple hypothetical example, and a real data set.
+The motivation behind this study was to provide practitioners with an improved understanding, to facilitate the informed selection of the appropriate haplotype-based model and to improve the interpretability of the models.
+Keywords:
+Association; Case-control Study; Design Matrix; Generalized Linear Model; Haplotype

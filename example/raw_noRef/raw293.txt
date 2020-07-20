@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(3): 141-147. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.3.141
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A New Approach to Find Orthologous Proteins Using Sequence and Protein-Protein Interaction Similarity.
+
+
+
+ Min Kyung Kim,  Young Joo Seol,  Hyun Seok Park,  Seung Hwan Jang,  Hang Cheol Shin,  Kwang Hwi Cho 
+
+
+
+1Department of Bioinformatics and CAMDRC, Soongsil University, Seoul 156-743, Korea. chokh@ssu.ac.kr 2Research Planning & Information Div., National Institute of Agricultural Biotechnology, RDA, Suwon 441-707, Korea. 3Department of Computer Science, Ewha Womans University, Seoul 120-750, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Developed proteome-scale ortholog and paralog prediction methods are mainly based on sequence similarity. However, it is known that even the closest BLAST hit often does not mean the closest neighbor. For this reason, we added conserved interaction information to find orthologs. We propose a genome-scale, automated ortholog prediction method, named OrthoInterBlast. The method is based on both sequence and interaction similarity.
+When we applied this method to fly and yeast, 17% of the ortholog candidates were different compared with the results of Inparanoid. By adding protein-protein interaction information, proteins that have low sequence similarity still can be selected as orthologs, which can not be easily detected by sequence homology alone.		
+
+
+Keywords:
+interolog; ortholog; protein-protein interaction 
+
+
+
+
+

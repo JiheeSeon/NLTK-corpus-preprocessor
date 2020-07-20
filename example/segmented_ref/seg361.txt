@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2007; 5(4): 143-151.
+Calibrating Thresholds to Improve the Detection Accuracy of Putative Transcription Factor Binding Sites.
+Young Jin Kim, Gil Mi Ryu, Chan Park, Kyu Won Kim, Bermseok Oh,Young Youl Kim, Man Bok Gu
+1Center for Genome Science, National Institute of Health, KCDC, Seoul 122-701, Korea.
+youngyk @ nih.go.kr 2College of Pharmacy, Seoul National University, Seoul 157-742, Korea.
+3School of Life Science & Biotechnology, Korea University, Seoul 136-701, Korea.
+Abstract
+To understand the mechanism of transcriptional regulation, it is essential to detect promoters and regulatory elements.
+Various kinds of methods have been introduced to improve the prediction accuracy of regulatory elements.
+Since there are few experimentally validated regulatory elements, previous studies have used criteria based solely on the level of scores over background sequences.
+However, selecting the detection criteria for different prediction methods is not feasible.
+Here, we studied the calibration of thresholds to improve regulatory element prediction.
+We predicted a regulatory element using MATCH, which is a powerful tool for transcription factor binding site(TFBS) detection.
+To increase the prediction accuracy, we used a regulatory potential(RP) score measuring the similarity of patterns in alignments to those in known regulatory regions.
+Next, we calibrated the thresholds to find relevant scores, increasing the true positives while decreasing possible false positives.
+By applying various thresholds, we compared predicted regulatory elements with validated regulatory elements from the Open Regulatory Annotation(ORegAnno) database.
+The predicted regulators by the selected threshold were validated through enrichment analysis of muscle-specific gene sets from the Tissue-Specific Transcripts and Genes(T-STAG) database.
+We found 14 known muscle-specific regulators with a less than a 5% false discovery rate(FDR) in a single TFBS analysis, as well as known transcription factor combinations in our combinatorial TFBS analysis.
+Keywords:
+combinatorial TFBS; regulatory conservation score; regulatory element; transcription factor binding site

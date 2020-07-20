@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2010;8(3): 122-130. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.3.122
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Genome-wide Association Study of Copy Number Variation in Hematological Parameters in the Korean Population.
+
+
+
+ Ka Kyung Kim,  Yoon Shin Cho,  Nam H Cho,  Chol Shin,  Jong Won Kim 
+
+
+
+1Samsung Biomedical Research Institute, Samsung Medical Center, Seoul 135-710, Korea. 2Department of Laboratory Medicine and Genetics, Sungkyunkwan University School of Medicine, Samsung Medical Center, Seoul 135-710, Korea. kimjw@skku.edu 3Center for Genome Science, National Institute of Health, Seoul 122-701, Korea. 4Department of Preventive Medicine, Ajou University School of Medicine, Suwon 443-749, Korea. 5Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Korea University Ansan Hospital, Ansan 425-707, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Abnormal hematological values are associated with various disorders including cancer and cardiovascular, metabolic, infectious, and immune diseases. We report the copy number variations (CNVs) in clinically relevant hematological parameters, including hemoglobin level, red and white blood cell counts, platelet counts, and red blood cell (RBC) volume. We describe CNVs in several loci associated with these hematological parameters in 8,842 samples from Korean population-based studies. The data that we evaluated included four RBC parameters, one platelet parameter, and one associated with total white blood cell (WBC) count, exceeding the genome-wide significance. We show that CNVs in hematological parameters are associated with some loci, different from previously associated loci reported in single nucleotide polymorphism (SNP) association studies.		
+
+
+Keywords:
+hematological parameters; blood cell count; erythrocytes; genome-wide association study; copy number variation 
+
+
+
+
+

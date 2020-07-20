@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(3): 147-152. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.3.147
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Parsing KEGG XML Files to Find Shared and Duplicate Compounds Contained in Metabolic Pathway Maps: A Graph-Theoretical Perspective.
+
+
+
+ Sung Hui Kang,  Myung Ha Jang,  Jiyoung Whang,  Hyun Seok Park 
+
+
+
+1Department of Computer Science, Ewha Womans University, Seoul 158-711, Korea. neo@ewha.ac.kr 2Institute of Bioinformatics, Macrogen Inc., Seoul 153-023, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The basic graph layout technique, one of many visualization techniques, deals with the problem of positioning vertices in a way to maximize some measure of desirability in a graph. The technique is becoming critically important for further development of the field of systems biology.
+However, applying the appropriate automatic graph layout techniques to the genomic scale flow of metabolism requires an understanding of the characteristics and patterns of duplicate and shared vertices, which is crucial for bioinformatics software developers. In this paper, we provide the results of parsing KEGG XML files from a graph-theoretical perspective, for future research in the area of automatic layout techniques in biological pathway domains.		
+
+
+Keywords:
+drawing algorithm; XML; metabolic pathway; scale-free network 
+
+
+
+
+

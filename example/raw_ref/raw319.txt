@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(4): 181-191. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.4.181
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Polymorphisms in RAS Guanyl-releasing Protein 3 are Associated with Chronic Liver Disease and Hepatocellular Carcinoma in a Korean Population.
+
+
+
+ Ah Reum Oh,  Seung Ku Lee,  Min Ho Kim,  Jae Youn Cheong,  Sung Won Cho,  Kap Seok Yang,  KyuBum Kwack 
+
+
+
+1Medical Genomics Laboratory, Graduate School of Life Science and Biotechnology, Pochon CHA University, Seongnam 463-836, Korea. 2Department of Gastroenterology, Genomic Research Center for Gastroenterology, Ajou University School of Medicine, Suwon 442-721, Korea. 3Macrogen Inc. 60-24, Seoul 153-781, Korea. kbkwack@cha.ac.kr, kbkwack@gmail.com 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		RAS guanyl-releasing protein 3 (RasGRP3), a member of the Ras subfamily of GTPases, functions as a guanosine triphosphate (GTP)/guanosine diphosphate (GDP)-regulated switch that cycles between inactive GDP- and active GTP-bound states during signal transduction. Various growth factors enhance hepatocellular carcinoma (HCC) proliferation via activation of the Ras/Raf-1/ extracellular signal-regulated kinase (ERK) pathway, which depends on RasGRP3 activation. We investigated the relationship between polymorphisms in RasGRP3 and progression of hepatitis B virus (HBV)-infected HCC in a Korean population. Nineteen RasGRP3 SNPs were genotyped in 206 patients with chronic liver disease (CLD) and 86 patients with HCC. Our results revealed that the T allele of the rs7597095 SNP and the C allele of the rs7592762 SNP increased susceptibility to HCC (OR=1.55, p=0.04 and OR=1.81~2.61, p=0.01~0.03, respectively). Moreover, patients who possessed the haplotype (ht) 1 ( A-T-C-G) or diplotype (dt) 1 ( ht1/ht1) variations had increased susceptibility to HCC (OR=1.79 ~2.78, p=0.01~0.03). In addition, we identified an association between haplotype1 (ht1) and the age of HCC onset; the age of HCC onset are earlier in ht1 +/+ than ht1 +/- or ht1 -/- (HR=0.42~0.66, p=0.006~0.015). Thus, our data suggest that RasGRP3 SNPs are significantly associated with an increased risk of developing HCC.		
+
+
+Keywords:
+chronic liver disease (CLD); hepatocellular carcinoma (HCC); hepatitis B virus (HBV); phospholipase C gamma 1; single nucleotide polymorphism (SNP) 
+
+
+
+
+

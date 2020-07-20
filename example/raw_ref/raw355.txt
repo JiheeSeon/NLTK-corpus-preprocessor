@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(4): 188-193. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FESD II: A Revised Functional Element SNP Database of Human Ethnicities.
+
+
+
+ Hyun Ju Kim,  Il Hyun Kim,  Ki Hoon Shin,  Young Kyu Park,  Hyojin Kang,  Young Joo Kim 
+
+
+
+1Korea Research Institute of Bioscience and Biotechnology, #111 Gwahagno, Yuseong-gu, Daejeon, 305-806, Korea. yjkim8@kribb.re.kr 2Department of Bio and Brain, KAIST, Daejeon 305-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The Functional Element SNPs Database (FESD) categorizes functional elements in human genic regions and provides a set of single nucleotide polymorphisms (SNPs) located within each area. Users may select a set of SNPs in specific functional elements with haplotype information and obtain flanking sequences for genotyping. Our previous version of FESD has been improved in several ways. We regenerated all the data in FESD II from recently updated source data such as HapMap, UCSC GoldenPath, dbSNP, OMIM, and TRANSFAC(R).
+Users can obtain information about tagSNPs and simulate LD blocks for each gene from four ethnicities in the HapMap project on the fly. FESD II employs a Java/JSP web interface for better platform portability and higher speed than PHP in the previous version. As a result, FESD II provides its users with more powerful information about functional element SNPs of human ethnicities.		
+
+
+Keywords:
+SNP; tagSNP; haplotype; functional elements; LD block; hapMap 
+
+
+
+
+

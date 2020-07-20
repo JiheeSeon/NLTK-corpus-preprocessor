@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2005;3(1): 1-7. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DNA Pooling as a Tool for Case-Control Association Studies of Complex Traits.
+
+
+
+ Chul Ahn,  Terri M King,  Kyusang Lee,  Seung Ho Kang 
+
+
+
+1Department of Medicine, University of Texas Medical School, Houston, TX 77030, USA. 2Samsung Advanced Institute of Technology, Seoul 135-710, Korea. 3Department of Statistics, Ewha Womans University, Seoul 120-750, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Case-control studies are widely used for disease gene mapping using individual genotyping data. However, analyses of large samples are often impractical due to the expense of individual genotyping. The use of DNA pooling can significantly reduce the number of genotyping reactions required; hence reducing the cost of large-scale case-control association studies. Here, we discuss the design and analysis of DNA pooling genetic association studies.		
+
+
+
+
+

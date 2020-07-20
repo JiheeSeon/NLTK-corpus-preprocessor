@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2004;2(4): 180-183. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparative Statistic Module (CSM) for Significant Gene Selection.
+
+
+
+ Young Jin Kim,  Hyo Mi Kim,  Sang Bae Kim,  Chan Park,  Kuchan Kimm,  InSong Koh 
+
+
+
+			Division of Epidemiology and Bioinformatics, National Genome Research Institute, National Institute of Health, 5 Nokbun-dong, Eunpyeong-gu, Seoul 122-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Comparative Statistic Module(CSM) provides more reliable list of significant genes to genomics researchers by offering the commonly selected genes and a method of choice by calculating the rank of each statistical test based on the average ranking of common genes across the five statistical methods, i.e. t-test, Kruskal-Wallis (Wilcoxon signed rank) test, SAM, two sample multiple test, and Empirical Bayesian test. This statistical analysis module is implemented in Perl, and R languages.		
+
+
+
+
+

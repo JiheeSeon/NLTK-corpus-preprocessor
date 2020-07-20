@@ -1,0 +1,22 @@
+Original Article
+Genomics & Informatics 2009; 7(4): 195-202.
+DOI: https://doi.org/10.5808/gi.2009.7.4.195
+Lack of Association of BIRC5 Polymorphisms with Clearance of HBV Infection and HCC Occurrence in a Korean Population.
+Jin Sol Lee, Jeong Hyun Kim, Byung Lae Park, Hyun Sub Cheong, Jason Y Kim, Tae Joon Park, Ji Yong Chun, Joon Seol Bae, Hyo Suk Lee, Yoon Jun Kim, Hyoung Doo Shin
+1Department of Life Science, Sogang University, Seoul 121-742, Korea.
+hdshin @ sogang.ac.kr 2Department of Genetic Epidemiology, SNP Genetics, Inc., Rm 1407, Complex B, WooLim Lion 's Valley, Seoul 153-801, Korea.
+3Department of Internal Medicine and Liver Research Institute, Seoul National University, Seoul 110-744, Korea.
+Abstract
+BIRC5(Survivin) belongs to the inhibitor of apoptosis gene family.
+The BIRC5 protein inhibits caspases and consequently blocks apoptosis.
+Thus, BIRC5 contributes to the progression of cancer allowing for continued cell proliferation and survival.
+In this study, we identified eight sequence variants of BIRC5 through direct DNA sequencing.
+Among the eight single nucleotide polymorphisms(SNPs), six common variants with frequencies higher than 0.05 were selected for larger-scale genotyping(n=1,066).
+Results of the study did not show any association between the promoter region polymorphisms and the clearance of hepatitis B virus(HBV) infection and hepatocellular carcinoma(HCC) occurrence.
+This is in line with a previous study in which polymorphisms in the promoter region does not influence the function of BIRC5.
+Initially, we were able to detect a signal with the +9194A> G, which disappeared after multiple corrections but led to a change in amino acid.
+Similarly, we were also able to detect an association signal between two haplotypes(haplotype-2 and haplotype- 5) on the onset age of HCC and/or HCC occurrence, but the signals also disappeared after multiple corrections.
+As a result, we concluded that there was no association between BIRC5 polymorphisms and the clearance HBV infection and/or HCC occurrence.
+However, our results might useful to future studies.
+Keywords:
+BIRC5; survivin; hepatitis B virus(HBV); hepatocellular carcinoma(HCC); liver cirrhosis(LC); polymorphism

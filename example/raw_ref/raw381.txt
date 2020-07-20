@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(1): 24-29. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation of Advanced Structure-Based Virtual Screening Methods for Computer-Aided Drug Discovery.
+
+
+
+ Hui Sun Lee,  Ji Won Choi,  Suk Joon Yoon 
+
+
+
+			Department of Biological Sciences, Research Center for Women's Diseases (RCWD), Sookmyung Women's University, Seoul 140-742, Korea. yoonsj@sookmyung.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Computational virtual screening has become an essential platform of drug discovery for the efficient identification of active candidates. Moleculardocking, a key technology of receptor-centric virtual screening, is commonly used to predict the binding affinities of chemical compounds on target receptors. Despite the advancement and extensive application of these methods, substantial improvement is still required to increase their accuracy and time-efficiency. Here, we evaluate several advanced structure-based virtual screening approaches for elucidating the rank-order activity of chemical libraries, and the quantitative structureactivity relationship (QSAR). Our results show that the ensemble-average free energy estimation, including implicit solvation energy terms, significantly improves the hit enrichment of the virtual screening. We also demonstrate that the assignment of quantum mechanical-polarized (QM-polarized) partial charges to docked ligands contributes to the reproduction of the crystal pose of ligands in the docking and scoring procedure.		
+
+
+Keywords:
+virtual screening; docking and scoring; QSAR; drug discovery 
+
+
+
+
+

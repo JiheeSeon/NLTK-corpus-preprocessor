@@ -1,0 +1,13 @@
+Note
+Genomics & Informatics 2011; 9(3): 136-137.
+DOI: https://doi.org/10.5808/gi.2011.9.3.136
+A Visualization Tool for Computational Analysis of DNA Methylation Level Using Bisulfite Sequencing Data.
+Hongseok Tae
+Virginia Bioinformatics Institute,Virginia Tech, Blacksburg, VA 24061, USA, The Center for Genomics and Bioinformatics, Indiana University, Bloomington, IN 47405, USA. mbio94 @ naver.com
+Abstract
+Methylation of cytosine is a post-synthesis modification that does not affect the primary DNA sequence but greatly influences gene expression level and phenotypes of an organism.
+As high-throughput sequencing of bisulfite-treated DNA is the most efficient method to identify methylated sites, several tools to map sequencing reads on a reference are available.
+But tools to visualize and to interpret the methylation level of methylation sites are currently insufficient.
+Herein, we present a novel tool to visualize the methylation level of CpG sites.
+Keywords:
+visualization; DNA methylation; bisulfite sequencing; epigenetics; MethylDraw

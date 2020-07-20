@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2004; 2(4): 174-179.
+Construction of Various Copy Number Plasmid Vectors and Their Utility for Genome Sequencing.
+Tae Jin Yang, Yeisoo Yu, David A Frisch, Seunghee Lee, Hye Ran Kim, Soo Jin Kwon, Beom Suk Park, Rod A Wing
+1Brassica Genomics Team, National Institute of Agricultural Biotechnology(NIAB), RDA, Suwon 441-707, Korea.
+2Arizona Genomics Institute, 303 Forbes building, University of Arizona, Tucson, Az 85721, USA. 3Genome Center of Wisconsin, 425 Henry Mall, Madison, WI 53706, USA.
+Abstract
+We developed various plasmid cloning vectors that are useful in the construction of genomic and shotgun libraries.
+Two medium copy vectors, pCUGIblu21(pCb21) and pAGIblu21(pAb21), which are resistant to kanamycin(KmR) and chloramphenicol(CamR), respectively, are useful for cloning DNA inserts ranging from 5kb to 15kb.
+Two high copy vectors, pCUGIblu31(pCb31) and pAGIblu31(pAb31), containing KmR and CamR, respectively, are useful for DNA inserts less than 5kb.
+These vectors are well adapted for large-scale genome sequencing projects by providing choice of copy number and selectable marker.
+The small vector size is another advantage of these vectors.
+All vectors contain lacZ including multicloning sites that originated from pBluscriptIIsk- for easy cloning and sequencing.
+Two medium copy vectors contain unique and rare cutting SwaI(ATTTAAAT) restriction enzyme sites for easy determination of insert size.
+We developed two combined vectors, pC21A31 and pC31A21, which are combinations of(pCb21 + pAb31) and(pCb31 + Ab21), respectively.
+These two vectors provide four choices of vectors such as KmR and medium, CamR and high, CamR and medium, and KmR and high copy vectors by restriction enzyme cutting, dephosphorylation, and gel purification.
+These vectors were successfully applied to high throughput shotgun sequencing of rice, tomato, and brassica BAC clones.
+With an example of extremely biased hydro sheared 3 kb shotgun library of a tomato BAC clone, which is originated from cytogenetically defined peri-centromeric region, we suggest the utility of an additional 10 kb library for sequence assembly of the difficult-to-assemble BAC clone.

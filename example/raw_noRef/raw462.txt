@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2004;2(2): 67-74. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changes of Gene Expression in NIH3T3 Cells Exposed to Osmotic and Oxidative Stresses.
+
+
+
+ Jae Seon Lee,  Ji Hun Jung,  Tae Hyung Kim,  Jeong Sun Seo 
+
+
+
+1ILCHUN Molecular Medicine Institute MRC, Seoul National University College of Medicine, Seoul 110-799, Korea. jeongsun@snu.ac.kr 2Department of Biochemistry and Molecular Biology,Seoul National University College of Medicine, Seoul 110-799, Korea. 3BK21 Human Life Science, Seoul National University College of Medicine, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Cells consistently face stressful conditions, which cause them to modulate a variety of intracellular processes and adapt to these environmental changes via regulation of gene expression. Hyperosmotic and oxidative stresses are significant stressors that induce cellular damage, and finally cell death. In this study, oligonucleotide microarrays were employed to investigate mRNA level changes in cells exposed to hyperosmotic or oxidative conditions. In addition, since heat shock protein 70 (HSP70) is one of the most inducible stress proteins and plays pivotal role to protect cells against stressful condition, we performed microarray analysis in HSP70 overexpressing cells to identify the genes expressed in a HSP70 dependent manner.
+Under hyperosmotic or oxidative stress conditions, a variety of genes showed altered expression. Down regulation of protein phosphatase1 beta (PP1 beta) and sphingosine 1 phosphate phosphatase 1 (SPPase1) was detected in both stress conditions. Microarray analysis of HSP70 overexpressing cells demonstrated that diverse mRNA species depend on the level of cellular HSP70. Genes encoding lysyl oxidase, thrombospondin 1, and procollagen displayed altered expression in all tested conditions. The results of this study will be useful to construct networks of stress response genes.		
+
+
+Keywords:
+microarray; hyperosmotic stress; oxidative stress; HSP70 
+
+
+
+
+

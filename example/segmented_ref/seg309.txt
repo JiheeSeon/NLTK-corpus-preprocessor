@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2009; 7(1): 26-31.
+DOI: https://doi.org/10.5808/gi.2009.7.1.026
+Bioinformatics Analysis of Hsp20 Sequences in Proteobacteria.
+Michelle Heine, Sathees B C Chandra
+Department of Biological, Chemical and Physical Sciences, Roosevelt University, Chicago, IL-60605, USA. schandra @ roosevelt.edu
+Abstract
+Heat shock proteins are a class of molecular chaperones that can be found in nearly all organisms from Bacteria, Archaea and Eukarya domains.
+Heat shock proteins experience increased transcription during periods of heat induced osmotic stress and are involved in protein disaggregation and refolding as part of a cell 's danger signaling cascade.
+Heat shock protein, Hsp20 is a small molecular chaperone that is approximately 20kDa in weight and is hypothesized to prevent aggregation and denaturation.
+Hsp20 can be found in several strains of Proteobacteria, which comprises the largest phyla of the Bacteria domain and also contains several medically significant bacterial strains.
+Genomic analyses were performed to determine a common evolutionary pattern among Hsp20 sequences in Proteobacteria.
+It was found that Hsp20 shared a common ancestor within and among the five subclasses of Proteobacteria.This is readily apparent from the amount of sequence similarities within and between Hsp20 protein sequences as well as phylogenetic analysis of sequences from proteobacterial and non-proteobacterial species.
+Keywords:
+actinobacteria; common ancestry; firmicutes; heat shock proteins; Hsp20; phylogenetic analysis; proteobacteria

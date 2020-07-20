@@ -1,0 +1,21 @@
+Original Article
+Genomics & Informatics 2006; 4(1): 40-44.
+XPERNATO-TOX: an Integrated Toxicogenomics Knowledgebase.
+Jung Hoon Woo, Hyeoun Eui Kim, Gu Kong, Ju Han Kim
+1Seoul National University Biomedical Informatics(SNUBI), Korea.
+juhan @ snu.ac.kr 2Graduate Program in Health Informatics, University of Minnesota, Minneapolis, MN 55455, USA. 3Department of Pathology, College of Medicine and Molecular Biomarker Research Center, Hanyang University, Seoul, Korea.
+4Human Genome Research Institute, Seoul National University College of Medicine, Seoul, Korea.
+Abstract
+Toxicogenomics combines transcriptome, proteome and metabolome profiling with conventional toxicology to investigate the interaction between biological molecules and toxicant or environmental stress in disease caution.
+Toxicogenomics faces the problems of comparison and integration across different sources of data.
+Cause of unusual characteristics of toxicogenomic data, researcher should be assisted by data analysis and annotation for getting meaningful information.
+There are already existing repositories which claim to stand for toxicogenomics database.
+However, those just contain limited abilities for toxicogenomic research.
+For supporting toxicologist who comes up against toxicogenomic data flood, now we propose novel toxicogenomics knowledgebase system, XPERANTO-TOX.
+XPERANTO-TOX is an integrated system for toxicogenomic data management and analysis.
+It is composed of three distinct but closely connected parts.
+Firstly, Data Storage System is for reposit many kinds of '-omics' data and conventional toxicology data.
+Secondly, Data Analysis System consists of analytical modules for integrated toxicogenomics data.
+At last, Data Annotation System is for giving extensive insight of data to researcher.
+Keywords:
+toxicogenomics; data comparison; integration; analysis; annotation; knowledgebase

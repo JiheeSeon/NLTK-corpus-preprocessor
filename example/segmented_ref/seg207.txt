@@ -1,0 +1,17 @@
+Editorial
+Genomics & Informatics 2017; 15(2): 55.
+Published online: June 15, 2017
+DOI: https://doi.org/10.5808/GI.2017.15.2.55
+Editor 's Introduction to This Issue(G & I 15:2, 2017)
+Yeun-Jun Chung
+IRCGP, College of Medicine, The Catholic University of Korea, Seoul 06591, Korea.
+Corresponding author: Tel: +82-2-2258-7343, Fax: +82-2-537-0572, yejun @ catholic.ac.kr
+Copyright © 2017 by the Korea Genome Organization
+(open-access, http://creativecommons.org/licenses/by-nc/4.0/):
+It is identical to the Creative Commons Attribution Non-Commercial License(http://creativecommons.org/licenses/by-nc/4.0/).
+In this issue, Dr. Jong-Il Kim 's group(Seoul National University, Korea) reports gene expression profile data in human dermal fibroblasts treated with COX inhibitors.
+Some COX2-selective inhibitors inhibit cellular senescence, but other COX2-selective inhibitors and COX2 nonselective inhibitors accelerate senescence and aging.
+The authors tried to figure out the underlying mechanisms by which COX inhibitors modulate senescence in the skin.
+Dr. Yeun-Jun Chung 's group(The Catholic University of Korea) suggests that a variant in RUNX3 is associated with the risk of ankylosing spondylitis in Koreans.
+Dr. Mana Oloomi 's group(Pasteur Institute of Iran) demonstrates a sporadic phylogenic pattern in cytolethal distending toxin-producing Escherichia coli strains.
+For further details, please visit the G & I homepage(https://genominfo.org/).

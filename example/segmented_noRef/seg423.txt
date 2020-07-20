@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2005; 3(3): 80-85.
+HExDB: Human EXon DataBase for Alternative Splicing Pattern Analysis.
+Junghwan Park, Minho Lee, Jong Bhak
+1Department of BioSystems, Korea Advanced Institute of Science and Technology, Daejeon 305-701, Korea.
+2National Genome Information Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-333, Korea.
+j @ bio.cc
+Abstract
+HExDB is a database for analyzing exon and splicing pattern information in Homo sapiens.
+HExDB is useful for specific purposes: 1) to design primers for exon amplification from cDNA and 2) to understand the change of ORFs by alternative splicing.
+HExDB was constructed by integrating data from AltExtron which is the computationally predicted exon database, Ensemble cDNA annotation, and Affymetrix genome tile published recently.
+Although it may contain false positive data, HExDB is good starting point due to its sensitivity.
+At present, there are as many as 2,046,519 exons stored in the HExDB.
+We found that 16.8% of the exons in the database was constitutive exons and 83.1% were novel gene exons.
+Keywords:
+HExDB; Exon database; Alternative splicing

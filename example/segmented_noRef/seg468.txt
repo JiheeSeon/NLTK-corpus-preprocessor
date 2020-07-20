@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2004; 2(1): 19-29.
+Informative Gene Selection Method in Tumor Classification.
+Hyo Soo Lee, Jong Hoon Park
+Department of Biological Science, Sookmyung Women 's University, Seoul, Korea.
+parkjh @ sookmyung.ac.kr
+Abstract
+Gene expression profiles may offer more information than morphology and provide an alternative to morphology- based tumor classification systems.
+Informative gene selection is finding gene subsets that are able to discriminate between tumor types, and may have clear biological interpretation.
+Gene selection is a fundamental issue in gene expression based tumor classification.
+In this report, techniques for selecting informative genes are illustrated and supervised shaving introduced as a gene selection method in the place of a clustering algorithm.
+The supervised shaving method showed good performance in gene selection and classification, even though it is a clustering algorithm.
+Almost selected genes are related to leukemia disease.
+The expression profiles of 3051 genes were analyzed in 27 acute lymphoblastic leukemia and 11 myeloid leukemia samples.
+Through these examples, the supervised shaving method has been shown to produce biologically significant genes of more than 94% accuracy of classification.
+In this report, SVM has also been shown to be a practicable method for gene expression-based classification.
+Keywords:
+gene expression;gene selection;gene shaving; microarray; tumor classification

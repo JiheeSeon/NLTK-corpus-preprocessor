@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2010; 8(4): 194-200.
+DOI: https://doi.org/10.5808/gi.2010.8.4.194
+No Association between PIK3CA Polymorphism and Lung Cancer Risk in the Korean Population.
+Jae Sook Sung, Kyong Hwa Park, Seung Tae Kim,Jae Hong Seo, Sang Won Shin, Jun Suk Kim, Yeul Hong Kim
+1Genomic Research Center for Lung and Breast/Ovarian Cancers, Korea University Anam Hospital, Seoul 136-705, Korea.
+yhk0215 @ korea.ac.kr 2Department of Internal Medicine and Division of Brain Korea 21 Project for Biomedical Science, Korea University, Seoul 136-701, Korea.
+3Division of Oncology/Hematology, Department of Internal Medicine, Korea University College of Medicine, Seoul 136-701, Korea.
+Abstract
+The PIK3CA gene, oncogenic gene located on human chromosome 3q26.3, is an important regulator of cell proliferation, death, motility and invasion.
+To evaluate the role of PIK3CA gene in the risk of Korean lung cancer, genotypes of the PIK3CA polymorphisms(rs11709323, rs2699895, rs3729679, rs17849074 and rs1356413) were determined in 423 lung cancer patients and 443 normal controls.
+Statistical analyses revealed that the genotypes and haplotypes in the PIK3CA gene were not significantly associated with the risk of lung cancer in the Korean population, suggesting that these PIK3CA polymorphisms do not contribute to the genetic susceptibility to lung cancer in the Korean population.
+Keywords:
+lung cancer; PIK3CA; polymorphism

@@ -1,0 +1,20 @@
+Original Article
+Genomics & Informatics 2006; 4(3): 110-117.
+Significant Gene Selection Using Integrated Microarray Data Set with Batch Effect.
+Ki Yeol Kim, Hyun Cheol Chung, Hei Cheul Jeung, Ji Hye Shin, Tae Soo Kim, Sun Young Rha
+1Oral Cancer Research Institute, Yonsei University College of Dentistry, Seoul, Korea.
+2Department of Internal Medicine, Yonsei University College of Medicine, Seoul, Korea.
+3Brain Korea 21 Project for Medical Science, Yonsei University College of Medicine, Seoul, Korea.
+rha7655 @ yumc.yonsei.ac.kr 4Cancer Metastasis Research Center, Yonsei University College of Medicine, Seoul, Korea.
+5Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, Korea.
+Abstract
+In microarray technology, many diverse experimental features can cause biases including RNA sources, microarray production or different platforms, diverse sample processing and various experiment protocols.
+These systematic effects cause a substantial obstacle in the analysis of microarray data.
+When such data sets derived from different experimental processes were used, the analysis result was almost inconsistent and it is not reliable.
+Therefore, one of the most pressing challenges in the microarray field is how to combine data that comes from two different groups.
+As the novel trial to integrate two data sets with batch effect, we simply applied standardization to microarray data before the significant gene selection.
+In the gene selection step, we used new defined measure that considers the distance between a gene and an ideal gene as well as the between-slide and within-slide variations.
+Also we discussed the association of biological functions and different expression patterns in selected discriminative gene set.
+As a result, we could confirm that batch effect was minimized by standardization and the selected genes from the standardized data included various expression pattems and the significant biological functions.
+Keywords:
+genomic data; integration; batch effect; bioinformatics

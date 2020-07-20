@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2008; 6(2): 57-63.
+DOI: https://doi.org/10.5808/gi.2008.6.2.057
+Development of KHapmap Browser using DAS for Korean HapMap Research.
+Hoon Jin, Seung Ho Kim, Young Uk Kim, Young Kyu Park, Mihyun Ji, Young Joo Kim
+1Medical Genomics Research Center, Korea.
+yjkim8 @ kribb.re.kr 2Instrumental Analysis Laboratory, KRIBB, Daejeon 305-806, Korea.
+Abstract
+The Korean HapMap Project has been carried out for the last 5 years since it started in June, 2003.
+The project generated data for a sum of 1,764,000 Korean SNPs and formally registered the data to the dbSNP of NCBI(The dbSNP website.
+2008).
+We have developed a series of software programs for association studies as well as for the comparison and analysis of Korean HapMap data with four other populations(CEPH, Yoruba, Han Chinese, and Japanese populations).
+The KHapmap Browser was developed and integrated to provide haplotype retrieval and comparative study tools of human ethnicities for comprehensive disease association studies(http://www.khapmap.org).
+On that basis, GBrowse was adopted in the KHapmap Browser for inherent Korean genetic data, and a provision of extended services was pledged with the distributed sequence annotation system(DAS).
+The dynamic linking service of the KHapmap Browser to other tools in our intranetwork environment provides many enhanced functions over GBrowse without DAS.
+KHapmap Browser is expected to be an invaluable tool for the study of Korean and international Hapmap data.
+Keywords:
+Korean; SNP; browser; DAS; Hapmap; association

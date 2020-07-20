@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+					other				
+
+				Genomics & Informatics 2011;9(2): 89-91. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2011.9.2.89
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Clustering Tool Using Particle Swarm Optimization for DNA Chip Data.
+
+
+
+ Xiaoyue Han,  Minsoo Lee 
+
+
+
+			Department of Computer Science and Engineering, Ewha Womans University, Seoul 120-750, Korea. mlee@ehwa.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		DNA chips are becoming increasingly popular as a convenient way to perform vast amounts of experiments related to genes on a single chip. And the importance of analyzing the data that is provided by such DNA chips is becoming significant.
+A very important analysis on DNA chip data would be clustering genes to identify gene groups which have similar properties such as cancer. Clustering data for DNA chips usually deal with a large search space and has a very fuzzy characteristic. The Particle Swarm Optimization algorithm which was recently proposed is a very good candidate to solve such problems. In this paper, we propose a clustering mechanism that is based on the Particle Swarm Optimization algorithm. Our experiments show that the PSO-based clustering algorithm developed is efficient in terms of execution time for clustering DNA chip data, and thus be used to extract valuable information such as cancer related genes from DNA chip data with high cluster accuracy and in a timely manner.		
+
+
+Keywords:
+clustering; DNA chip data 
+
+
+
+
+

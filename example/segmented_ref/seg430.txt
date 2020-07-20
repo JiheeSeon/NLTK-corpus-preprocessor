@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2005; 3(2): 66-72.
+Aging and UV Irradiation Related Changes of Gene Expression in Primary Human Keratinocytes.
+Ok Joo Lee, Sung Young Lee, Jae Bong Park, Jae Yong Lee, Jong Il Kim, Jaebong Kim
+Department of Biochemistry, College of Medicine, Hallym University, ChunCheon, Kangwon-Do 200-702, Korea.
+jongil @ hallym.ac.kr
+Abstract
+The epidermis is a physiological barrier to protect organisms against environment.
+During the aging process, skin tissues undergo various changes including morphological and functional changes.
+The transcriptional regulation of genes is part of cellular reaction of aging process.
+In order to examine the changes of gene expression during the aging process, we used the primary cell culture system of human keratinocytes.
+Since UV radiation is the most important environmental skin aggressor, causing skin cancer and other problems including premature skin aging, we examined the changes of gene expression in human keratinocytes after UV irradiation using oligonucleotide microarray containing over 10,000 genes.
+We also compared the gene expression patterns of the senescent and UV treated cells.
+Expression of the variety of genes related to transcription factors, cell cycle regulation, immune response was altered in human keratinocytes.
+Some of down-regulated genes are represented in both senescent and UV treated cells.
+The results may provide a new view of gene expression following UVB exposure and aging process in human keratinocytes.
+Keywords:
+keratinocyte; UVB irradiation; aging and microarray

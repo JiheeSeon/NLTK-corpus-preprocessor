@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2008; 6(3): 157-159.
+DOI: https://doi.org/10.5808/gi.2008.6.3.157
+A Simple and Fast Web Alignment Tool for Large Amount of Sequence Data.
+Yong Seok Lee, Jeongsu Oh
+Korean Bioinformation Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 305-806, Korea.
+dolsemtl @ kribb.re.kr
+Abstract
+Multiple sequence alignment(MSA) is the most important step for many of biological sequence analyses, homology search, and protein structural assignments.
+However, large amount of data make biologists difficult to perform MSA analyses and it requires much computational time to align many sequences.
+Here, we have developed a simple and fast web alignment tool for aligning, editing, and visualizing large amount of sequence data.
+We used a cluster server installed ClustalW-MPI using web services and message passing interface(MPI).
+It also enables users to edit multiple sequence alignments for manual editing and to download the input data and results such as alignments and phylogenetic tree.
+Keywords:
+alignment; ClustalW-MPI; large data; Jalview; parallel process

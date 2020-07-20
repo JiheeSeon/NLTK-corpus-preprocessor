@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Editorial				
+
+				Genomics & Informatics 2010;8(3): 101-102. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2010.8.3.101
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Genome-Wide Association Studies of the Korea Association REsource (KARE) Consortium.
+
+
+
+ Kyung Won Hong,  Hyung Lae Kim,  Bermseok Oh 
+
+
+
+1Department of Biomedical Engineering, School of Medicine, Kyung Hee University, Seoul 130-702, Korea. ohbs@khu.ac.kr 2Department of Biochemistry, School of Medicine, Ewha Womans University, Seoul 158-710, Korea. ohbs@khu.ac.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		During the last decade, large community cohorts have been established by the Korea National Institutes of Health (KNIH), and enormous epidemiological and clinical data have been accumulated. Using these information and samples in the cohorts, KNIH set out to do a large-scale genome-wide association study (GWAS) in 2007, and the Korea Association REsource (KARE) consortium was launched to analyze the data to identify the underlying genetic risk factors of diseases and diverse health indexes, such as blood pressure, obesity, bone density, and blood biochemical traits. The consortium consisted of 6 research divisions, formed by 25 principal investigators in 19 organizations, including 18 universities, 2 institutes, and 1 company. Each division focused on one of the following subjects: the identification of genetic factors, the statistical analysis of gene-gene interactions, the genetic epidemiology of gene-environment interactions, copy number variation, the bioinformatics related to a GWAS, and a GWAS of nutrigenomics. In this special issue, the study results of the KARE consortium are provided as 9 articles. We hope that this special issue might encourage the genomics community to share data and scientists, including clinicians, to analyze the valuable Korean data of KARE.		
+
+
+Keywords:
+genome-wide association study; KARE; genetic risk factor 
+
+
+
+
+

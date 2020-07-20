@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2006; 4(1): 16-22.
+Gene Expression Profiling of 6-MP(6-mercaptopurine) in Liver.
+Hyung Lae Kim, Han Na Kim, Eun Ju Lee
+Department of Biochemistry, College of Medicine, Ewha Womans University, Seoul, Korea.
+hyung @ ewha.ac.kr
+Abstract
+The KFDA(Korea Food & Drug Administration) has performed a collaborative toxicogenomics project since 2003.
+Its aim is to construct a toxicology database of 12 compounds administered to mice at initial phase.
+We chose 6-MP(6-mercaptopurine) which has been used in the treatment of childhood leukemia.
+It was administered at low(0.224 mg/kg) and at high(2.24 mg/kg) dose(5 mice per group) intraperitonealy to the postnatal 6 weeks mice, then the serum and liver were collected at the indicated time(6, 24 and 72 h) after scarification.
+Serum biochemical markers for liver toxicity were measured and histopathologic studies also were carried out.
+The gene expression profiling was carried out by using Applied Biosystems 1700 Full Genome Expression Mouse.
+By self-organization maps(SOM), we identified groups with unique gene expression patterns, some of them are supposed to be related to 6-MP induced toxicity, including lipid metabolism abnormality, inflammatory response, oxidative stress, ATP depletion and cell death.
+The potential toxic effects appearing as gene expression changes are dependent of the time of 6-MP but independent of the dosage of it.
+This study would contribute to establishment of international database as well as national one about hepatotoxicity.
+Keywords:
+6-Mercaptopurine(6-MP); acute hepatoxicity; microarray analysis; gene expression

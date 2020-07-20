@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2004;2(1): 30-35. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Study of X Chromosome Inactivation Mechanism in Klinefelter's Syndrome by cDNA Microarray Experiment.
+
+
+
+ Yu Mi Jeong,  In Hyuk Chung,  Jung Hoon Park,  Sook Hwan Lee,  Tae Gyu Chung,  Yong Sung Kim,  Nam Soon Kim,  Hyang Sook Yoo,  Suman Lee 
+
+
+
+1Functional Genomics Lab, CHA General Hospital, College of Medicine, Pochon CHA University, Seoul, Korea. suman@cha.ac.kr 2Genome Research Center for Reproductive Medicine and Infertility, CHA General Hospital, College of Medicine, Pochon CHA University, Seoul, Korea. 3Department of Urology, CHA General Hospital, College of Medicine, Pochon CHA University, Seoul, Korea. 4The Center for Functional analysis of Human Genome, KRIBB, Daejeon, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		To investigate the XIST gene expression and its effect in a Klinefelter''s patient, we used Klinefelter''s syndrome (XXY) patient with azoospermia and also used a normal male (XY) and a normal female (XX) as the control, We were performed cytogenetic analysis, Y chromosomal microdeletion assay (Yq), semi-quantitative RT-PCR, and the Northern blot for Klinefelter''s syndrome (KS) patient, a female and a male control, We extracted total RNA from the KS patient, and from the normal cells of the female and male control subjects using the RNA prep kit (Qiagen), cDNA microarray contained 218 human X chromosome-specific genes was fabricated. Each total RNA was reverse transcribed to the first strand cDNA and was labeled with Cy-3 and Cy-5 fluorescein, The microarray was scanned by ScanArray 4000XL system. XIST transcripts were detected from the Klinefelters patient and the female by RT-PCR and Northern blot analysis, but not from the normal male, In the cDNA microarray experiment, we found 24 genes and 14 genes are highly expressed in KS more than the normal male and females, respectively. We concluded that highly expressed genes in KS may be a resulted of the abnormal X inactivation mechanism.		
+
+
+
+
+

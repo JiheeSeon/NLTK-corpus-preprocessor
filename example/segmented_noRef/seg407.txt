@@ -1,0 +1,13 @@
+Original Article
+Genomics & Informatics 2006; 4(1): 45-47.
+D2GSNP: a web server for the selection of Single Nucleotide Polymorphisms within human disease genes.
+Hyo Jin Kang, Tae Hui Hong, Won Hyong Chung, Young Uk Kim, Jin Hee Jung, So Hyun Hwang, A Reum Han, Young Joo Kim
+National Genome Information Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon, Korea.
+yjkim8 @ kribb.re.kr
+Abstract
+D2GSNP is a web-based server for the selection of single nucleotide polymorph isms(SNPs) within genes related to human diseases.
+The D2GSNP is based on a relational database created by downloading and parsing OMIM, GAD, and dbSNP, and merging it with positional information of UCSC Golden Path.
+Totally our server provides 5,142 and 1,932 non-redundant disease genes from OMIM and GAD, respectively.
+With the D2GSNP web interface, users can select SNPs within genes responding to certain diseases and get their flanking sequences for further genotyping experiments such as association studies.
+Keywords:
+SNP; disease gene; association study

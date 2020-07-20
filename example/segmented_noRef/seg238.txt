@@ -1,0 +1,14 @@
+Original Article
+Genomics & Informatics 2011; 9(1): 37-38.
+DOI: https://doi.org/10.5808/gi.2011.9.1.037
+ManBIF: a Program for Mining and Managing Biobank Impact Factor Data.
+Ki Jin Yu, Jungmin Nam, Yun Her, Minseock Chu, Hyungseok Seo, Junwoo Kim, Jaepil Jeon, Hyekyung Park, Kiejung Park
+1Division of Bio-Medical Informatics, Center for Genome Science, National Institute of Health, Cheongwon-gun 363-951, Korea.
+kjpark63 @ gmail.com 2Division of Korea BioBank, Center for Genome Science, National Institute of Health, Cheongwon-gun 363-951, Korea.
+Abstract
+Biobank Impact Factor(BIF), which is a very effective criterion to evaluate the activity of biobanks, can be estimated by the citation information of biobanks from scientific papers.
+We have developed a program, ManBIF, to investigate the citation information from PDF files in the literature.
+The program manages a dictionary for expressions to represent biobanks and their resources, mines the citation information by converting PDF files to text files and searching with a dictionary, and produces a statistical report file.
+It can be used as an important tool by biobanks.
+Keywords:
+biobank; Biobank Impact Factor Data

@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2007;5(4): 174-178. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conservation of cis-Regulatory Element Controlling Timely Translation in the 3'-UTR of Selected Mammalian Maternal Transcripts.
+
+
+
+ Hyun Joo Lee,  Yoonki Lim,  Sang Ho Chang,  Kwansik Min,  Ching Tack Han,  Sue Yun Hwang 
+
+
+
+1Graduate School of Biotechnology, Environmental and Information Technology, Hankyong National University, Ansung 456-749, Korea. 2Department of Bioengineering, Hankyong National University, Ansung 456-749, Korea. 3Department of Life Science, Sogang University, Seoul 121-742, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The earliest stages of mammalian embryogenesis are governed by the activity of maternally inherited transcripts and proteins. Cytoplasmic polyadenylation of selected maternal mRNA has been reported to be a major control mechanism of delayed translation during preimplantation embryogenesis in mice. The presence of cis-elements required for cytoplasmic polyadenylation (e.g., CPE) can serve as a useful tag in the screening of maternal genes partaking in key functions in the transcriptionally dormant egg and early embryo. However, due to its relative simplicity, UA-rich sequences satisfying the canonical rule of known CPE consensus sequences are often found in the 3'-UTR of maternal transcripts that do not actually undergo cytoplasmic polyadenylation. In this study, we developed a method to confirm the validity of candidate CPE sequences in a given gene by a multiplex comparison of 3'-UTR sequences between mammalian homologs.
+We found that genes undergoing cytoplasmic polyadenylation tend to create a conserved block around the CPE, while CPE-like sequences in the 3'-UTR of genes lacking cytoplasmic polyadenylation do not exhibit such conservation between species. Through this cross-species comparison, we also identified an alternative CPE in the 3'-UTR of tissue-type plasminogen activator (tPA), which is more likely to serve as a functional element. We suggest that verification of CPEs based on sequence conservation can provide a convenient tool for mass screening of factors governing the earliest processes of mammalian embryogenesis.		
+
+
+
+
+

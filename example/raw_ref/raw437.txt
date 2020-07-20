@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(1): 30-34. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Supervised Model for Identifying Differentially Expressed Genes in DNA Microarray Gene Expression Dataset Using Biological Pathway Information.
+
+
+
+ Tae Su Chung,  Keewon Kim,  Ju Han Kim 
+
+
+
+1Seoul National University Biomedical Informatics (SNUBI), Korea. 2Human Genome Research Institute, Seoul National University College of Medicine, Seoul 110-799, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Microarray technology makes it possible to measure the expressions of tens of thousands of genes simultaneously under various experimental conditions. Identifying differentially expressed genes in each single experimental condition is one of the most common first steps in microarray gene expression data analysis. Reasonable choices of thresholds for determining differentially expressed genes are used for the next-step-analysis with suitable statistical significances. We present a supervised model for identifying DEGs using pathway information based on the global connectivity structure. Pathway information can be regarded as a collection of biological knowledge, thus we are trying to determine the optimal threshold so that the consequential connectivity structure can be the most compatible with the existing pathway information. The significant feature of our model is that it uses established knowledge as a reference to determine the direction of analyzing microarray dataset. In the most of previous work, only intrinsic information in the miroarray is used for the identifying DEGs. We hope that our proposed method could contribute to construct biologically meaningful structure from microarray datasets.		
+
+
+
+
+

@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2009; 7(4): 208-211.
+DOI: https://doi.org/10.5808/gi.2009.7.4.208
+IdMapper: A Java Application for ID Mapping across Multiple Cross-referencing Providers.
+Hookeun Lee, Hyeonjin Kim, Ungsik Yu
+Lee Gil Ya Cancer and Diabetes Institute, Gachon University of Medicine and Science, Incheon 406-840, Korea.
+ungsik @ gachon.ac.kr
+Abstract
+We developed an identifier mapping application for bioinformatics research in Java programming language.
+It is easy to use and provides many usability functionalities that are expected as essentials for a professional application.
+It supports three widely used mapping services and can convert many ids from one source database into many target databases at once.
+Id mapping across service providers is possible by remapping the resultant ids.
+Because it adheres to the NetBeans platform architecture, it can be incorporated into other NetBeans platform applications as an id mapping provider without adaption or modification.
+Keywords:
+ID mapping; java; netbeans; rich client; web services

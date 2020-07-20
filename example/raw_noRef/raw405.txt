@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(2): 57-64. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Single and Dual Ligand Effects on Gene Expression Changes in Mouse Macrophage Cells.
+
+
+
+ Sang Dun Choi,  Jeong Sun Seo 
+
+
+
+1Department of Molecular Science and Technology, Ajou University, Korea. Sangdunchoi@ajou.ac.kr 2Department of Biochemistry and Molecular Biology, Seoul National University College of Medicine, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		We identified differentially expressed genes in RAW264.7 cells in response to single and double ligand treatments (LPS, IFNgamma, 2MA, LPS plus IFNgamma, and LPS plus 2MA).
+The majority of the regulated transcripts responded additively to dual ligand treatment. However, a significant fraction responded in a non-additive fashion. Several cytokines showing non-additive transcriptional responses to dual ligand treatment also showed non-additive protein production/secretion responses in separately performed experiments. Many of the genes with non-additive responses to LPS plus 2MA showed enhanced responses and encoded pro-inflammatory proteins. LPS plus IFNgamma appeared to induce both non-additive enhancement and non-additive attenuation of gene expression. The affected genes were associated with a variety of biological functions. These experiments reveal both dependent and independent regulatory pathways and point out the specific nature of the regulatory interactions.		
+
+
+Keywords:
+macrophage; gene expression; signal transduction; toll-like receptor (TLR) 
+
+
+
+
+

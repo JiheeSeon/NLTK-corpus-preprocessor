@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2005; 3(4): 154-158.
+X-linked Gene Expression Profiles by RNAi-Mediated BRCA1 Knockdown in MCF7 Cells.
+Min Ae Song, Jung Hoon Park, Hee Jeong Ahn, Jung Jae Ko, Suman Lee
+1Functional Genomics Lab, Bundang Campus, Pochon CHA University College of Medicine, Sungnam-Si, Gyeonggi-Do 463-836, Korea.
+2CHA Research Institute, Bundang Campus, Pochon CHA University College of Medicine, Sungnam-Si, Gyeonggi-Do 463-836, Korea.
+3Department of Pathology, Bundang CHA Hospital, Pochon CHA University College of Medicine, Sungnam-Si, Gyeonggi-Do 463-836, Korea.
+Abstract
+Germ-line mutations of the BRCA1 gene confer an increased risk for breast and ovarian cancers.
+BRCA1 in female cells is directly related with the maintenance of the inactive X chromosome(Xi).
+The effect by the loss of the BRCA1 function on the X chromosome gene expression remains unclear in cancer cells.
+We attempted to investigate the expression pattern of the X-linked genes by performing BRCA1 knockdown via RNA interference in the MCF 7 breast cancer cell line.
+The transcriptional and translational levels of BRCA1 were decreased over 95% in the MCF 7 cells after BRCA1 knockdown.
+The expression patterns of one hundred ninety X-linked genes were profiled by the X chromosome-specific cDNA arrays.
+A total of seven percent of the X-linked genes(14/190) were aberrantly expressed by over 2-fold in the MCF7-BRCA1 knockdown cells, which contained two up-regulated genes(2/190, 1%) and 12 downregulated genes(12/190, 6.3%).
+It is interesting that 72% of the aberrantly expressed X-linked genes were located on the Xq(10/14,) region.
+Our data suggests that BRCA1 may not be important to maintain X chromosome inactivation in cancer because the BRCA1 knockdown did increase the expression of the only one percent of X-linked genes in the human breast cancer cells.

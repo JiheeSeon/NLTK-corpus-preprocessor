@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(3): 53-62. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prediction of Mammalian MicroRNA Targets : Comparative Genomics Approach with Longer 3' UTR Databases.
+
+
+
+ Seungyoon Nam,  Young Kook Kim,  Pora Kim,  V Narry Kim,  Seokmin Shin,  Sanghyuk Lee 
+
+
+
+1Division of Molecular Life Sciences, Ewha Womans University, Seoul 120-750, Korea. sanghyuk@ewha.ac.kr 2Interdisciplinary Program in Bioinformatics, Seoul National University, Seoul 151-747, Korea. 3Institute of Molecular Biology and Genetics and School of Biological Science, Seoul National University, Seoul 151-742, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		MicroRNAs play an important role in regulating gene expression, but their target identification is a difficult task due to their short length and imperfect complementarity. Burge and coworkers developed a program called TargetScan that allowed imperfect complementarity and established a procedure favoring targets with multiple binding sites conserved in multiple organisms. We improved their algorithm in two major aspects - (i) using well-defined UTR (untranslated region) database, (ii) examining the extent of conservation inside the 3' UTR specifically. Average length in our UTR database, based on the ECgene annotation, is more than twice longer than the Ensembl. Then, TargetScan was used to identify putative binding sites. The extent of conservation varies significantly inside the 3' UTR. We used the "tight" tracks in the UCSC genome browser to select the conserved binding sites in multiple species. By combining the longer 3' UTR data, TargetScan, and tightly conserved blocks of genomic DNA, we identified 107 putative target genes with multiple binding sites conserved in multiple species, of which 85 putative targets are novel.		
+
+
+Keywords:
+microRNA; microRNA target; UTR database; comparative genomics 
+
+
+
+
+

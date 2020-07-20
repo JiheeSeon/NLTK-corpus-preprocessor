@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2006; 4(1): 11-15.
+Identification of hRad21-Binding Sites in Human Chromosome.
+Chur Chin, Byung Seon Chung
+Department of Biochemistry and Molecular Biology, College of Medicine, Pusan National University, Korea.
+chungbs @ pusan.ac.kr
+Abstract
+The aim of this study is to identify hRad21-binding sites in human chromosome, the core component of cohesin complex that held sister chromatids together.
+After chromatin immunoprecipitation with an hRad21 antibody, it was cloned the recovered DNA and sequenced 30 independent clones.
+Among them, 20 clones(67%) contained repetitive elements including short interspersed transposable elements(SINE or Alu elements), long terminal repeat(LTR) and long interspersed transposable elements(LINE), fourteen of these twenty(70%) repeats clones had Alu elements, which could be categorized as the old and the young Alu Subfamily, eleven of the fourteen(73%) Alu elements belonged to the old Alu Subfamily, and only three Alu elements were categorized as young Alu subfamily.
+There is no CpG island within these selected clones.
+Association of hRad21 with Alu was confirmed by chromatin immunoprecipitation-PCR using conserved Alu primers.
+The primers were designed in the flanking region of Alu, and the specific Alu element was shown in the selected clone.
+From these experiments, it was demonstrated that hRad21 could bind to SINE, LTRs, and LINE as well as Alu.
+Keywords:
+hRad21 cohesin repeated element; Alu; SINE; LINE; LTR; ChIP; sequence

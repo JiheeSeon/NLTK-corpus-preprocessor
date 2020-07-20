@@ -1,0 +1,20 @@
+Original Article
+Genomics & Informatics 2008; 6(4): 192-201.
+DOI: https://doi.org/10.5808/gi.2008.6.4.192
+Erythropoietin-producing Human Hepatocellular Carcinoma Receptor B1 Polymorphisms are Associated with HBV-infected Chronic Liver Disease and Hepatocellular Carcinoma in a Korean Population.
+Kyoung Yeon Kim, Seung Ku Lee, Min Ho Kim, Jae Youn Cheong, Sung Won Cho, Kap Seok Yang, KyuBum Kwack
+1Medical Genomics Laboratory, Graduate School of Life Science and Biotechnology, Pochon CHA University, Seongnam 463-836, Korea.
+kbkwack @ cha.ac.kr,kbkwack @ gmail.com 2Department of Gastroenterology, Genomic Research Center for Gastroenterology, Ajou University School of Medicine, Suwon 442-721, Korea.
+3Macrogen Inc. 60-24, Gasan-dong, Gumcheon-gu, Seoul 153-781, Korea.
+Abstract
+Erythropoietin-producing human hepatocellular carcinoma receptor B1(EPHB1) is a member of the Eph family of receptor tyrosine kinases that mediate vascular system development.
+Eph receptor overexpression has been observed in various cancers and is related to the malignant transformation, metastasis, and differentiation of cancers, including hepatocellular carcinoma(HCC).
+Eph receptors regulate cell migration and attachment to the extracellular matrix by modulating integrin activity.
+EphrinB1, the ligand of EPHB1, has been shown to regulate HCC carcinogenesis.
+Here, we sought to determine whether EPHB1 polymorphisms are associated with hepatitis B virus(HBV) -infected liver diseases, including chronic liver disease(CLD) and HCC.
+We genotyped 26 EPHB1 single nucleotide polymorphisms(SNPs) in 399 Korean CLD, HCC, and LD(CLD+HCC) cases and seroconverted controls(HBV clearance, CLE) using the GoldenGate assay.
+Two SNPs(rs6793828 and rs11717042) and 1 haplotype that were composed of these SNPs were associated with an increased risk for CLD, HCC, and LD(CLD+HCC) compared with CLE.
+Haplotypes that could be associated with HBV-infected liver diseases by affecting downstream signaling were located in the Eph tyrosine kinase domain of EPHB1.
+Therefore, we suggest that EPHB1 SNPs, haplotypes, and diplotypes may be genetic markers for the progression of HBV-associated acute hepatitis to CLD and HCC.
+Keywords:
+chronic liver disease; hepatocellular carcinoma; Eph receptor; angiogenesis; polymorphism

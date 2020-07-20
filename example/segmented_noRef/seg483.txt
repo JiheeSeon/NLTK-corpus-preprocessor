@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2003; 1(1): 25-31.
+A Heuristic Algorithm to Find All Normalized Local Alignments Above Threshold.
+Sangtae Kim, Jeong Seop Sim, Heejin Park, Kunsoo Park, Hyunseok Park, Jeong Sun Seo
+1Department of Computer Science, Korea Military Academy, Seoul, Korea.
+2Electronics and Telecommunications Research Institute, Daejeon, Korea.
+kpark @ theory.snu.ac.kr 3School of Computer Science and Engineering, Seoul National University, Seoul, Korea.
+4Institute of Bioinformatics, Macrogen, Inc., Seoul, Korea.
+5Department of Computer Science, Ewha Womans University, Seoul, Korea.
+6Ilcheon Molecular Medicine Institute, Seoul National University, Seoul, Korea.
+Abstract
+Local alignment is an important task in molecular biology to see if two sequences contain regions that are similar.
+The most popular approach to local alignment is the use of dynamic programming due to Smith and Waterman, but the alignment reported by the Smith-Waterman algorithm has some undesirable properties.
+The recent approach to fix these problems is to use the notion of normalized scores for local alignments by Arslan, Egecioglu and Pevzner.
+In this paper we consider the problem of finding all local alignments whose normalized scores are above a given threshold, and present a fast heuristic algorithm.
+Our algorithm is 180-330 times faster than Arslan et al. ''s for sequences of length about 120 kbp and about 40-50 times faster for sequences of length about 30 kbp.
+Keywords:
+local alignment; dynamic programming; normalized score; fractional programming

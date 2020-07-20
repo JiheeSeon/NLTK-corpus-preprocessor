@@ -1,0 +1,15 @@
+Review
+Genomics & Informatics 2005; 3(2): 47-51.
+Higher Order Knowledge Processing: Pathway Database and Ontologies.
+Ken Ichiro Fukuda
+1Computational Biology Research Center(CBRC), Japan.
+fukuda.cbrc @ aist.go.jp 2National Institute of AdvaMinireviewnced Industrial Science and Technology(AIST), Japan.
+3AIST Tokyo Waterfront Bio-IT Research Bldg. 10F. 42 Aomi, ENutou-ku, Tokyo 135-0064, Japan.
+Abstract
+Molecular mechanisms of biological processes are typically represented as `` pathways '' that have a graph-analogical network structure.
+However, due to the diversity of topics that pathways cover, their constituent biological entities are highly diverse and the semantics is embedded implicitly.
+The kinds of interactions that connect biological entities are likewise diverse.
+Consequently, how to model or process pathway data is not a trivial issue.
+In this review article, we give an overview of the challenges in pathway database development by taking the INOH project as an example.
+Keywords:
+athway database; ontology; signal transduction; textual knowledge

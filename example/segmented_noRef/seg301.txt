@@ -1,0 +1,17 @@
+Original Article
+Genomics & Informatics 2009; 7(2): 65-84.
+DOI: https://doi.org/10.5808/gi.2009.7.2.065
+Identification of 1,531 cSNPs from Full-length Enriched cDNA Libraries of the Korean Native Pig Using in Silico Analysis.
+Younshin Oh, Dinh Truong Nguyen, Kwangha Park, Vijaya R Dirisala, Hojun Choi, Chankyu Park
+Department of Animal Biotechnology, Konkuk University, Seoul 143-701, Korea.
+chankyu @ konkuk.ac.kr
+Abstract
+Sequences from the clones of full-length enriched cDNA libraries serve as valuable resources for functional genomics related studies, genome annotation and SNP discovery.
+We analyzed 7,392 high-quality chromatograms(Phred value> 30) obtained from sequencing the 5' ends of clones derived from full-length enriched cDNA libraries of Korean native pigs including brainstem, liver, cerebellum, neocortex and spleen libraries.
+In addition, 50,000 EST sequence trace files obtained from GenBank were combined with our sequences to identify cSNPs in silico.
+The process generated 11,324 contigs, of which 2,895 contigs contained at least one SNP and among them 610 contigs had a minimum of one sequence from Korean native pigs.
+Of 610 contigs, we randomly selected 262 contigs and performed in silico analysis for the identification of cSNPs.
+From the results, we identified 1,531 putative coding single nucleotide polymorphisms(cSNPs) and the SNP detection frequency was one SNP per 465 bp.
+A large-scale sequencing result of clones from full-length enriched cDNA libraries and identified cSNPs will serve as a useful resource to functional genomics related projects such as a pig HapMap project in the near future
+Keywords:
+cSNP; full-length cDNA library; functional genomics; Korean native pigs; pigs

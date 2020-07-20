@@ -1,0 +1,17 @@
+Review
+Genomics & Informatics 2011; 9(3): 93-101.
+DOI: https://doi.org/10.5808/gi.2011.9.3.93
+The Hairless Gene: A Putative Navigator of Hair Follicle Development.
+Jeong Ki Kim, Bong Kyu Kim, Jong Keun Park, Jee Hyun Choi, Sungjoo Kim Yoon
+1Department of Medical Lifescience, The Catholic University of Korea, Seoul 137-701, Korea.
+sjkyoon @ catholic.ac.kr 2Department of Biomedical Sciences, The Catholic University of Korea, Seoul 137-701, Korea.
+Abstract
+The Hairless(HR) gene regulates the expression of several target genes as a transcriptional corepressor of nuclear receptors.
+The hair follicle(HF), a small independent organ of the skin, resides in the epidermis and undergoes regenerative cycling for normal hair formation.
+HF development requires many genes and signaling pathways to function properly in time and space, one of them being the HR gene.
+Various mutations of the HR gene have been reported to cause the hair loss phenotype in rodents and humans.
+In recent studies, it has been suggested that the HR gene is a critical player in the regulation of the hair cycle and, thus, HF development.
+Furthermore, the HR gene is associated with the Wnt signaling pathway, which regulates roliferation and differentiation of cells and plays an essential role in hair and skin development.
+In this review, we summarize the mutations responsible for human hair disorders and discuss the roles of the HR gene in HF development.
+Keywords:
+hairless; corepressor; hair follicle; hair cycle; hair loss

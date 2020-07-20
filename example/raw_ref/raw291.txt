@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2009;7(3): 152-158. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.3.152
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Localization of Quantitative Trait Loci for Bone Mineral Density on Chromosome 13 in the Mongolian Population.
+
+
+
+ Soo Hyun Seo,  Hae Jeng Lim,  Sejin Ahn,  Joseph Lee,  Jong Il Kim 
+
+
+
+1Genomic Medicine Institute, Medical Research Center, Seoul National University, Seoul 110-799, Korea. jongil@snu.ac.kr 2Department of Biochemistry and Molecular Biology, College of Medicine Seoul National University, Seoul. 110-799, Korea. 3Taub Institute, Columbia University Medical Center, New York, USA. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Although the genetic basis for bone mineral density (BMD) has been studied by many groups so far, genes responsible for this complex trait has not been completely revealed. In order to localize quantitative trait loci (QTLs) for BMD variation in Asian population, the study was designed using a group of Mongolian population, a genetically closed population with a homogeneous lifestyle. BMD was measured at the left and right wrists and ankles using DEXA in 1,082 participants from 142 families. Genotyping of 13 polymorphic microsatellitemarkers on chromosome 13 (average spacing 8-9 cM) and two-point and multipoint linkage analysis wereperformed. In two-point linkage analysis, we identified two markers, D13S175 (6.03 cM) and D13S265 (68.73cM) that had LOD scores greater than 1 for left ankle (LOD=2.09, LOD=1.49, respectively). We also found a marker D13S175 (6.03 cM) with a high LOD for left wrist (LOD=1.49) and the markers D13S265 (68.73 cM) and D13S217 (17.21 cM) for the right wrist (LOD= 1.82, LOD= 1.62, respectively).
+Among these significant marker regions, only two regions at 17 cM (13p11) and 65 cM (13q21) for the right wrist overlapped with major QTLs reported in following multipoint linkage analysis (LOD= 1.7549, LOD=1.4462, respectively).
+This study provides the possible evidence of the presence of QTLs affecting right wrist BMD in Mongolian populations on 13p11 and 13q21. Modest evidence was also found for genes affecting left ankle and left wrist BMD on 13p13.		
+
+
+Keywords:
+association analysis; bone density; linkage analysis; mongolian population; QTL 
+
+
+
+
+

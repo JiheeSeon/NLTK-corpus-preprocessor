@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2011; 9(3): 134-135.
+DOI: https://doi.org/10.5808/gi.2011.9.3.134
+Implementation of a Particle Swarm Optimization-based Classification Algorithm for Analyzing DNA Chip Data.
+Xiaoyue Han, Minsoo Lee
+Department of Computer Science and Engineering, Ewha Womans University, Seoul 120-750, Korea.
+mlee @ ehwa.ac.kr
+Abstract
+DNA chips are used for experiments on genes and provide useful information that could be further analyzed.
+Using the data extracted from the DNA chips to find useful patterns or information has become a very important issue.
+In this paper, we explain the application developed for classifying DNA chip data using a classification method based on the Particle Swarm Optimization(PSO) algorithm.
+Considering that DNA chip data is extremely large and has a fuzzy characteristic, an algorithm that imitates the ecosystem such as the PSO algorithm is suitable to be used for analyzing such data.
+The application enables researchers to customize the PSO algorithm parameters and see detail results of the classification rules.
+Keywords:
+classification; DNA chip data

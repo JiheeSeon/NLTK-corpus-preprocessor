@@ -1,0 +1,13 @@
+Original Article
+Genomics & Informatics 2004; 2(4): 183-190.
+Five Computer Simulation Studies of Whole-Genome Fragment Assembly: The Case of Assembling Zymomonas mobilis ZM4 Sequences.
+Cholhee Jung, Jin Young Choi, Hyun Seok Park, Jeong Sun Seo
+1Department of Computer Science and Engineering, Korea University, Seoul 136-701, Korea.
+2Institute of Bioinformatics, Macrogen Corp., Seoul 153-023, Korea.
+3Department of Computer Science and Engineering, Ewha University, Seoul 120-750, Korea.
+4School of Medicine, Seoul National University, Seoul 151-742, Korea.
+Abstract
+An approach for genome analysis based on assembly of fragments of DNA from the whole genome can be applied to obtain the complete nucleotide sequence of the genome of Zymomonas mobilis.
+However, the problem of fragment assembly raise thorny computational issues.
+Computer simulation studies of sequence assembly usually show some abnormal assemblage of artificial sequences containing repetitive or duplicated regions, and suggest methods to correct those abnormalities.
+In this paper, we describe five simulation studies which had been performed previous to the actual genome assembly process of Zymomonas mobilis ZM4.

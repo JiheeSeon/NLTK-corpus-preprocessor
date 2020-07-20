@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(4): 147-160. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Comparative Genome-Wide Analysis of GATA Transcription Factors in Fungi.
+
+
+
+ Jongsun Park,  Hyojeong Kim,  Soonok Kim,  Sunghyung Kong,  Jaejin Park,  Seryun Kim,  Hyea young Han,  Bongsoo Park,  Kyongyong Jung,  Yong Hwan Lee 
+
+
+
+1Fungal Bioinformatics Laboratory, Seoul National University, Seoul, Korea. yonglee@snu.ac.kr 2Department of Agricultural Biotechnology, Seoul National University, Seoul, Korea. 3Center for Fungal Genetic Resources, Seoul National University, Seoul, Korea. 4Center for Agricultural Biomaterials, Seoul National University, Seoul, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		GATA transcription factors are widespread eukaryotic regulators whose DNA-binding domain is a class IV zinc finger motif in the form CX(2)CX(17-20)CX(2)C followed by a basic region. In fungi, they act as transcriptional activators or repressors in several different processes, ranging from nitrogen source utilization to mating-type switching. Using an in-house bioinformatics portal system, we surveyed 50 fungal and 9 out-group genomes and identified 396 putative fungal GATA transcription factors. The proportion of GATA transcription factors within a genome varied among taxonomic lineages. Subsequent analyses of phylogenetic relationships among the fungal GATA transcription factors, as well as a study of their domain architecture and gene structure, demonstrated high degrees of conservation in type IVa and type IVb zinc finger motifs and the existence of distinctive clusters at least at the level of subphylum. The SFH1 subgroup with a 20-residue loop was newly identified, in addition to six well-defined subgroups in the subphylum Pezizomycotina. Furthermore, a novel GATA motif with a 21-residue loop (CX(2)CX(21)CX(2)C, designated 'zinc finger type IVc') was discovered within the phylum Basidiomycota. Our results suggest that fungal GATA factors might have undergone multiple distinct modes of evolution resulting in diversified cellular modulation in fungi.		
+
+
+Keywords:
+GATA transcription factor; Fungi; Comparative analysis; Phylogenetics; Type IVc zinc finger 
+
+
+
+
+

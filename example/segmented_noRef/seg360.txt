@@ -1,0 +1,20 @@
+Original Article
+Genomics & Informatics 2007; 5(4): 152-160.
+Characterization of Single Nucleotide Polymorphisms in 55 Disease-Associated Genes in a Korean Population.
+Seung Ku Lee, Hyoun Geun Kim, Jason J Kang, Wonil Oh, Bermseok Oh, Kyu Bum Kwack
+1Medical Genomics Lab, CHA Research Institute, Pochon CHA University, Seongnam, Gyeonggi 463-836, Korea.
+kbkwack @ cha.ac.kr;kbkwack @ gmail.com 2Macrogen, Inc., Seoul 153-781, Korea.
+3Medipost, Co., Seoul 137-874, Korea.
+4Center for Genome Science, NIH, KCDC, Seoul 122-701, Korea.
+Abstract
+Most common diseases are caused by multiple genetic and environmental factors.
+Among the genetic factors, single nucleotide polymorphisms(SNPs) are common DNA sequence variations in individuals and can serve as important genetic markers.
+Recently, investigations of gene-based and whole genome-based SNPs have been applied to association studies for marker discovery.
+However, SNPs are so population-specific that the association needs to be verified.
+Fifty-five genes and 384 SNPs were selected based on association with disease.
+Genotypes of 337 SNPs in candidate genes were determined using Illumina Sentrix Array Matrix(SAM) chips by an allelespecific extension method in 364 unrelated Korean individuals.
+Allelic frequencies of SNPs were compared with those of other populations obtained from the International HapMap database.
+Minor allele frequencies, linkage disequilibrium blocks, tagSNPs, and haplotypes of functional candidate SNPs in 55 genetic disease-associated genes were provided.
+Our data may provide useful information for the selection of genetic markers for genebased genetic disease-association studies of the Korean population.
+Keywords:
+disease-associated gene; single nucleotide polymorphism(SNP); haplotype; linkage disequilibrium; Korean

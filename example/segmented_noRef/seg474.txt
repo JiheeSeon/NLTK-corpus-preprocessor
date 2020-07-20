@@ -1,0 +1,10 @@
+Original Article
+Genomics & Informatics 2003; 1(2): 94-100.
+Rank-Based Nonlinear Normalization of Oligonucleotide Arrays.
+Peter J Park, Isaac S Kohane, Ju Han Kim
+1Children 's Hospital Informatics Program, Children 's Hospital, Harvard Medical School, Boston, MA 02115, USA. peter-park @ harvard.edu 2SNUBI: Seoul National University Biomedical Informatics, Seoul National University College of Medicine, Seoul 110-799, Republic of Korea.
+Abstract
+MOTIVATION: Many have observed a nonlinear relationship between the signal intensity and the transcript abundance in microarray data.
+The first step in analyzing the data is to normalize it properly, and this should include a correction for the nonlinearity.
+The commonly used linear normalization schemes do not address this problem.
+RESULTS

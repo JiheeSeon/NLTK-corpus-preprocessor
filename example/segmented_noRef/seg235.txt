@@ -1,0 +1,19 @@
+Original Article
+Genomics & Informatics 2011; 9(2): 52-58.
+DOI: https://doi.org/10.5808/gi.2011.9.2.52
+Genome-wide Association Study Identification of a New Genetic Locus with Susceptibility to Osteoporotic Fracture in the Korean Population.
+Joo Yeon Hwang, Seung Hun Lee, Min Jin Go, Beom Jun Kim, Young Jin Kim, Dong Joon Kim, Ji Hee Oh, Heejo Koo, My Jung Cha, Min Hye Lee, Ji Young Yun, Hye Sook Yoo, Young Ah Kang, Ki Won Oh, Moo Il Kang, Ho Young Son, Shin Yoon Kim, Ghi Su Kim, Bok Ghee Han, Yoon Shin Cho, Jung Min Koh, Jong Young Lee
+1Center for Genome Science, National Institute of Health, Osong Health Technology Administration Complex, Chungbuk 363-951, Korea.
+leejy63 @ nih.go.kr 2Division of Endocrinology and Metabolism, Asan Medical Center, University of Ulsan College of Medicine, Seoul 138-736, Korea.
+3Skeletal Diseases Genome Research Center, Kyungpook National University Hospital, Daegu 700-721, Korea.
+4Department of Internal Medicine, Sungkyunkwan University School of Medicine, Seoul 136-710, Korea.
+5Department of Internal Medicine, The Catholic University of Korea School of Medicine, Seoul 137-701, Korea.
+6Department of Orthopedic Surgery, School of Medicine, Kyungpook National University, Daegu 700-721, Korea.
+Abstract
+Osteoporotic fracture(OF), along with bone mineral density(BMD), is an important diagnostic parameter and a clinical predictive risk factor in the assessment of osteoporosis in the elderly population.
+However, a genomewide association study(GWAS) on OF has not yet been clarified sufficiently.
+To identify OF-associated genetic variants and candidate genes, we conducted a GWAS in a population-based cohort(Korean Association Resource[KARE], n=1,427[case: 288 and control: 1139]) and performed a de novo replication study in hospital-based individuals(Asan and Catholic Medical Center[ACMC], n=1,082[case: 272 and control: 810]).
+In a combined meta-analysis, a newly identified genetic locus in an intergenic region at 10p11.2(near genes FZD8 and ANKRD30A) showed the most significant association(odd ratio[OR] = 2.00, 95% confidence interval[CI] = 1.47~2.74, p=1.27x10(-5)) in the same direction.
+We provide the first evidence for a common genetic variant influencing OF and genetic information for further investigation in bone metabolism.
+Keywords:
+genomewide association study; meta-analysis; osteoporotic fracture; intergenic

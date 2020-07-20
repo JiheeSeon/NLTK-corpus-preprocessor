@@ -1,0 +1,13 @@
+Original Article
+Genomics & Informatics 2005; 3(1): 35-38.
+BioSubroutine: an Open Web Server for Bioinformatics Algorithms and Subroutines.
+Joowon Lee, Hana Kim, Wonhye Lee, Dongil Chung, Jong Bhak
+1BioSystems Department, KAIST, Daejeon 305-701, Korea.
+2National Genome Information Center, KRIBB, Daejeon 305-333, Korea.
+Abstract
+We present BioSubroutine, an open depository server that automatically categorizes various subroutines frequently used in bioinformatics research.
+We processed a large bioinformatics subroutine library called Bio.pl that was the first Bioperl subroutine library built in 1995.
+Over 1000 subroutines were processed automatically and an HTML interface has been created.
+BioSubroutine can accept new subroutines and algorithms from any such subroutine library, as well as provide interactive user forms.
+The subroutines are stored in an SQL database for quick searching and accessing.
+BioSubroutine is an open access project under the BioLicense license scheme.

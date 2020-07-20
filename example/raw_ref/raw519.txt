@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+
+
+
+Review Article 
+
+
+Genomics & Informatics 2018; 16(4): e21.
+
+
+Published online: December 28, 2018 
+DOI: https://doi.org/10.5808/GI.2018.16.4.e21
+
+
+
+
+An Advanced Understanding of Uterine Microbial Ecology Associated with Metritis in Dairy Cows
+
+Soo Jin Jeon 1*, Klibs N. Galvão 2, 3
+
+
+1Department of Biomedical Veterinary Sciences, College of Veterinary Medicine, Long Island University, Brookville, NY 11548, 
+USA
+
+2Department of Large Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, FL 32610, 
+USA
+
+3D. H. Barron Reproductive and Perinatal Biology Research Program, University of Florida, Gainesville, FL 32610, 
+USA
+
+
+
+*Corresponding author: Tel: +1-516-299-3691, E-mail: soojin.jeon@liu.edu
+ 
+
+ Received December 3, 2018    Accepted December 20, 2018
+
+Copyright © 2018 by the Korea Genome Organization 
+It is identical to the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/).
+
+
+
+
+Abstract
+
+Metritis, the inflammation of the uterus caused by polymicrobial infections, is a prevalent and costly disease to the dairy industry as it decreases milk yield, survival, and the welfare of dairy cows. Although affected cows are treated with broad-spectrum antibiotics such as ceftiofur, endometrial and ovarian function are not fully recovered, which results in subfertility and infertility. According to culture-dependent studies, uterine pathogens include Escherichia coli, Trueperella pyogenes, Fusobacterium necrophorum, and Prevotella melaninogenica. Recent studies using high-throughput sequencing observed very low relative abundance of Escherichia coli, Trueperella pyogenes, and Prevotella melaninogenica in cows with metritis. Herein, we propose that metritis is associated with a dysbiosis of the uterine microbiota, which is characterized by high abundance of Bacteroides, Porphyromonas, and Fusobacterium.
+Keywords: cattle, metagenomics, microbiota, uterine diseases 
+
+
+
+
+
+Introduction
+Metritis is an acute inflammatory disease in the uterus of dairy cows, found in ~20% of lactating dairy cows, with the incidence ranging from 8% to more than 40% in some farms [1-3]. Metritis gives rise to a reduction in reproductive performance and milk production and an increase in culling and antibiotic use [4-6], which costs about $358 per case of metritis [7]. Given the U.S. dairy cow population of 9.3 million [8] and the typical incidence in U.S. herds of 20%, the total cost of metritis to the US dairy industry is estimated at approximately $665 million.
+Uterine infection is a common phenomenon after parturition and thus uterine discharge is normal physiology for postpartum cows to eliminate bacteria residing in the uterus. However, when cows fail to naturally eradicate bacteria, there is a greater pathogen burden that causes them to suffer from inflammation with enlarged uterus and fetid red-brownish uterine discharge [5, 9]. A fever > 39.5°C can accompany these symptoms, but not all of metritic cows show a fever [10, 11].
+
+Escherichia coli, Trueperella pyogenes, Fusobacterium necrophorum, and Prevotella melaninogenica are thought to be primary pathogens causing uterine disease, because these bacteria were frequently isolated from the uterine lumen of diseased cows, and they were shown to affect endometrium and ovary function [12-17]. In particular, E. coli emerged in the uterus within a few days of calving, followed by the colonization of T. pyogenes and F. necrophorum, suggesting that the uterine pathogens work synergistically. However, it should be noted that these bacteria were mostly isolated in cows with endometritis, which is different from metritis in terms of time and location of infection. Previous studies based on a culture method also have a limitation of detecting fastidious anaerobic microorganisms that require specific nutrients for growth on media. Indeed, it has been suggested that about less than 1% of environmental microorganisms are cultivable in the laboratory [18].
+To overcome limitations in culture methods, recent studies have used metagenomic sequencing which is a powerful tool to identify bacterial community. For example, clone library sequencing and pyrosequencing of the 16S rRNA gene revealed uterine bacterial community of dairy cows that was different between cows with and without metritis [19-22]. The Illumina platform allowed deeper sequencing than previously possible, with the potential to detect very rare phylotypes, which makes it possible to define uterine microbiota associated with metritis [10, 23-26]. Herein, the aim of the current paper is to review some recent studies that used metagenomic approaches to explore uterine bacterial community involved in metritis and discuss uterine bacteria that are known and newly identified in metagenomic sequencing.
+
+
+Uterine Microbiota Associated with Metritis
+As technology for pathogen detection has developed from culture method to next-generation sequencing, our knowledge about bacterial community structure and its influence on human health and disease is developing rapidly [27, 28]. Today, the advanced technology is helping bring to light uterine microbiota associated with metritis in dairy cows. An early study using denaturing gradient gel electrophoresis and 16S rRNA gene clone library sequencing determined that Fusobacteria was found to be more dominant in the metritic cows, and Gammaproteobacteria more dominant in healthy cows [19]. Another study examined the abundance and diversity of uterine microbiota in healthy and metritic cows using the clone library sequencing of 16S rRNA gene and quantitative polymerase chain reaction (PCR) analysis, and found that of all bacteria, Bacteroidetes, Peptostreptococcus, and Fusobacterium were more abundant in metritic cows than in healthy cows on 10 days postpartum (DPP) [21]. Furthermore, metagenomic pyrosequencing allowed the comparison of relative abundance of each bacteria in samples from metritic and non-metritic cows, where Bacteroides spp. and Ureaplasma spp. were found to be associated with metritis [20]. In this study Odoribacter spp., Peptoniphilus spp. and Helcococcus spp. were reported to be associated with uterine health and reproductive performance. However, it should be noted that they collected samples on 35 ± 3 DPP after the metritis was resolved. Considering dynamic changes of uterine microbiota [22, 23, 25], it is difficult to conclude that these bacteria identified on 35 ± 3 DPP contributed to metritis. In short, early metagenomic studies using clone library sequencing and pyrosequencing enabled the discovery of diverse and abundant uterine microbiota of dairy cows, pointing out the difference in bacterial community structure between healthy and metritic cows. However, these studies were unable to define specific uterine microbiota associated with metritis due to the lack of statistical power and technical limit of detection.
+To determine specific uterine microbiota associated with metritis, Jeon et al. [23] investigated uterine microbiota progression from calving (0 DPP) until establishment of metritis (6 ± 2 DPP) using Illumina sequencing of 16S rRNA genes. They observed that uterine microbiota structure was identical between cows that developed metritis and healthy cows until 2 DPP, when the bacterial structure deviated in favor of greater relative abundance of Bacteroides, Porphyromonas, and Fusobacterium in metritic cows. Notably, relative abundance of Bacteroides appeared to be significantly higher in metric cows than in healthy cows at 6 ± 2 DPP. Similar findings have been reported in other studies that used different types of samples and techniques [25, 26, 29]. In addition, cows that cured metritis either naturally or with antibiotic treatment displayed a decrease in abundance of Bacteroides, Porphyromonas, and Fusobacterium [24]. Considering all the literature in Table 1, it is reasonable to conclude that Bacteroides, Porphyromonas, and Fusobacterium play a key role in development of metritis. At the same time, it was not clear which bacteria were associated with uterine health due to individual variation of uterine microbiota, but healthy or cured cows appeared to harbor more diverse uterine microbiota [22, 23, 29].
+
+
+Uterine Pathogens
+In metagenomic analysis, F. necrophorum was found to be the most abundant species in the uterus, while P. melaninogenica, E. coli, and T. pyogenes were found to be extremely rare (<1% abundance) with no association with metritis [10, 23]. Conversely, E. coli was shown to be associated with uterine health, which conflicts with results from previous studies based on culture methods [23]. Herein, we discuss current understanding of uterine bacteria that are known and newly identified in metagenomic sequencing. P. melaninogenica that was barely detected in metagenomic sequencing [23] and T. pyogenes that is more likely associated with endometritis [30-32] are not described in this paper.
+
+
+Bacteroides
+
+Bacteroides was the most abundant genus in the uterus of metritic cows and the only genus that was significantly more prevalent in metritic cows than in healthy cows [23]. Also, the relative abundance of Bacteroides was shown to be associated with uterine discharge [23], suggesting that Bacteroides is the main pathogen causing metritis. In the genus of Bacteroides, B. heparinolyticus was the most abundant species in the uterus of cows with metritis [23]. However, absolute quantification of this bacterium was not significantly different between healthy and metritic cows [33]. B. heparinolyticus was found in the blood and feces of dairy cows, but it was more likely to colonize the uterus [34]. Considering the large proportion of B. heparinolyticus in the uterus of healthy and metritic cows, the role of B. heparinolyticus in uterine health is warranted. B. pyogenes was the second most abundant Bacteroides species in the uterus of cows with metritis [23], and it was recently recognized as a uterine pathogen in dairy cows associated with a fever [10]. B. pyogenes was first identified in abscesses and feces of pigs [35], and it has been identified in infected wounds after cat bites in humans [36]. Relatedness of B. pyogenes strains isolated from other hosts needs to be investigated to explore the origin and pathogenicity of B. pyogenes in the uterus of dairy cows. Bacteroides species are capable of causing diseases through a polysaccharide capsule, release of endotoxin (lipopolysaccharides), evasion of the host immune response, production of proteolytic enzymes (e.g., hyaluronidase and chondroitin sulfatase), production of hemolysins, release of enterotoxin (fragolysin), and aerotolerance [37]. Particularly, Bacteroides species are known to be resistant to several antibiotics including ceftiofur, which is a widely used antibiotic for treating metritis in dairy cows in the United States and Europe [24, 38].
+
+
+Porphyromonas
+
+Porphyromonas has recently been considered a uterine pathogen in metagenomic studies [10, 23-25, 29]. Within the genus Porphyromonas, Porphyromonas levii, Porphyromonas endodontalis, and Porphyromonas somerae were the most abundant species in the uterus of dairy cows [39]. Among these species, only P. levii was determined to be a uterine pathogen by the quantitative PCR analysis [33]. P. levii were also known as a pathogen causing bovine foot rot [40] and necrotic vulvovaginitis [41, 42]. It has been demonstrated that P. levii has the ability to avoid phagocytosis by polymorphonuclear neutrophils through production of immunoglobulin protease [43]. This may enable them to invade the endometrium during infection [44].
+
+
+Fusobacterium
+
+Fusobacterium was found to be abundant in both healthy and metritic cows by metagenomic analysis [10, 22, 23]. Nonetheless, it showed the correlation with uterine discharge score and interaction with abundance of Bacteroides [23], which implies that Fusobacterium is involved in development of metritis. Particularly, Fusobacterium necrophorum is a well-known pathogen related to uterine disease in dairy cows, as has been ascertained in culture-[45], PCR-[33], and sequencing-based studies (Table 1). The key virulence factor of F. necrophorum includes leukotoxin that is cytotoxic to immune cells specifically in cattle and sheep, and protects them against phagocytosis by neutrophils [46, 47]; despite F. necrophorum being well-studied, pathogenicity of bovine uterine isolates has not yet been investigated. F. necrophorum appeared to be present with other pathogens such as T. pyogenes and P. levii, suggesting a synergistic role of causing uterine disease [44, 45]. Similarly, the coexistence of Fusobacterium with Bacteroides and Porphyromonas was observed in the blood and uterus of dairy cows by network analysis [34]. Therefore, pathogenicity of F. necrophorum in the uterus may be attributed to interactions with other bacteria.
+
+
+Helcococcus
+Gram-positive facultative anaerobic Helcococcus ovis and Helcococcus kunzii were isolated from the uterus of dairy cows with metritis [48, 49]; but their involvement in metritis was not evident. Later metagenomic studies found that Helcococcus was associated with metritis [23] and endometritis [20], suggesting it to be a potential uterine pathogen. This is supported in a study by Cunha et al. [33] in which H. ovis was significantly prevalent in metritic cows than in healthy cows. Because of its presence together with E. coli and T. pyogenes [48], interaction with other uterine pathogens is likely during metritis development. H. ovis was also detected in sheep with subclinical mastitis [50], horses with pulmonary abscess [51] and cattle with valvular endocarditis [52, 53]. However, virulence factors of H. ovis remain to be elucidated.
+
+
+Escherichia coli
+Most E. coli in the human gastrointestinal tract are commensal microorganisms. However, when they are found in the urinary tract, which is called uropathogenic E. coli (UPEC), E. coli are highly harmful causing acute or recurrent urinary tract infection in humans [54]. One of the important virulence factors of UPEC is the type 1 pilus tip adhesion, which helps bacteria to bind to human and mouse bladder epithelial cells during urinary tract infection [55]. Likewise, some E. coli strains recovered from the uterus of postpartum cows had the fimH gene encoding type 1 pilus tip adhesion, and the presence of the fimH gene at 1-3 DPP was shown to be associated with metritis [15]. Nevertheless, E. coli has turned out to be very rare in the uterus of dairy cows with metritis by metagenomic sequencing analysis [23]; in fact, E. coli was shown to be associated with uterine health. The conflicting result may be because of diversity of E. coli strains. Indeed, Silva et al. [56] observed genomic diversity of E. coli strains isolated from the uterus of dairy cows with metritis, and none of the strains showed association with uterine infection. Sheldon et al. [57] insisted that there is a particular E. coli strain that is more invasive and adherent to endometrial stromal cells than other strains of E. coli. To understand pathogenic mechanisms of E. coli in the uterus, whole-genome sequencing of E. coli strains isolated from the uterus of dairy cows with metritis has been performed [58-60]. Comparative genomic analysis between strains from healthy and metritic cows is warranted.
+
+
+Conclusion
+In metagenomic sequencing of uterine microbiota, Bacteroides and Fusobacterium were identified as uterine pathogens; this finding is in agreement with previous findings obtained by culture-dependent methods [23, 29, 61, 62]. Porphyromonas and Helcococcus have been additionally incriminated as uterine pathogens [20, 23]. Pathogenic bacteria belonging to these genera include F. necrophorum, B. pyogenes, P. levii, and H. ovis. Meanwhile, according to deep sequencing and PCR analyses, the role of E. coli in metritis development is unclear because they were present in extremely low abundance in the uterus and showed no association with metritis [23, 33]. Nonetheless, it is possible that some E. coli are more pathogenic to endometrium of dairy cows, thereby contributing to metritis [57]. For confirmation of association of E. coli with metritis, further evidence is warranted.
+Illumina MiSeq platform is the preferred methodology in recent metagenomic studies because it provides deep sequencing and a cost-effective method to identify bacterial community. However, 454 pyrosequencing is also a sequencing option for bacterial community studies when long-read sequencing is desired; Illumina MiSeq platform reads a single or paired end up to 300 bp and 454 pyrosequencing platform reads up to 500 bp. The choice of a sequencing platform can be determined based on sample size and purpose of study as both Illumina sequencing and pyrosequencing provide greater sequencing depth and coverage. As seen in Table 1, similar results are derived from recent metagenomic studies regardless of the chosen or selected sequencing platforms.
+However, there are some limitations in metagenomic analysis. First, bacterial viability is unclear because metagenomic sequencing analyzes microbial DNA (e.g., 16S rRNA gene) that can be derived from either dead or live bacteria. Also, metagenomic sequencing provides only relative abundance data, and classification of short-reads of DNA is generally accepted up to the genus level. Therefore, culture and PCR methods are still necessary to complement the metagenomic data. Finally, it is possible that uterine microbiota samples can be contaminated during DNA purification as seen in the case of placenta microbiota which showed difficulty distinguishing microbiota from contamination controls [63]. Thus, negative controls with no DNA, such as reagent and water, need to be analyzed with samples to ensure no DNA contamination.
+The study of uterine microbiota in dairy cows will improve our knowledge of uterine diseases in women. Uterine bacteria found in women with puerperal sepsis, pelvic inflammatory disease, or endometrial cancer are similar to those observed in cows with metritis [23, 24, 64-66]. Considering the high prevalence of metritis, availability and accessibility of samples, and the similarity of pathogens that cause uterine disease in cows and humans, we propose that the bovine species is an excellent model by which to explore the role of uterine microbiota in health and disease.
+Bacterial community structure is linked to the function of bacterial community. Therefore, metagenomic analysis of uterine microbiota is the first step to understand the role of uterine microbiota in disease and fertility. Currently, we found a specific uterine microbiota associated with metritis, which harbors abundance of Bacteroides, Porphyromonas, and Fusobacterium. These uterine pathogens were also found in the gut and blood of dairy cows, indicating hematogenous transmission of bacteria towards the uterus [34]. This is supported by the fact that bacteremia was detected in more than ~50% of postpartum dairy cows [67], and that uterine pathogens were found in other body sites causing liver abscess [68, 69] and foot rot [40, 70]. Because uterine pathogens were even present in healthy and non-pregnant cows without causing inflammation [71, 72], it is possible that uterine pathogens are normal residents of the bovine uterus, and uterine disease may develop in postpartum cows with high abundance of uterine pathogens by alteration of uterine microbiota. Therefore, modulating uterine microbiota towards limiting abundance of uterine pathogens and improving diversity of uterine microbiota may be necessary for uterine health and fertility.
+
+
+
+
+Notes
+
+ Authors’ contribution
+Conceptualization: SJJ
+Data curation: SJJ
+Formal analysis: SJJ
+Writing - original draft: SJJ
+Writing - review & editing: SJJ, KNG
+
+
+ Conflicts of Interest
+No potential conflicts of interest relevant to this article was reported.
+
+
+
+
+
+
+
+
+References
+
+1. Markusfeld O. Periparturient traits in seven high dairy herds. Incidence rates, association with parity, and interrelationships among traits. J Dairy Sci 1987;70:158-166.   
+2. Galvão KN, Greco LF, Vilela JM, Sá Filho MF, Santos JE. Effect of intrauterine infusion of ceftiofur on uterine health and fertility in dairy cows. J Dairy Sci 2009;92:1532-1542.   
+3. Sheldon IM, Williams EJ, Miller AN, Nash DM, Herath S. Uterine diseases in cattle after parturition. Vet J 2008;176:115-121.    
+4. Drillich M, Beetz O, Pfützner A, Sabin M, Sabin HJ, Kutzer P, et al. Evaluation of a systemic antibiotic treatment of toxic puerperal metritis in dairy cows. J Dairy Sci 2001;84:2010-2017.   
+5. Sheldon IM, Lewis GS, LeBlanc S, Gilbert RO. Defining post-partum uterine disease in cattle. Theriogenology 2006;65:1516-1530.   
+6. Peter AT, Bosu WT. Relationship of uterine infections and folliculogenesis in dairy cows during early puerperium. Theriogenology 1988;30:1045-1051.   
+7. Overton M, Fetrow J. Economics of postpartum uterine health. In: Proceedings of Dairy Cattle Reproduction Conference, 2008 Nov 7-8; Omaha, NE, USA: Omaha: Dairy Cattle Reproduction Council, 2008. pp 39-44.
+8. United States Department of Agriculture. National Agricultural Statistics Service Ithaca: Cornell University, 2018. Accessed 2018 Oct 2. Available from: http://usda.mannlib.cornell.edu/MannUsda/homepage.do.
+9. Williams EJ, Fischer DP, Pfeiffer DU, England GC, Noakes DE, Dobson H, et al. Clinical evaluation of postpartum vaginal mucus reflects uterine bacterial infection and the immune response in cattle. Theriogenology 2005;63:102-117.   
+10. Jeon SJ, Cunha F, Ma X, Martinez N, Vieira-Neto A, Daetz R, et al. Uterine microbiota and immune parameters associated with fever in dairy cows with metritis. PLoS One 2016;11:e0165740.    
+11. Lima FS, Vieira-Neto A, Vasconcellos GS, Mingoti RD, Karakaya E, Solé E, et al. Efficacy of ampicillin trihydrate or ceftiofur hydrochloride for treatment of metritis and subsequent fertility in dairy cows. J Dairy Sci 2014;97:5401-5414.   
+12. Sheldon IM, Noakes DE, Rycroft AN, Pfeiffer DU, Dobson H. Influence of uterine bacterial contamination after parturition on ovarian dominant follicle selection and follicle growth and function in cattle. Reproduction 2002;123:837-845.   
+13. Williams EJ, Fischer DP, Noakes DE, England GC, Rycroft A, Dobson H, et al. The relationship between uterine pathogen growth density and ovarian function in the postpartum dairy cow. Theriogenology 2007;68:549-559.    
+14. Dohmen MJ, Lohuis JA, Huszenicza G, Nagy P, Gacs M. The relationship between bacteriological and clinical findings in cows with subacute/chronic endometritis. Theriogenology 1995;43:1379-1388.  
+15. Bicalho ML, Machado VS, Oikonomou G, Gilbert RO, Bicalho RC. Association between virulence factors of Escherichia coli, Fusobacterium necrophorum, and Arcanobacterium pyogenes and uterine diseases of dairy cows. Vet Microbiol 2012;157:125-131.   
+16. Miller AN, Williams EJ, Sibley K, Herath S, Lane EA, Fishwick J, et al. The effects of Arcanobacterium pyogenes on endometrial function in vitro, and on uterine and ovarian function in vivo. Theriogenology 2007;68:972-80.    
+17. Griffin JF, Hartigan PJ, Nunn WR. Non-specific uterine infection and bovine fertility. I. Infection patterns and endometritis during the first seven weeks post-partum. Theriogenology 1974;1:91-106.   
+18. Kaeberlein T, Lewis K, Epstein SS. Isolating “uncultivable” microorganisms in pure culture in a simulated natural environment. Science 2002;296:1127-1129.   
+19. Santos TM, Gilbert RO, Bicalho RC. Metagenomic analysis of the uterine bacterial microbiota in healthy and metritic postpartum dairy cows. J Dairy Sci 2011;94:291-302.   
+20. Machado VS, Oikonomou G, Bicalho ML, Knauer WA, Gilbert R, Bicalho RC. Investigation of postpartum dairy cows’ uterine microbial diversity using metagenomic pyrosequencing of the 16S rRNA gene. Vet Microbiol 2012;159:460-469.   
+21. Peng Y, Wang Y, Hang S, Zhu W. Microbial diversity in uterus of healthy and metritic postpartum Holstein dairy cows. Folia Microbiol (Praha) 2013;58:593-600.   
+22. Santos TM, Bicalho RC. Diversity and succession of bacterial communities in the uterine fluid of postpartum metritic, endometritic and healthy dairy cows. PLoS One 2012;7:e53048.    
+23. Jeon SJ, Vieira-Neto A, Gobikrushanth M, Daetz R, Mingoti RD, Parize AC, et al. Uterine microbiota progression from calving until establishment of metritis in dairy cows. Appl Environ Microbiol 2015;81:6324-6332.    
+24. Jeon SJ, Lima FS, Vieira-Neto A, Machado VS, Lima SF, Bicalho RC, et al. Shift of uterine microbiota associated with antibiotic treatment and cure of metritis in dairy cows. Vet Microbiol 2018;214:132-139.   
+25. Knudsen LR, Karstrup CC, Pedersen HG, Angen Ø, Agerholm JS, Rasmussen EL, et al. An investigation of the microbiota in uterine flush samples and endometrial biopsies from dairy cows during the first 7 weeks postpartum. Theriogenology 2016;86:642-650.   
+26. Bicalho ML, Machado VS, Higgins CH, Lima FS, Bicalho RC. Genetic and functional analysis of the bovine uterine microbiota. Part I: Metritis versus healthy cows. J Dairy Sci 2017;100:3850-3862.   
+27. NIH HMP Working Group, Peterson J, Garges S, Giovanni M, McInnes P, Wang L, et al. The NIH Human Microbiome Project. Genome Res 2009;19:2317-2323.    
+28. Integrative HMP (iHMP) Research Network Consortium. The Integrative Human Microbiome Project: dynamic analysis of microbiome-host omics profiles during periods of human health and disease. Cell Host Microbe 2014;16:276-289.   
+29. Sicsic R, Goshen T, Dutta R, Kedem-Vaanunu N, Kaplan-Shabtai V, Pasternak Z, et al. Microbial communities and inflammatory response in the endometrium differ between normal and metritic dairy cows at 5-10 days post-partum. Vet Res 2018;49:77.    
+30. Bicalho ML, Lima FS, Machado VS, Meira EB Jr, Ganda EK, Foditsch C, et al. Associations among Trueperella pyogenes, endometritis diagnosis, and pregnancy outcomes in dairy cows. Theriogenology 2016;85:267-274.   
+31. Wagener K, Grunert T, Prunner I, Ehling-Schulz M, Drillich M. Dynamics of uterine infections with Escherichia coli, Streptococcus uberis and Trueperella pyogenes in post-partum dairy cows and their association with clinical endometritis. Vet J 2014;202:527-532.   
+32. Bonnett BN, Martin SW, Gannon VP, Miller RB, Etherington WG. Endometrial biopsy in Holstein-Friesian dairy cows. III. Bacteriological analysis and correlations with histological findings. Can J Vet Res 1991;55:168-173.   
+33. Cunha F, Jeon SJ, Daetz R, Vieira-Neto A, Laporta J, Jeong KC, et al. Quantifying known and emerging uterine pathogens, and evaluating their association with metritis and fever in dairy cows. Theriogenology 2018;114:25-33.   
+34. Jeon SJ, Cunha F, Vieira-Neto A, Bicalho RC, Lima S, Bicalho ML, et al. Blood as a route of transmission of uterine pathogens from the gut to the uterus in cows. Microbiome 2017;5:109.     
+35. Benno Y, Watabe J, Mitsuoka T. Bacteroides pyogenes sp. nov., Bacteroides suis sp. nov., and Bacteroides helcogenes sp. nov., new species from abscesses and feces of pigs. Syst Appl Microbiol 1983;4:396-407.   
+36. Madsen IR, Justesen US. Bacteremia with Bacteroides pyogenes after a cat bite. J Clin Microbiol 2011;49:3092-3093.    
+37. Wexler HM. Bacteroides: the good, the bad, and the nitty-gritty. Clin Microbiol Rev 2007;20:593-621.    
+38. Samitz EM, Jang SS, Hirsh DC. In vitro susceptibilities of selected obligate anaerobic bacteria obtained from bovine and equine sources to ceftiofur. J Vet Diagn Invest 1996;8:121-123.   
+39. Jeon SJ, Ma Z, Kang M, Galvão KN, Jeong KC. Application of chitosan microparticles for treatment of metritis and in vivo evaluation of broad spectrum antimicrobial activity in cow uteri. Biomaterials 2016;110:71-80.   
+40. Sweeney M, Watts J, Portis E, Lucas M, Nutsch R, Meeuwse D, et al. Identification of Porphyromonas levii isolated from clinical cases of bovine interdigital necrobacillosis by 16S rRNA sequencing. Vet Ther 2009;10:E1-E10.
+41. Elad D, Friedgut O, Alpert N, Stram Y, Lahav D, Tiomkin D, et al. Bovine necrotic vulvovaginitis associated with Porphyromonas levii. Emerg Infect Dis 2004;10:505-507.    
+42. Blum S, Brenner J, Friedgut O, Stram Y, Koren O, Dagoni I, et al. Isolation of Porphyromonas levii from vaginal samples from cows in herds negative for bovine necrotic vulvovaginitis. Vet Rec 2008;163:745-747.  
+43. Lobb DA, Loeman HJ, Sparrow DG, Morck DW. Bovine polymorphonuclear neutrophil-mediated phagocytosis and an immunoglobulin G2 protease produced by Porphyromonas levii. Can J Vet Res 1999;63:113-118.   
+44. Karstrup CC, Agerholm JS, Jensen TK, Swaro LRV, Klitgaard K, Rasmussen EL, et al. Presence and localization of bacteria in the bovine endometrium postpartum using fluorescence in situ hybridization. Theriogenology 2017;92:167-175.   
+45. Ruder CA, Sasser RG, Williams RJ, Ely JK, Bull RC, Butler JE. Uterine infections in the postpartum cow: II. Possible synergistic effect of Fusobacterium necrophorum and Corynebacterium pyogenes. Theriogenology 1981;15:573-580.  
+46. Nagaraja TG, Narayanan SK, Stewart GC, Chengappa MM. Fusobacterium necrophorum infections in animals: pathogenesis and pathogenic mechanisms. Anaerobe 2005;11:239-246.   
+47. Tan ZL, Nagaraja TG, Chengappa MM. Fusobacterium necrophorum infections: virulence factors, pathogenic mechanism and control measures. Vet Res Commun 1996;20:113-140.   
+48. Locatelli C, Scaccabarozzi L, Pisoni G, Bronzo V, Casula A, Testa F, et al. Helcococcus kunzii and Helcococcus ovis isolated in dairy cows with puerperal metritis. J Gen Appl Microbiol 2013;59:371-374.   
+49. Bilk S, Nordhoff M, Schulze C, Wieler LH, Kutzer P. Antimicrobial susceptibilities and occurrence of resistance genes in bovine Helcococcus ovis isolates. Vet Microbiol 2011;149:488-491.   
+50. Collins MD, Falsen E, Foster G, Monasterio LR, Dominguez L, Fernandez-Garazabal JF. Helcococcus ovis sp. nov., a gram-positive organism from sheep. Int J Syst Bacteriol 1999;49(Pt 4):1429-1432.   
+51. Rothschild CM, Oaks JL, Schaupp JK, Rurangirwa FR, Sellon DC, Hines MT. Helcococcus ovis isolated from a pulmonary abscess in a horse. J Clin Microbiol 2004;42:2224-2226.    
+52. Post KW, Rushton SD, Billington SJ. Valvular endocarditis associated with Helcococcus ovis infection in a bovine. J Vet Diagn Invest 2003;15:473-475.   
+53. Kutzer P, Schulze C, Engelhardt A, Wieler LH, Nordhoff M. Helcococcus ovis, an emerging pathogen in bovine valvular endocarditis. J Clin Microbiol 2008;46:3291-3295.    
+54. Wiles TJ, Kulesus RR, Mulvey MA. Origins and virulence mechanisms of uropathogenic Escherichia coli. Exp Mol Pathol 2008;85:11-19.    
+55. Langermann S, Palaszynski S, Barnhart M, Auguste G, Pinkner JS, Burlein J, et al. Prevention of mucosal Escherichia coli infection by FimH-adhesin-based systemic vaccination. Science 1997;276:607-611.   
+56. Silva E, Leitão S, Tenreiro T, Pomba C, Nunes T, Lopes da Costa L, et al. Genomic and phenotypic characterization of Escherichia coli isolates recovered from the uterus of puerperal dairy cows. J Dairy Sci 2009;92:6000-6010.   
+57. Sheldon IM, Rycroft AN, Dogan B, Craven M, Bromfield JJ, Chandler A, et al. Specific strains of Escherichia coli are pathogenic for the endometrium of cattle and cause pelvic inflammatory disease in cattle and mice. PLoS One 2010;5:e9192.    
+58. Jeon SJ, Cunha F, Ginn A, Jeong KC, Galvão KN. Draft genome sequences of Escherichia coli strains isolated at calving from the uterus, vagina, vulva, and rectoanal junction of a dairy cow that later developed metritis. Genome Announc 2017;5:e01511-16.   
+59. Ginn A, Ma Z, Galvao KN, Jeong KC. Draft genome sequence of an Escherichia coli O8:H19 sequence type 708 strain isolated from a Holstein dairy cow with metritis. Genome Announc 2016;4:e00261-16.   
+60. Goldstone RJ, Talbot R, Schuberth HJ, Sandra O, Sheldon IM, Smith DG. Draft genome sequence of Escherichia coli MS499, isolated from the infected uterus of a postpartum cow with metritis. Genome Announc 2014;2:e00217-14.   
+61. Mateus L, da Costa LL, Bernardo F, Silva JR. Influence of puerperal uterine infection on uterine involution and postpartum ovarian activity in dairy cows. Reprod Domest Anim 2002;37:31-35.   
+62. Olson JD, Ball L, Mortimer RG, Farin PW, Adney WS, Huffman EM. Aspects of bacteriology and endocrinology of cows with pyometra and retained fetal membranes. Am J Vet Res 1984;45:2251-2255.  
+63. Lauder AP, Roche AM, Sherrill-Mix S, Bailey A, Laughlin AL, Bittinger K, et al. Comparison of placenta samples with contamination controls does not provide evidence for a distinct placenta microbiota. Microbiome 2016;4:29.    
+64. Walther-Antonio MR, Chen J, Multinu F, Hokenstad A, Distad TJ, Cheek EH, et al. Potential contribution of the uterine microbiome in the development of endometrial cancer. Genome Med 2016;8:122.     
+65. Lucas DN, Robinson PN, Nel MR. Sepsis in obstetrics and the role of the anaesthetist. Int J Obstet Anesth 2012;21:56-67.   
+66. Saini S, Gupta N, Aparna , Batra G, Arora DR. Role of anaerobes in acute pelvic inflammatory disease. Indian J Med Microbiol 2003;21:189-192.  
+67. Credille BC, Woolums AR, Giguère S, Robertson T, Overton MW, Hurley DJ. Prevalence of bacteremia in dairy cattle with acute puerperal metritis. J Vet Intern Med 2014;28:1606-1612.    
+68. Lechtenberg KF, Nagaraja TG, Leipold HW, Chengappa MM. Bacteriologic and histologic studies of hepatic abscesses in cattle. Am J Vet Res 1988;49:58-62.  
+69. Weinroth MD, Carlson CR, Martin JN, Metcalf JL, Morley PS, Belk KE. Rapid communication: 16S ribosomal ribonucleic acid characterization of liver abscesses in feedlot cattle from three states in the United States. J Anim Sci 2017;95:4520-4525.   
+70. Moe KK, Yano T, Misumi K, Kubota C, Nibe K, Yamazaki W, et al. Detection of antibodies against Fusobacterium necrophorum and Porphyromonas levii-like species in dairy cattle with papillomatous digital dermatitis. Microbiol Immunol 2010;54:338-346.   
+71. Karstrup CC, Klitgaard K, Jensen TK, Agerholm JS, Pedersen HG. Presence of bacteria in the endometrium and placentomes of pregnant cows. Theriogenology 2017;99:41-47.   
+72. Moore SG, Ericsson AC, Poock SE, Melendez P, Lucy MC. Hot topic: 16S rRNA gene sequencing reveals the microbiome of the virgin and pregnant bovine uterus. J Dairy Sci 2017;100:4953-4960.    
+
+
+
+
+
+

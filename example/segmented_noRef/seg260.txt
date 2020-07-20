@@ -1,0 +1,16 @@
+Original Article
+Genomics & Informatics 2010; 8(3): 103-107.
+DOI: https://doi.org/10.5808/gi.2010.8.3.103
+KARE Genomewide Association Study of Blood Pressure Using Imputed SNPs.
+Kyung Won Hong, Ji Eun Lim, Young Jin Kim, Nam H Cho, Chol Shin, Bermseok Oh
+1Department of Biomedical Engineering, School of Medicine, Kyung Hee University, Seoul 130-701, Korea.
+ohbs @ khu.ac.kr 2Center for Genome Science, National Institute of Health, Seoul, Korea.
+3Department of Preventive Medicine, Ajou University School of Medicine, Suwon 443-749, Korea.
+4Department of Internal Medicine, Korea University Ansan Hospital, Ansan 425-707, Korea.
+Abstract
+The imputation of untyped SNPs enables researchers to validate association findings across SNP arrays and also enables them to test a large number of SNPs to reveal the fine structure of the association peak, facilitating interpretation of the results and the location of causal polymorphisms.
+In this study, we applied the imputation method to a genomewide association study and recapitulated the previously associated gene loci of blood pressure traits in Korean cohorts.
+A total of 1,827,004 SNPs were imputed by the IMPUTE program, and we conducted a genomewide association study for systolic and diastolic blood pressure.
+While no SNPs passed the Bonferroni correction p-value(p=2.74x10-8 for 1,827,004 SNPs), 12 novel loci for systolic blood pressure and 16 novel loci for diastolic blood pressure were detected by imputed SNPs, with 10-5
+Keywords:
+blood pressure; genomewide association study; Korea Association Resource; imputation; single nucleotide polymorphism

@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2006;4(2): 65-70. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Theoretical Peptide Mass Distribution in the Non-Redundant Protein Database of the NCBI.
+
+
+
+ Da Jeong Lim,  Hee Seok Oh,  Hee Bal Kim 
+
+
+
+1Department of Food and Animal Biotechnology, Seoul National University, Korea. heebal@snu.ac.kr 2Department of Statistics, Seoul National University, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Peptide mass mapping is the matching of experimentally generated peptides masses with the predicted masses of digested proteins contained in a database. To identify proteins by matching their constituent fragment masses to the theoretical peptide masses generated from a protein database, the peptide mass fingerprinting technique is used for the protein identification. Thus, it is important to know the theoretical mass distribution of the database.
+However, few researches have reported the peptide mass distribution of a database. We analyzed the peptide mass distribution of non-redundant protein sequence database in the NCBI after digestion with 15 different types of enzymes.
+In order to characterize the peptide mass distribution with different digestion enzymes, a power law distribution (Zipfs law) was applied to the distribution. After constructing simulated digestion of a protein database, rank-frequency plot of peptide fragments was applied to generalize a Zipfs law curve for all enzymes. As a result, our data appear to fit Zipfs law with statistically significant parameter values.		
+
+
+Keywords:
+peptide mass; non-redundant protein database; Zipfs law 
+
+
+
+
+

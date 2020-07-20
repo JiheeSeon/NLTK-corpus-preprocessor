@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2008;6(3): 126-129. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.3.126
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+CGHscape: A Software Framework for the Detection and Visualization of Copy Number Alterations.
+
+
+
+ Yong Bok Jeong,  Tae Min Kim,  Yeun Jun Chung 
+
+
+
+1Integrated Research Center for Genome Polymorphism, Korea. yejun@catholic.ac.kr 2Department of Microbiology, The Catholic University of Korea College of Medicine, Seoul 137-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The robust identification and comprehensive profiling of copy number alterations (CNAs) is highly challenging. The amount of data obtained from high-throughput technologies such as array-based comparative genomic hybridization is often too large and it is required to develop a comprehensive and versatile tool for the detection and visualization of CNAs in a genome-wide scale. With this respective, we introduce a software framework, CGHscape that was originally developed to explore the CNAs for the study of copy number variation (CNV) or tumor biology. As a standalone program, CGHscape can be easily installed and run in Microsoft Windows platform. With a user-friendly interface, CGHscape provides a method for data smoothing to cope with the intrinsic noise of array data and CNA detection based on SW-ARRAY algorithm. The analysis results can be demonstrated as log2 plots for individual chromosomes or genomic distribution of identified CNAs. With extended applicability, CGHscape can be used for the initial screening and visualization of CNAs facilitating the cataloguing and characterizing chromosomal alterations of a cohort of samples.		
+
+
+Keywords:
+array-CGH; copy number alteration (CNA); copy number variation (CNV) 
+
+
+
+
+

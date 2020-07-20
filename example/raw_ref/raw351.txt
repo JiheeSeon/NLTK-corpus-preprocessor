@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Review				
+
+				Genomics & Informatics 2008;6(1): 1-7. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2008.6.1.001
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+Copy Number Variations in the Human Genome: Potential Source for Individual Diversity and Disease Association Studies.
+
+
+
+ Tae Min Kim,  Seon Hee Yim,  Yeun Jun Chung 
+
+
+
+1Department of Microbiology, The Catholic University of Korea, Seoul 137-701, Korea. yejun@catholic.ac.kr 2Integrated Research Center for Genome Polymorphism, The Catholic University of Korea, Seoul 137-701, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The widespread presence of large-scale genomic variations, termed copy number variation (CNVs), has been recently recognized in phenotypically normal individuals. Judging by the growing number of reports on CNVs, it is now evident that these variants contribute significantly to genetic diversity in the human genome. Like single nucleotide polymorphisms (SNPs), CNVs are expected to serve as potential biomarkers for disease susceptibility or drug responses. However, the technical and practical concerns still remain to be tackled. In this review, we examine the current status of CNV DBs and research, including the ongoing efforts of CNV screening in the human genome. We also discuss the characteristics of platforms that are available at the moment and suggest the potential of CNVs in clinical research and application.		
+
+
+Keywords:
+array-CGH; Copy number variation (CNV); Genome-wide association study (GWAS) 
+
+
+
+
+

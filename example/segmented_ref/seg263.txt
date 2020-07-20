@@ -1,0 +1,14 @@
+Note
+Genomics & Informatics 2010; 8(2): 94-96.
+DOI: https://doi.org/10.5808/gi.2010.8.2.094
+Java DOM Parsers to Convert KGML into SBML and BioPAX Common Exchange Formats.
+Kyung Eun Lee, Myung Ha Jang, Arang Rhie, Chin Ting Thong, Sanduk Yang, Hyun Seok Park
+Department of Computer Science, Ewha Womans University, Seoul 120-750, Korea.
+neo @ ewha.ac.kr
+Abstract
+Integrating various pathway data collections to create new biological knowledge is a challenge, for which novel computational tools play a key role.
+For this purpose, we developed the Java-based conversion modules KGML2SBML and KGML2BioPAX to translate KGML(KEGG Markup Language) into a couple of common data exchange formats: SBML(Systems Biology Markup Language) and BioPAX(Biological Pathway Exchange).
+We hope that our work will be beneficial for other Java developers when they extend their bioinformatics system into SBML- or BioPAX-aware analysis tools.
+This is part of our ongoing effort to develop an ultimate KEGG-based pathway enrichment analysis system.
+Keywords:
+systems biology; visualization; common exchange format

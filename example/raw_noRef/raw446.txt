@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2004;2(4): 167-173. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Atom of Evolution.
+
+
+
+ Jonghwa Bhak,  Dan Bolser,  Daeui Park,  Yoobok Cho,  Kiesuk Yoon,  Semin Lee,  SungSam Gong,  Insoo Jang,  Changbum Park,  Maryana Huston,  Hwanho Choi 
+
+
+
+1Biomatics Lab, BioSystems, KAIST, Daejeon 305-701, Korea. 2NGIC, KRIBB, Daejeon 305-333, Korea. 3BiO Institute, Daejeon 305-701, Korea. 4OITEK Inc. Daejeon 305-701, Korea. 5MRC-DUNN, Cambridge CB2-2XY, England, United Kingdom. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		The main mechanism of evolution is that biological entities change, are selected, and reproduce. We propose a different concept in terms of the main agent or atom of evolution: in the biological world, not an individual object,but its interactive network is the fundamental unit of evolution.
+The interaction network is composed of interaction pairs of information objects that have order information. This indicates a paradigm shift from 3D biological objects to an abstract network of information entities as the primary agent of evolution. It forces us to change our views about how organisms evolve and therefore the methods we use to analyze evolution.		
+
+
+
+
+

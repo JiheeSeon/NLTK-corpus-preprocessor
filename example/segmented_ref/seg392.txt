@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2006; 4(4): 141-146.
+Chromosomal Information of 1,144 Korean BAC Clones.
+Mi Hyun Park, Hee Jung Lee, Kwang Joong Kim, Jae Pil Jeon, Hye Ja Lee, Jun Woo Kim, Hung Tae Kim, Hyo Soung Cha, Cheol Hwan Kim, Kang Yell Choi, Chan Park, Bermseok Oh, Kuchan Kimm, Jong Young Lee, Bok Ghee Han
+1Center for Genome Science, National Institute of Health, Seoul, Korea.
+leejy63 @ nih.go.kr 2Dong-A SeeTech, Co.Ltd, Seoul, Korea.
+3Department of Biotechnology, Yonsei University, Seoul, Korea.
+Abstract
+We sequenced 1,841 BAC clones by terminal sequencing, and 1,830 of these clones were characterized with regard to their human chromosomal location and gene content using Korean BAC library constructed at the Korean Science(KCGS).
+Sequence analyses of the 1,830 BAC clones was performed for chromosomal assignment: 1,144 clones were assigned to a single chromosome, 190 clones apparently assigned to more than one chromosome, and 496 clones to no chromosome.
+Evaluating gene content of the 1,144 BAC clones, we found that 706 clones represented 1,069 genes of which 415 genes existed in the BAC clones covering the full sequence of the gene, 180 genes covering a 50% ~99%, and 474 genes covering less than 50% of the gene coverage.
+The estimated covering size of the KBAC clones was 73,379 kilobases(kb), in total corresponding to 2.3% of haploid human genome sequence.
+The identified BAC clones will be a public genomic resource for mapped clones for diagnostic and functional studies by Korean scientists and investigators worldwide.
+Keywords:
+Korean; BAC clone; genome; cancer

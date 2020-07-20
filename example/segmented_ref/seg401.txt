@@ -1,0 +1,15 @@
+Original Article
+Genomics & Informatics 2006; 4(2): 80-86.
+Construction of Chromosome-Specific BAC Libraries from the Filamentous Ascomycete Ashbya gossypii.
+Sang Dun Choi
+Department of Molecular Science and Technology, Ajou University, Korea.
+sangdunchoi @ ajou.ac.ke
+Abstract
+It is clear that the construction of large insert DNA libraries is important for map-based gene cloning, the assembly of physical maps, and simple screening for specific genomic sequences.
+The bacterial artificial chromosome(BAC) system is likely to be an important tool for map-based cloning of genes since BAC libraries can be constructed simply and analyzed more efficiently than yeast artificial chromosome(YAC) libraries.
+BACs have significantly expanded the size of fragments from eukaryotic genomes that can be cloned in Escherichia coli as plasmid molecules.
+To facilitate the isolation of molecular-biologically important genes in Ashbya gossypii, we constructed Ashbya chromosome-specific BAC libraries using pBeloBAC11 and pBACwich vectors with an average insert size of 100 kb, which is equivalent to 19.8X genomic coverage.
+pBACwich was developed to streamline map-based cloning by providing a tool to integrate large DNA fragments into specific sites in chromosomes.
+These chromosome-specific libraries have provided a useful tool for the further characterization of the Ashbya genome including positional cloning and genome sequencing.
+Keywords:
+Ashbya gossypii; bacterial artificial chromosome(BAC); pBACwich; chromosome-specific library; I-Scel

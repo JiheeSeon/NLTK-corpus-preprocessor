@@ -1,0 +1,15 @@
+Note
+Genomics & Informatics 2009; 7(4): 217-219.
+DOI: https://doi.org/10.5808/gi.2009.7.4.217
+ORF Miner: a Web-basedORF Search Tool.
+Sin Gi Park, Ki Bong Kim
+Department of Medical Biotechnology, Sangmyung University, Cheonan 330-720, Korea.
+kbkim @ smu.ac.kr
+Abstract
+The primary clue for locating protein-coding regions is the open reading frame and the determination of ORFs(Open Reading Frames) is the first step toward the gene prediction, especially for prokaryotes.
+In this respect, we have developed a web-based ORF search tool called ORF Miner.
+The ORF Miner is a graphical analysis utility which determines all possible open reading frames of a selectable minimum size in an input sequence.
+This tool identifies all open reading frames using alternative genetic codes as well as the standard one and reports a list of ORFs with corresponding deduced amino acid sequences.
+The ORF Miner can be employed for sequence annotation and give a crucial clue to determination of actual protein-coding regions.
+Keywords:
+alternative genetic codes; gene prediction; open reading frame; ORF Miner; protein-coding region

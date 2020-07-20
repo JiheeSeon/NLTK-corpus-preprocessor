@@ -1,0 +1,18 @@
+Original Article
+Genomics & Informatics 2005; 3(3): 74-79.
+Single Nucleotide Polymorphisms of a 16 kb Region on Human Chromosome 11p15.5 that Includes the H19 Gene.
+Mi Hyun Park, Hyeon Jeong Ku, Hye Ja Lee, Kwang Joong Kim, Chan Park, Bermseok Oh, Ku Chan Kimm, Jong Young Lee
+National Genome Research Institute,National Institute of Health, 5 Nokbun-dong, Eunpyung-gu, Seoul 122-701, Korea.
+leejy63 @ nih.go.kr
+Abstract
+The H19 gene, located at human chromosome 11p15.5, is imprinted in most normal human tissues.
+However, imprinting is often lost in tumors suggesting H19 is a putative tumor suppressor.
+We analyzed the single nucleotide polymorphisms(SNPs) of a 16 kb region that includes the H19 gene and its imprinting control region(ICR) in the Korean population.
+To identify SNPs, we directly sequenced this region in 18 Korean subjects.
+We identified 64 SNPs, of which 7 were in the exons of H19, 2 were in the introns, 14 were in the 3' intergenic region and 41 were in the 5' intergenic region.
+Of the 64 SNPs, 21 had not previously been reported and thus appear to be unique to the Korean population.
+The identified SNPs of H19 in the Korean population may eventually be useful as genetic markers associated with various diseases.
+In this study, 7 of the 64 identified SNPs were at CTCF binding sites in the ICR and may affect regulation of H19 gene imprinting.
+Thus, several genetic variations of the H19 gene may be important markers in human diseases that involve genomic imprinting, including cancer.
+Keywords:
+H19; Chr11; SNP; Haplotype; Imprinting; CTCF

@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+					Original Article				
+
+				Genomics & Informatics 2005;3(2): 61-65. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comparative Genomics of T-complex protein 10 like in Humans and Chimpanzees.
+
+
+
+ Il Chul Kim,  Dae Soo Kim,  Dae Won Kim,  Sang Haeng Choi,  Han Ho Choi,  Sung Hwa Chae,  Hong Seog Park 
+
+
+
+			Genome Structure Research Laboratory, Korea Research Institute of Bioscience and Biotechnology, 52 Oun-dong, Yusong-gu, Daejeon 305-333, Korea. hspark@kribb.re.kr 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Comparing 231 genes on chimpanzee chromosome 22 with their orthologous on human chromosome 21, we have found that 15 orthologs have indels within their coding sequences. It was rather surprising that significant number of genes have changed by indel, despite the shorter time since their divergence and led us hypothesize that indels and structural changes may represent one of the major mechanism of proteome evolution in the higher primates. Human T-complex protein 10 like (TCP10L) is a representative having indel within its coding sequence. Gene structure of human TCP10L compared with chimpanzee TCP10L gene showed 16 base pair difference in genomic DNA. As a result of the indel, frame shift mutation occurs in coding sequence (CDS) and human TCP10L express longer polypeptide of 21 amino acid residues than that of chimpanzee. Our prediction found that the indel may affect to dramatic change of secondary protein structure between human and chimpanzee TCP10L. Especially, the structural changes in the C-terminal region of TCP10L protein may affect on the interacting potential to other proteins rather than DNA binding function of the protein.
+Through these changes, TCP10L might influence gene expression profiles in liver and testis and subsequently influence the physiological changes required in primate evolution.		
+
+
+Keywords:
+chimpanzee genome; comparative genomics; TCP10L; evolution; insertion 
+
+
+
+
+

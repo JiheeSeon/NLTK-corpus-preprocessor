@@ -1,0 +1,18 @@
+Note
+Genomics & Informatics 2009; 7(3): 163-167.
+DOI: https://doi.org/10.5808/gi.2009.7.3.163
+The Korean Pharmacogenomic Database at NIFDS: 2008 Update.
+T S Kang, S W Woo, H J Park, S Y Han, M H Park, M W Chung
+1Clinical Research Division, Toxicological Evaluation and Research Department, Korea Food and Drug Administration, Seoul 122-704, Korea.
+mwchung @ kfda.go.kr 2Pharmaceutical Management Division, Korea Food and Drug Administration, Seoul 122-704, Korea.
+Abstract
+Since its first release in 2007, the National Institute of Food and Drug Safety Evaluation(NIFDS) has provided pharmacogenomic and comparative information specific to Koreans to allow regulatory reviewers and researchers to adapt their working practices to pharmacogenomics.
+The highlights of this year 's additions include `` Drug Information '', `` Gene Information '' and `` Pharmacogenomic information in the drug labels '' sections.
+These new additions provide information on 737 genes, 719 drugs and pharmacogenomic data of the labels or relabels of 253 approved drugs as of November 2008.
+The latest version of the Korean Pharmacogenomic Database(KPD, release 2.0) has expanded significantly since its previous release.
+More SNP and haplotype information has been added to the database with the latest version of the KPD containing approximately four times as many SNPs and haplotypes than the previous version(719 vs. 152, and 30 vs. 7 respectively).
+Through the `` SNP '' and `` Haplotype '' sections, the KPD provides unique Korean SNP and haplotype information as well as comparative information of other populations(Japanese, Chinese, European, African) to offer a range of pharmacogenomic data that can help reviewers and the public understand pharmacogenomic information.
+The quality and quantity of information in the KPD has also been improved considerably.
+This data can be found at: http://www.nitr.go.kr/nitr/contents/m134700/view.do/.
+Keywords:
+database; Korean people; pharmacogenomics

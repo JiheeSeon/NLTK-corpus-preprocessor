@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+Original Article 
+
+
+Genomics & Informatics 2017; 15(3): 87-97.
+
+
+Published online: September 28, 2017 
+DOI: https://doi.org/10.5808/GI.2017.15.3.87
+
+
+
+
+Chromothripsis in Treatment Resistance in Multiple Myeloma
+
+Kyoung Joo Lee 1, Ki Hong Lee 1, Kyong-Ah Yoon 2, Ji Yeon Sohn 3, Eunyoung Lee 4, Hyewon Lee 4, 5, Hyeon-Seok Eom 1, 4, Sun-Young Kong 1, 3, 4, 6*
+
+
+1Department of Cancer Biomedical Science, National Cancer Center Graduate School of Cancer Science and Policy, Goyang 10408, Korea
+
+2College of Veterinary Medicine, Konkuk University, Seoul 05029, Korea
+
+3Department of Laboratory Medicine, Center for Diagnostic Oncology, Research Institute and Hospital, National Cancer Center, Goyang 10408, Korea
+
+4Center for Hematologic Malignancy, National Cancer Center, Goyang 10408, Korea
+
+5Precision Medicine Branch, Division of Precision Medicine, National Cancer Center, Goyang 10408, Korea
+
+6Translational Research Branch, Division of Translational Science, National Cancer Center, Goyang 10408, Korea
+
+
+
+*Corresponding author: Tel: +82-31-920-1735, Fax: +82-31-920-1268, E-mail: ksy@ncc.re.kr
+ 
+
+ Received August 1, 2017    Revised August 17, 2017    Accepted August 29, 2017
+
+Copyright © 2017 by the Korea Genome Organization 
+It is identical to the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/).
+
+
+
+
+Abstract
+
+Multiple myeloma (MM) is a malignant disease caused by an abnormal proliferation of plasma cells, of which the prognostic factors include chromosomal abnormality, β-2 microglobulin, and albumin. Recently, the term chromothripsis has emerged, which is the massive but highly localized chromosomal rearrangement in response to a one-step catastrophic event. Many studies have shown an association of chromothripsis with the prognosis in several cancers; however, few studies have investigated it in MM. Here, we studied the association between chromothripsis-like patterns and treatment resistance or prognosis. First, we analyzed nine MM cell lines (U266, MM.1S, RPMI8226, KMS-11, KMS-12-BM, KMS-12-PE, KMS-28-BM, KMS-28-PE, and NCI-H929) and bone marrow samples of four patients who were diagnosed with MM by next-generation sequencing-based copy number variation analysis. The frequency of the chromothripsis-like pattern was observed in seven cell lines. We analyzed the treatment-induced chromothripsis-like patterns in KMS-12-BM and KMS-12-PE cells. As a result, breakpoints and chromothripsis-like patterns were increased after drug treatment in the relatively resistant KMS-12-BM. We further analyzed the patients’ results according to the therapeutic response, which was divided into sensitive and resistant, as suggested by the International Myeloma Working Group. The chromothripsis-like pattern was more frequently observed in the resistant group. In the sensitive group, the frequency of the chromothripsis-like pattern decreased after treatment, whereas the resistant group showed increased chromothripsis-like patterns after the treatment. These results suggest that the chromothripsis-like pattern is associated with treatment response in MM.
+Keywords: chromothripsis, drug resistance, multiple myeloma 
+
+
+
+
+
+Introduction
+Multiple myeloma (MM) is a malignant disease caused by an abnormal proliferation of plasma cells [1]. According to the 2014 Ministry of Health and Welfare Cancer Registration Statistics, MM is the third most common cancer among hematologic malignancies in Korea [2]. Recently, the survival rate has been increasing due to the development of various types of new drugs and the therapeutic options for MM have been characterized by proteasome inhibitors (bortezomib and carfilzomib) and thalidomide analogs [3, 4]. However, MM still remains an incurable cancer, since most MM patients eventually develop drug resistance and die from the disease [5].
+Despite many advances in understanding the molecular mechanisms of MM and the development of promising new therapies, only 25% to 35% of patients respond to treatment [6]. With regard to classification, prognostic determinants are usually associated with baseline clinicopathological features of aggressiveness of the disease, such as high β2 microglobulin and albumin [7, 8]. Besides the clinical classification, risk prediction includes chromosomal abnormalities, such as hyperdiploidy and rearrangements, which are already known to be very important for the prognosis, because such complex chromosomal rearrangements are frequently observed [8, 9].
+About 40% of MM cases have chromosomal translocations, including CCND1, CCND3, MAF, MAFB, WHSC1 (also known as MMSET), and FGFR3, which are overexpressed through rearrangements in the immunoglobulin heavy chain (IgH) locus [10]. As the disease progresses, MM cells accumulate additional genetic changes, such as loss of RB1 and TP53 and increased 1q21 and 9q34 [11].
+MM is divided into two major categories: hyperdiploid MM (h-MM) and non-hyperdiploid MM. The ploidy categories are stable over time such that patients with h-MM usually remain hyperdiploid over the course of the disease [8, 12].
+The term ‘chromothripsis,’ which is the massive but highly localized chromosomal rearrangement in response to a one-step catastrophic event, rather than an accumulation of a series of subsequent and random alterations, has recently emerged [13]. Chromothripsis has been reported in almost all cancer types, with a prevalence of 2% to 3% (with an incidence of ∼25% in bone cancers) [14]. Chromothripsis is associated with the development of high-grade cancers and more aggressive tumors [13, 15].
+The causes and consequences of chromothripsis might be exploited by the use of molecularly targeted therapies, such as epidermal growth factor receptor‒targeted therapy for the treatment of glioblastoma [16]. Chromothripsis affects the functions and expression of a considerable number of genes, and this could be associated with the response to particular drugs [17].
+Chromothripsis is defined by the three following major features [18, 19]: (1) localized rearrangements in limited areas of one or several chromosomes, (2) copy number states that suddenly oscillate between areas of normal heterozygosity and loss of heterozygosity, and (3) multiple chromosome fragments rearranged in random orientation and order.
+Despite chromothripsis being widely reported in many cancers, the exact criteria and the role of copy number alterations have yet to be standardized [16]. Previous studies have shown a poor prognosis in patients with chromothripsis and that chromothripsis is associated with the prognosis in several cancers, including malignant melanoma, neuroblastoma, and colorectal cancer. These findings suggest that chromothripsis is a tool for predicting the prognosis of patients [20].
+The aim of this study is to confirm the association of chromothripsis with drug resistance and the prognosis in patients with MM. Although previous studies have been performed in solid tumors, few studies have examined chromothripsis in MM [14, 20, 21], and we hypothesized that chromothripsis is associated with the prognosis of patients who are diagnosed with MM.
+
+
+Methods
+
+ MM cell lines
+The human MM cell lines U266, MM.1S, RPMI8226, and NCI-H929 were purchased from the American Type Culture Collection (Manassas, VA, USA). The KMS-11, KMS-12-BM, KMS-12-PE, KMS-28-BM, and KMS-28-PE cell lines were purchased from the Japanese Collection of Research Bioresources Cell Bank (JCRB, Osaka, Japan). All MM cell lines except NCI-H929 were cultured in RPMI1640 (GIBCO, Thermo Fisher, Grand Island, NY, USA) containing 10% fetal bovine serum (GIBCO, Thermo Fisher) and 1% penicillin/streptomycin (P/S) (GIBCO, Thermo Fisher).
+
+
+ Bone marrow samples and plasma cell sorting
+Bone marrow aspirates from four MM patient samples were obtained at the diagnosis and after chemotherapy. This study was approved by the Institutional Review Board (NCC2016-0279) of the National Cancer Center, Korea.
+Bone marrow cells were obtained and separated from heparin-treated blood through density gradient centrifugation (2,200 rpm, 20 min, break 0) using Lymphoprep (Axis-Shield, Oslo, Norway).
+Bone marrow plasma cells were enriched using the EasySep Human Whole Blood and Bone Marrow CD138 Positive Selection kit (Stemcell Technologies, Inc., Vancouver, BC, Canada) using EasySep magnets (Stemcell Technologies) or CD138 microbeads (Miltenyi Biotec, Gladbach, Germany) using MS columns (Miltenyi Biotec) according to the manufacturer’s instructions. FITC-Mouse Anti-Human CD138 (BD Pharmingen, San Jose, CA, USA) antibody was used to stain the cells, and the cells were applied directly to flow cytometric analysis using a FACSVerse.
+
+
+ Drug treatment and cell viability assay
+Bortezomib (BTZ) was purchased from Selleckchem (Selleck Chemicals LLC, Houston, TX, USA), dissolved in dimethyl sulfoxide, and stored at ‒80°C. KMS-12-BM and KMS-12-PE were seeded into T175 flasks (SPL Life Sciences, Pochoen, Korea) at a concentration of 2 × 107 cells overnight before treatment. BTZ was administered to a final concentration of 1 nM without dose escalation on days 1, 4, 8, and 11. After 48 h of drug treatment, the media was replaced.
+Cells were seeded at 1 × 104 cells/well in 96-well plates (SPL Life Sciences) and treated with BTZ for 24 h. For the cell viability assay, each well was treated with the Cell Counting Kit-8 (Dojindo Molecular Technologies, Inc., Rockville, MD, USA) for 1 h, and the absorbance at 450 nm was measured using a Versa Max ELISA Microplate Reader (Molecular Devices, Sunnyvale, CA, USA). The experiments were performed in duplicate.
+
+
+ Next-generation sequencing‒based copy number variation analysis
+Genomic DNA was extracted from cell pellets and frozen patient bone marrow samples using the AllPrep DNA/RNA Mini Kit (QIAGEN GmbH, Hilden, Germany) following the manufacturer’s instructions. The concentration of DNA was measured using the Qubit dsDNA HS Assay Kit (Life Technologies, Eugene, OR, USA), and bone marrow samples were stored at ‒80°C until further use.
+Shearing was performed using the M220 Focused ultrasonicator (Covaris, Inc., Woburn, MA, USA) (peak power, 55 W; duty factor, 20; cycle/burst, 200; time, 3 min). The library prep was then used with the Accel-NGS2S Plus Library kit (Swift Biosciences, Ann Arbor, MI, USA).
+Next-generation sequencing (NGS) sequencing was performed in the 75-bp single-end mode of a NextSeq500 instrument. The human reference (hg19) was aligned with the BWA-mem 0.7.5a version. PCR deduplication with Picard (ver. 1.96) was conducted, and only the reads with a mapping quality of 60 were selected. GC content and mappability correction were performed using Q-seq (v.1.8.0) R-packaged and high-order artifacts were removed using the principal component analysis method. The reference samples included data on 20 females that were confirmed to be normal and were used for the array results. Data segmentation was performed using the circular binary segmentation (CBS) algorithm and DNA copy (v.1.38.1).
+After alignment, the sequence read was counted in chromosome units and compared with the control set to obtain the z-score, which determined whether or not aneuploidy was present at the chromosome level. In order to determine the presence of a microdeletion or duplication, the human genome reference sequence was further divided into several 10,000-segment bins, and the number of sequence readings aligned in the bin was counted and compared with the control set to obtain the z-score.
+
+
+ Comparison of chromothripsis-like pattern analysis
+Genes included in the locus were identified in the University of California Santa Cruz (UCSC) genome browser and National Center for Biotechnology Information (NCBI) human genome.
+We confirmed the similarity between the chromothripsis-like patterns identified in this study and the results reported in other studies through chromothripsisDB, which is a database for the identification of chromothripsis in many cancers.
+
+
+
+Results
+
+ Frequency of copy number alterations in MM cell lines
+We analyzed the frequency of copy number alterations (CNAs), including mosaicism in 9 MM cell lines. Among them, chrs 1, 4, 5, 7, 8, and X were the sites with the most frequent CNAs in the MM cell lines (Fig. 1A). Among the MM cell lines, the frequency of CNAs (66.67% to 95.83%, median: 83.33%) in MM.1S and KMS-12-PE cells was relatively low (16/24 chromosomes), and the frequency of CNAs in U266 and RPMI8226 cells was high (23/24). U266 cells showed fewer CNAs, but alterations were observed in almost all chromosomes except one.
+The chromosomes were divided into arms to confirm the trend of CNAs. According to the algorithm, if the copy number was 2.5 or more, it was considered an amplification, and if the copy number was 1.5 or less, it was considered a loss. Analysis of the tendency of CNAs showed that more CNAs were observed in the q arm than in the p arm (Fig. 1B and 1C).
+To identify the chromothripsis-like pattern in MM cell lines, the copy number oscillation state was identified. If there were more than 10 breakpoints in a single chromosome, it was considered a chromothripsis-like pattern [14, 22]. The chromosome where the chromothripsis-like pattern was most frequently observed was chr 1 in 5 cell lines, followed by chrs 11 and 12 in three cell lines. On the other hand, chrs 4 and 14 showed fewer chromothripsis-like patterns. Of the cell lines, KMS-11 cells most frequently had a chromothripsis-like pattern (5/24 chromosomes), followed by RPMI8226 (4/24 chromosomes).
+The chromosome arms were analyzed to confirm the trend of the chromothripsis-like pattern. As a result of the analysis, breakpoints were observed more than twice as often in the q arm than in the p arm (p: 209 breakpoints, q: 502 breakpoints) (Table 1). Breakpoints were also most frequently observed in chr 1.
+
+
+ Chromothripsis-like pattern according to drug treatment
+Among the 9 MM cell lines, in particular, KMS-12-BM and KMS-12-PE cells, derived from the same origin, showed different CNA patterns. Thus, changes in CNAs were further analyzed in these cell lines by comparing CNAs after BTZ treatment, which has the most clinical relevance. In order to analyze the drug treatment-induced chromothripsis-like pattern, cell pellets were all collected at the time of treatment. The time frame of the treatment was the same as the schedule in actual clinical practice. Although the cell lines were derived from the same origin, the drug response between the two cell lines was different. In the case of KMS-12-BM, there was no difference in cell viability in the treatment group compared to the control, but in the case of KMS-12-PE, there was a sharp decrease in viability in the treatment group (Fig. 2A‒2D). Analysis of chromothripsis and breakpoints was performed in the cell pellet from Day 11, which represented the end of one cycle of drug treatment.
+Compared to the control group, KMS-12-PE, which was considered the drug-sensitive group, did not show any difference in breakpoint events or chromothripsis-like pattern. On the other hand, in the case of drug-resistant KMS-12-BM, breakpoints and chromothripsis-like patterns were increased after drug treatment (Table 2). On analyzing the chromosome arms, the frequency of breakpoints was increased in the q arm versus p arm (p: 111 breakpoints, q: 430 breakpoints).
+Of the total chromosomes, the copy number state changed significantly after drug treatment in chr 9. Chr 9 was then further analyzed to compare the gain and loss of genes related to MM (Fig. 2E, F).
+A total of 29 of 285 genes that were associated with MM were located in chr 9 [23-31]. Gene gain and loss in chr 9 were analyzed and compared according to drug response, and it was observed that KMS-12-BM, which is resistant to BTZ, showed an increase of CNAs after BTZ treatment (Table 3).
+
+
+ Chromothripsis-like pattern by NGS-based copy number variation analysis in MM patient samples
+Single nucleotide polymorphism (SNP) arrays are widely used for the analysis of CNAs, including chromothripsis-like patterns. However, the minimum amount of DNA required for SNP array analysis is considerably high. Thus, NGS-based copy number variation (CNV) analysis, which requires a relatively small quantity of DNA, was adopted in the study.
+To determine the changes in CNAs for drug response, NGS-based CNV analysis of pre- and post-treatment specimens from 4 patients with BTZ treated was performed. The patients were also divided into sensitive (stringent complete remission, CR, near complete remission, very good partial response, and partial response) and resistant (stable disease and progressive disease) according to the International Myeloma Working Group (IMWG) criteria (Table 4). Patients in each of the two groups showed changes in CNAs before and after treatment. After treatment, the frequency of CNAs decreased in the sensitive group, whereas it increased in the resistant group compared to pre-treatment (Fig. 3A and 3B).
+No chromothripsis-like pattern was observed in four patients. However, it was shown that the the number of breakpoint was high in chr 4q of pt 4. In the comparison of chromosome by arms, breakpoints were more frequent in the q arm, as in the previous results (p: 36 breakpoints, q: 82 breakpoints).
+The association of MM-related genes in the 1q21 region on chr 1, in which the chromothripsis-like pattern was frequently observed, was shown again, as in the previous result. There are 29 genes that are associated with MM among the total 218 genes that coded for proteins in the locus, and it was known that the prognosis is poor when all of these genes are amplified [32-39]. Then, the candidate genes in chr 1 were further analyzed for chromothripsis-like patterns (Fig. 3C).
+
+
+ Comparison of other chromothripsis-like pattern studies
+Comparing the results with the chromothripsis-like patterns registered in chromothripsisDB, the same results were observed for chrs 1q, 13q, and 16q in this study. Even though the chromothripsis-like patterns in chrs 2q, 3q, 10q, 12q, and 17p were reported in chromothripsisDB, the patterns were not the same in this study. However, the chromothripsis-like patterns in chrs 6q, 9p, 22q, Xp, and Xq were unique in this study.
+
+
+
+Discussion
+In the present study, the frequency of CNAs in MM cell lines and patient samples was analyzed and compared according to treatment response and difference in CNAs.
+Chromosomal aberrations were least frequent in MM.1S and KMS-12-PE cells among the MM cell lines and most frequent in RPMI8226. The U266 cell line had fewer CNAs, but alterations were observed in almost all chromosomes except one chromosome. These results suggest that CNAs might be related with treatment response. MM.1S is well known as a dexamethasone-sensitive cell line, while RPMI-8226 and U266 have previously been reported to establish resistant cells against several drugs in previous studies [40,41].
+To determine whether chromothripsis was induced by drug treatment, two cell lines (KMS-12-BM and KMS-12-PE) derived from the same origin were used for analysis after BTZ treatment. As a result, it was found that the frequency of breakpoints and chromothripsis-like patterns was increased after drug treatment in the resistant group, and the frequency was higher in the q arm, which is relatively longer. On the other hand, no significant difference was observed between pre- and post-treatment in the sensitive group.
+In patient BM samples, the frequency of CNAs was high in the resistant group. In addition, when the patients were compared to their BM samples between pre- and post-treatment, the number of breakpoints was decreased in the sensitive group but increased in the resistant group. So, these results suggest that chromothripsis could be associated with therapeutic response. Also, it means that the drug probably could induce chromothripsis, depending on the drug administration in the clinic.
+When the chromosomal analysis was performed, the frequency of chromothripsis-like patterns in chr 1 was the highest in resistant patients and MM cell lines. A previous study also reported that the frequency of CNAs was highest in chr 1. Especially, elderly patients aged 65 years or older are more likely to have abnormalities when they are treated with novel therapies [1]. Also, the copy number of the genes in the 1q21 region, which showed the most chromothripsis-like patterns, was amplified in resistant patients. There are more studies that have reported similar findings as our results [32-39, 42, 43]. Chr 4, where the MMSET and FGFR3 genes are located, and chr 14, where the IgH gene is located, showed fewer chromothripsis-like patterns in a previous study [44]. These results mean that drug treatment to patients might be able to affect the structure of a particular chromosome.
+The chromothripsis-like pattern has been commonly observed in 1q, 13q, and 16q as compared to the chromothripsis-like pattern confirmed in this study and similar results in other studies [22, 45]. Unlike the result from other studies, chromothripsis-like patterns in 2q, 3q, 10q, 12q, and 17p were not observed in this study. However, unique chromothripsis-like patterns were observed in this study for 6q, 9p, 22q, Xp, and Xq.
+The advantage of using an SNP array is that it has a wide detection range of abnormalities by evaluating abnormalities in entire chromosomes with high resolution. However, there is a disadvantage, in that it requires a high quantity of DNA. Therefore, NGS-based CNV, which has relatively low resolution but requires low DNA input, could replace the SNP array. Based on the analysis of our results, NGS-based CNV is not worse than the SNP array and could replace the SNP array test to detect chromothripsis-like patterns.
+Although the number of analyzed samples in this pilot study was small, we showed that the chromothripsis-like pattern was associated with the patient treatment response and that the drug treatment might affect the structure of the chromosome. Finally, this study suggests that a chromothripsis-like pattern could be induced by drug treatment in MM patients and that chromothripsis might be a good predictor in the diagnosis of MM patients.
+
+
+
+
+Acknowledgments
+This work was supported by grants from the National Research Foundation of Korea (NRF), funded by the Korean government (MSIP) (2014R1A2A2A01002553).
+
+
+Notes
+
+ Authors’ contribution
+Conceptualization: SYK
+Formal analysis: KJL, KHL
+Funding acquisition: SYK
+Methodology: KJL, KHL, KAY, JYS
+Writing - original draft: KJL, KHL, KAY, SYK
+Writing - review & editing: EL, HL, HSE, SYK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+1. Caltagirone S, Ruggeri M, Aschero S, Gilestro M, Oddolo D, Gay F, et al. Chromosome 1 abnormalities in elderly patients with newly diagnosed multiple myeloma treated with novel therapies. Haematologica 2014;99:1611-1617.    
+2. Ministry of Health and Welfare, Korea Central Cancer Registry, National Cancer Center. Annual report of cancer statistics in Korea in 2014. Goyang: National Cancer Center, 2016;Accessed 2017 Sep 1. Available from: http://ncc.re.kr/cancerStatsView.ncc?bbsnum=417&searchKey=total&searchValue=&pageNum=1.
+3. Palumbo A, Anderson K. Multiple myeloma. N Engl J Med 2011;364:1046-1060.   
+4. Rajkumar SV. Multiple myeloma: 2012 update on diagnosis, risk-stratification, and management. Am J Hematol 2012;87:78-88.    
+5. Kumar SK, Rajkumar SV. The current status of minimal residual disease assessment in myeloma. Leukemia 2014;28:239-240.   
+6. Hu X, Xuan H, Du H, Jiang H, Huang J. Down-regulation of CD9 by methylation decreased bortezomib sensitivity in multiple myeloma. PLoS One 2014;9:e95765.    
+7. Anderson KC, Alsina M, Atanackovic D, Biermann JS, Chandler JC, Costello C, et al. NCCN guidelines insights: multiple myeloma, version 3.2016. J Natl Compr Canc Netw 2016;14:389-400.    
+8. Fonseca R, Bergsagel PL, Drach J, Shaughnessy J, Gutierrez N, Stewart AK, et al. International Myeloma Working Group molecular classification of multiple myeloma: spotlight review. Leukemia 2009;23:2210-2221.    
+9. Munshi NC, Anderson KC, Bergsagel PL, Shaughnessy J, Palumbo A, Durie B, et al. Consensus recommendations for risk stratification in multiple myeloma: report of the International Myeloma Workshop Consensus Panel 2. Blood 2011;117:4696-4700.    
+10. Bergsagel PL, Kuehl WM. Molecular pathogenesis and a consequent classification of multiple myeloma. J Clin Oncol 2005;23:6333-6338.   
+11. Weissbach S, Langer C, Puppe B, Nedeva T, Bach E, Kull M, et al. The molecular spectrum and clinical impact of DIS3 mutations in multiple myeloma. Br J Haematol 2015;169:57-70.   
+12. Lim JH, Seo EJ, Park CJ, Jang S, Chi HS, Suh C, et al. Cytogenetic classification in Korean multiple myeloma patients: prognostic significance of hyperdiploidy with 47-50 chromosomes and the number of structural abnormalities. Eur J Haematol 2014;92:313-320.   
+13. Morishita M, Muramatsu T, Suto Y, Hirai M, Konishi T, Hayashi S, et al. Chromothripsis-like chromosomal rearrangements induced by ionizing radiation using proton microbeam irradiation system. Oncotarget 2016;7:10182-10192.    
+14. Rausch T, Jones DT, Zapatka M, Stutz AM, Zichner T, Weischenfeldt J, et al. Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements with TP53 mutations. Cell 2012;148:59-71.    
+15. Maher CA, Wilson RK. Chromothripsis and human disease: piecing together the shattering process. Cell 2012;148:29-32.    
+16. Furgason JM, Koncar RF, Michelhaugh SK, Sarkar FH, Mittal S, Sloan AE, et al. Whole genome sequence analysis links chromothripsis to EGFR, MDM2, MDM4, and CDK4 amplification in glioblastoma. Oncoscience 2015;2:618-628.    
+17. Forment JV, Kaidi A, Jackson SP. Chromothripsis and cancer: causes and consequences of chromosome shattering. Nat Rev Cancer 2012;12:663-670.   
+18. Korbel JO, Campbell PJ. Criteria for inference of chromothripsis in cancer genomes. Cell 2013;152:1226-1236.   
+19. McDermott DH, Gao JL, Liu Q, Siwicki M, Martens C, Jacobs P, et al. Chromothriptic cure of WHIM syndrome. Cell 2015;160:686-699.    
+20. Hirsch D, Kemmerling R, Davis S, Camps J, Meltzer PS, Ried T, et al. Chromothripsis and focal copy number alterations determine poor outcome in malignant melanoma. Cancer Res 2013;73:1454-1460.    
+21. Molenaar JJ, Koster J, Zwijnenburg DA, van Sluis P, Valentijn LJ, van der Ploeg I, et al. Sequencing of neuroblastoma identifies chromothripsis and defects in neuritogenesis genes. Nature 2012;483:589-593.   
+22. Magrangeas F, Avet-Loiseau H, Munshi NC, Minvielle S. Chromothripsis identifies a rare and aggressive entity among newly diagnosed multiple myeloma patients. Blood 2011;118:675-678.    
+23. Bao HY, Wang LJ, Yang Y, Cai Z. TLR4 signals are involved in multiple myeloma cell proliferation and apoptosis. Zhejiang Da Xue Xue Bao Yi Xue Ban 2009;38:465-469.  
+24. Bolzoni M, Donofrio G, Storti P, Guasco D, Toscani D, Lazzaretti M, et al. Myeloma cells inhibit non-canonical wnt co-receptor ror2 expression in human bone marrow osteoprogenitor cells: effect of wnt5a/ror2 pathway activation on the osteogenic differentiation impairment induced by myeloma cells. Leukemia 2013;27:451-463.   
+25. Chen Q, Van der Sluis PC, Boulware D, Hazlehurst LA, Dalton WS. The FA/BRCA pathway is involved in melphalan-induced DNA interstrand cross-link repair and accounts for melphalan resistance in multiple myeloma cells. Blood 2005;106:698-705.    
+26. Mannava S, Zhuang D, Nair JR, Bansal R, Wawrzyniak JA, Zucker SN, et al. KLF9 is a novel transcriptional regulator of bortezomib- and LBH589-induced apoptosis in multiple myeloma cells. Blood 2012;119:1450-1458.    
+27. Shi Y, Frost P, Hoang B, Benavides A, Gera J, Lichtenstein A. IL-6-induced enhancement of c-Myc translation in multiple myeloma cells: critical role of cytoplasmic localization of the rna-binding protein hnRNP A1. J Biol Chem 2011;286:67-78.    
+28. Silvestris F, Cafforio P, De Matteo M, Calvani N, Frassanito MA, Dammacco F. Negative regulation of the osteoblast function in multiple myeloma through the repressor gene E4BP4 activated by malignant plasma cells. Clin Cancer Res 2008;14:6081-6091.   
+29. Tam M, Lin P, Hu P, Lennon PA. Examining Hedgehog pathway genes GLI3, SHH, and PTCH1 and the p53 target GLIPR1/GLIPR1L1/GLIPR1L2 gene cluster using fluorescence in situ hybridization uncovers GLIPR1/GLIPR1L1/GLIPR1L2 deletion in 9% of patients with multiple myeloma. J Assoc Genet Technol 2010;36:111-114.  
+30. Yu T, Liu L, Zhang S, Hao M, Qiu L. PHF19 promotes drug resistance through EZH2 inactivation in multiple myeloma. Blood 2016;128:4495.  
+31. Yang Y, Zhou W, Xia J, Gu Z, Wendlandt E, Zhan X, et al. NEK2 mediates ALDH1A1-dependent drug resistance in multiple myeloma. Oncotarget 2014;5:11986-11997.    
+32. Brigaudeau C, Trimoreau F, Gachard N, Rouzier E, Jaccard A, Bordessoule D, et al. Cytogenetic study of 30 patients with multiple myeloma: comparison of 3 and 6 day bone marrow cultures stimulated or not with cytokines by using a miniaturized karyotypic method. Br J Haematol 1997;96:594-600.   
+33. Fabris S, Ronchetti D, Agnelli L, Baldini L, Morabito F, Bicciato S, et al. Transcriptional features of multiple myeloma patients with chromosome 1q gain. Leukemia 2007;21:1113-1116.   
+34. Inoue J, Otsuki T, Hirasawa A, Imoto I, Matsuo Y, Shimizu S, et al. Overexpression of PDZK1 within the 1q12-q22 amplicon is likely to be associated with drug-resistance phenotype in multiple myeloma. Am J Pathol 2004;165:71-81.    
+35. Mani M, Carrasco DE, Zhang Y, Takada K, Gatt ME, Dutta-Simmons J, et al. BCL9 promotes tumor progression by conferring enhanced proliferative, metastatic, and angiogenic properties to cancer cells. Cancer Res 2009;69:7577-7586.    
+36. Yasmeen R, Meyers JM, Alvarez CE, Thomas JL, Bonnegarde-Bernard A, Alder H, et al. Aldehyde dehydrogenase-1a1 induces oncogene suppressor genes in B cell populations. Biochim Biophys Acta 2013;1833:3218-3227.    
+37. Shaughnessy JD Jr, Qu P, Usmani S, Heuck CJ, Zhang Q, Zhou Y, et al. Pharmacogenomics of bortezomib test-dosing identifies hyperexpression of proteasome genes, especially PSMD4, as novel high-risk feature in myeloma treated with Total Therapy 3. Blood 2011;118:3512-3524.    
+38. Walker BA, Leone PE, Chiecchio L, Dickens NJ, Jenner MW, Boyd KD, et al. A compendium of myeloma-associated chromosomal copy number abnormalities and their prognostic value. Blood 2010;116:e56-e65.   
+39. Xu X, He Y, Miao X, Wu Y, Han J, Wang Q, et al. Cell adhesion induces overexpression of chromodomain helicase/ATPase DNA binding protein 1-like gene (CHD1L) and contributes to cell adhesion-mediated drug resistance (CAM-DR) in multiple myeloma cells. Leuk Res 2016;47:54-62.   
+40. Dvorakova K, Payne CM, Tome ME, Briehl MM, Vasquez MA, Waltmire CN, et al. Molecular and cellular characterization of imexon-resistant RPMI8226/I myeloma cells. Mol Cancer Ther 2002;1:185-195.  
+41. Pan YZ, Wang X, Bai H, Wang CB, Zhang Q, Xi R. Autophagy in drug resistance of the multiple myeloma cell line RPMI8226 to doxorubicin. Genet Mol Res 2015;14:5621-5629.   
+42. Friday E, Ledet J, Turturro F. Response to dexamethasone is glucose-sensitive in multiple myeloma cell lines. J Exp Clin Cancer Res 2011;30:81.    
+43. Munshi NC, Anderson KC. Advances in Biology and Therapy of Multiple Myeloma. Vol. 1. Basic Science. New York: Springer-Verlag, 2013.
+44. Morgan GJ, Walker BA, Davies FE. The genetic architecture of multiple myeloma. Nat Rev Cancer 2012;12:335-348.   
+45. Stevens-Kroef M, Weghuis DO, Croockewit S, Derksen L, Hooijer J, Elidrissi-Zaynoun N, et al. High detection rate of clinically relevant genomic abnormalities in plasma cells enriched from patients with multiple myeloma. Genes Chromosomes Cancer 2012;51:997-1006.   
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+					Note				
+
+				Genomics & Informatics 2009;7(1): 46-48. 
+
+
+
+
+
+
+
+
+
+		
+							DOI: https://doi.org/10.5808/gi.2009.7.1.046
+
+							
+			
+	
+
+
+
+
+
+
+
+
+
+
+A Simple Java Sequence Alignment Editing Tool for Resolving Complex Repeat Regions.
+
+
+
+ Seong Il Ham,  Kyung Eun Lee,  Hyun Seok Park 
+
+
+
+1Institute of Bioinformatics, Macrogen Inc., Seoul, Korea. neo@ewha.ac.kr 2Department of Computer Science, Ewha Womans University, Seoul, Korea. 3Department of Architectural Engineering, Yonsei University, Seoul, Korea. 4Department of Biochemistry and Molecular Biology, College of Medicine, Seoul National University, Seoul, Korea. 			
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+		Finishing is the most time-consuming step in sequencing, and many genome projects are left unfinished due to complex repeat regions. Here, we have developed BACContigEditor, a prototype shotgun sequence finishing tool. It is essentially an editor that visualizes assemblies of shotgun sequence fragment reads as gapped multiple alignments. The program offers some flexibility that is needed to rapidly resolve complex regions within a working session. The sole purpose of the release is to promote collaborative creation of extensible software for fragment assembly editors, foster collaborative development, and reduce barriers to initial tool development effort. We describe our software architecture and identify current challenges. The program is available under an Open Source license.		
+
+
+Keywords:
+fragment assembly; genome sequencing; whole genome fragment assembly 
+
+
+
+
+
